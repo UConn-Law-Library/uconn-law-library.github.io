@@ -1,0 +1,576 @@
+{
+  "source": {
+    "titles_url": "https://www.cga.ct.gov/current/pub/titles.htm",
+    "generated_at_utc": "2026-02-13T19:31:26Z",
+    "user_agent": "Mozilla/5.0 (compatible; CTStatutesIndexer/1.0; +https://www.cga.ct.gov/current/pub/titles.htm)"
+  },
+  "titles": [
+    {
+      "title_key": "01",
+      "label": "Title 1",
+      "name": "Provisions of General Application",
+      "url": "https://www.cga.ct.gov/current/pub/title_01.htm",
+      "file": "title_01.json"
+    },
+    {
+      "title_key": "02",
+      "label": "Title 2",
+      "name": "General Assembly and Legislative Agencies",
+      "url": "https://www.cga.ct.gov/current/pub/title_02.htm",
+      "file": "title_02.json"
+    },
+    {
+      "title_key": "02c",
+      "label": "Title 2c",
+      "name": "Review and Termination of Governmental Entities and Programs",
+      "url": "https://www.cga.ct.gov/current/pub/title_02c.htm",
+      "file": "title_02c.json"
+    },
+    {
+      "title_key": "03",
+      "label": "Title 3",
+      "name": "State Elective Officers",
+      "url": "https://www.cga.ct.gov/current/pub/title_03.htm",
+      "file": "title_03.json"
+    },
+    {
+      "title_key": "04",
+      "label": "Title 4",
+      "name": "Management of State Agencies",
+      "url": "https://www.cga.ct.gov/current/pub/title_04.htm",
+      "file": "title_04.json"
+    },
+    {
+      "title_key": "04a",
+      "label": "Title 4a",
+      "name": "Administrative Services",
+      "url": "https://www.cga.ct.gov/current/pub/title_04a.htm",
+      "file": "title_04a.json"
+    },
+    {
+      "title_key": "04b",
+      "label": "Title 4b",
+      "name": "State Real Property",
+      "url": "https://www.cga.ct.gov/current/pub/title_04b.htm",
+      "file": "title_04b.json"
+    },
+    {
+      "title_key": "04c",
+      "label": "Title 4c",
+      "name": "Business Regulation. Department of Business Regulation",
+      "url": "https://www.cga.ct.gov/current/pub/title_04c.htm",
+      "file": "title_04c.json"
+    },
+    {
+      "title_key": "04d",
+      "label": "Title 4d",
+      "name": "State Information and Telecommunication Systems",
+      "url": "https://www.cga.ct.gov/current/pub/title_04d.htm",
+      "file": "title_04d.json"
+    },
+    {
+      "title_key": "04e",
+      "label": "Title 4e",
+      "name": "State Contracting",
+      "url": "https://www.cga.ct.gov/current/pub/title_04e.htm",
+      "file": "title_04e.json"
+    },
+    {
+      "title_key": "05",
+      "label": "Title 5",
+      "name": "State Employees",
+      "url": "https://www.cga.ct.gov/current/pub/title_05.htm",
+      "file": "title_05.json"
+    },
+    {
+      "title_key": "06",
+      "label": "Title 6",
+      "name": "Counties and County Officers. Judicial and State Marshals",
+      "url": "https://www.cga.ct.gov/current/pub/title_06.htm",
+      "file": "title_06.json"
+    },
+    {
+      "title_key": "07",
+      "label": "Title 7",
+      "name": "Municipalities",
+      "url": "https://www.cga.ct.gov/current/pub/title_07.htm",
+      "file": "title_07.json"
+    },
+    {
+      "title_key": "08",
+      "label": "Title 8",
+      "name": "Zoning, Planning, Housing and Economic and Community Development",
+      "url": "https://www.cga.ct.gov/current/pub/title_08.htm",
+      "file": "title_08.json"
+    },
+    {
+      "title_key": "09",
+      "label": "Title 9",
+      "name": "Elections",
+      "url": "https://www.cga.ct.gov/current/pub/title_09.htm",
+      "file": "title_09.json"
+    },
+    {
+      "title_key": "10",
+      "label": "Title 10",
+      "name": "Education and Culture",
+      "url": "https://www.cga.ct.gov/current/pub/title_10.htm",
+      "file": "title_10.json"
+    },
+    {
+      "title_key": "10a",
+      "label": "Title 10a",
+      "name": "State System of Higher Education",
+      "url": "https://www.cga.ct.gov/current/pub/title_10a.htm",
+      "file": "title_10a.json"
+    },
+    {
+      "title_key": "11",
+      "label": "Title 11",
+      "name": "Libraries and Museums",
+      "url": "https://www.cga.ct.gov/current/pub/title_11.htm",
+      "file": "title_11.json"
+    },
+    {
+      "title_key": "12",
+      "label": "Title 12",
+      "name": "Taxation",
+      "url": "https://www.cga.ct.gov/current/pub/title_12.htm",
+      "file": "title_12.json"
+    },
+    {
+      "title_key": "13",
+      "label": "Title 13",
+      "name": "Highways and Bridges",
+      "url": "https://www.cga.ct.gov/current/pub/title_13.htm",
+      "file": "title_13.json"
+    },
+    {
+      "title_key": "13a",
+      "label": "Title 13a",
+      "name": "Highways and Bridges",
+      "url": "https://www.cga.ct.gov/current/pub/title_13a.htm",
+      "file": "title_13a.json"
+    },
+    {
+      "title_key": "13b",
+      "label": "Title 13b",
+      "name": "Transportation",
+      "url": "https://www.cga.ct.gov/current/pub/title_13b.htm",
+      "file": "title_13b.json"
+    },
+    {
+      "title_key": "14",
+      "label": "Title 14",
+      "name": "Motor Vehicles. Use of the Highway By Vehicles. Gasoline",
+      "url": "https://www.cga.ct.gov/current/pub/title_14.htm",
+      "file": "title_14.json"
+    },
+    {
+      "title_key": "15",
+      "label": "Title 15",
+      "name": "Navigation and Aeronautics",
+      "url": "https://www.cga.ct.gov/current/pub/title_15.htm",
+      "file": "title_15.json"
+    },
+    {
+      "title_key": "16",
+      "label": "Title 16",
+      "name": "Public Service Companies",
+      "url": "https://www.cga.ct.gov/current/pub/title_16.htm",
+      "file": "title_16.json"
+    },
+    {
+      "title_key": "16a",
+      "label": "Title 16a",
+      "name": "Planning and Energy Policy",
+      "url": "https://www.cga.ct.gov/current/pub/title_16a.htm",
+      "file": "title_16a.json"
+    },
+    {
+      "title_key": "17",
+      "label": "Title 17",
+      "name": "Public Assistance and Welfare Services",
+      "url": "https://www.cga.ct.gov/current/pub/title_17.htm",
+      "file": "title_17.json"
+    },
+    {
+      "title_key": "17a",
+      "label": "Title 17a",
+      "name": "Social and Human Services and Resources",
+      "url": "https://www.cga.ct.gov/current/pub/title_17a.htm",
+      "file": "title_17a.json"
+    },
+    {
+      "title_key": "17b",
+      "label": "Title 17b",
+      "name": "Social Services",
+      "url": "https://www.cga.ct.gov/current/pub/title_17b.htm",
+      "file": "title_17b.json"
+    },
+    {
+      "title_key": "18",
+      "label": "Title 18",
+      "name": "Correctional Institutions and Department of Correction",
+      "url": "https://www.cga.ct.gov/current/pub/title_18.htm",
+      "file": "title_18.json"
+    },
+    {
+      "title_key": "19",
+      "label": "Title 19",
+      "name": "Public Health and Safety",
+      "url": "https://www.cga.ct.gov/current/pub/title_19.htm",
+      "file": "title_19.json"
+    },
+    {
+      "title_key": "19a",
+      "label": "Title 19a",
+      "name": "Public Health and Well-Being",
+      "url": "https://www.cga.ct.gov/current/pub/title_19a.htm",
+      "file": "title_19a.json"
+    },
+    {
+      "title_key": "20",
+      "label": "Title 20",
+      "name": "Professional and Occupational Licensing, Certification, Title Protection and Registration. Examining Boards",
+      "url": "https://www.cga.ct.gov/current/pub/title_20.htm",
+      "file": "title_20.json"
+    },
+    {
+      "title_key": "21",
+      "label": "Title 21",
+      "name": "Licenses",
+      "url": "https://www.cga.ct.gov/current/pub/title_21.htm",
+      "file": "title_21.json"
+    },
+    {
+      "title_key": "21a",
+      "label": "Title 21a",
+      "name": "Consumer Protection",
+      "url": "https://www.cga.ct.gov/current/pub/title_21a.htm",
+      "file": "title_21a.json"
+    },
+    {
+      "title_key": "22",
+      "label": "Title 22",
+      "name": "Agriculture. Domestic Animals",
+      "url": "https://www.cga.ct.gov/current/pub/title_22.htm",
+      "file": "title_22.json"
+    },
+    {
+      "title_key": "22a",
+      "label": "Title 22a",
+      "name": "Environmental Protection",
+      "url": "https://www.cga.ct.gov/current/pub/title_22a.htm",
+      "file": "title_22a.json"
+    },
+    {
+      "title_key": "23",
+      "label": "Title 23",
+      "name": "Parks, Forests and Public Shade Trees",
+      "url": "https://www.cga.ct.gov/current/pub/title_23.htm",
+      "file": "title_23.json"
+    },
+    {
+      "title_key": "24",
+      "label": "Title 24",
+      "name": "State Geological and Natural History Survey. Weather Control Board",
+      "url": "https://www.cga.ct.gov/current/pub/title_24.htm",
+      "file": "title_24.json"
+    },
+    {
+      "title_key": "25",
+      "label": "Title 25",
+      "name": "Water Resources. Flood and Erosion Control",
+      "url": "https://www.cga.ct.gov/current/pub/title_25.htm",
+      "file": "title_25.json"
+    },
+    {
+      "title_key": "26",
+      "label": "Title 26",
+      "name": "Fisheries and Game",
+      "url": "https://www.cga.ct.gov/current/pub/title_26.htm",
+      "file": "title_26.json"
+    },
+    {
+      "title_key": "27",
+      "label": "Title 27",
+      "name": "Armed Forces and Veterans",
+      "url": "https://www.cga.ct.gov/current/pub/title_27.htm",
+      "file": "title_27.json"
+    },
+    {
+      "title_key": "28",
+      "label": "Title 28",
+      "name": "Civil Preparedness and Emergency Services",
+      "url": "https://www.cga.ct.gov/current/pub/title_28.htm",
+      "file": "title_28.json"
+    },
+    {
+      "title_key": "29",
+      "label": "Title 29",
+      "name": "Public Safety and State Police",
+      "url": "https://www.cga.ct.gov/current/pub/title_29.htm",
+      "file": "title_29.json"
+    },
+    {
+      "title_key": "30",
+      "label": "Title 30",
+      "name": "Intoxicating Liquors",
+      "url": "https://www.cga.ct.gov/current/pub/title_30.htm",
+      "file": "title_30.json"
+    },
+    {
+      "title_key": "31",
+      "label": "Title 31",
+      "name": "Labor",
+      "url": "https://www.cga.ct.gov/current/pub/title_31.htm",
+      "file": "title_31.json"
+    },
+    {
+      "title_key": "32",
+      "label": "Title 32",
+      "name": "Commerce and Economic and Community Development",
+      "url": "https://www.cga.ct.gov/current/pub/title_32.htm",
+      "file": "title_32.json"
+    },
+    {
+      "title_key": "33",
+      "label": "Title 33",
+      "name": "Corporations",
+      "url": "https://www.cga.ct.gov/current/pub/title_33.htm",
+      "file": "title_33.json"
+    },
+    {
+      "title_key": "34",
+      "label": "Title 34",
+      "name": "Limited Partnerships, Partnerships, Professional Associations, Limited Liability Companies and Statutory Trusts",
+      "url": "https://www.cga.ct.gov/current/pub/title_34.htm",
+      "file": "title_34.json"
+    },
+    {
+      "title_key": "35",
+      "label": "Title 35",
+      "name": "Trade Regulations, Trademarks and Collective and Certification Marks",
+      "url": "https://www.cga.ct.gov/current/pub/title_35.htm",
+      "file": "title_35.json"
+    },
+    {
+      "title_key": "36",
+      "label": "Title 36",
+      "name": "The Banking Law of Connecticut",
+      "url": "https://www.cga.ct.gov/current/pub/title_36.htm",
+      "file": "title_36.json"
+    },
+    {
+      "title_key": "36a",
+      "label": "Title 36a",
+      "name": "The Banking Law of Connecticut",
+      "url": "https://www.cga.ct.gov/current/pub/title_36a.htm",
+      "file": "title_36a.json"
+    },
+    {
+      "title_key": "36b",
+      "label": "Title 36b",
+      "name": "Connecticut Securities Law and Business Opportunity Investment Act",
+      "url": "https://www.cga.ct.gov/current/pub/title_36b.htm",
+      "file": "title_36b.json"
+    },
+    {
+      "title_key": "37",
+      "label": "Title 37",
+      "name": "Interest",
+      "url": "https://www.cga.ct.gov/current/pub/title_37.htm",
+      "file": "title_37.json"
+    },
+    {
+      "title_key": "38",
+      "label": "Title 38",
+      "name": "Insurance",
+      "url": "https://www.cga.ct.gov/current/pub/title_38.htm",
+      "file": "title_38.json"
+    },
+    {
+      "title_key": "38a",
+      "label": "Title 38a",
+      "name": "Insurance",
+      "url": "https://www.cga.ct.gov/current/pub/title_38a.htm",
+      "file": "title_38a.json"
+    },
+    {
+      "title_key": "39",
+      "label": "Title 39",
+      "name": "Negotiable Instruments",
+      "url": "https://www.cga.ct.gov/current/pub/title_39.htm",
+      "file": "title_39.json"
+    },
+    {
+      "title_key": "40",
+      "label": "Title 40",
+      "name": "Warehouses and Warehouse Receipts. Trust Receipts",
+      "url": "https://www.cga.ct.gov/current/pub/title_40.htm",
+      "file": "title_40.json"
+    },
+    {
+      "title_key": "41",
+      "label": "Title 41",
+      "name": "Bills of Lading",
+      "url": "https://www.cga.ct.gov/current/pub/title_41.htm",
+      "file": "title_41.json"
+    },
+    {
+      "title_key": "42",
+      "label": "Title 42",
+      "name": "Business, Selling, Trading and Collection Practices",
+      "url": "https://www.cga.ct.gov/current/pub/title_42.htm",
+      "file": "title_42.json"
+    },
+    {
+      "title_key": "42a",
+      "label": "Title 42a",
+      "name": "Uniform Commercial Code",
+      "url": "https://www.cga.ct.gov/current/pub/title_42a.htm",
+      "file": "title_42a.json"
+    },
+    {
+      "title_key": "42b",
+      "label": "Title 42b",
+      "name": "Registered Obligations of Public Entities",
+      "url": "https://www.cga.ct.gov/current/pub/title_42b.htm",
+      "file": "title_42b.json"
+    },
+    {
+      "title_key": "43",
+      "label": "Title 43",
+      "name": "Weights and Measures",
+      "url": "https://www.cga.ct.gov/current/pub/title_43.htm",
+      "file": "title_43.json"
+    },
+    {
+      "title_key": "44",
+      "label": "Title 44",
+      "name": "Hotel and Inn Keepers",
+      "url": "https://www.cga.ct.gov/current/pub/title_44.htm",
+      "file": "title_44.json"
+    },
+    {
+      "title_key": "45",
+      "label": "Title 45",
+      "name": "Probate Courts and Procedure",
+      "url": "https://www.cga.ct.gov/current/pub/title_45.htm",
+      "file": "title_45.json"
+    },
+    {
+      "title_key": "45a",
+      "label": "Title 45a",
+      "name": "Probate Courts and Procedure",
+      "url": "https://www.cga.ct.gov/current/pub/title_45a.htm",
+      "file": "title_45a.json"
+    },
+    {
+      "title_key": "46",
+      "label": "Title 46",
+      "name": "Husband and Wife",
+      "url": "https://www.cga.ct.gov/current/pub/title_46.htm",
+      "file": "title_46.json"
+    },
+    {
+      "title_key": "46a",
+      "label": "Title 46a",
+      "name": "Human Rights",
+      "url": "https://www.cga.ct.gov/current/pub/title_46a.htm",
+      "file": "title_46a.json"
+    },
+    {
+      "title_key": "46b",
+      "label": "Title 46b",
+      "name": "Family Law",
+      "url": "https://www.cga.ct.gov/current/pub/title_46b.htm",
+      "file": "title_46b.json"
+    },
+    {
+      "title_key": "47",
+      "label": "Title 47",
+      "name": "Land and Land Titles",
+      "url": "https://www.cga.ct.gov/current/pub/title_47.htm",
+      "file": "title_47.json"
+    },
+    {
+      "title_key": "47a",
+      "label": "Title 47a",
+      "name": "Landlord and Tenant",
+      "url": "https://www.cga.ct.gov/current/pub/title_47a.htm",
+      "file": "title_47a.json"
+    },
+    {
+      "title_key": "48",
+      "label": "Title 48",
+      "name": "Eminent Domain",
+      "url": "https://www.cga.ct.gov/current/pub/title_48.htm",
+      "file": "title_48.json"
+    },
+    {
+      "title_key": "49",
+      "label": "Title 49",
+      "name": "Mortgages and Liens",
+      "url": "https://www.cga.ct.gov/current/pub/title_49.htm",
+      "file": "title_49.json"
+    },
+    {
+      "title_key": "50",
+      "label": "Title 50",
+      "name": "Lost and Unclaimed Property",
+      "url": "https://www.cga.ct.gov/current/pub/title_50.htm",
+      "file": "title_50.json"
+    },
+    {
+      "title_key": "50a",
+      "label": "Title 50a",
+      "name": "International Law",
+      "url": "https://www.cga.ct.gov/current/pub/title_50a.htm",
+      "file": "title_50a.json"
+    },
+    {
+      "title_key": "51",
+      "label": "Title 51",
+      "name": "Courts",
+      "url": "https://www.cga.ct.gov/current/pub/title_51.htm",
+      "file": "title_51.json"
+    },
+    {
+      "title_key": "52",
+      "label": "Title 52",
+      "name": "Civil Actions",
+      "url": "https://www.cga.ct.gov/current/pub/title_52.htm",
+      "file": "title_52.json"
+    },
+    {
+      "title_key": "53",
+      "label": "Title 53",
+      "name": "Crimes",
+      "url": "https://www.cga.ct.gov/current/pub/title_53.htm",
+      "file": "title_53.json"
+    },
+    {
+      "title_key": "53a",
+      "label": "Title 53a",
+      "name": "Penal Code",
+      "url": "https://www.cga.ct.gov/current/pub/title_53a.htm",
+      "file": "title_53a.json"
+    },
+    {
+      "title_key": "54",
+      "label": "Title 54",
+      "name": "Criminal Procedure",
+      "url": "https://www.cga.ct.gov/current/pub/title_54.htm",
+      "file": "title_54.json"
+    },
+    {
+      "title_key": "55",
+      "label": "Title 55",
+      "name": "Concluding Provisions",
+      "url": "https://www.cga.ct.gov/current/pub/title_55.htm",
+      "file": "title_55.json"
+    }
+  ]
+}
