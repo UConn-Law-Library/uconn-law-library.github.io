@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <title>CT General Statutes Explorer</title>
+  <meta name="description"
+    content="Browse and search the Connecticut General Statutes and the infraction schedule — works offline." />
+  <meta name="theme-color" content="#1e3a8a" />
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" href="./icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="./icon.svg" />
+  <link rel="stylesheet" href="./styles.css" />
+  <script>
+    // apply saved display settings before first paint to avoid a flash;
+    // app.js owns the settings menu that changes them
+    try {
+      var t = localStorage.getItem("cgs:theme");
+      if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+      var s = parseFloat(localStorage.getItem("cgs:textsize"));
+      if (s >= 0.8 && s <= 1.4) document.documentElement.style.setProperty("--font-scale", s);
+      if (localStorage.getItem("cgs:density") === "compact") document.documentElement.dataset.density = "compact";
+    } catch (e) { }
+  </script>
+</head>
+
+<body>
+  <a class="skip-link" href="#view">Skip to content</a>
+
+  <header>
+    <div class="header-row">
+      <div class="brand"><span class="brand-mark" aria-hidden="true">§</span> CT General Statutes</div>
+      <nav class="tabs" aria-label="Main sections">
+        <a href="#/" id="tabBrowse" data-tab="browse">Browse</a>
+        <a href="#/x" id="tabIndex" data-tab="index">Index</a>
+        <a href="#/i" id="tabInfractions" data-tab="infractions">Infractions</a>
+        <a href="#/b" id="tabBookmarks" data-tab="bookmarks">Bookmarks<span id="bmCount" class="count-badge"
+            hidden></span></a>
+        <button id="settingsBtn" class="settings-btn" aria-label="Settings" aria-haspopup="true"
+          aria-expanded="false">⚙<span class="settings-label"> Settings</span></button>
+      </nav>
+      <span class="pill" id="statusPill" role="status" aria-live="polite">Loading…</span>
+    </div>
+    <div class="header-row">
+      <div class="input">
+        <input id="q" type="search" placeholder='Search by keyword or statute number, e.g. “distracted driving” or “14-296aa”'
+          autocomplete="off" aria-label="Search statutes and infractions" />
+        <select id="scope" aria-label="Search scope">
+          <option value="nav" selected>Titles, sections &amp; infractions</option>
+          <option value="fulltext">Full text of statutes</option>
+        </select>
+      </div>
+    </div>
+  </header>
+
+  <div id="settingsPanel" class="settings-panel" role="dialog" aria-label="Settings" hidden>
+    <div class="setting-row">
+      <span class="setting-label" id="themeLabel">Theme</span>
+      <div class="segmented" role="group" aria-labelledby="themeLabel">
+        <button class="btn" data-theme-choice="auto">Auto</button>
+        <button class="btn" data-theme-choice="light">Light</button>
+        <button class="btn" data-theme-choice="dark">Dark</button>
+      </div>
+    </div>
+    <div class="setting-row">
+      <span class="setting-label">Text size</span>
+      <div class="segmented">
+        <button class="btn" id="textSmaller" aria-label="Decrease text size">A−</button>
+        <span class="setting-value" id="textSizeValue" aria-live="polite">100%</span>
+        <button class="btn" id="textLarger" aria-label="Increase text size">A+</button>
+      </div>
+    </div>
+    <div class="setting-row">
+      <label class="setting-label" for="densityToggle">Compact lists</label>
+      <input type="checkbox" id="densityToggle" />
+    </div>
+    <hr class="setting-divider" />
+    <div class="setting-row">
+      <button class="btn" id="refreshDataBtn">Re-download data</button>
+      <span class="setting-hint">Refresh offline statutes</span>
+    </div>
+    <div class="setting-row">
+      <button class="btn" id="clearBookmarksBtn">Clear bookmarks</button>
+      <span class="setting-hint" id="bookmarkHint"></span>
+    </div>
+  </div>
+
+  <main>
+    <aside aria-label="Navigation list">
+      <div class="row-between aside-head">
+        <div class="small muted" id="navHeading">Browse</div>
+        <button id="backBtn" class="btn small" hidden>← Back</button>
+      </div>
+      <div id="nav" class="list"></div>
+    </aside>
+
+    <section id="viewWrap">
+      <div class="view-top">
+        <button id="backBtnTop" class="btn small back-top" hidden>← Back</button>
+        <div class="breadcrumbs" id="crumbs"></div>
+      </div>
+      <div id="view" tabindex="-1"></div>
+    </section>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+
+</html>
