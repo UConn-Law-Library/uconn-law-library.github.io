@@ -22,6 +22,9 @@ const PRELOAD_YIELD_MS = 30;
 const DATA_CACHE = "cgs-data-v1";  // must match sw.js
 
 const BOOKMARKS_KEY = "cgs:bookmarks:v1";
+const RECENT_KEY = "cgs:recent:v1";
+const RECENT_MAX = 20;   // kept in storage
+const HOME_ROWS = 5;     // shown on the home page per section
 const THEME_KEY = "cgs:theme";       // "light" | "dark" pins a theme; unset follows the system
 const TEXT_SIZE_KEY = "cgs:textsize"; // font scale factor; unset = 1
 const DENSITY_KEY = "cgs:density";    // "compact"; unset = comfortable
@@ -48,10 +51,12 @@ const state = {
   chapterByKey: new Map(),       // `${t}:${c}` -> chapter
   sectionByKey: new Map(),       // `${t}:${c}:${s}` -> section
   sectionLoc: new Map(),         // section_key -> {t, c} (first occurrence)
+  chapterLoc: new Map(),         // chapter number (incl. unpadded) -> {t, c}
 
   route: { area: "browse", titleKey: null, chapterKey: null, sectionKey: null, category: null, infraId: null, letter: null, headingSlug: null },
-  search: { q: "", scope: "nav", results: null },
+  search: { q: "", scope: "nav", results: null, posTerms: [] },
   bookmarks: [],
+  recents: [],
 
   preload: { running: false, loaded: 0, total: 0, failed: 0, done: false },
 };
@@ -63,6 +68,7 @@ const $ = (id) => document.getElementById(id);
 const navEl = $("nav");
 const viewEl = $("view");
 const crumbsEl = $("crumbs");
+const crumbsAsideEl = $("crumbsAside");
 const statusPill = $("statusPill");
 const qEl = $("q");
 const scopeEl = $("scope");
@@ -100,13 +106,16 @@ function escapeRegExp(str) {
   return str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
-// Escaped HTML with <mark> around query tokens
+// Escaped HTML with <mark> around the query's positive terms
 function highlight(text, query) {
   if (!text) return "";
-  query = (query || "").trim();
-  if (!query) return esc(text);
-  const tokens = query.split(/\s+/).filter(Boolean).map(escapeRegExp);
-  if (!tokens.length) return esc(text);
+  let terms = state.search.posTerms;
+  if (!terms || !terms.length) {
+    terms = (query || "").trim().split(/\s+/).filter(Boolean);
+  }
+  if (!terms.length) return esc(text);
+  // longest first so phrases win over the words inside them
+  const tokens = [...terms].sort((a, b) => b.length - a.length).map(escapeRegExp);
   const re = new RegExp("(" + tokens.join("|") + ")", "ig");
   return esc(text).replace(re, "<mark>$1</mark>");
 }
@@ -141,7 +150,7 @@ function sleep(ms) { return new Promise((r) => setTimeout(r, ms)); }
 function parseHash() {
   const h = location.hash || "#/";
   const parts = h.replace(/^#\/?/, "").split("/").filter(Boolean).map(decodeURIComponent);
-  const r = { area: "browse", titleKey: null, chapterKey: null, sectionKey: null, category: null, infraId: null, letter: null, headingSlug: null };
+  const r = { area: "browse", titleKey: null, chapterKey: null, sectionKey: null, category: null, infraId: null, letter: null, headingSlug: null, titlesList: false };
 
   if (parts[0] === "x") {
     r.area = "index";
@@ -159,6 +168,11 @@ function parseHash() {
     r.area = "bookmarks";
     return r;
   }
+  if (parts[0] === "titles") {
+    r.area = "browse";
+    r.titlesList = true;
+    return r;
+  }
   for (let i = 0; i < parts.length; i += 2) {
     const k = parts[i], v = parts[i + 1];
     if (k === "t") r.titleKey = v;
@@ -170,6 +184,7 @@ function parseHash() {
 
 const hashFor = {
   home: () => "#/",
+  titles: () => "#/titles",
   title: (t) => `#/t/${encodeURIComponent(t)}`,
   chapter: (t, c) => `#/t/${encodeURIComponent(t)}/c/${encodeURIComponent(c)}`,
   section: (t, c, s) => `#/t/${encodeURIComponent(t)}/c/${encodeURIComponent(c)}/s/${encodeURIComponent(s)}`,
@@ -189,7 +204,8 @@ function parentHash() {
   if (r.area === "browse") {
     if (r.sectionKey) return hashFor.chapter(r.titleKey, r.chapterKey);
     if (r.chapterKey) return hashFor.title(r.titleKey);
-    if (r.titleKey) return hashFor.home();
+    if (r.titleKey) return hashFor.titles();
+    if (r.titlesList) return hashFor.home();
     return null;
   }
   if (r.area === "index") {
@@ -381,6 +397,33 @@ function toggleInfraBookmark(id, statNo, label) {
 }
 
 // -----------------------------
+// RECENTLY VIEWED (localStorage)
+// -----------------------------
+function loadRecents() {
+  try {
+    const raw = localStorage.getItem(RECENT_KEY);
+    state.recents = raw ? JSON.parse(raw) : [];
+    if (!Array.isArray(state.recents)) state.recents = [];
+  } catch {
+    state.recents = [];
+  }
+}
+
+function recentIdentity(r) {
+  return r.type === "s" ? `s:${r.t}:${r.c}:${r.s}` : `i:${r.id}`;
+}
+
+function recordRecent(item) {
+  const id = recentIdentity(item);
+  state.recents = state.recents.filter((r) => recentIdentity(r) !== id);
+  state.recents.unshift({ ...item, ts: Date.now() });
+  state.recents.length = Math.min(state.recents.length, RECENT_MAX);
+  try {
+    localStorage.setItem(RECENT_KEY, JSON.stringify(state.recents));
+  } catch { /* private mode — recents last for this session only */ }
+}
+
+// -----------------------------
 // SHARING
 // -----------------------------
 function appUrlFor(hash) {
@@ -553,6 +596,12 @@ async function loadStatutesIndex() {
 function indexLoadedTitle(titleObj) {
   for (const c of titleObj.chapters || []) {
     state.chapterByKey.set(keyChapter(titleObj.title_key, c.chapter_key), c);
+    const loc = { t: titleObj.title_key, c: c.chapter_key };
+    const unpadded = c.chapter_key.replace(/^0+(?=\d)/, "");
+    if (!state.chapterLoc.has(unpadded)) {
+      state.chapterLoc.set(unpadded, loc);
+      state.chapterLoc.set(c.chapter_key, loc);
+    }
     for (const s of c.sections || []) {
       if (!s.section_key) continue;
       state.sectionByKey.set(keySection(titleObj.title_key, c.chapter_key, s.section_key), s);
@@ -630,6 +679,90 @@ async function preloadAllTitles() {
 // -----------------------------
 const STAT_QUERY_RE = /^(?:sec(?:tion)?\.?\s*|§\s*)?(\d+[a-z]{0,2}-\d+[a-z]{0,3})\.?$/i;
 
+// --- boolean query language: terms are ANDed by default; AND / OR / NOT
+// (capitals) and a leading "-" combine them; "double quotes" match exact
+// phrases; parentheses group. Lowercase and/or/not stay literal words so
+// legal phrases like "aiding and abetting" search naturally.
+function parseQuery(raw) {
+  const toks = raw.match(/"[^"]*"?|\(|\)|[^\s()"]+/g) || [];
+  let i = 0;
+
+  function parseOr() {
+    let left = parseAnd();
+    while (i < toks.length && toks[i] === "OR") {
+      i++;
+      const right = parseAnd();
+      if (right) left = left ? { type: "or", a: left, b: right } : right;
+    }
+    return left;
+  }
+
+  function parseAnd() {
+    const kids = [];
+    while (i < toks.length && toks[i] !== ")" && toks[i] !== "OR") {
+      if (toks[i] === "AND") { i++; continue; }
+      const t = parseTerm();
+      if (t) kids.push(t);
+    }
+    if (!kids.length) return null;
+    return kids.length === 1 ? kids[0] : { type: "and", kids };
+  }
+
+  function parseTerm() {
+    let tok = toks[i];
+    if (tok === ")") return null; // parseAnd's loop ends on this token
+    if (tok === "NOT") {
+      i++;
+      const kid = parseTerm();
+      return kid ? { type: "not", kid } : null;
+    }
+    if (tok === "(") {
+      i++;
+      const e = parseOr();
+      if (toks[i] === ")") i++;
+      return e;
+    }
+    i++;
+    let negate = false;
+    if (tok.length > 1 && tok[0] === "-" && tok[1] !== '"') {
+      negate = true;
+      tok = tok.slice(1);
+    }
+    tok = tok.replace(/^"|"$/g, "").toLowerCase().trim();
+    if (!tok) return null;
+    const term = { type: "term", text: tok };
+    return negate ? { type: "not", kid: term } : term;
+  }
+
+  return parseOr();
+}
+
+function evalQuery(node, hay) {
+  switch (node.type) {
+    case "term": return hay.includes(node.text);
+    case "not": return !evalQuery(node.kid, hay);
+    case "and": return node.kids.every((k) => evalQuery(k, hay));
+    case "or": return evalQuery(node.a, hay) || evalQuery(node.b, hay);
+  }
+  return false;
+}
+
+// non-negated terms, used for highlighting and snippets
+function collectPositive(node, negated = false, out = []) {
+  if (!node) return out;
+  if (node.type === "term") {
+    if (!negated) out.push(node.text);
+  } else if (node.type === "not") {
+    collectPositive(node.kid, !negated, out);
+  } else if (node.type === "and") {
+    node.kids.forEach((k) => collectPositive(k, negated, out));
+  } else {
+    collectPositive(node.a, negated, out);
+    collectPositive(node.b, negated, out);
+  }
+  return out;
+}
+
 function setSearch(q, scope) {
   state.search.q = q.trim();
   state.search.scope = scope;
@@ -641,16 +774,18 @@ function runSearch() {
   const qRaw = state.search.q;
   if (!qRaw) {
     state.search.results = null;
+    state.search.posTerms = [];
     return;
   }
-  const q = qRaw.toLowerCase();
   const statMatch = qRaw.match(STAT_QUERY_RE);
   const statKey = statMatch ? statMatch[1].toLowerCase() : null;
-  const tokens = q.split(/\s+/).filter(Boolean);
+  const ast = parseQuery(qRaw);
+  const posTerms = collectPositive(ast);
+  state.search.posTerms = posTerms;
 
   const groups = { sections: [], infractions: [], topics: [], chapters: [], titles: [] };
 
-  const matchesTokens = (hay) => tokens.every((tok) => hay.includes(tok));
+  const matchesTokens = (hay) => (ast ? evalQuery(ast, hay) : false);
 
   // --- titles (always available from master)
   for (const t of state.master?.titles || []) {
@@ -718,9 +853,14 @@ function runSearch() {
           if (!text) continue;
           const hay = text.toLowerCase();
           if (!matchesTokens(hay)) continue;
-          const idx = hay.indexOf(tokens[0]);
+          let idx = -1, hitLen = 0;
+          for (const t of posTerms) {
+            idx = hay.indexOf(t);
+            if (idx !== -1) { hitLen = t.length; break; }
+          }
+          if (idx === -1) idx = 0; // e.g. purely negative query
           const start = Math.max(0, idx - 60);
-          const end = Math.min(text.length, idx + tokens[0].length + 110);
+          const end = Math.min(text.length, idx + hitLen + 110);
           groups.sections.push({
             label: stripSectionPrefix(s.label || s.section_key) || s.section_key,
             sub: `${tLabel} • ${fmtChapter(c)}`,
@@ -795,6 +935,27 @@ function runSearch() {
 // -----------------------------
 // RENDER — shared widgets
 // -----------------------------
+
+// Wrap statute citations in already-escaped text with links. Tokens only
+// link when they resolve in the loaded data, which filters false positives
+// like year ranges ("2019-2020" is not a section). Run on escaped HTML.
+function linkifyCitations(escapedText, selfKey) {
+  let html = escapedText.replace(/\b\d+[a-z]{0,3}-\d+[a-z]{0,3}\b/g, (token, offset, str) => {
+    if (token === selfKey) return token;
+    // public/special act numbers ("P.A. 14-130") share the section format
+    const before = str.slice(Math.max(0, offset - 12), offset);
+    if (/(?:P\.?A\.?|S\.?A\.?|act)\s*$/i.test(before)) return token;
+    const loc = state.sectionLoc.get(token);
+    if (!loc) return token;
+    return `<a href="${hashFor.section(loc.t, loc.c, token)}">${token}</a>`;
+  });
+  html = html.replace(/\b(chapters?\s+)(\d+[a-z]?)\b/gi, (m, word, num) => {
+    const loc = state.chapterLoc.get(num.toLowerCase());
+    if (!loc) return m;
+    return `${word}<a href="${hashFor.chapter(loc.t, loc.c)}">${num}</a>`;
+  });
+  return html;
+}
 function renderList(items) {
   const wrap = document.createElement("div");
   wrap.className = "list";
@@ -815,19 +976,19 @@ function renderList(items) {
   return wrap;
 }
 
-function renderPanel(title, arr, open = false) {
+function renderPanel(title, arr, open = false, selfKey = null) {
   const count = Array.isArray(arr) ? arr.length : 0;
   return `
     <details${open && count ? " open" : ""}>
       <summary>${esc(title)} <span class="muted">(${count})</span></summary>
       <div class="panel">
-        ${count ? arr.map((p) => `<p>${esc(p)}</p>`).join("") : `<div class="muted">None.</div>`}
+        ${count ? arr.map((p) => `<p>${linkifyCitations(esc(p), selfKey)}</p>`).join("") : `<div class="muted">None.</div>`}
       </div>
     </details>
   `;
 }
 
-function renderAnnotationsPanel(title, arr) {
+function renderAnnotationsPanel(title, arr, selfKey = null) {
   const count = Array.isArray(arr) ? arr.length : 0;
   return `
     <details>
@@ -835,8 +996,8 @@ function renderAnnotationsPanel(title, arr) {
       <div class="panel">
         ${count
       ? arr.map((a) => {
-        const text = a.text || "";
-        return `<p>${a.first ? `<strong>${esc(text)}</strong>` : esc(text)}</p>`;
+        const text = linkifyCitations(esc(a.text || ""), selfKey);
+        return `<p>${a.first ? `<strong>${text}</strong>` : text}</p>`;
       }).join("")
       : `<div class="muted">None.</div>`}
       </div>
@@ -869,7 +1030,7 @@ function setTab(area) {
 function mobileNeedsAside() {
   if (state.search.q) return false;
   const r = state.route;
-  if (r.area === "browse") return !r.sectionKey;
+  if (r.area === "browse") return r.titlesList || (!!r.titleKey && !r.sectionKey);
   if (r.area === "infractions") return !r.category && !r.infraId;
   return false;
 }
@@ -880,8 +1041,20 @@ function setBackButtons(hidden) {
 }
 
 function render() {
+  renderInner();
+  // mobile title/chapter browsing shows the breadcrumbs in the list header
+  crumbsAsideEl.innerHTML = crumbsEl.innerHTML;
+}
+
+function renderInner() {
   updateBookmarkBadge();
   document.body.classList.toggle("no-aside", !mobileNeedsAside());
+  const r = state.route;
+  document.body.classList.toggle("list-nav",
+    !state.search.q && (
+      (r.area === "browse" && (r.titlesList || (!!r.titleKey && !r.sectionKey))) ||
+      (r.area === "infractions" && !r.category && !r.infraId)
+    ));
 
   if (state.search.q) {
     setTab(null);
@@ -971,7 +1144,13 @@ function renderBrowseView() {
   crumbsEl.innerHTML = renderBreadcrumbs({ titleEntry, chapter, section });
 
   if (!titleKey) {
-    renderHome();
+    if (state.route.titlesList) {
+      viewEl.innerHTML = `
+        <h1 class="h1">Titles</h1>
+        <div class="empty">Select a title from the list to drill into its chapters and sections.</div>`;
+    } else {
+      renderHome();
+    }
     return;
   }
 
@@ -1023,6 +1202,14 @@ function renderSectionView(section, titleEntry, chapter) {
 
   const bookmarked = findSectionBookmark(titleEntry.title_key, chapter.chapter_key, section.section_key) >= 0;
 
+  recordRecent({
+    type: "s",
+    t: titleEntry.title_key,
+    c: chapter.chapter_key,
+    s: section.section_key,
+    label: section.label || `Sec. ${section.section_key}`,
+  });
+
   viewEl.innerHTML = `
     <div class="section-label">${esc(section.label || `Sec. ${section.section_key}`)}</div>
     <div class="meta">
@@ -1035,14 +1222,14 @@ function renderSectionView(section, titleEntry, chapter) {
 
     <div class="body">
       ${body.length
-      ? body.map((p) => `<p>${esc(p)}</p>`).join("")
+      ? body.map((p) => `<p>${linkifyCitations(esc(p), section.section_key)}</p>`).join("")
       : `<div class="empty">No statute body text found for this section.</div>`}
     </div>
 
     ${infraEntries.length ? renderInfractionsForSection(infraEntries) : ""}
-    ${renderPanel("Source", source)}
-    ${renderPanel("History", history)}
-    ${renderAnnotationsPanel("Annotations", annotations)}
+    ${renderPanel("Source", source, false, section.section_key)}
+    ${renderPanel("History", history, false, section.section_key)}
+    ${renderAnnotationsPanel("Annotations", annotations, section.section_key)}
   `;
 
   viewEl.querySelector('[data-action="bookmark"]').addEventListener("click", () => {
@@ -1079,23 +1266,35 @@ function renderInfractionsForSection(entries) {
 }
 
 function renderBreadcrumbs({ titleEntry, chapter, section }) {
-  const parts = [`<a href="#/">Titles</a>`];
+  const parts = [`<a href="${hashFor.titles()}">Titles</a>`];
   if (titleEntry) parts.push(`<a href="${hashFor.title(titleEntry.title_key)}">${esc(titleEntry.label)}</a>`);
   if (titleEntry && chapter) parts.push(`<a href="${hashFor.chapter(titleEntry.title_key, chapter.chapter_key)}">${esc(chapter.label)}</a>`);
   if (section) parts.push(`<span>Sec. ${esc(section.section_key)}</span>`);
   return parts.join(` <span class="muted">/</span> `);
 }
 
-function renderHome() {
-  const p = state.preload;
-  const offlineLine = p.running
-    ? `Downloading titles for offline use: ${p.loaded}/${p.total}`
-    : p.done && !p.failed
-      ? `All ${p.total} titles are stored on this device — the app now works without an internet connection.`
-      : p.done
-        ? `${p.loaded}/${p.total} titles stored offline (${p.failed} failed — they will retry next visit).`
-        : "Preparing offline storage…";
+// compact row list for the home page (recents, bookmarks); items share the
+// bookmark shape: {type:"s",t,c,s,label} or {type:"i",id,statNo,label}
+function renderHomeRows(heading, items, viewAllHash) {
+  if (!items.length) return "";
+  return `
+    <div class="home-section">
+      <div class="row-between">
+        <h2>${esc(heading)}</h2>
+        ${viewAllHash ? `<a class="small" href="${viewAllHash}">View all →</a>` : ""}
+      </div>
+      <div class="list">
+        ${items.map((r) => `
+          <a class="card" href="${bookmarkHash(r)}">
+            <div class="kicker">${r.type === "s" ? "Statute" : `Infraction § ${esc(r.statNo)}`}</div>
+            <div class="title">${esc(r.label)}</div>
+          </a>`).join("")}
+      </div>
+    </div>
+  `;
+}
 
+function renderHome() {
   const inf = state.infractions;
   viewEl.innerHTML = `
     <h1 class="h1">Connecticut General Statutes</h1>
@@ -1104,30 +1303,27 @@ function renderHome() {
       (for example <a href="#" id="exampleSearch">14-296aa</a>), bookmark what you use most, and share sections by email.</p>
 
     <div class="home-grid">
-      <div class="home-card">
+      <a class="home-card" href="${hashFor.titles()}">
         <h2>📚 Browse statutes</h2>
-        <p>${(state.master?.titles || []).length} titles. Pick one from the list to drill into chapters and sections.</p>
-      </div>
-      <div class="home-card">
+        <p>Every title, chapter and section of the General Statutes.</p>
+      </a>
+      <a class="home-card" href="${hashFor.index()}">
         <h2>🔎 Subject index</h2>
-        <p>${state.statIndex ? `${state.statIndex.headings.length.toLocaleString()} topics from the official LCO index, A to Z.` : "Loading the official subject index…"}
-          <a href="${hashFor.index()}">Browse the index →</a></p>
-      </div>
-      <div class="home-card">
+        <p>Look up any topic, A to Z, in the official LCO index.</p>
+      </a>
+      <a class="home-card" href="${hashFor.infractions()}">
         <h2>🎫 Infraction schedule</h2>
-        <p>${inf ? `${inf.entries.length} infractions & violations, linked to their statutes.` : "Not available."}</p>
-        <p>${inf?.source?.effective ? `Effective ${esc(inf.source.effective)}.` : ""} <a href="${hashFor.infractions()}">Open the schedule →</a></p>
-      </div>
-      <div class="home-card">
-        <h2>📴 Offline access</h2>
-        <p id="offlineLine">${esc(offlineLine)}</p>
-        <p class="small muted">Theme, text size and data refresh live in ⚙ Settings (top right).</p>
-      </div>
-      <div class="home-card">
+        <p>Infractions &amp; violations with fine amounts, linked to their statutes.${inf?.source?.effective ? ` Effective ${esc(inf.source.effective)}.` : ""}</p>
+      </a>
+      <a class="home-card" href="${hashFor.bookmarks()}">
         <h2>★ Bookmarks</h2>
-        <p>${state.bookmarks.length ? `${state.bookmarks.length} saved.` : "Bookmark sections and infractions to find them quickly."} <a href="${hashFor.bookmarks()}">View bookmarks →</a></p>
-      </div>
+        <p>Bookmark sections and infractions to find them quickly.</p>
+      </a>
     </div>
+    ${renderHomeRows("🕘 Recently viewed", state.recents.slice(0, HOME_ROWS), null)}
+    ${renderHomeRows("★ Bookmarks",
+    [...state.bookmarks].sort((a, b) => b.ts - a.ts).slice(0, HOME_ROWS),
+    state.bookmarks.length > HOME_ROWS ? hashFor.bookmarks() : null)}
   `;
 
   $("exampleSearch")?.addEventListener("click", (ev) => {
@@ -1344,6 +1540,8 @@ function renderInfractionDetail(e) {
   crumbsEl.innerHTML += ` <span class="muted">/</span> <span>§ ${esc(cite(e))}</span>`;
 
   const bookmarked = findInfraBookmark(e.id) >= 0;
+
+  recordRecent({ type: "i", id: e.id, statNo: cite(e), label: e.description });
   const order = [
     ["fine", "Fine"], ["fee", "Additional fee (C.G.S. § 51-56a(c))"], ["z_fee", "Zone (Z) fee"],
     ["cost", "Cost (C.G.S. § 54-143(a))"], ["surcharge", "Surcharge (C.G.S. § 54-143a)"],
@@ -1493,7 +1691,11 @@ function renderSearch() {
       <span class="muted">${state.search.scope === "fulltext" ? "Full text of statutes" : "Titles, sections & infractions"}</span>
       ${stillLoading}
     </div>
-    ${totals === 0 ? `<div class="empty">No results for “${esc(q)}”. Try fewer words, a statute number like “14-227a”, or the full-text scope.</div>` : ""}
+    ${totals === 0 ? `<div class="empty">No results for “${esc(q)}”. Try fewer words, a statute number like “14-227a”,
+      the full-text scope, or boolean operators — e.g. <code>leash OR muzzle</code>.</div>` : ""}
+    <p class="small muted search-tips">Advanced: words combine with AND by default · <code>leash OR muzzle</code> ·
+      <code>dog NOT license</code> or <code>-license</code> · <code>"evading responsibility"</code> for exact phrases ·
+      <code>(dog OR cat) AND bite</code> — operators must be CAPITALIZED.</p>
     ${group("Statute sections", g.sections, (r) => `
       <a class="card" href="${r.hash}">
         <div class="kicker">Section${r.exact ? ` <span class="tag">exact match</span>` : ""}</div>
@@ -1597,6 +1799,7 @@ function registerServiceWorker() {
 
 (async function main() {
   loadBookmarks();
+  loadRecents();
   applySettings();
   bindSettings();
   updateBookmarkBadge();

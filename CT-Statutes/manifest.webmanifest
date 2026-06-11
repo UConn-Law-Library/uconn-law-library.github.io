@@ -1,7 +1,7 @@
 {
   "name": "CT General Statutes Explorer",
   "short_name": "CT Statutes",
-  "description": "Browse and search the Connecticut General Statutes and infraction schedule — works offline.",
+  "description": "Browse and search the Connecticut General Statutes and infraction schedule.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

@@ -316,6 +316,7 @@ aside {
 }
 
 .card {
+  display: block;
   border: 1px solid var(--border);
   border-radius: 12px;
   padding: 10px 12px;
@@ -326,6 +327,9 @@ aside {
   color: inherit;
   width: 100%;
 }
+
+a.card { text-decoration: none; color: inherit; }
+a.card:hover { text-decoration: none; }
 
 button.card { cursor: pointer; }
 
@@ -357,6 +361,8 @@ a:hover { text-decoration: underline; }
 }
 
 .back-top { display: none; }
+
+.crumbs-aside { display: none; }
 
 .breadcrumbs {
   font-size: 0.78125rem;
@@ -416,7 +422,8 @@ a:hover { text-decoration: underline; }
 
 .body p { margin: 10px 0; }
 .body p:first-child { margin-top: 0; }
-.body { max-width: 75ch; }
+/* fill the content pane on desktops; cap only on very wide monitors */
+.body { max-width: 120ch; }
 
 details {
   border: 1px solid var(--border);
@@ -480,6 +487,15 @@ mark {
 }
 
 /* ---------- Search results ---------- */
+.search-tips { max-width: 85ch; }
+
+.search-tips code {
+  background: var(--panel-2);
+  border-radius: 6px;
+  padding: 1px 5px;
+  font-size: 0.72rem;
+}
+
 .result-group { margin: 18px 0 8px; }
 
 .result-group h2 {
@@ -519,10 +535,17 @@ table.amounts tr.total th { font-weight: 700; }
 }
 
 .home-card {
+  display: block;
   border: 1px solid var(--border);
   border-radius: 12px;
   padding: 14px;
   background: var(--panel);
+  color: inherit;
+}
+
+a.home-card:hover {
+  border-color: var(--accent);
+  text-decoration: none;
 }
 
 .home-card h2 {
@@ -590,6 +613,20 @@ table.amounts tr.total th { font-weight: 700; }
   background: var(--panel);
 }
 
+/* ---------- Home sections (recents, bookmarks) ---------- */
+.home-section {
+  margin-top: 24px;
+  max-width: 900px;
+}
+
+.home-section h2 {
+  font-size: 0.8125rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  margin: 0 0 8px;
+}
+
 /* ---------- Focus & a11y ---------- */
 :focus-visible {
   outline: 2px solid var(--accent);
@@ -644,6 +681,19 @@ table.amounts tr.total th { font-weight: 700; }
      a back button appears beside the breadcrumbs instead */
   body.no-aside aside { display: none; }
   body.no-aside .back-top:not([hidden]) { display: inline-block; white-space: nowrap; }
+
+  /* title/chapter browsing hides the placeholder content panel so the
+     navigation list gets the full screen; breadcrumbs move into the
+     list header beside the back button */
+  body.list-nav #viewWrap { display: none; }
+  body.list-nav aside { max-height: none; border-bottom: none; }
+  body.list-nav #navHeading { display: none; }
+  body.list-nav .crumbs-aside {
+    display: block;
+    flex: 1;
+    margin-bottom: 0;
+    min-width: 0;
+  }
 
   .settings-panel {
     top: auto;
