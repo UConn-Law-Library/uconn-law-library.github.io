@@ -348,6 +348,12 @@ function bindSettings() {
   });
 }
 
+function configurePackagedApp() {
+  if (location.hostname !== "appassets.androidplatform.net") return;
+  const refreshRow = $("refreshDataBtn")?.closest(".setting-row");
+  if (refreshRow) refreshRow.hidden = true;
+}
+
 // -----------------------------
 // BOOKMARKS (localStorage)
 // -----------------------------
@@ -427,7 +433,10 @@ function recordRecent(item) {
 // SHARING
 // -----------------------------
 function appUrlFor(hash) {
-  return location.origin + location.pathname + hash;
+  const base = location.hostname === "appassets.androidplatform.net"
+    ? "https://uconn-law-library.github.io/CT-Statutes/"
+    : location.origin + location.pathname;
+  return base + hash;
 }
 
 function mailtoHref(subject, body) {
@@ -1791,6 +1800,8 @@ function bindUI() {
 
 function registerServiceWorker() {
   if (!("serviceWorker" in navigator)) return;
+  // Android packages these files directly; its WebView asset origin is already offline.
+  if (location.hostname === "appassets.androidplatform.net") return;
   // file:// and some embedded contexts don't support SW — offline mode then degrades gracefully
   navigator.serviceWorker.register("./sw.js").catch((err) => {
     console.warn("Service worker registration failed:", err);
@@ -1802,6 +1813,7 @@ function registerServiceWorker() {
   loadRecents();
   applySettings();
   bindSettings();
+  configurePackagedApp();
   updateBookmarkBadge();
   bindUI();
   registerServiceWorker();

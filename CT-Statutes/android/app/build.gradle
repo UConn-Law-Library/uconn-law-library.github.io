@@ -1,0 +1,43 @@
+apply plugin: "com.android.application"
+
+android {
+    namespace "edu.uconn.law.ctstatutes"
+    compileSdk 36
+
+    defaultConfig {
+        applicationId "edu.uconn.law.ctstatutes"
+        minSdk 23
+        targetSdk 36
+        versionCode 1
+        versionName "1.0.0"
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    sourceSets {
+        main.assets.srcDir(layout.buildDirectory.dir("generated/webAssets"))
+    }
+}
+
+def webRoot = rootProject.projectDir.parentFile
+def generatedWebAssets = layout.buildDirectory.dir("generated/webAssets")
+
+tasks.register("syncWebAssets", Sync) {
+    from(webRoot) {
+        include "index.html"
+        include "styles.css"
+        include "app.js"
+        include "sw.js"
+        include "manifest.webmanifest"
+        include "icon.svg"
+        include "data/**"
+    }
+    into(generatedWebAssets)
+}
+
+tasks.named("preBuild").configure {
+    dependsOn("syncWebAssets")
+}

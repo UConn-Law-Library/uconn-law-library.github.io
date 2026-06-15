@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CT Statutes</string>
+    <string name="no_external_app">No app can open this link.</string>
+</resources>
