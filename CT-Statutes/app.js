@@ -1336,6 +1336,7 @@ function renderSectionView(section, titleEntry, chapter) {
   const history = Array.isArray(content.history) ? content.history : [];
   const annotations = Array.isArray(content.annotations) ? content.annotations : [];
   const infraEntries = state.infraBySection.get(section.section_key) || [];
+  const xrefKeys = citedSectionKeys(body, section.section_key);
 
   const bookmarked = findSectionBookmark(titleEntry.title_key, chapter.chapter_key, section.section_key) >= 0;
 
@@ -1367,6 +1368,7 @@ function renderSectionView(section, titleEntry, chapter) {
     ${renderPanel("Source", source, false, section.section_key)}
     ${renderPanel("History", history, false, section.section_key)}
     ${renderAnnotationsPanel("Annotations", annotations, section.section_key)}
+    ${xrefKeys.length ? renderCrossRefsPanel(xrefKeys) : ""}
   `;
 
   viewEl.querySelector('[data-action="bookmark"]').addEventListener("click", () => {
@@ -1378,6 +1380,53 @@ function renderSectionView(section, titleEntry, chapter) {
   });
 
   bindShareButtons(viewEl, () => sectionShareText(section, titleEntry, chapter));
+}
+
+// Section keys cited in the given paragraphs, using the same rules as
+// linkifyCitations: skip the section's own key and public/special act
+// numbers, and only keep keys that resolve in the loaded statute data.
+function citedSectionKeys(paragraphs, selfKey) {
+  const found = new Set();
+  for (const p of paragraphs || []) {
+    const str = String(p);
+    for (const m of str.matchAll(/\b\d+[a-z]{0,3}-\d+[a-z]{0,3}\b/g)) {
+      const token = m[0];
+      if (token === selfKey || found.has(token)) continue;
+      const before = str.slice(Math.max(0, m.index - 12), m.index);
+      if (/(?:P\.?A\.?|S\.?A\.?|act)\s*$/i.test(before)) continue;
+      if (!state.sectionLoc.has(token)) continue;
+      found.add(token);
+    }
+  }
+  return [...found].sort((a, b) => a.localeCompare(b, "en", { numeric: true }));
+}
+
+// Expandable panel showing the text of every section this one cites, so the
+// reader can consult cross-references without leaving the page.
+function renderCrossRefsPanel(keys) {
+  const items = keys.map((k) => {
+    const loc = state.sectionLoc.get(k);
+    const s = state.sectionByKey.get(keySection(loc.t, loc.c, k));
+    const paras = s?.content?.body_paragraphs || [];
+    return `
+      <details class="xref">
+        <summary>${esc(s?.label || `Sec. ${k}`)}</summary>
+        <div class="panel">
+          ${paras.length
+        ? paras.map((p) => `<p>${linkifyCitations(esc(p), k)}</p>`).join("")
+        : `<div class="muted">No body text found for this section.</div>`}
+          <p class="small"><a href="${hashFor.section(loc.t, loc.c, k)}">Open Sec. ${esc(k)} →</a></p>
+        </div>
+      </details>`;
+  });
+  return `
+    <details class="xrefs">
+      <summary>Cross-referenced sections <span class="muted">(${keys.length})</span></summary>
+      <div class="panel">
+        ${items.join("")}
+      </div>
+    </details>
+  `;
 }
 
 function renderInfractionsForSection(entries) {

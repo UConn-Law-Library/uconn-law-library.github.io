@@ -550,6 +550,23 @@ summary:hover { background: var(--panel-2); }
 .panel p { margin: 10px 0; }
 .panel p:first-child { margin-top: 0; }
 
+/* cross-referenced sections on a statute page — subtly accented to stand
+   apart from the Source/History/Annotations panels above it */
+details.xrefs {
+  border-color: color-mix(in srgb, var(--accent) 35%, var(--border));
+}
+
+details.xrefs > summary {
+  background: color-mix(in srgb, var(--accent) 8%, var(--panel));
+}
+
+details.xrefs > summary:hover {
+  background: color-mix(in srgb, var(--accent) 14%, var(--panel-2));
+}
+
+.xref summary { font-size: 0.875rem; font-weight: 500; }
+.xref .panel { max-width: 85ch; }
+
 .muted { color: var(--muted); }
 .small { font-size: 0.78125rem; }
 
