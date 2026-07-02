@@ -287,6 +287,7 @@ function applySettings() {
   $("bookmarkHint").textContent = state.bookmarks.length
     ? `${state.bookmarks.length} saved` : "None saved";
   $("clearBookmarksBtn").disabled = !state.bookmarks.length;
+  updateOfflineButton();
 }
 
 function stepTextSize(delta) {
@@ -307,7 +308,10 @@ function bindSettings() {
   settingsBtn.addEventListener("click", () => toggleSettingsPanel());
 
   document.addEventListener("click", (ev) => {
-    if (!settingsPanel.hidden && !settingsPanel.contains(ev.target) && ev.target !== settingsBtn) {
+    // Exclude the whole button subtree: clicking its inner label makes
+    // ev.target the <span>, which would otherwise count as an outside click
+    // and immediately close the panel the button just opened.
+    if (!settingsPanel.hidden && !settingsPanel.contains(ev.target) && !settingsBtn.contains(ev.target)) {
       toggleSettingsPanel(false);
     }
   });
@@ -333,6 +337,11 @@ function bindSettings() {
     applySettings();
   });
 
+  $("offlineDownloadBtn").addEventListener("click", () => {
+    preloadAllTitles();
+    updateOfflineButton();
+  });
+
   $("refreshDataBtn").addEventListener("click", async () => {
     if ("caches" in window) await caches.delete(DATA_CACHE);
     location.reload();
@@ -352,6 +361,8 @@ function configurePackagedApp() {
   if (location.hostname !== "appassets.androidplatform.net") return;
   const refreshRow = $("refreshDataBtn")?.closest(".setting-row");
   if (refreshRow) refreshRow.hidden = true;
+  const offlineRow = $("offlineDownloadBtn")?.closest(".setting-row");
+  if (offlineRow) offlineRow.hidden = true;
 }
 
 // -----------------------------
@@ -643,6 +654,30 @@ function setPreloadStatus() {
     setStatus(`Ready (${p.failed} title${p.failed === 1 ? "" : "s"} failed to load)`);
   } else {
     setStatus("Ready");
+  }
+  updateOfflineButton();
+}
+
+// Reflect preload progress in the settings "Download for offline use" control.
+// The bulk download is opt-in (this button or selecting full-text search), so
+// it is not started automatically on every visit.
+function updateOfflineButton() {
+  const btn = $("offlineDownloadBtn");
+  if (!btn) return;
+  const hint = $("offlineHint");
+  const p = state.preload;
+  if (p.running) {
+    btn.disabled = true;
+    btn.textContent = `Downloading… ${p.loaded}/${p.total}`;
+    if (hint) hint.textContent = "Keep this tab open";
+  } else if (p.done) {
+    btn.disabled = true;
+    btn.textContent = p.failed ? `Downloaded (${p.failed} failed)` : "Downloaded ✓";
+    if (hint) hint.textContent = p.failed ? "Some titles failed" : "Available offline";
+  } else {
+    btn.disabled = false;
+    btn.textContent = "Download for offline use";
+    if (hint) hint.textContent = "All statutes";
   }
 }
 
@@ -972,6 +1007,10 @@ function renderList(items) {
     const card = document.createElement(it.hash ? "a" : "div");
     card.className = "card";
     if (it.hash) card.href = it.hash;
+    if (it.selected) {
+      card.classList.add("selected");
+      card.setAttribute("aria-current", "true");
+    }
     card.innerHTML = `
       <div class="row-between">
         <div class="kicker">${esc(it.kicker || "")}</div>
@@ -1058,6 +1097,8 @@ function render() {
 function renderInner() {
   updateBookmarkBadge();
   document.body.classList.toggle("no-aside", !mobileNeedsAside());
+  // multi-pane sidebar width only applies while browsing; renderBrowseNav resets it
+  document.body.removeAttribute("data-nav-cols");
   const r = state.route;
   document.body.classList.toggle("list-nav",
     !state.search.q && (
@@ -1094,52 +1135,139 @@ function renderInner() {
 // -----------------------------
 // RENDER — browse area
 // -----------------------------
+// Miller-column browse navigation: Titles, Chapters and Sections panes sit
+// side by side on desktop, each highlighting the item on the current route.
+// On mobile the CSS shows only the deepest pane, preserving the drill-down.
+function navColumn(heading, items) {
+  const col = document.createElement("div");
+  col.className = "nav-col";
+  const head = document.createElement("div");
+  head.className = "nav-col-head";
+  head.textContent = heading;
+  col.appendChild(head);
+  col.appendChild(renderList(items));
+  return col;
+}
+
+function navColumnMessage(heading, message) {
+  const col = navColumn(heading, []);
+  col.insertAdjacentHTML("beforeend", `<div class="empty">${esc(message)}</div>`);
+  return col;
+}
+
+let connectorRaf = 0;
+function scheduleConnector() {
+  if (connectorRaf) return;
+  connectorRaf = requestAnimationFrame(() => {
+    connectorRaf = 0;
+    drawNavConnector();
+  });
+}
+
+// Draws a curve linking the selected card in each pane to the selected card
+// in the next one. Anchors are clamped to the visible part of each pane, so
+// when a selection is scrolled out of view the line still points toward it.
+function drawNavConnector() {
+  const svg = navEl.querySelector(".nav-connector");
+  if (!svg) return;
+  const wrap = svg.parentElement;
+  const wrapRect = wrap.getBoundingClientRect();
+  svg.setAttribute("width", Math.max(1, Math.round(wrapRect.width)));
+  svg.setAttribute("height", Math.max(1, Math.round(wrapRect.height)));
+
+  const anchors = [];
+  for (const col of wrap.querySelectorAll(".nav-col")) {
+    const sel = col.querySelector(".card.selected");
+    if (!sel) break; // the chain ends at the first pane without a selection
+    const colRect = col.getBoundingClientRect();
+    const headH = col.querySelector(".nav-col-head")?.offsetHeight || 0;
+    const selRect = sel.getBoundingClientRect();
+    const y = Math.max(colRect.top + headH + 12,
+      Math.min(colRect.bottom - 12, selRect.top + selRect.height / 2)) - wrapRect.top;
+    anchors.push({ left: selRect.left - wrapRect.left, right: selRect.right - wrapRect.left, y });
+  }
+
+  let html = "";
+  for (let i = 0; i < anchors.length - 1; i++) {
+    const a = anchors[i], b = anchors[i + 1];
+    const mx = (a.right + b.left) / 2;
+    html += `<path d="M ${a.right} ${a.y} C ${mx} ${a.y}, ${mx} ${b.y}, ${b.left} ${b.y}"/>`
+      + `<circle cx="${a.right}" cy="${a.y}" r="2.5"/>`
+      + `<circle cx="${b.left}" cy="${b.y}" r="2.5"/>`;
+  }
+  svg.innerHTML = html;
+}
+
 function renderBrowseNav() {
-  const { titleKey, chapterKey } = state.route;
+  const { titleKey, chapterKey, sectionKey } = state.route;
   navEl.innerHTML = "";
+  navHeading.textContent = "Browse";
 
-  if (!titleKey) {
-    navHeading.textContent = "Titles";
-    const items = (state.master?.titles || []).map((t) => ({
-      kicker: t.label,
-      title: t.name || "(no title name)",
-      hash: hashFor.title(t.title_key),
-    }));
-    navEl.appendChild(renderList(items));
-    return;
-  }
+  const cols = document.createElement("div");
+  cols.className = "nav-cols";
 
-  const titleObj = state.titleCache.get(titleKey);
-  const titleEntry = state.titleByKey.get(titleKey);
+  cols.appendChild(navColumn("Titles", (state.master?.titles || []).map((t) => ({
+    kicker: t.label,
+    title: t.name || "(no title name)",
+    hash: hashFor.title(t.title_key),
+    selected: t.title_key === titleKey,
+  }))));
 
-  if (!chapterKey) {
-    navHeading.textContent = titleEntry ? titleEntry.label : "Title";
+  if (titleKey) {
+    const titleObj = state.titleCache.get(titleKey);
+    const titleEntry = state.titleByKey.get(titleKey);
+    const head = `${titleEntry?.label || "Title"} — chapters`;
     if (!titleObj) {
-      navEl.innerHTML = `<div class="empty">Loading ${esc(titleEntry?.label || "title")}…</div>`;
-      return;
+      cols.appendChild(navColumnMessage(head, `Loading ${titleEntry?.label || "title"}…`));
+    } else {
+      cols.appendChild(navColumn(head, (titleObj.chapters || []).map((c) => ({
+        kicker: `${c.label} · ${(c.sections || []).length} sections`,
+        title: c.name || "(no chapter name)",
+        hash: hashFor.chapter(titleKey, c.chapter_key),
+        selected: c.chapter_key === chapterKey,
+      }))));
     }
-    const items = (titleObj.chapters || []).map((c) => ({
-      kicker: c.label,
-      title: c.name || "(no chapter name)",
-      hash: hashFor.chapter(titleKey, c.chapter_key),
-      right: `<span class="tag">${(c.sections || []).length} sections</span>`,
-    }));
-    navEl.appendChild(renderList(items));
-    return;
   }
 
-  const c = state.chapterByKey.get(keyChapter(titleKey, chapterKey));
-  navHeading.textContent = c ? c.label : "Chapter";
-  const items = (c?.sections || []).filter((s) => s.section_key).map((s) => ({
-    kicker: `Sec. ${s.section_key}`,
-    title: stripSectionPrefix(s.label) || "(no label)",
-    hash: hashFor.section(titleKey, chapterKey, s.section_key),
-    right: [
-      state.infraBySection.has(s.section_key) ? `<span class="tag">infraction</span>` : "",
-      s.content?.status ? `<span class="tag">${esc(s.content.status)}</span>` : "",
-    ].join(""),
-  }));
-  navEl.appendChild(renderList(items));
+  if (titleKey && chapterKey) {
+    const c = state.chapterByKey.get(keyChapter(titleKey, chapterKey));
+    const head = `${c?.label || "Chapter"} — sections`;
+    if (!c) {
+      cols.appendChild(navColumnMessage(head, "Loading…"));
+    } else {
+      cols.appendChild(navColumn(head, (c.sections || []).filter((s) => s.section_key).map((s) => ({
+        kicker: `Sec. ${s.section_key}`,
+        title: stripSectionPrefix(s.label) || "(no label)",
+        hash: hashFor.section(titleKey, chapterKey, s.section_key),
+        selected: s.section_key === sectionKey,
+        right: [
+          state.infraBySection.has(s.section_key) ? `<span class="tag">infraction</span>` : "",
+          s.content?.status ? `<span class="tag">${esc(s.content.status)}</span>` : "",
+        ].join(""),
+      }))));
+    }
+  }
+
+  // the pane count drives the sidebar width on desktop (see styles.css)
+  document.body.dataset.navCols = String(cols.children.length);
+
+  // overlay tracing the selected Title → Chapter → Section chain; prepended
+  // (not appended) so the panes stay the last children — the mobile CSS
+  // shows only the last .nav-col via :last-child
+  const connector = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+  connector.setAttribute("class", "nav-connector");
+  connector.setAttribute("aria-hidden", "true");
+  cols.prepend(connector);
+
+  navEl.appendChild(cols);
+
+  // keep the active item visible in each pane
+  for (const col of cols.querySelectorAll(".nav-col")) {
+    const sel = col.querySelector(".card.selected");
+    if (sel) col.scrollTop = sel.offsetTop - col.clientHeight / 2 + sel.offsetHeight / 2;
+    col.addEventListener("scroll", scheduleConnector, { passive: true });
+  }
+  drawNavConnector();
 }
 
 function renderBrowseView() {
@@ -1774,7 +1902,12 @@ function bindUI() {
     clearTimeout(searchTimer);
     searchTimer = setTimeout(() => setSearch(qEl.value, scopeEl.value), navScopeDelay());
   });
-  scopeEl.addEventListener("change", () => setSearch(qEl.value, scopeEl.value));
+  scopeEl.addEventListener("change", () => {
+    // Full-text search needs the title bodies; choosing that scope is an
+    // explicit signal to fetch them, so start the background download then.
+    if (scopeEl.value === "fulltext") preloadAllTitles();
+    setSearch(qEl.value, scopeEl.value);
+  });
 
   const goUp = () => {
     const up = parentHash();
@@ -1784,6 +1917,7 @@ function bindUI() {
   backBtnTop.addEventListener("click", goUp);
 
   window.addEventListener("hashchange", applyRoute);
+  window.addEventListener("resize", scheduleConnector);
 
   document.addEventListener("keydown", (ev) => {
     const inField = /^(input|select|textarea)$/i.test(document.activeElement?.tagName || "");
@@ -1823,7 +1957,9 @@ function registerServiceWorker() {
     setStatus("Ready");
     await applyRoute();
     loadStatutesIndex(); // large file — load without blocking first paint
-    preloadAllTitles();
+    // Titles load on demand as the user browses; the full corpus is only
+    // downloaded when requested (Settings → Download for offline use) or when
+    // full-text search is selected, so first visits stay lightweight.
   } catch (e) {
     setStatus("Error");
     viewEl.innerHTML = `<div class="empty">Failed to load data: ${esc(e.message || String(e))}<br>

@@ -294,11 +294,115 @@ main {
   height: calc(100vh - 110px);
 }
 
+/* browsing widens the sidebar as Chapters/Sections panes open to the right */
+body[data-nav-cols="2"] main { grid-template-columns: min(600px, 48vw) 1fr; }
+body[data-nav-cols="3"] main { grid-template-columns: min(880px, 58vw) 1fr; }
+
 aside {
   border-right: 1px solid var(--border);
   overflow: auto;
   padding: 12px;
   background: var(--panel);
+}
+
+/* ---------- Miller-column browse navigation ---------- */
+/* Each pane scrolls on its own; the aside stops scrolling as a whole. */
+aside:has(.nav-cols) {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  overflow: hidden;
+}
+
+aside:has(.nav-cols) .aside-head {
+  padding: 12px 12px 4px;
+  margin-bottom: 0;
+}
+
+aside:has(.nav-cols) #nav {
+  flex: 1;
+  min-height: 0;
+}
+
+.nav-cols {
+  position: relative; /* anchors the .nav-connector overlay */
+  display: flex;
+  height: 100%;
+  min-height: 0;
+}
+
+.nav-col {
+  position: relative; /* offset parent for centering the selected card */
+  flex: 1 1 0;
+  min-width: 0;
+  overflow-y: auto;
+  padding: 0 10px 10px;
+  border-right: 1px solid var(--border);
+}
+
+.nav-col:last-child { border-right: none; }
+
+.nav-col .list { gap: 6px; }
+
+.nav-col-head {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--panel);
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  padding: 10px 2px 8px;
+  margin: 0;
+}
+
+/* the item on the current route in each pane */
+.card.selected {
+  border-color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 10%, var(--bg));
+}
+
+.card.selected .kicker { color: var(--accent); }
+
+/* unobtrusive pane scrollbars — invisible until the pane is being used */
+.nav-col {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+.nav-col:hover,
+.nav-col:focus-within {
+  scrollbar-color: color-mix(in srgb, var(--muted) 45%, transparent) transparent;
+}
+
+/* older Safari (no scrollbar-color): same effect via -webkit pseudo-elements */
+.nav-col::-webkit-scrollbar { width: 8px; }
+.nav-col::-webkit-scrollbar-thumb { background: transparent; border-radius: 8px; }
+.nav-col:hover::-webkit-scrollbar-thumb {
+  background: color-mix(in srgb, var(--muted) 45%, transparent);
+}
+
+/* overlay tracing the selected Title → Chapter → Section chain */
+.nav-connector {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  pointer-events: none;
+}
+
+.nav-connector path {
+  fill: none;
+  stroke: var(--accent);
+  stroke-width: 2;
+  stroke-linecap: round;
+  opacity: 0.4;
+}
+
+.nav-connector circle {
+  fill: var(--accent);
+  opacity: 0.55;
 }
 
 .aside-head { margin-bottom: 10px; }
@@ -637,7 +741,8 @@ a.home-card:hover {
 
 /* ---------- Mobile ---------- */
 @media (max-width: 960px) {
-  main {
+  main,
+  body[data-nav-cols] main {
     grid-template-columns: 1fr;
     height: auto;
   }
@@ -646,6 +751,31 @@ a.home-card:hover {
     border-right: none;
     border-bottom: 1px solid var(--border);
     max-height: 45vh;
+  }
+
+  /* phones keep the drill-down: only the deepest pane is shown, and the
+     aside scrolls as a whole again */
+  aside:has(.nav-cols) {
+    display: block;
+    padding: 12px;
+    overflow: auto;
+  }
+
+  .nav-cols {
+    display: block;
+    height: auto;
+  }
+
+  .nav-col {
+    padding: 0;
+    border-right: none;
+    overflow: visible;
+  }
+
+  .nav-col:not(:last-child),
+  .nav-col-head,
+  .nav-connector {
+    display: none;
   }
 
   #viewWrap { max-height: none; }
