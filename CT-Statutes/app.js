@@ -1380,11 +1380,22 @@ function renderSectionView(section, titleEntry, chapter) {
   });
 
   bindShareButtons(viewEl, () => sectionShareText(section, titleEntry, chapter));
+  bindCrossRefsPanel(xrefKeys);
+}
+
+// Title that a section key belongs to, derived from its numeric prefix:
+// "2-35" → "02", "38a-707" → "38a". Returns null for unknown titles.
+function titleKeyForSection(sectionKey) {
+  const m = sectionKey.match(/^(\d+)([a-z]*)-/);
+  if (!m) return null;
+  const tk = m[1].padStart(2, "0") + m[2];
+  return state.titleByKey.has(tk) ? tk : null;
 }
 
 // Section keys cited in the given paragraphs, using the same rules as
 // linkifyCitations: skip the section's own key and public/special act
-// numbers, and only keep keys that resolve in the loaded statute data.
+// numbers. Keys are kept when their section is already loaded or their
+// title exists in the master index (fetched on demand when expanded).
 function citedSectionKeys(paragraphs, selfKey) {
   const found = new Set();
   for (const p of paragraphs || []) {
@@ -1394,7 +1405,7 @@ function citedSectionKeys(paragraphs, selfKey) {
       if (token === selfKey || found.has(token)) continue;
       const before = str.slice(Math.max(0, m.index - 12), m.index);
       if (/(?:P\.?A\.?|S\.?A\.?|act)\s*$/i.test(before)) continue;
-      if (!state.sectionLoc.has(token)) continue;
+      if (!state.sectionLoc.has(token) && !titleKeyForSection(token)) continue;
       found.add(token);
     }
   }
@@ -1402,10 +1413,22 @@ function citedSectionKeys(paragraphs, selfKey) {
 }
 
 // Expandable panel showing the text of every section this one cites, so the
-// reader can consult cross-references without leaving the page.
-function renderCrossRefsPanel(keys) {
+// reader can consult cross-references without leaving the page. Sections in
+// titles that haven't loaded yet render as placeholders; opening the panel
+// fetches those titles and re-renders it (settled = that fetch already ran,
+// so a still-unresolved key is a failure rather than pending).
+function renderCrossRefsPanel(keys, settled = false) {
   const items = keys.map((k) => {
     const loc = state.sectionLoc.get(k);
+    if (!loc) {
+      return `
+      <details class="xref">
+        <summary>Sec. ${esc(k)}</summary>
+        <div class="panel">
+          <div class="muted">${settled ? "This section could not be loaded." : "Loading…"}</div>
+        </div>
+      </details>`;
+    }
     const s = state.sectionByKey.get(keySection(loc.t, loc.c, k));
     const paras = s?.content?.body_paragraphs || [];
     return `
@@ -1427,6 +1450,26 @@ function renderCrossRefsPanel(keys) {
       </div>
     </details>
   `;
+}
+
+// First open of the panel fetches any titles the cross-references need,
+// then swaps in a fresh render with the loaded text.
+function bindCrossRefsPanel(keys) {
+  const el = viewEl.querySelector("details.xrefs");
+  if (!el) return;
+  el.addEventListener("toggle", async () => {
+    if (!el.open) return;
+    const missing = [...new Set(
+      keys.filter((k) => !state.sectionLoc.has(k)).map(titleKeyForSection).filter(Boolean)
+    )];
+    if (!missing.length) return;
+    await Promise.all(missing.map((t) => ensureTitleLoaded(t).catch(() => { })));
+    const tmp = document.createElement("template");
+    tmp.innerHTML = renderCrossRefsPanel(keys, true).trim();
+    const next = tmp.content.firstElementChild;
+    next.open = true;
+    el.replaceWith(next);
+  }, { once: true });
 }
 
 function renderInfractionsForSection(entries) {
