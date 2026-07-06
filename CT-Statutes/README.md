@@ -26,6 +26,7 @@
 | [`manifest.webmanifest`](manifest.webmanifest) | PWA metadata. |
 | [`icon.svg`](icon.svg) | Site and installable-app icon. |
 | [`data/`](data/) | Generated JSON consumed by the application. |
+| [`update_data.py`](update_data.py) | Downloads the current source PDFs and runs the three generators below in dependency order. |
 | [`ct_CGS_Crawl-v2.py`](ct_CGS_Crawl-v2.py) | Crawls current statute titles, chapters, sections, and full text from the Connecticut General Assembly. |
 | [`parse_index.py`](parse_index.py) | Converts the three subject-index PDFs into `data/statutes_index.json`. |
 | [`parse_infractions.py`](parse_infractions.py) | Converts the Judicial Branch schedule PDF into `data/infractions.json` and links entries to statute sections. |
@@ -129,12 +130,30 @@ Python 3.10 or later is recommended.
 cd CT-Statutes
 python -m venv .venv
 source .venv/bin/activate
-python -m pip install requests beautifulsoup4 certifi pdfplumber
+python -m pip install requests beautifulsoup4 certifi truststore pdfplumber
 ```
+
+`truststore` lets the crawler verify `cga.ct.gov`'s TLS certificate against the operating-system trust store; the site does not serve its full certificate chain, so verification against certifi's bundle alone fails.
 
 The virtual environment is local development state and should not be committed.
 
-### 2. Crawl the statutes
+### 2. Refresh everything at once
+
+`update_data.py` performs a complete refresh in one command. It downloads the current source PDFs (locating the subject-index PDFs' year-versioned links on the LCO page, so a new annual revision is picked up automatically), then runs the three generators in dependency order: statutes first, infractions last so its statute links are built against the fresh crawl.
+
+```bash
+python update_data.py
+```
+
+Useful options:
+
+- `--no-download` parses the PDFs already in the folder instead of downloading fresh copies. A failed download never overwrites an existing PDF.
+- `--only statutes`, `--only index`, or `--only infractions` runs a single stage (repeatable).
+- `--sleep 0.5` slows the statute crawl (passed through to the crawler).
+
+The script exits non-zero if any stage fails, and ends with a summary showing each generated file's `source` date. Steps 3–5 below run the same generators individually.
+
+### 3. Crawl the statutes
 
 Run the statute crawler first because the infractions parser uses statute files to create internal links.
 
@@ -146,7 +165,7 @@ The crawler rewrites `data/title_XX.json` and `data/titles_index.json`. It also 
 
 Be considerate of the Connecticut General Assembly's servers. Keep a delay between requests and avoid repeatedly running a full crawl during debugging.
 
-### 3. Refresh and parse the subject index
+### 4. Refresh and parse the subject index
 
 Download the current three PDF ranges from the [official index page](https://www.cga.ct.gov/lco/statutes-index.asp), preserve these filenames, and replace the repository copies:
 
@@ -162,7 +181,7 @@ python parse_index.py
 
 The parser processes the files in parallel by default and writes `data/statutes_index.json`. For troubleshooting, `--serial` disables multiprocessing and `--limit N` parses only the first `N` pages of each PDF. A limited run is for debugging only and should not replace the committed complete index.
 
-### 4. Refresh and parse the infractions schedule
+### 5. Refresh and parse the infractions schedule
 
 Download the current [official infractions PDF](https://www.jud.ct.gov/webforms/forms/infractions.pdf) as `infractions_schedule.pdf`, then run:
 
@@ -172,7 +191,7 @@ python parse_infractions.py
 
 This writes `data/infractions.json`. Run it after the statute crawl so its `ref` objects are built against the current title files.
 
-### 5. Review generated changes
+### 6. Review generated changes
 
 Generated data can be large. Review source metadata, record counts, parser output, and a sample of entries before committing it:
 

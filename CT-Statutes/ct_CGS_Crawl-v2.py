@@ -552,14 +552,25 @@ def main() -> None:
     )
     args = parser.parse_args()
 
+    # cga.ct.gov omits its intermediate certificate, which fails against
+    # certifi's bundle; the OS trust store (truststore) builds the chain the
+    # way browsers do, so prefer it when installed.
     if args.no_ssl_verify:
         urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+        verify_ssl: object = False
+    else:
+        try:
+            import truststore
+            truststore.inject_into_ssl()
+            verify_ssl = True
+        except ImportError:
+            verify_ssl = certifi.where()
 
     cfg = FetchConfig(
         sleep=args.sleep,
         jitter=args.jitter,
         timeout=args.timeout,
-        verify_ssl=False if args.no_ssl_verify else certifi.where(),
+        verify_ssl=verify_ssl,
     )
 
     index = build_index(cfg)
