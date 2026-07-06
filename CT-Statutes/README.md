@@ -19,7 +19,7 @@
 
 | Path | Purpose |
 | --- | --- |
-| [`Index.html`](Index.html) | Application shell and accessible page structure. |
+| [`index.html`](index.html) | Application shell and accessible page structure. |
 | [`app.js`](app.js) | Routing, data loading, search, rendering, bookmarks, and display settings. |
 | [`styles.css`](styles.css) | Responsive layout, themes, controls, and print styles. |
 | [`sw.js`](sw.js) | Service worker for application-shell and JSON data caching. |
@@ -36,14 +36,14 @@ The scripts use paths relative to the current working directory. Run the data-ge
 
 ## Run locally
 
-The application must be served over HTTP; opening `Index.html` directly with a `file://` URL prevents normal `fetch` and service-worker behavior.
+The application must be served over HTTP; opening `index.html` directly with a `file://` URL prevents normal `fetch` and service-worker behavior.
 
 ```bash
 cd CT-Statutes
 python -m http.server 8000
 ```
 
-Open <http://localhost:8000/Index.html>. Stop the server with <kbd>Ctrl</kbd>+<kbd>C</kbd>.
+Open <http://localhost:8000/>. Stop the server with <kbd>Ctrl</kbd>+<kbd>C</kbd>.
 
 Service workers can retain older files during development. If a change does not appear after reloading, use **Settings → Re-download data**, clear the site's storage in browser developer tools, or unregister the service worker.
 
@@ -238,7 +238,7 @@ All runtime assets are static. Deploy the `CT-Statutes` directory without a buil
 
 - serve the files over HTTPS in production so the service worker can register;
 - serve JSON, JavaScript, CSS, SVG, PDF, and web-manifest files with appropriate content types;
-- preserve filename case, including `Index.html`;
+- serve `index.html` as the directory index (GitHub Pages and most static hosts require the lowercase name);
 - keep the application and `data/` directory under the same origin and path scope.
 
 After deployment, load the site online once to populate the shell cache. Individual title files become available offline after they have been opened or downloaded for full-text search.

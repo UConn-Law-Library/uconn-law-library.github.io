@@ -12,7 +12,6 @@ Dependencies:
 from __future__ import annotations
 
 import argparse
-from operator import index
 import os
 import json
 import random
@@ -24,12 +23,8 @@ from typing import Dict, List, Optional, Set, Tuple
 from urllib.parse import urljoin, urlparse
 
 import requests
-from bs4 import BeautifulSoup, Tag
-
-# If you're temporarily using verify=False for SSL debugging:
 import urllib3
-
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+from bs4 import BeautifulSoup, Tag
 
 BASE_TITLES_URL = "https://www.cga.ct.gov/current/pub/titles.htm"
 OUTPUT_DIR = "data"
@@ -89,7 +84,7 @@ def fetch_html(session: requests.Session, url: str, cfg: FetchConfig) -> str:
     resp = session.get(
         url,
         timeout=cfg.timeout,
-        verify=False,
+        verify=cfg.verify_ssl,
         headers={"User-Agent": UA},
     )
     resp.raise_for_status()
@@ -557,11 +552,14 @@ def main() -> None:
     )
     args = parser.parse_args()
 
+    if args.no_ssl_verify:
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
     cfg = FetchConfig(
         sleep=args.sleep,
         jitter=args.jitter,
         timeout=args.timeout,
-        verify_ssl=certifi.where(),
+        verify_ssl=False if args.no_ssl_verify else certifi.where(),
     )
 
     index = build_index(cfg)
