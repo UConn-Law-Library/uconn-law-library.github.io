@@ -27,6 +27,9 @@ jobs:
   refresh:
     runs-on: windows-latest
     timeout-minutes: 180
+    env:
+      PYTHONUNBUFFERED: "1" # stream crawler progress into the log live
+      PYTHONUTF8: "1" # keep non-ASCII output readable in the UTF-8 log
     steps:
       - name: Check out the repository
         uses: actions/checkout@v4
