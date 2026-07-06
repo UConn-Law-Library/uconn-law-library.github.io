@@ -153,6 +153,10 @@ Useful options:
 
 The script exits non-zero if any stage fails, and ends with a summary showing each generated file's `source` date. Steps 3–5 below run the same generators individually.
 
+#### Scheduled refresh on GitHub
+
+The workflow [`.github/workflows/refresh-statute-data.yml`](../.github/workflows/refresh-statute-data.yml) runs `update_data.py` on a GitHub-hosted runner at 07:23 UTC on the 2nd of each month, and can be started manually from the repository's **Actions** tab (*Refresh CT-Statutes data → Run workflow*). It opens a pull request with the regenerated `data/` files rather than pushing to `main`, so the diff gets a review before it deploys to the live site. The job runs on a Windows runner because `cga.ct.gov` serves an incomplete TLS certificate chain that only Windows can complete (see the note on `truststore` above). GitHub suspends scheduled workflows after about 60 days without repository activity; any new commit re-enables them.
+
 ### 3. Crawl the statutes
 
 Run the statute crawler first because the infractions parser uses statute files to create internal links.
