@@ -221,15 +221,21 @@ def main() -> None:
             results["index"] = run_stage("index", "parse_index.py", extra)
 
     if "infractions" in wanted:
+        pdf_path = os.path.join(HERE, INFRACTIONS_PDF)
         if not args.no_download:
             try:
-                size = download(session, INFRACTIONS_URL,
-                                os.path.join(HERE, INFRACTIONS_PDF))
+                size = download(session, INFRACTIONS_URL, pdf_path)
                 print(f"Downloaded {INFRACTIONS_PDF} ({size / 1e6:.1f} MB)")
             except Exception as e:
-                print(f"! Download failed for {INFRACTIONS_PDF}: {e} — "
-                      "keeping the existing local PDF")
-        if not os.path.exists(os.path.join(HERE, INFRACTIONS_PDF)):
+                print(f"! Download failed for {INFRACTIONS_PDF}: {e}")
+                if os.path.exists(pdf_path):
+                    # jud.ct.gov blocks some datacenter IPs (GitHub runners
+                    # among them), so the repository carries the last-known
+                    # PDF. Compare its effective date in the summary below
+                    # with the current schedule when reviewing.
+                    print(f"! Parsing the committed copy of {INFRACTIONS_PDF} "
+                          "instead — the schedule may be stale")
+        if not os.path.exists(pdf_path):
             print("! Skipping infractions stage — no schedule PDF")
             results["infractions"] = False
         else:
@@ -248,8 +254,10 @@ def main() -> None:
             with open(path, encoding="utf-8") as f:
                 src = json.load(f).get("source") or {}
             stamp = src.get("generated") or src.get("generated_at_utc") or "unknown date"
+            edition = src.get("effective") or src.get("revised")
             print(f"  {fname}: generated {stamp}, "
-                  f"{os.path.getsize(path) / 1e6:.1f} MB")
+                  f"{os.path.getsize(path) / 1e6:.1f} MB"
+                  + (f" (source: {edition})" if edition else ""))
         except (OSError, ValueError) as e:
             print(f"  {fname}: unreadable ({e})")
 
