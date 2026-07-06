@@ -157,6 +157,8 @@ The script exits non-zero if any stage fails, and ends with a summary showing ea
 
 The workflow [`.github/workflows/refresh-statute-data.yml`](../.github/workflows/refresh-statute-data.yml) runs `update_data.py` on a GitHub-hosted runner at 07:23 UTC on the 2nd of each month, and can be started manually from the repository's **Actions** tab (*Refresh CT-Statutes data → Run workflow*). It opens a pull request with the regenerated `data/` files rather than pushing to `main`, so the diff gets a review before it deploys to the live site. The job runs on a Windows runner because `cga.ct.gov` serves an incomplete TLS certificate chain that only Windows can complete (see the note on `truststore` above). GitHub suspends scheduled workflows after about 60 days without repository activity; any new commit re-enables them.
 
+`jud.ct.gov` blocks GitHub's runner IP ranges (connections are reset regardless of client), so the workflow usually cannot download a fresh infractions schedule. When that happens it parses the committed [`infractions_schedule.pdf`](infractions_schedule.pdf) instead and says so in the log — the schedule keeps its last-known effective date. When the Judicial Branch publishes a new schedule, run `python update_data.py --only infractions` locally (residential connections are not blocked) and commit the updated PDF together with the regenerated `data/infractions.json`.
+
 ### 3. Crawl the statutes
 
 Run the statute crawler first because the infractions parser uses statute files to create internal links.
