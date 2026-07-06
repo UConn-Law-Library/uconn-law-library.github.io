@@ -19,13 +19,14 @@
 
 | Path | Purpose |
 | --- | --- |
-| [`Index.html`](Index.html) | Application shell and accessible page structure. |
+| [`index.html`](index.html) | Application shell and accessible page structure. |
 | [`app.js`](app.js) | Routing, data loading, search, rendering, bookmarks, and display settings. |
 | [`styles.css`](styles.css) | Responsive layout, themes, controls, and print styles. |
 | [`sw.js`](sw.js) | Service worker for application-shell and JSON data caching. |
 | [`manifest.webmanifest`](manifest.webmanifest) | PWA metadata. |
 | [`icon.svg`](icon.svg) | Site and installable-app icon. |
 | [`data/`](data/) | Generated JSON consumed by the application. |
+| [`update_data.py`](update_data.py) | Downloads the current source PDFs and runs the three generators below in dependency order. |
 | [`ct_CGS_Crawl-v2.py`](ct_CGS_Crawl-v2.py) | Crawls current statute titles, chapters, sections, and full text from the Connecticut General Assembly. |
 | [`parse_index.py`](parse_index.py) | Converts the three subject-index PDFs into `data/statutes_index.json`. |
 | [`parse_infractions.py`](parse_infractions.py) | Converts the Judicial Branch schedule PDF into `data/infractions.json` and links entries to statute sections. |
@@ -36,14 +37,14 @@ The scripts use paths relative to the current working directory. Run the data-ge
 
 ## Run locally
 
-The application must be served over HTTP; opening `Index.html` directly with a `file://` URL prevents normal `fetch` and service-worker behavior.
+The application must be served over HTTP; opening `index.html` directly with a `file://` URL prevents normal `fetch` and service-worker behavior.
 
 ```bash
 cd CT-Statutes
 python -m http.server 8000
 ```
 
-Open <http://localhost:8000/Index.html>. Stop the server with <kbd>Ctrl</kbd>+<kbd>C</kbd>.
+Open <http://localhost:8000/>. Stop the server with <kbd>Ctrl</kbd>+<kbd>C</kbd>.
 
 Service workers can retain older files during development. If a change does not appear after reloading, use **Settings → Re-download data**, clear the site's storage in browser developer tools, or unregister the service worker.
 
@@ -129,12 +130,34 @@ Python 3.10 or later is recommended.
 cd CT-Statutes
 python -m venv .venv
 source .venv/bin/activate
-python -m pip install requests beautifulsoup4 certifi pdfplumber
+python -m pip install requests beautifulsoup4 certifi truststore pdfplumber
 ```
+
+`truststore` lets the crawler verify `cga.ct.gov`'s TLS certificate against the operating-system trust store; the site does not serve its full certificate chain, so verification against certifi's bundle alone fails.
 
 The virtual environment is local development state and should not be committed.
 
-### 2. Crawl the statutes
+### 2. Refresh everything at once
+
+`update_data.py` performs a complete refresh in one command. It downloads the current source PDFs (locating the subject-index PDFs' year-versioned links on the LCO page, so a new annual revision is picked up automatically), then runs the three generators in dependency order: statutes first, infractions last so its statute links are built against the fresh crawl.
+
+```bash
+python update_data.py
+```
+
+Useful options:
+
+- `--no-download` parses the PDFs already in the folder instead of downloading fresh copies. A failed download never overwrites an existing PDF.
+- `--only statutes`, `--only index`, or `--only infractions` runs a single stage (repeatable).
+- `--sleep 0.5` slows the statute crawl (passed through to the crawler).
+
+The script exits non-zero if any stage fails, and ends with a summary showing each generated file's `source` date. Steps 3–5 below run the same generators individually.
+
+#### Scheduled refresh on GitHub
+
+The workflow [`.github/workflows/refresh-statute-data.yml`](../.github/workflows/refresh-statute-data.yml) runs `update_data.py` on a GitHub-hosted runner at 07:23 UTC on the 2nd of each month, and can be started manually from the repository's **Actions** tab (*Refresh CT-Statutes data → Run workflow*). It opens a pull request with the regenerated `data/` files rather than pushing to `main`, so the diff gets a review before it deploys to the live site. The job runs on a Windows runner because `cga.ct.gov` serves an incomplete TLS certificate chain that only Windows can complete (see the note on `truststore` above). GitHub suspends scheduled workflows after about 60 days without repository activity; any new commit re-enables them.
+
+### 3. Crawl the statutes
 
 Run the statute crawler first because the infractions parser uses statute files to create internal links.
 
@@ -146,7 +169,7 @@ The crawler rewrites `data/title_XX.json` and `data/titles_index.json`. It also 
 
 Be considerate of the Connecticut General Assembly's servers. Keep a delay between requests and avoid repeatedly running a full crawl during debugging.
 
-### 3. Refresh and parse the subject index
+### 4. Refresh and parse the subject index
 
 Download the current three PDF ranges from the [official index page](https://www.cga.ct.gov/lco/statutes-index.asp), preserve these filenames, and replace the repository copies:
 
@@ -162,7 +185,7 @@ python parse_index.py
 
 The parser processes the files in parallel by default and writes `data/statutes_index.json`. For troubleshooting, `--serial` disables multiprocessing and `--limit N` parses only the first `N` pages of each PDF. A limited run is for debugging only and should not replace the committed complete index.
 
-### 4. Refresh and parse the infractions schedule
+### 5. Refresh and parse the infractions schedule
 
 Download the current [official infractions PDF](https://www.jud.ct.gov/webforms/forms/infractions.pdf) as `infractions_schedule.pdf`, then run:
 
@@ -172,7 +195,7 @@ python parse_infractions.py
 
 This writes `data/infractions.json`. Run it after the statute crawl so its `ref` objects are built against the current title files.
 
-### 5. Review generated changes
+### 6. Review generated changes
 
 Generated data can be large. Review source metadata, record counts, parser output, and a sample of entries before committing it:
 
@@ -238,7 +261,7 @@ All runtime assets are static. Deploy the `CT-Statutes` directory without a buil
 
 - serve the files over HTTPS in production so the service worker can register;
 - serve JSON, JavaScript, CSS, SVG, PDF, and web-manifest files with appropriate content types;
-- preserve filename case, including `Index.html`;
+- serve `index.html` as the directory index (GitHub Pages and most static hosts require the lowercase name);
 - keep the application and `data/` directory under the same origin and path scope.
 
 After deployment, load the site online once to populate the shell cache. Individual title files become available offline after they have been opened or downloaded for full-text search.

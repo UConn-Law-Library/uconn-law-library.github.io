@@ -351,6 +351,9 @@ def main():
                     help="parse only the first N pages of each PDF (debug)")
     ap.add_argument("--serial", action="store_true",
                     help="parse files sequentially instead of in parallel")
+    ap.add_argument("--revised", default="Revision of 1958, revised to January 1, 2025",
+                    help="revision note recorded in the output's source metadata "
+                         "(update_data.py passes the current note from the LCO page)")
     args = ap.parse_args()
 
     missing = [f for f in PDF_FILES if not os.path.exists(f)]
@@ -379,7 +382,7 @@ def main():
             "url": SOURCE_URL,
             "title": "Index to the General Statutes of Connecticut",
             "publisher": "Connecticut General Assembly, Legislative Commissioners' Office",
-            "revised": "Revision of 1958, revised to January 1, 2025",
+            "revised": args.revised,
             "generated": date.today().isoformat(),
         },
         "headings": headings,
