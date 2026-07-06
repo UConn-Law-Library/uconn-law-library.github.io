@@ -33,6 +33,7 @@ import argparse
 import json
 import os
 import re
+import shutil
 import subprocess
 import sys
 import time
@@ -54,6 +55,14 @@ UA = (
     "Mozilla/5.0 (compatible; CTStatutesIndexer/1.0; "
     "+https://www.cga.ct.gov/current/pub/titles.htm)"
 )
+# jud.ct.gov resets connections from datacenter IPs (e.g. GitHub Actions
+# runners) for non-browser clients; retries fall back to this and, last of
+# all, to curl, whose TLS fingerprint differs from Python's.
+BROWSER_UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+)
+DOWNLOAD_ATTEMPTS = 4
 
 STAGES = ("statutes", "index", "infractions")
 
@@ -73,19 +82,53 @@ def make_session() -> requests.Session:
 
 
 def download(session: requests.Session, url: str, dest: str) -> int:
-    """Download url to dest atomically; the old file survives any failure."""
+    """Download url to dest atomically; the old file survives any failure.
+
+    Retries with backoff, switching to a browser User-Agent after the first
+    failure and finally trying curl (see BROWSER_UA note)."""
+    name = os.path.basename(dest)
     tmp = dest + ".part"
+    last_error: Exception = RuntimeError("download not attempted")
     try:
-        with session.get(url, stream=True, timeout=120) as resp:
-            resp.raise_for_status()
-            with open(tmp, "wb") as f:
-                for chunk in resp.iter_content(chunk_size=1 << 16):
-                    f.write(chunk)
-        os.replace(tmp, dest)
+        for attempt in range(DOWNLOAD_ATTEMPTS):
+            if attempt:
+                wait = 2 ** attempt
+                print(f"  retrying {name} in {wait}s "
+                      f"(attempt {attempt + 1}/{DOWNLOAD_ATTEMPTS}, "
+                      f"browser user-agent)", flush=True)
+                time.sleep(wait)
+            try:
+                headers = {"User-Agent": BROWSER_UA} if attempt else None
+                with session.get(url, stream=True, timeout=120,
+                                 headers=headers) as resp:
+                    resp.raise_for_status()
+                    with open(tmp, "wb") as f:
+                        for chunk in resp.iter_content(chunk_size=1 << 16):
+                            f.write(chunk)
+                os.replace(tmp, dest)
+                return os.path.getsize(dest)
+            except Exception as e:
+                last_error = e
+                print(f"  ! attempt {attempt + 1} failed for {name}: {e}",
+                      flush=True)
+
+        curl = shutil.which("curl")
+        if curl:
+            print(f"  retrying {name} with curl", flush=True)
+            proc = subprocess.run(
+                [curl, "--fail", "--silent", "--show-error", "--location",
+                 "--retry", "3", "--max-time", "180",
+                 "--user-agent", BROWSER_UA, "--output", tmp, url],
+                capture_output=True, text=True)
+            if proc.returncode == 0:
+                os.replace(tmp, dest)
+                return os.path.getsize(dest)
+            last_error = RuntimeError(
+                proc.stderr.strip() or f"curl exited {proc.returncode}")
+        raise last_error
     finally:
         if os.path.exists(tmp):
             os.remove(tmp)
-    return os.path.getsize(dest)
 
 
 def find_index_pdf_urls(session: requests.Session):
