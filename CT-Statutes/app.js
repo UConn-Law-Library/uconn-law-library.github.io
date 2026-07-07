@@ -653,7 +653,7 @@ function setPreloadStatus() {
   const p = state.preload;
   if (p.running) {
     setStatus(IS_PACKAGED_APP
-      ? `Preparing full-text search ${p.loaded}/${p.total}…`
+      ? `Indexing statutes ${p.loaded}/${p.total}…`
       : `Downloading for offline use ${p.loaded}/${p.total}…`);
   } else if (p.done && !p.failed) {
     setStatus(IS_PACKAGED_APP ? "Ready" : "Ready — available offline");
@@ -2059,6 +2059,10 @@ function registerServiceWorker() {
     // Titles load on demand as the user browses; the full corpus is only
     // downloaded when requested (Settings → Download for offline use) or when
     // full-text search is selected, so first visits stay lightweight.
+    // The packaged Android app has every title on disk already, so load them
+    // all up front: subject-index links and full-text search then work
+    // without any manual step. The workers yield, so browsing stays smooth.
+    if (IS_PACKAGED_APP) preloadAllTitles();
   } catch (e) {
     setStatus("Error");
     viewEl.innerHTML = `<div class="empty">Failed to load data: ${esc(e.message || String(e))}<br>
