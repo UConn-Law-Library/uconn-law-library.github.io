@@ -12,6 +12,7 @@ import android.webkit.WebResourceResponse;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.FrameLayout;
 
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
@@ -41,17 +42,23 @@ public class MainActivity extends Activity {
 
         webView = new WebView(this);
         webView.setBackgroundColor(Color.TRANSPARENT);
-        setContentView(webView, new ViewGroup.LayoutParams(
+
+        // Android 15+ enforces edge-to-edge: content is laid out behind the
+        // status and navigation bars. WebView ignores its own padding when
+        // rendering, so wrap it in a container and pad the container by the
+        // system bar, display cutout, and keyboard insets; the container's
+        // brand color shows through behind the bars. On older releases the
+        // decor consumes these insets and the padding stays zero.
+        FrameLayout root = new FrameLayout(this);
+        root.setBackgroundColor(getColor(R.color.brand));
+        root.addView(webView, new FrameLayout.LayoutParams(
+                ViewGroup.LayoutParams.MATCH_PARENT,
+                ViewGroup.LayoutParams.MATCH_PARENT));
+        setContentView(root, new ViewGroup.LayoutParams(
                 ViewGroup.LayoutParams.MATCH_PARENT,
                 ViewGroup.LayoutParams.MATCH_PARENT));
 
-        // Android 15+ enforces edge-to-edge: content is laid out behind the
-        // status and navigation bars. Pad the WebView by the system bar,
-        // display cutout, and keyboard insets so the page never sits under
-        // them; the brand-colored window background shows through behind the
-        // bars. On older releases the decor consumes these insets and the
-        // padding stays zero.
-        ViewCompat.setOnApplyWindowInsetsListener(webView, (v, windowInsets) -> {
+        ViewCompat.setOnApplyWindowInsetsListener(root, (v, windowInsets) -> {
             Insets bars = windowInsets.getInsets(
                     WindowInsetsCompat.Type.systemBars()
                             | WindowInsetsCompat.Type.displayCutout()
