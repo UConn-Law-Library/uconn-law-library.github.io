@@ -1,0 +1,44 @@
+name: Build CT-Statutes iOS app
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "CT-Statutes/ios-app/**"
+      - ".github/workflows/build-ios-app.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build (unsigned, for device)
+        working-directory: CT-Statutes/ios-app
+        run: |
+          xcodebuild \
+            -project CTStatutes.xcodeproj \
+            -target CTStatutes \
+            -configuration Release \
+            -sdk iphoneos \
+            SYMROOT="$PWD/build" \
+            CODE_SIGNING_ALLOWED=NO \
+            build
+
+      - name: Package unsigned IPA
+        working-directory: CT-Statutes/ios-app
+        run: |
+          mkdir Payload
+          cp -R build/Release-iphoneos/CTStatutes.app Payload/
+          zip -qry CTStatutes-unsigned.ipa Payload
+          ls -la CTStatutes-unsigned.ipa
+
+      - name: Upload IPA artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ctstatutes-unsigned-ipa
+          path: CT-Statutes/ios-app/CTStatutes-unsigned.ipa
+          if-no-files-found: error

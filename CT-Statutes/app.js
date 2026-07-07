@@ -21,10 +21,12 @@ const PRELOAD_YIELD_MS = 30;
 
 const DATA_CACHE = "cgs-data-v1";  // must match sw.js
 
-// The Android app serves this same code from APK assets at this WebView
-// origin; every data file is local there, so anything phrased as a
-// network "download" is really just a read into memory.
-const IS_PACKAGED_APP = location.hostname === "appassets.androidplatform.net";
+// The Android and iOS apps serve this same code from files packaged inside
+// the app (Android: WebView asset origin; iOS: WKWebView custom scheme).
+// Every data file is local there, so anything phrased as a network
+// "download" is really just a read into memory.
+const IS_PACKAGED_APP = location.hostname === "appassets.androidplatform.net"
+  || location.protocol === "ctstatutes:";
 
 const BOOKMARKS_KEY = "cgs:bookmarks:v1";
 const RECENT_KEY = "cgs:recent:v1";
