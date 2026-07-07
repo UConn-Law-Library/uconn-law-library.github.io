@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Matches the rounded-square background of icon.svg -->
+    <color name="brand">#1e3a8a</color>
+</resources>

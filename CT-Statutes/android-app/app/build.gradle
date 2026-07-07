@@ -1,0 +1,59 @@
+plugins {
+    id "com.android.application"
+}
+
+android {
+    namespace "edu.uconn.law.ctstatutes"
+    compileSdk 36
+
+    defaultConfig {
+        applicationId "edu.uconn.law.ctstatutes"
+        minSdk 24
+        targetSdk 36
+        versionCode 1
+        versionName "1.0.0"
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+
+    sourceSets {
+        main.assets.srcDir(layout.buildDirectory.dir("generated/webAssets"))
+    }
+}
+
+dependencies {
+    implementation "androidx.webkit:webkit:1.14.0"
+}
+
+// The web application and its statute data live one directory up, in
+// CT-Statutes/. They are copied into the APK's assets at build time so the
+// installed app is fully self-contained and never touches the network.
+def webRoot = rootProject.projectDir.parentFile
+
+tasks.register("syncWebAssets", Sync) {
+    from(webRoot) {
+        include "index.html"
+        include "styles.css"
+        include "app.js"
+        include "manifest.webmanifest"
+        include "icon.svg"
+        include "data/**"
+        // sw.js is deliberately excluded: the service worker only matters for
+        // the hosted PWA. Inside the app every file is already local.
+        exclude "sw.js"
+    }
+    into(layout.buildDirectory.dir("generated/webAssets"))
+}
+
+tasks.named("preBuild").configure {
+    dependsOn("syncWebAssets")
+}
