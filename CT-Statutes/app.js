@@ -21,6 +21,11 @@ const PRELOAD_YIELD_MS = 30;
 
 const DATA_CACHE = "cgs-data-v1";  // must match sw.js
 
+// The Android app serves this same code from APK assets at this WebView
+// origin; every data file is local there, so anything phrased as a
+// network "download" is really just a read into memory.
+const IS_PACKAGED_APP = location.hostname === "appassets.androidplatform.net";
+
 const BOOKMARKS_KEY = "cgs:bookmarks:v1";
 const RECENT_KEY = "cgs:recent:v1";
 const RECENT_MAX = 20;   // kept in storage
@@ -358,7 +363,7 @@ function bindSettings() {
 }
 
 function configurePackagedApp() {
-  if (location.hostname !== "appassets.androidplatform.net") return;
+  if (!IS_PACKAGED_APP) return;
   const refreshRow = $("refreshDataBtn")?.closest(".setting-row");
   if (refreshRow) refreshRow.hidden = true;
   const offlineRow = $("offlineDownloadBtn")?.closest(".setting-row");
@@ -444,7 +449,7 @@ function recordRecent(item) {
 // SHARING
 // -----------------------------
 function appUrlFor(hash) {
-  const base = location.hostname === "appassets.androidplatform.net"
+  const base = IS_PACKAGED_APP
     ? "https://uconn-law-library.github.io/CT-Statutes/"
     : location.origin + location.pathname;
   return base + hash;
@@ -647,9 +652,11 @@ async function ensureTitleLoaded(titleKey) {
 function setPreloadStatus() {
   const p = state.preload;
   if (p.running) {
-    setStatus(`Downloading for offline use ${p.loaded}/${p.total}…`);
+    setStatus(IS_PACKAGED_APP
+      ? `Preparing full-text search ${p.loaded}/${p.total}…`
+      : `Downloading for offline use ${p.loaded}/${p.total}…`);
   } else if (p.done && !p.failed) {
-    setStatus("Ready — available offline");
+    setStatus(IS_PACKAGED_APP ? "Ready" : "Ready — available offline");
   } else if (p.done) {
     setStatus(`Ready (${p.failed} title${p.failed === 1 ? "" : "s"} failed to load)`);
   } else {
@@ -1906,7 +1913,7 @@ function renderSearch() {
   crumbsEl.innerHTML = `<span class="muted">Search</span>`;
 
   const stillLoading = state.preload.running
-    ? `<span class="tag">still downloading titles — results may grow (${state.preload.loaded}/${state.preload.total})</span>` : "";
+    ? `<span class="tag">still ${IS_PACKAGED_APP ? "indexing" : "downloading"} titles — results may grow (${state.preload.loaded}/${state.preload.total})</span>` : "";
 
   const group = (name, items, renderItem) => items.length ? `
     <div class="result-group">
@@ -2027,7 +2034,7 @@ function bindUI() {
 function registerServiceWorker() {
   if (!("serviceWorker" in navigator)) return;
   // Android packages these files directly; its WebView asset origin is already offline.
-  if (location.hostname === "appassets.androidplatform.net") return;
+  if (IS_PACKAGED_APP) return;
   // file:// and some embedded contexts don't support SW — offline mode then degrades gracefully
   navigator.serviceWorker.register("./sw.js").catch((err) => {
     console.warn("Service worker registration failed:", err);
