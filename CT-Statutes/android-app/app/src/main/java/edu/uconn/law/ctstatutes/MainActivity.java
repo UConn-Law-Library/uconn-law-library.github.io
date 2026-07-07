@@ -13,6 +13,9 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
+import androidx.core.graphics.Insets;
+import androidx.core.view.ViewCompat;
+import androidx.core.view.WindowInsetsCompat;
 import androidx.webkit.WebViewAssetLoader;
 
 /**
@@ -41,6 +44,21 @@ public class MainActivity extends Activity {
         setContentView(webView, new ViewGroup.LayoutParams(
                 ViewGroup.LayoutParams.MATCH_PARENT,
                 ViewGroup.LayoutParams.MATCH_PARENT));
+
+        // Android 15+ enforces edge-to-edge: content is laid out behind the
+        // status and navigation bars. Pad the WebView by the system bar,
+        // display cutout, and keyboard insets so the page never sits under
+        // them; the brand-colored window background shows through behind the
+        // bars. On older releases the decor consumes these insets and the
+        // padding stays zero.
+        ViewCompat.setOnApplyWindowInsetsListener(webView, (v, windowInsets) -> {
+            Insets bars = windowInsets.getInsets(
+                    WindowInsetsCompat.Type.systemBars()
+                            | WindowInsetsCompat.Type.displayCutout()
+                            | WindowInsetsCompat.Type.ime());
+            v.setPadding(bars.left, bars.top, bars.right, bars.bottom);
+            return WindowInsetsCompat.CONSUMED;
+        });
 
         WebSettings settings = webView.getSettings();
         settings.setJavaScriptEnabled(true);
