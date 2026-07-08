@@ -66,6 +66,7 @@ const state = {
   recents: [],
 
   preload: { running: false, loaded: 0, total: 0, failed: 0, done: false },
+  offlineStored: false,          // every title file present in the SW data cache
 };
 
 // -----------------------------
@@ -683,6 +684,10 @@ function updateOfflineButton() {
     btn.disabled = true;
     btn.textContent = p.failed ? `Downloaded (${p.failed} failed)` : "Downloaded ✓";
     if (hint) hint.textContent = p.failed ? "Some titles failed" : "Available offline";
+  } else if (state.offlineStored) {
+    btn.disabled = true;
+    btn.textContent = "Downloaded ✓";
+    if (hint) hint.textContent = "Stored on this device";
   } else {
     btn.disabled = false;
     btn.textContent = "Download for offline use";
@@ -690,8 +695,40 @@ function updateOfflineButton() {
   }
 }
 
+// Ask the browser not to evict our origin's storage (Cache Storage holds the
+// downloaded statutes). Without this the data survives closing the app but is
+// "best effort" — the browser may reclaim it under disk pressure. Chromium
+// grants this silently (more readily once the PWA is installed); it never
+// blocks, so failures are fine to ignore.
+async function requestPersistentStorage() {
+  try {
+    return (await navigator.storage?.persist?.()) === true;
+  } catch {
+    return false;
+  }
+}
+
+// The service worker keeps downloaded titles in Cache Storage across launches,
+// but preload state lives in memory, so on a fresh launch the Settings button
+// would offer to download data that is already on the device. Compare the data
+// cache against the master title list and reflect "already stored" in the UI.
+async function checkOfflineStored() {
+  if (IS_PACKAGED_APP || !("caches" in window)) return;
+  try {
+    const cache = await caches.open(DATA_CACHE);
+    const keys = await cache.keys();
+    const cachedFiles = new Set(keys.map((r) => new URL(r.url).pathname.split("/").pop()));
+    const files = (state.master?.titles || []).map((t) => t.file).filter(Boolean);
+    state.offlineStored = files.length > 0 && files.every((f) => cachedFiles.has(f));
+  } catch {
+    state.offlineStored = false;
+  }
+  updateOfflineButton();
+}
+
 async function preloadAllTitles() {
   if (state.preload.running) return;
+  requestPersistentStorage();
   const titles = state.master?.titles || [];
   state.preload.running = true;
   state.preload.total = titles.length;
@@ -717,6 +754,7 @@ async function preloadAllTitles() {
   await Promise.all(Array.from({ length: PRELOAD_CONCURRENCY }, worker));
   state.preload.running = false;
   state.preload.done = true;
+  if (!state.preload.failed) state.offlineStored = true;
   setPreloadStatus();
 
   if (state.search.q) {
@@ -2037,6 +2075,67 @@ function bindUI() {
   });
 }
 
+// -----------------------------
+// PWA INSTALL
+// -----------------------------
+// Chromium browsers fire beforeinstallprompt when the app is installable; we
+// stash the event so the Settings "Install app" button can re-fire it. iOS
+// Safari has no install API at all, so there the button explains the manual
+// Share → Add to Home Screen steps instead.
+let deferredInstallPrompt = null;
+
+function isInstalledDisplayMode() {
+  return window.matchMedia?.("(display-mode: standalone)")?.matches
+    || navigator.standalone === true; // iOS home-screen web app
+}
+
+function setupInstallUI() {
+  if (IS_PACKAGED_APP || isInstalledDisplayMode()) return;
+  const row = $("installRow");
+  const btn = $("installBtn");
+  const hint = $("installHint");
+  if (!row || !btn) return;
+
+  const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent)
+    || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1); // iPadOS reports as Mac
+
+  window.addEventListener("beforeinstallprompt", (ev) => {
+    ev.preventDefault();
+    deferredInstallPrompt = ev;
+    row.hidden = false;
+    if (hint) hint.textContent = "Add to home screen";
+  });
+
+  window.addEventListener("appinstalled", () => {
+    deferredInstallPrompt = null;
+    row.hidden = true;
+    // Installed apps get persistent storage granted more readily.
+    requestPersistentStorage();
+  });
+
+  btn.addEventListener("click", async () => {
+    if (isIOS && !deferredInstallPrompt) {
+      alert("To install: tap the Share button in Safari, then choose “Add to Home Screen”.");
+      return;
+    }
+    if (!deferredInstallPrompt) return;
+    const ev = deferredInstallPrompt;
+    deferredInstallPrompt = null;
+    ev.prompt();
+    const choice = await ev.userChoice.catch(() => null);
+    if (choice?.outcome === "accepted") {
+      row.hidden = true;
+    } else {
+      deferredInstallPrompt = ev; // declined — keep the button so they can retry
+    }
+  });
+
+  if (isIOS) {
+    row.hidden = false;
+    if (hint) hint.textContent = "Share → Add to Home Screen";
+  }
+}
+
 function registerServiceWorker() {
   if (!("serviceWorker" in navigator)) return;
   // Android packages these files directly; its WebView asset origin is already offline.
@@ -2055,11 +2154,13 @@ function registerServiceWorker() {
   configurePackagedApp();
   updateBookmarkBadge();
   bindUI();
+  setupInstallUI();
   registerServiceWorker();
 
   try {
     await Promise.all([loadMaster(), loadInfractions()]);
     setStatus("Ready");
+    checkOfflineStored(); // async — reflects a previous session's download
     await applyRoute();
     loadStatutesIndex(); // large file — load without blocking first paint
     // Titles load on demand as the user browses; the full corpus is only
