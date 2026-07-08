@@ -565,13 +565,22 @@ function wireNavFilter() {
   });
 }
 
+function lettersHtml(active) {
+  return "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").map((l) =>
+    `<a href="${H.ixLetter(l)}" class="${l === active ? "active" : ""}">${l}</a>`).join("");
+}
+
 function sidenavLetters(active) {
-  const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
   sidenavEl.innerHTML = `
     <a class="nav-back" href="#/">← Home</a>
     <div class="nav-head">Subject index</div>
-    <div class="letters">${letters.map((l) =>
-      `<a href="${H.ixLetter(l)}" class="${l === active ? "active" : ""}">${l}</a>`).join("")}</div>`;
+    <div class="letters">${lettersHtml(active)}</div>`;
+}
+
+// on narrow layouts the sidebar lives in a drawer, so index pages repeat the
+// A–Z grid inline (hidden on wide screens via .letters-inline)
+function lettersInlineHtml(active) {
+  return `<div class="letters letters-inline" aria-label="Index letters">${lettersHtml(active)}</div>`;
 }
 
 function sidenavInfCats(active) {
@@ -1167,6 +1176,7 @@ async function viewIndex(token, r) {
       <div class="crumbs"><a href="${H.ix()}">Index</a><span class="sep">›</span>${esc(r.letter)}</div>
       <h1 class="page-h">Index — ${esc(r.letter)}</h1>
       <p class="page-sub">${list.length} topics</p>
+      ${lettersInlineHtml(r.letter)}
       <div class="ix-cols">${list.map((h) =>
         `<a class="row-item" href="${H.ixHeading(h.slug)}">${esc(titleCase(h.h))}</a>`).join("")}</div>`;
     return;
@@ -1175,8 +1185,9 @@ async function viewIndex(token, r) {
   readerEl.innerHTML = `
     <h1 class="page-h">Subject index</h1>
     <p class="page-sub">The Legislative Commissioners' official index to the General Statutes —
-      ${S.idx.headings.length.toLocaleString()} topics. Pick a letter on the left, or just search from the box above:
-      index topics are part of every search.</p>`;
+      ${S.idx.headings.length.toLocaleString()} topics. Pick a letter, or just search from the box above:
+      index topics are part of every search.</p>
+    ${lettersInlineHtml(null)}`;
 }
 
 function ixItemHtml(it) {

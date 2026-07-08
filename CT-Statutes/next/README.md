@@ -84,7 +84,9 @@ visible. Deep links into a collapsed definition expand the group automatically.
 
 Statute text is set in a serif stack at a measured line length; UI chrome stays
 sans-serif. Light/dark/auto theme, responsive three-pane → two-pane → drawer
-layout, print styles.
+layout, print styles. On phone widths the section tabs (Statutes · Index ·
+Infractions · Saved) become a fixed bottom app bar, and the subject-index pages
+repeat the A–Z letter grid inline since the sidebar lives in a drawer there.
 
 ## What's intentionally not here (yet)
 
