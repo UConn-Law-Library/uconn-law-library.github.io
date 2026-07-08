@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <title>CGS Reader — Connecticut General Statutes</title>
+  <meta name="description" content="A reading-first explorer for the Connecticut General Statutes: continuous chapter reading, structured subsections, and one unified search." />
+  <link rel="stylesheet" href="./styles.css" />
+  <script>
+    // apply saved theme before first paint
+    try {
+      var t = localStorage.getItem("cgsr:theme");
+      if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+    } catch (e) { }
+  </script>
+</head>
+
+<body>
+  <a class="skip-link" href="#reader">Skip to content</a>
+
+  <header class="app" id="appHeader">
+    <button id="menuBtn" class="icon-btn menu-btn" aria-label="Open contents" aria-expanded="false">☰</button>
+    <a class="brand" href="#/" aria-label="CGS Reader home">
+      <span class="brand-mark" aria-hidden="true">§</span>
+      <span class="brand-name">CGS <em>Reader</em></span>
+    </a>
+
+    <div class="omni" id="omni">
+      <input id="q" type="search" placeholder="Search everything — try “14-296aa”, dog license, negligence…"
+        autocomplete="off" spellcheck="false" aria-label="Search statutes, index topics and infractions"
+        role="combobox" aria-expanded="false" aria-controls="omniPanel" />
+      <kbd class="omni-kbd" aria-hidden="true">/</kbd>
+      <div id="omniPanel" class="omni-panel" role="listbox" hidden></div>
+    </div>
+
+    <nav class="quick-nav" aria-label="Sections">
+      <a href="#/" data-area="home"><span class="qn-ico" aria-hidden="true">§</span><span>Statutes</span></a>
+      <a href="#/ix" data-area="ix"><span class="qn-ico" aria-hidden="true">🔎</span><span>Index</span></a>
+      <a href="#/inf" data-area="inf"><span class="qn-ico" aria-hidden="true">💵</span><span>Infractions</span></a>
+      <a href="#/bm" data-area="bm"><span class="qn-ico" aria-hidden="true">★</span><span>Saved</span><span id="bmBadge" class="badge" hidden></span></a>
+    </nav>
+
+    <button id="themeBtn" class="icon-btn" aria-label="Toggle theme" title="Theme">◐</button>
+  </header>
+
+  <div class="scrim" id="scrim" hidden></div>
+
+  <main>
+    <nav id="sidenav" aria-label="Contents"></nav>
+    <section id="reader" tabindex="-1"></section>
+    <aside id="outline" aria-label="Sections in this chapter" hidden></aside>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+
+</html>
