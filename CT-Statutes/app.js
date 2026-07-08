@@ -730,7 +730,8 @@ async function preloadAllTitles() {
 // -----------------------------
 // SEARCH
 // -----------------------------
-const STAT_QUERY_RE = /^(?:sec(?:tion)?\.?\s*|§\s*)?(\d+[a-z]{0,2}-\d+[a-z]{0,3})\.?$/i;
+// Second dash segment covers UCC citations like 42a-1-201.
+const STAT_QUERY_RE = /^(?:sec(?:tion)?\.?\s*|§\s*)?(\d+[a-z]{0,2}-\d+[a-z]{0,3}(?:-\d+[a-z]{0,3})?)\.?$/i;
 
 // --- boolean query language: terms are ANDed by default; AND / OR / NOT
 // (capitals) and a leading "-" combine them; "double quotes" match exact
@@ -993,14 +994,17 @@ function runSearch() {
 // link when they resolve in the loaded data, which filters false positives
 // like year ranges ("2019-2020" is not a section). Run on escaped HTML.
 function linkifyCitations(escapedText, selfKey) {
-  let html = escapedText.replace(/\b\d+[a-z]{0,3}-\d+[a-z]{0,3}\b/g, (token, offset, str) => {
-    if (token === selfKey) return token;
+  // UCC keys carry a second dash and an uppercase article letter (42a-2A-303);
+  // stored section keys are lowercase, so match loosely and look up lowercased.
+  let html = escapedText.replace(/\b\d+[a-zA-Z]{0,3}-\d+[a-zA-Z]{0,3}(?:-\d+[a-zA-Z]{0,3})?\b/g, (token, offset, str) => {
+    const key = token.toLowerCase();
+    if (key === selfKey) return token;
     // public/special act numbers ("P.A. 14-130") share the section format
     const before = str.slice(Math.max(0, offset - 12), offset);
     if (/(?:P\.?A\.?|S\.?A\.?|act)\s*$/i.test(before)) return token;
-    const loc = state.sectionLoc.get(token);
+    const loc = state.sectionLoc.get(key);
     if (!loc) return token;
-    return `<a href="${hashFor.section(loc.t, loc.c, token)}">${token}</a>`;
+    return `<a href="${hashFor.section(loc.t, loc.c, key)}">${token}</a>`;
   });
   html = html.replace(/\b(chapters?\s+)(\d+[a-z]?)\b/gi, (m, word, num) => {
     const loc = state.chapterLoc.get(num.toLowerCase());
@@ -1409,13 +1413,13 @@ function citedSectionKeys(paragraphs, selfKey) {
   const found = new Set();
   for (const p of paragraphs || []) {
     const str = String(p);
-    for (const m of str.matchAll(/\b\d+[a-z]{0,3}-\d+[a-z]{0,3}\b/g)) {
-      const token = m[0];
-      if (token === selfKey || found.has(token)) continue;
+    for (const m of str.matchAll(/\b\d+[a-zA-Z]{0,3}-\d+[a-zA-Z]{0,3}(?:-\d+[a-zA-Z]{0,3})?\b/g)) {
+      const key = m[0].toLowerCase();
+      if (key === selfKey || found.has(key)) continue;
       const before = str.slice(Math.max(0, m.index - 12), m.index);
       if (/(?:P\.?A\.?|S\.?A\.?|act)\s*$/i.test(before)) continue;
-      if (!state.sectionLoc.has(token) && !titleKeyForSection(token)) continue;
-      found.add(token);
+      if (!state.sectionLoc.has(key) && !titleKeyForSection(key)) continue;
+      found.add(key);
     }
   }
   return [...found].sort((a, b) => a.localeCompare(b, "en", { numeric: true }));

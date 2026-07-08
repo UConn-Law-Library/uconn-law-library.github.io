@@ -2,7 +2,9 @@
 """
 CT General Statutes crawler (cga.ct.gov)
 - Starts at: https://www.cga.ct.gov/current/pub/titles.htm
-- Traverses: Titles -> Chapters -> Sections (anchors on chapter pages)
+- Traverses: Titles -> Chapters -> Sections (anchors on chapter pages).
+  Title 42a (UCC) uses articles instead of chapters; they are crawled the
+  same way and stored in the chapters[] shape with keys like "art_002a".
 - Outputs: JSON to a file beside this .py (cgs_index.json)
 
 Dependencies:
@@ -32,15 +34,19 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 TITLE_ID_RE = re.compile(r"\btitle_(\d+[a-z]?)\b", re.IGNORECASE)
 CHAP_ID_RE = re.compile(r"\bchap_(\d+[a-z]?)\b", re.IGNORECASE)
+# Title 42a (UCC) is divided into articles (art_001.htm ... art_010.htm)
+# instead of chapters; they use the same page layout as chapter pages.
+ART_ID_RE = re.compile(r"\bart_(\d+[a-z]?)\b", re.IGNORECASE)
 
-# Section anchors can be like #sec_7-123 or #sec7-123; we extract the key "7-123"
-SEC_ANCHOR_RE = re.compile(r"#sec[_-]?([0-9]+[a-z]*-[0-9]+[a-z]*)", re.IGNORECASE)
+# Section anchors can be like #sec_7-123 or #sec7-123; we extract the key "7-123".
+# UCC sections carry a second dash (#sec_42a-1-201 -> "42a-1-201").
+SEC_ANCHOR_RE = re.compile(r"#sec[_-]?([0-9]+[a-z]*-[0-9]+[a-z]*(?:-[0-9]+[a-z]*)?)", re.IGNORECASE)
 # Fallback from visible label text like "Sec. 7-123. ..."
-SEC_LABEL_RE = re.compile(r"\bSec\.\s*([0-9]+[a-z]*-[0-9]+[a-z]*)\b", re.IGNORECASE)
+SEC_LABEL_RE = re.compile(r"\bSec\.\s*([0-9]+[a-z]*-[0-9]+[a-z]*(?:-[0-9]+[a-z]*)?)\b", re.IGNORECASE)
 
 # Repealed note detection and section-fragment extraction within those paragraphs
 REPEALED_RE = re.compile(r"\bare repealed\b", re.IGNORECASE)
-SEC_FRAG_RE = re.compile(r"#sec[_-]?([0-9]+[a-z]*-[0-9]+[a-z]*)", re.IGNORECASE)
+SEC_FRAG_RE = re.compile(r"#sec[_-]?([0-9]+[a-z]*-[0-9]+[a-z]*(?:-[0-9]+[a-z]*)?)", re.IGNORECASE)
 
 UA = (
     "Mozilla/5.0 (compatible; CTStatutesIndexer/1.0; "
@@ -118,7 +124,7 @@ def merge_link_texts_by_url(raw_links: List[Tuple[str, str]], kind: str) -> Dict
                 # accumulate secondary
                 merged[url]["secondary"] = text_clean((merged[url]["secondary"] + " " + t).strip())
         elif kind == "chapter":
-            if re.match(r"^Chapter\s+\d", t, re.IGNORECASE):
+            if re.match(r"^(?:Chapter|Article)\s+\d", t, re.IGNORECASE):
                 merged[url]["primary"] = t
             else:
                 merged[url]["secondary"] = text_clean((merged[url]["secondary"] + " " + t).strip())
@@ -173,7 +179,8 @@ def extract_chapter_links(title_html: str, title_url: str) -> List[Tuple[str, st
     for a in a_tags_with_href(soup):
         href = a["href"].strip()
         abs_url = urljoin(title_url, href)
-        if not CHAP_ID_RE.search(urlparse(abs_url).path):
+        path = urlparse(abs_url).path
+        if not (CHAP_ID_RE.search(path) or ART_ID_RE.search(path)):
             continue
         raw.append((abs_url, a.get_text(" ", strip=True)))
 
@@ -182,18 +189,25 @@ def extract_chapter_links(title_html: str, title_url: str) -> List[Tuple[str, st
     chapters: List[Tuple[str, str, str, str]] = []
     for abs_url, parts in merged.items():
         m = CHAP_ID_RE.search(abs_url)
-        if not m:
-            continue
-        chap_key = m.group(1).lower()
-        chap_label = parts["primary"] or f"Chapter {chap_key}"
+        if m:
+            chap_key = m.group(1).lower()
+            fallback_label = f"Chapter {chap_key}"
+        else:
+            m = ART_ID_RE.search(abs_url)
+            if not m:
+                continue
+            # Prefix keeps article keys distinct from chapter numbers.
+            chap_key = f"art_{m.group(1).lower()}"
+            fallback_label = f"Article {m.group(1).lstrip('0').lower()}"
+        chap_label = parts["primary"] or fallback_label
         chap_name = parts["secondary"] or ""
         chapters.append((chap_key, chap_label, chap_name, abs_url))
 
     def sort_key(c: Tuple[str, str, str, str]):
-        k = c[0]
-        num = int(re.match(r"\d+", k).group(0)) if re.match(r"\d+", k) else 0
-        suffix = k[len(str(num)) :]
-        return (num, suffix)
+        m = re.match(r"^(?:art_)?0*(\d+)([a-z]*)$", c[0])
+        if not m:
+            return (0, c[0])
+        return (int(m.group(1)), m.group(2))
 
     chapters.sort(key=sort_key)
     return chapters
@@ -253,24 +267,22 @@ def _find_section_anchor(soup: BeautifulSoup, sec_key: str) -> Optional[Tag]:
     CGA chapter pages commonly use id/name like:
       - sec_7-123
       - sec7-123
+
+    The lookup is case-insensitive because keys are lowercased while UCC
+    anchor ids keep the article's case (e.g. sec_42a-2A-101).
     """
     if not sec_key:
         return None
 
-    candidates = [f"sec_{sec_key}".lower(), f"sec{sec_key}".lower()]
+    pattern = re.compile(rf"^sec_?{re.escape(sec_key)}$", re.IGNORECASE)
 
-    for anchor in candidates:
-        t = soup.find(id=anchor)
-        if t:
-            return t
-        t = soup.find("a", attrs={"name": anchor})
-        if t:
-            return t
-        t = soup.find(attrs={"name": anchor})
-        if t:
-            return t
-
-    return None
+    t = soup.find(id=pattern)
+    if t:
+        return t
+    t = soup.find("a", attrs={"name": pattern})
+    if t:
+        return t
+    return soup.find(attrs={"name": pattern})
 
 
 def _is_section_anchor_tag(tag: Tag) -> bool:
@@ -428,12 +440,26 @@ def extract_repealed_note_map(chapter_html: str) -> Dict[str, str]:
     return out
 
 
-def build_index(cfg: FetchConfig) -> Dict:
+def normalize_title_key(key: str) -> str:
+    """'4a' -> '04a', '42A' -> '42a' (matches extract_title_links keys)."""
+    m = re.match(r"^(\d+)([a-z]?)$", key.strip().lower())
+    if not m:
+        return key.strip().lower()
+    return m.group(1).zfill(2) + m.group(2)
+
+
+def build_index(cfg: FetchConfig, only_titles: Optional[Set[str]] = None) -> Dict:
     session = requests.Session()
     session.headers.update({"User-Agent": UA})
 
     titles_html = fetch_html(session, BASE_TITLES_URL, cfg)
     title_links = extract_title_links(titles_html, BASE_TITLES_URL)
+
+    if only_titles:
+        title_links = [t for t in title_links if t[0] in only_titles]
+        missing = only_titles - {t[0] for t in title_links}
+        if missing:
+            raise SystemExit(f"Unknown title key(s): {', '.join(sorted(missing))}")
 
     index: Dict = {
         "source": {
@@ -530,10 +556,14 @@ def build_index(cfg: FetchConfig) -> Dict:
         })
 
     # ---------- WRITE MASTER INDEX (ONCE) ----------
-    master_path = os.path.join(OUTPUT_DIR, "titles_index.json")
-    with open(master_path, "w", encoding="utf-8") as f:
-        json.dump(index, f, ensure_ascii=False, indent=2)
-    print("Saved titles_index.json")
+    # A partial crawl must not clobber the full master index.
+    if only_titles:
+        print("Skipped titles_index.json (partial crawl)")
+    else:
+        master_path = os.path.join(OUTPUT_DIR, "titles_index.json")
+        with open(master_path, "w", encoding="utf-8") as f:
+            json.dump(index, f, ensure_ascii=False, indent=2)
+        print("Saved titles_index.json")
 
     return index
 
@@ -544,6 +574,13 @@ def main() -> None:
     parser.add_argument("--jitter", type=float, default=0.2, help="Random jitter added to sleep (seconds).")
     parser.add_argument("--timeout", type=float, default=30.0, help="Request timeout (seconds).")
     parser.add_argument("--no-ssl-verify", action="store_true", help="Disable SSL verification (not recommended).")
+    parser.add_argument(
+        "--titles",
+        type=str,
+        default="",
+        help="Comma-separated title keys to crawl (e.g. '42a,42b'). "
+             "Crawls everything when omitted; a partial crawl leaves titles_index.json untouched.",
+    )
     parser.add_argument(
         "--out",
         type=str,
@@ -573,7 +610,8 @@ def main() -> None:
         verify_ssl=verify_ssl,
     )
 
-    index = build_index(cfg)
+    only_titles = {normalize_title_key(k) for k in args.titles.split(",") if k.strip()} or None
+    index = build_index(cfg, only_titles=only_titles)
 
     out_json = json.dumps(index, ensure_ascii=False, indent=2)
 
