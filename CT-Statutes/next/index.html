@@ -11,10 +11,14 @@
   <link rel="icon" href="./icon.svg" type="image/svg+xml" />
   <link rel="stylesheet" href="./styles.css" />
   <script>
-    // apply saved theme before first paint
+    // apply saved display settings before first paint to avoid a flash;
+    // app.js owns the settings menu that changes them
     try {
       var t = localStorage.getItem("cgsr:theme");
       if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+      var s = parseFloat(localStorage.getItem("cgsr:textsize"));
+      if (s >= 0.8 && s <= 1.4) document.documentElement.style.setProperty("--font-scale", s);
+      if (localStorage.getItem("cgsr:density") === "compact") document.documentElement.dataset.density = "compact";
     } catch (e) { }
   </script>
 </head>
@@ -45,8 +49,49 @@
     </nav>
 
     <button id="installBtn" class="install-btn" hidden>Install app</button>
-    <button id="themeBtn" class="icon-btn" aria-label="Toggle theme" title="Theme">◐</button>
+    <button id="settingsBtn" class="icon-btn" aria-label="Settings" title="Settings" aria-haspopup="true"
+      aria-expanded="false">⚙</button>
   </header>
+
+  <div id="settingsPanel" class="settings-panel" role="dialog" aria-label="Settings" hidden>
+    <div class="setting-row">
+      <span class="setting-label" id="themeLabel">Theme</span>
+      <div class="segmented" role="group" aria-labelledby="themeLabel">
+        <button class="btn" data-theme-choice="auto">Auto</button>
+        <button class="btn" data-theme-choice="light">Light</button>
+        <button class="btn" data-theme-choice="dark">Dark</button>
+      </div>
+    </div>
+    <div class="setting-row">
+      <span class="setting-label">Text size</span>
+      <div class="segmented">
+        <button class="btn" id="textSmaller" aria-label="Decrease text size">A−</button>
+        <span class="setting-value" id="textSizeValue" aria-live="polite">100%</span>
+        <button class="btn" id="textLarger" aria-label="Increase text size">A+</button>
+      </div>
+    </div>
+    <div class="setting-row">
+      <label class="setting-label" for="densityToggle">Compact lists</label>
+      <input type="checkbox" id="densityToggle" />
+    </div>
+    <hr class="setting-divider" />
+    <div class="setting-row">
+      <button class="btn" id="offlineDownloadBtn">Download for offline use</button>
+      <span class="setting-hint" id="offlineHint">All statutes</span>
+    </div>
+    <div class="setting-row">
+      <button class="btn" id="refreshDataBtn">Re-download data</button>
+      <span class="setting-hint">Refresh offline statutes</span>
+    </div>
+    <div class="setting-row">
+      <button class="btn" id="clearBookmarksBtn">Clear bookmarks</button>
+      <span class="setting-hint" id="bookmarkHint"></span>
+    </div>
+    <hr class="setting-divider" />
+    <div class="setting-row setting-about">
+      <button class="btn" id="aboutBtn">About CGS Reader</button>
+    </div>
+  </div>
 
   <div class="scrim" id="scrim" hidden></div>
 
@@ -55,6 +100,9 @@
     <section id="reader" tabindex="-1"></section>
     <aside id="outline" aria-label="Sections in this chapter" hidden></aside>
   </main>
+
+  <button id="outlineFab" class="outline-fab" aria-label="Sections on this page" aria-controls="outline"
+    aria-expanded="false" hidden><span aria-hidden="true">≡</span> Sections</button>
 
   <script src="./app.js"></script>
 </body>

@@ -11,12 +11,18 @@
 // -----------------------------
 // CONFIG / STORAGE
 // -----------------------------
+const APP_VERSION = "1.0.0";
+const APP_YEAR = 2026;
+
 const DATA_DIR = "../data/";
 const MASTER_URL = DATA_DIR + "titles_index.json";
 const INFRACTIONS_URL = DATA_DIR + "infractions.json";
 const STAT_INDEX_URL = DATA_DIR + "statutes_index.json";
 
-const THEME_KEY = "cgsr:theme";
+const THEME_KEY = "cgsr:theme";       // "light" | "dark" pins a theme; unset follows the system
+const TEXT_SIZE_KEY = "cgsr:textsize"; // font scale factor; unset = 1
+const DENSITY_KEY = "cgsr:density";    // "compact"; unset = comfortable
+const TEXT_SIZES = [0.85, 0.925, 1, 1.075, 1.15, 1.25, 1.4];
 const BM_KEY = "cgsr:bookmarks";
 const RC_KEY = "cgsr:recents";
 const RECENT_MAX = 12;
@@ -133,6 +139,7 @@ const H = {
   inf: () => "#/inf",
   infCat: (slug) => `#/inf/c/${encodeURIComponent(slug)}`,
   bm: () => "#/bm",
+  about: () => "#/about",
 };
 
 function parseHash() {
@@ -159,6 +166,7 @@ function parseHash() {
       if (parts[1] === "c") r.cat = parts[2];
       return r;
     case "bm": r.area = "bm"; return r;
+    case "about": r.area = "about"; return r;
   }
   return r;
 }
@@ -257,6 +265,7 @@ async function boot() {
   S.master = await fetchJSON(MASTER_URL);
   S.titles = S.master.titles || [];
   for (const t of S.titles) S.titleByKey.set(t.title_key, t);
+  checkOfflineStored();
 
   fetchJSON(INFRACTIONS_URL).then((inf) => {
     S.inf = inf;
@@ -488,6 +497,8 @@ async function render() {
   $("scrim").hidden = true;
   S.ft.cancel = true;
   stopSpy();                 // the old view's scroll listener must not see the rebuild
+  setOutlineOpen(false);
+  $("outlineFab").hidden = true;
   outlineEl.hidden = true;
   outlineEl.innerHTML = "";
   markQuickNav(r);
@@ -503,6 +514,7 @@ async function render() {
     if (r.area === "ix") return await viewIndex(token, r);
     if (r.area === "inf") return viewInfractions(token, r);
     if (r.area === "bm") return viewBookmarks(token);
+    if (r.area === "about") return viewAbout(token);
     viewHome(token);
   } catch (e) {
     if (token !== S.renderToken) return;
@@ -696,7 +708,7 @@ async function viewChapter(token, tk, ck, sk, sub) {
     </div>
     <div class="ch-header">
       <h1 class="page-h">Chapter ${esc(ck)} — ${esc(ch.name || "")}</h1>
-      <p class="page-sub">${esc(t.label)} · ${secs.length} section${secs.length === 1 ? "" : "s"} · reads as one page</p>
+      <p class="page-sub">${esc(t.label)} · ${secs.length} section${secs.length === 1 ? "" : "s"}</p>
     </div>
     <div id="secs"></div>`;
 
@@ -754,7 +766,7 @@ function sectionHtml(sec, tk, ck) {
       <button class="chip bm ${bm ? "on" : ""}" data-act="bm">${bm ? "★ Saved" : "☆ Save"}</button>
       ${hist.length ? `<button class="chip" data-act="hist">History</button>` : ""}
       ${ann.length ? `<button class="chip" data-act="ann">Annotations (${ann.length})</button>` : ""}
-      ${fines.length ? `<button class="chip" data-act="fines">Fines (${fines.length})</button>` : ""}
+      ${fines.length ? `<button class="chip" data-act="fines">Infractions (${fines.length})</button>` : ""}
       <button class="chip" data-act="cites">${citedBy ? `Cited by (${citedBy})` : "Cited by"}</button>
       <button class="chip" data-act="copy">Copy link</button>
       ${sec.url ? `<a class="chip" href="${esc(sec.url)}" target="_blank" rel="noopener">cga.ct.gov ↗</a>` : ""}
@@ -767,7 +779,7 @@ function sectionHtml(sec, tk, ck) {
 
 function finesTable(entries) {
   return `<table class="fines">
-    <tr><th>Violation</th><th></th><th style="text-align:right">Total due</th></tr>
+    <tr><th>Violation</th><th></th><th style="text-align:right">Amount</th></tr>
     ${entries.map((e) => `<tr>
       <td>${esc(e.description || "")}</td>
       <td>${e.subsequent ? `<span class="muted small">subsequent offense</span>` : ""}</td>
@@ -861,6 +873,7 @@ function buildOutline(ch, tk) {
   const secs = ch.sections || [];
   if (!secs.length) return;
   outlineEl.hidden = false;
+  $("outlineFab").hidden = false;   // small screens: floating button opens this as a popover
   outlineEl.innerHTML = `
     <div class="ol-head">On this page</div>
     ${secs.map((s) => {
@@ -986,6 +999,20 @@ async function viewResolve(token, ref) {
 // -----------------------------
 // SEARCH (instant + results page)
 // -----------------------------
+// Section headings only become searchable once their title's JSON is loaded
+// (registerTitle fills S.navSecRows), so on a fresh visit a citation query
+// like "14-4" finds infractions but no sections. When a query names a
+// section, fetch that title in the background and refresh the results, so
+// sections show up on the first search rather than after visiting the title.
+function ensureCitedTitle(q, refresh) {
+  for (const tok of tokenize(q)) {
+    const tk = titleKeyForSection(tok);
+    if (!tk) continue;
+    if (!S.registered.has(tk)) loadTitle(tk).then(refresh).catch(() => { });
+    return;
+  }
+}
+
 function navSearch(q, perGroup) {
   const terms = tokenize(q);
   const out = { jump: null, titles: [], chapters: [], sections: [], topics: [], fines: [], topicsPending: !S.idx };
@@ -1031,6 +1058,9 @@ async function viewSearch(token, q) {
       if (token === S.renderToken && S.route?.area === "search" && S.route.q === q) render();
     });
   }
+  ensureCitedTitle(q, () => {
+    if (token === S.renderToken && S.route?.area === "search" && S.route.q === q) render();
+  });
 
   const r = navSearch(q, 50);
   const terms = tokenize(q);
@@ -1071,6 +1101,27 @@ function infRowHtml(terms) {
       <span class="ri-sub">${esc(titleCase(e.category || ""))}${e.subsequent ? " · subsequent offense" : ""}</span>`;
     return target ? `<a class="row-item" href="${target}">${inner}</a>` : `<div class="row-item">${inner}</div>`;
   };
+}
+
+// -----------------------------
+// VIEW: ABOUT
+// -----------------------------
+function viewAbout(token) {
+  sidenavTitles(null);
+  readerEl.innerHTML = `
+    <div class="about">
+      <div class="about-brand">
+        <img src="./wordmark.svg" alt="UConn School of Law — Law Library and Technology" />
+      </div>
+      <h1 class="page-h">CGS Reader</h1>
+      <p class="page-sub">A reading-first explorer for the Connecticut General Statutes:
+        continuous chapter reading, structured subsections, and one unified search.</p>
+      <p class="about-meta">Version ${APP_VERSION} · ${APP_YEAR}</p>
+      <p><a class="btn primary" href="https://library.law.uconn.edu/" target="_blank" rel="noopener">Visit the Law Library ↗</a></p>
+      <p class="muted small">Statute text and the infraction schedule are drawn from the Connecticut General
+        Assembly's published revision. This reader is an unofficial research aid — verify language
+        and amounts against official sources before relying on them.</p>
+    </div>`;
 }
 
 // -----------------------------
@@ -1281,6 +1332,9 @@ function renderOmni(q) {
   const terms = tokenize(q);
   if (!terms.length) { closeOmni(); return; }
   loadIndexLazy();
+  ensureCitedTitle(q, () => {
+    if (!omniPanel.hidden && qEl.value === q) renderOmni(q);
+  });
   const r = navSearch(q, 5);
   const hl = (s) => highlightTerms(esc(s), terms);
   const items = [];
@@ -1360,17 +1414,183 @@ function wireOmni() {
 }
 
 // -----------------------------
-// THEME + MOBILE NAV
+// SETTINGS (theme, text size, density, offline data, bookmarks)
 // -----------------------------
-function wireChrome() {
-  $("themeBtn").addEventListener("click", () => {
-    const cur = document.documentElement.dataset.theme || "auto";
-    const next = cur === "auto" ? "dark" : cur === "dark" ? "light" : "auto";
-    if (next === "auto") { delete document.documentElement.dataset.theme; localStorage.removeItem(THEME_KEY); }
-    else { document.documentElement.dataset.theme = next; localStorage.setItem(THEME_KEY, next); }
-    $("themeBtn").title = "Theme: " + next;
+// Same menu as the original app's ⚙ Settings, adapted to the Reader's chrome.
+const darkQuery = window.matchMedia("(prefers-color-scheme: dark)");
+
+function getSetting(key) {
+  try { return localStorage.getItem(key); } catch { return null; }
+}
+
+function setSetting(key, value) {
+  try {
+    if (value === null) localStorage.removeItem(key);
+    else localStorage.setItem(key, value);
+  } catch { /* private mode — applies for this session only */ }
+}
+
+function storedTheme() {
+  const t = getSetting(THEME_KEY);
+  return t === "light" || t === "dark" ? t : null;
+}
+
+function effectiveTheme() {
+  return storedTheme() || (darkQuery.matches ? "dark" : "light");
+}
+
+function textScale() {
+  const v = parseFloat(getSetting(TEXT_SIZE_KEY));
+  return TEXT_SIZES.includes(v) ? v : 1;
+}
+
+function applySettings() {
+  const root = document.documentElement;
+
+  const pinned = storedTheme();
+  if (pinned) root.dataset.theme = pinned;
+  else delete root.dataset.theme;
+  document.querySelector('meta[name="theme-color"]')
+    ?.setAttribute("content", effectiveTheme() === "dark" ? "#14161b" : "#1e4fa3");
+
+  const scale = textScale();
+  if (scale === 1) root.style.removeProperty("--font-scale");
+  else root.style.setProperty("--font-scale", String(scale));
+
+  const compact = getSetting(DENSITY_KEY) === "compact";
+  if (compact) root.dataset.density = "compact";
+  else delete root.dataset.density;
+
+  // reflect state in the panel controls
+  const choice = pinned || "auto";
+  $("settingsPanel").querySelectorAll("[data-theme-choice]").forEach((btn) => {
+    btn.setAttribute("aria-pressed", String(btn.dataset.themeChoice === choice));
+  });
+  $("textSizeValue").textContent = Math.round(scale * 100) + "%";
+  $("textSmaller").disabled = TEXT_SIZES.indexOf(scale) === 0;
+  $("textLarger").disabled = TEXT_SIZES.indexOf(scale) === TEXT_SIZES.length - 1;
+  $("densityToggle").checked = compact;
+  $("bookmarkHint").textContent = S.bookmarks.length
+    ? `${S.bookmarks.length} saved` : "None saved";
+  $("clearBookmarksBtn").disabled = !S.bookmarks.length;
+  updateOfflineButton();
+}
+
+function stepTextSize(delta) {
+  const i = TEXT_SIZES.indexOf(textScale()) + delta;
+  const next = TEXT_SIZES[Math.max(0, Math.min(TEXT_SIZES.length - 1, i))];
+  setSetting(TEXT_SIZE_KEY, next === 1 ? null : String(next));
+  applySettings();
+}
+
+function toggleSettingsPanel(open) {
+  const panel = $("settingsPanel");
+  const show = open ?? panel.hidden;
+  panel.hidden = !show;
+  $("settingsBtn").setAttribute("aria-expanded", String(show));
+  if (show) applySettings();
+}
+
+function bindSettings() {
+  const settingsBtn = $("settingsBtn"), settingsPanel = $("settingsPanel");
+  settingsBtn.addEventListener("click", () => toggleSettingsPanel());
+
+  document.addEventListener("click", (ev) => {
+    // Exclude the whole button subtree so opening clicks don't count as
+    // outside clicks and immediately close the panel again.
+    if (!settingsPanel.hidden && !settingsPanel.contains(ev.target) && !settingsBtn.contains(ev.target)) {
+      toggleSettingsPanel(false);
+    }
+  });
+  document.addEventListener("keydown", (ev) => {
+    if (ev.key === "Escape" && !settingsPanel.hidden) toggleSettingsPanel(false);
   });
 
+  settingsPanel.querySelectorAll("[data-theme-choice]").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const c = btn.dataset.themeChoice;
+      setSetting(THEME_KEY, c === "auto" ? null : c);
+      applySettings();
+    });
+  });
+  // keep theme in sync with the OS while in auto mode
+  darkQuery.addEventListener?.("change", applySettings);
+
+  $("textSmaller").addEventListener("click", () => stepTextSize(-1));
+  $("textLarger").addEventListener("click", () => stepTextSize(1));
+
+  $("densityToggle").addEventListener("change", (ev) => {
+    setSetting(DENSITY_KEY, ev.target.checked ? "compact" : null);
+    applySettings();
+  });
+
+  $("offlineDownloadBtn").addEventListener("click", () => {
+    // user gesture — some browsers prompt for persistent storage
+    try { navigator.storage?.persist?.(); } catch { /* best effort */ }
+    downloadCorpus();
+  });
+
+  $("refreshDataBtn").addEventListener("click", async () => {
+    if ("caches" in window) await caches.delete(DATA_CACHE);
+    location.reload();
+  });
+
+  $("aboutBtn").addEventListener("click", () => {
+    toggleSettingsPanel(false);
+    location.hash = H.about();
+  });
+
+  $("clearBookmarksBtn").addEventListener("click", () => {
+    if (!S.bookmarks.length) return;
+    if (!confirm(`Remove all ${S.bookmarks.length} bookmarks? This cannot be undone.`)) return;
+    S.bookmarks = [];
+    saveJSON(BM_KEY, S.bookmarks);
+    updateBmBadge();
+    applySettings();
+    render();
+  });
+
+  // packaged apps ship the data on disk — offline controls make no sense there
+  if (IS_PACKAGED_APP) {
+    $("offlineDownloadBtn").closest(".setting-row").hidden = true;
+    $("refreshDataBtn").closest(".setting-row").hidden = true;
+  }
+}
+
+// -----------------------------
+// MOBILE NAV
+// -----------------------------
+// On narrow screens the "On this page" outline rail is hidden; a floating
+// button in the bottom-right corner of the chapter reader opens it as a
+// popover instead.
+function setOutlineOpen(open) {
+  document.body.classList.toggle("outline-open", open);
+  $("outlineFab").setAttribute("aria-expanded", String(open));
+  if (open) {
+    outlineEl.querySelector(".ol-item.active")?.scrollIntoView({ block: "center" });
+  }
+}
+
+function wireOutlineFab() {
+  const fab = $("outlineFab");
+  fab.addEventListener("click", () => {
+    setOutlineOpen(!document.body.classList.contains("outline-open"));
+  });
+  outlineEl.addEventListener("click", (ev) => {
+    if (ev.target.closest("a")) setOutlineOpen(false);
+  });
+  document.addEventListener("click", (ev) => {
+    if (document.body.classList.contains("outline-open")
+      && !outlineEl.contains(ev.target) && !fab.contains(ev.target)) {
+      setOutlineOpen(false);
+    }
+  });
+  document.addEventListener("keydown", (ev) => {
+    if (ev.key === "Escape" && document.body.classList.contains("outline-open")) setOutlineOpen(false);
+  });
+}
+
+function wireChrome() {
   const menuBtn = $("menuBtn"), scrim = $("scrim");
   menuBtn.addEventListener("click", () => {
     const open = !document.body.classList.contains("nav-open");
@@ -1463,28 +1683,61 @@ function registerServiceWorker() {
 
 const DATA_CACHE = "cgs-data-v1"; // must match sw.js (shared with the original app)
 
-// Fetch the whole corpus (~160 MB) in the background so the installed app
-// works offline with no manual step: one title at a time, through the service
+// Fetch the whole corpus (~160 MB): one title at a time, through the service
 // worker (which stores it in the shared data cache), skipping files already
-// there. Only runs when the app is installed — installing is the signal of
-// commitment; a casual browser visit (maybe on cellular data) stays
-// lightweight and just caches what it reads. Runs a few seconds after boot so
-// it never competes with what the user is reading. If the network drops
-// mid-run it just stops; the next launch picks up the remainder. Since the
-// cache is shared, this also lights up the original app's "Downloaded ✓"
-// state without visiting its Settings.
-let offlineDownloadRunning = false;
+// there. Runs a few seconds after boot so it never competes with what the
+// user is reading. If the network drops mid-run it just stops; the next
+// launch (or button press) picks up the remainder. Since the cache is
+// shared, this also lights up the original app's "Downloaded ✓" state.
+// Two entry points: automatically when the app is installed (installing is
+// the signal of commitment; a casual browser visit stays lightweight and
+// just caches what it reads), or manually from Settings.
+const offlineDL = { running: false, stored: false, loaded: 0, total: 0 };
 
-async function backgroundOfflineDownload(justInstalled = false) {
+// Reflect download progress in the Settings "Download for offline use" control.
+function updateOfflineButton() {
+  const btn = $("offlineDownloadBtn");
+  if (!btn) return;
+  const hint = $("offlineHint");
+  if (offlineDL.running) {
+    btn.disabled = true;
+    btn.textContent = `Downloading… ${offlineDL.loaded}/${offlineDL.total}`;
+    hint.textContent = "Keep this tab open";
+  } else if (offlineDL.stored) {
+    btn.disabled = true;
+    btn.textContent = "Downloaded ✓";
+    hint.textContent = "Available offline";
+  } else {
+    btn.disabled = false;
+    btn.textContent = "Download for offline use";
+    hint.textContent = "All statutes";
+  }
+}
+
+// The data cache persists across launches but download state lives in memory,
+// so on a fresh launch Settings would offer to download data already on the
+// device. Compare the cache against the master title list.
+async function checkOfflineStored() {
+  if (IS_PACKAGED_APP || !("caches" in window)) return;
+  try {
+    const cache = await caches.open(DATA_CACHE);
+    const have = new Set((await cache.keys())
+      .map((r) => new URL(r.url).pathname.split("/").pop()));
+    const files = (S.titles || []).map((t) => t.file).filter(Boolean);
+    offlineDL.stored = files.length > 0 && files.every((f) => have.has(f));
+  } catch {
+    offlineDL.stored = false;
+  }
+  updateOfflineButton();
+}
+
+async function downloadCorpus() {
   if (IS_PACKAGED_APP) return;                       // data is already on disk
-  // right after an in-browser install the tab is still in browser display
-  // mode, so the appinstalled handler passes justInstalled to start early
-  if (!justInstalled && !isInstalledDisplayMode()) return;
-  if (offlineDownloadRunning) return;
+  if (offlineDL.running) return;
   if (!("caches" in window) || !("serviceWorker" in navigator)) return;
-  if (navigator.connection?.saveData) return;        // respect Data Saver
 
-  offlineDownloadRunning = true;
+  offlineDL.running = true;
+  updateOfflineButton();
   try {
     // wait until a worker controls the page — fetches aren't cached before that
     // (sw.js calls clients.claim(), so the first visit gains control mid-session)
@@ -1503,26 +1756,41 @@ async function backgroundOfflineDownload(justInstalled = false) {
     const have = new Set((await cache.keys())
       .map((r) => new URL(r.url).pathname.split("/").pop()));
     const missing = files.filter((f) => !have.has(f));
-    if (!missing.length) return;
+    offlineDL.total = files.length;
+    offlineDL.loaded = files.length - missing.length;
+    if (!missing.length) { offlineDL.stored = true; return; }
+    updateOfflineButton();
 
     for (const f of missing) {
       try {
         const resp = await fetch(DATA_DIR + f);
         if (!resp.ok) continue;
         await resp.blob(); // drain so the SW's cache.put of the clone completes
+        offlineDL.loaded++;
+        updateOfflineButton();
       } catch {
         return; // offline — resume on the next launch
       }
       await new Promise((r) => setTimeout(r, 150)); // stay off the interactive path
     }
+    offlineDL.stored = offlineDL.loaded >= offlineDL.total;
 
     // the corpus is now on the device — ask the browser not to evict it
     try {
       if (!(await navigator.storage?.persisted?.())) navigator.storage?.persist?.();
     } catch { /* best effort */ }
   } finally {
-    offlineDownloadRunning = false;
+    offlineDL.running = false;
+    updateOfflineButton();
   }
+}
+
+async function backgroundOfflineDownload(justInstalled = false) {
+  // right after an in-browser install the tab is still in browser display
+  // mode, so the appinstalled handler passes justInstalled to start early
+  if (!justInstalled && !isInstalledDisplayMode()) return;
+  if (navigator.connection?.saveData) return;        // respect Data Saver
+  return downloadCorpus();
 }
 
 // -----------------------------
@@ -1533,6 +1801,9 @@ if ("scrollRestoration" in history) history.scrollRestoration = "manual";
 updateBmBadge();
 wireOmni();
 wireChrome();
+wireOutlineFab();
+bindSettings();
+applySettings();
 setupInstallUI();
 registerServiceWorker();
 boot().catch((e) => {
