@@ -1391,6 +1391,74 @@ function wireChrome() {
 }
 
 // -----------------------------
+// PWA (install button + offline shell)
+// -----------------------------
+// Same approach as ../app.js. The Android/iOS shells serve this code from
+// files packaged inside the app, where installing makes no sense.
+const IS_PACKAGED_APP = location.hostname === "appassets.androidplatform.net"
+  || location.protocol === "ctstatutes:";
+
+// Chromium browsers fire beforeinstallprompt when the app is installable; we
+// stash the event so the header "Install app" button can re-fire it. iOS
+// Safari has no install API at all, so there the button explains the manual
+// Share → Add to Home Screen steps instead.
+let deferredInstallPrompt = null;
+
+function isInstalledDisplayMode() {
+  return window.matchMedia?.("(display-mode: standalone)")?.matches
+    || navigator.standalone === true; // iOS home-screen web app
+}
+
+function setupInstallUI() {
+  if (IS_PACKAGED_APP || isInstalledDisplayMode()) return;
+  const btn = $("installBtn");
+  if (!btn) return;
+
+  const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent)
+    || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1); // iPadOS reports as Mac
+
+  window.addEventListener("beforeinstallprompt", (ev) => {
+    ev.preventDefault();
+    deferredInstallPrompt = ev;
+    btn.hidden = false;
+  });
+
+  window.addEventListener("appinstalled", () => {
+    deferredInstallPrompt = null;
+    btn.hidden = true;
+    // ask the browser not to evict the cached statutes under disk pressure
+    try { navigator.storage?.persist?.(); } catch { /* best effort */ }
+  });
+
+  btn.addEventListener("click", async () => {
+    if (isIOS && !deferredInstallPrompt) {
+      alert("To install: tap the Share button in Safari, then choose “Add to Home Screen”.");
+      return;
+    }
+    if (!deferredInstallPrompt) return;
+    const ev = deferredInstallPrompt;
+    deferredInstallPrompt = null;
+    ev.prompt();
+    const choice = await ev.userChoice.catch(() => null);
+    if (choice?.outcome === "accepted") {
+      btn.hidden = true;
+    } else {
+      deferredInstallPrompt = ev; // declined — keep the button so they can retry
+    }
+  });
+
+  if (isIOS) btn.hidden = false;
+}
+
+function registerServiceWorker() {
+  if (!("serviceWorker" in navigator) || IS_PACKAGED_APP) return;
+  // file:// and some embedded contexts don't support SW — offline mode then degrades gracefully
+  navigator.serviceWorker.register("./sw.js").catch((err) => {
+    console.warn("Service worker registration failed:", err);
+  });
+}
+
+// -----------------------------
 // GO
 // -----------------------------
 // the URL names the reading position; don't let the browser fight our scrolls
@@ -1398,6 +1466,8 @@ if ("scrollRestoration" in history) history.scrollRestoration = "manual";
 updateBmBadge();
 wireOmni();
 wireChrome();
+setupInstallUI();
+registerServiceWorker();
 boot().catch((e) => {
   readerEl.innerHTML = `<div class="notice">Failed to start: ${esc(e.message)}.
     Serve this folder over HTTP with the <code>data/</code> directory one level up

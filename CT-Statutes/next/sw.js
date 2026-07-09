@@ -1,0 +1,89 @@
+/* Service worker for CGS Reader (the /next/ prototype).
+ *
+ * Same strategy as the original app's sw.js:
+ * Shell (HTML/CSS/JS): network-first so deploys take effect on reload,
+ * falling back to cache when offline.
+ * Data (../data/*.json): cache-first — statute text rarely changes.
+ *
+ * The data cache name is shared with the original app on purpose: both apps
+ * fetch the identical ../data/ URLs, so statutes downloaded in either app are
+ * offline in both, and the ~160 MB corpus is stored once, not twice. (Caches
+ * are origin-scoped, not service-worker-scoped, so this just works; it also
+ * means the original app's "Re-download data" refreshes this app too.)
+ */
+
+"use strict";
+
+const SHELL_CACHE = "cgsr-shell-v1";
+const DATA_CACHE = "cgs-data-v1"; // shared with ../sw.js and ../app.js
+
+const SHELL_ASSETS = [
+  "./",
+  "./index.html",
+  "./styles.css",
+  "./app.js",
+  "./manifest.webmanifest",
+  "./icon.svg",
+];
+
+self.addEventListener("install", (event) => {
+  event.waitUntil(
+    caches.open(SHELL_CACHE).then((cache) => cache.addAll(SHELL_ASSETS))
+      .then(() => self.skipWaiting())
+  );
+});
+
+self.addEventListener("activate", (event) => {
+  event.waitUntil(
+    caches.keys().then((keys) =>
+      Promise.all(
+        // never delete the shared data cache or the original app's shell cache
+        keys.filter((k) => k.startsWith("cgsr-") && k !== SHELL_CACHE)
+          .map((k) => caches.delete(k))
+      )
+    ).then(() => self.clients.claim())
+  );
+});
+
+async function cacheFirst(request, cacheName) {
+  const cache = await caches.open(cacheName);
+  const cached = await cache.match(request);
+  if (cached) return cached;
+  const response = await fetch(request);
+  if (response.ok) cache.put(request, response.clone());
+  return response;
+}
+
+async function networkFirst(request, cacheName) {
+  const cache = await caches.open(cacheName);
+  try {
+    const response = await fetch(request);
+    if (response.ok) cache.put(request, response.clone());
+    return response;
+  } catch (err) {
+    const cached = await cache.match(request, { ignoreSearch: true });
+    if (cached) return cached;
+    if (request.mode === "navigate") {
+      const shell = await cache.match("./index.html");
+      if (shell) return shell;
+    }
+    throw err;
+  }
+}
+
+self.addEventListener("fetch", (event) => {
+  const { request } = event;
+  if (request.method !== "GET") return;
+
+  const url = new URL(request.url);
+  if (url.origin !== self.location.origin) return;
+
+  const scopePath = new URL(self.registration.scope).pathname;
+  if (url.pathname.includes("/data/")) {
+    // ../data/ sits outside this worker's scope path, but a controlling
+    // worker intercepts all of its page's requests, so this still fires.
+    event.respondWith(cacheFirst(request, DATA_CACHE));
+  } else if (url.pathname.startsWith(scopePath)) {
+    event.respondWith(networkFirst(request, SHELL_CACHE));
+  }
+});

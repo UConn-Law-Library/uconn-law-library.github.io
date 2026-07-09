@@ -1,0 +1,18 @@
+{
+  "name": "CGS Reader — Connecticut General Statutes",
+  "short_name": "CGS Reader",
+  "description": "A reading-first explorer for the Connecticut General Statutes: continuous chapter reading, structured subsections, and one unified search.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf9f6",
+  "theme_color": "#1e4fa3",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

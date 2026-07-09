@@ -6,6 +6,9 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
   <title>CGS Reader — Connecticut General Statutes</title>
   <meta name="description" content="A reading-first explorer for the Connecticut General Statutes: continuous chapter reading, structured subsections, and one unified search." />
+  <meta name="theme-color" content="#1e4fa3" />
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" href="./icon.svg" type="image/svg+xml" />
   <link rel="stylesheet" href="./styles.css" />
   <script>
     // apply saved theme before first paint
@@ -41,6 +44,7 @@
       <a href="#/bm" data-area="bm"><span class="qn-ico" aria-hidden="true">★</span><span>Saved</span><span id="bmBadge" class="badge" hidden></span></a>
     </nav>
 
+    <button id="installBtn" class="install-btn" hidden>Install app</button>
     <button id="themeBtn" class="icon-btn" aria-label="Toggle theme" title="Theme">◐</button>
   </header>
 

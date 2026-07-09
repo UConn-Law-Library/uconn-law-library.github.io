@@ -93,8 +93,12 @@ repeat the A–Z letter grid inline since the sidebar lives in a drawer there.
 This is a prototype for evaluating the presentation concept, so some production
 features of the original app are out of scope:
 
-- **PWA / service worker / offline download** — the original's `sw.js` approach
-  would port over directly.
+- **Bulk "download all for offline" UI** — the app is installable as a PWA
+  (manifest + `sw.js` ported from the original, plus an Install button in the
+  header), and its service worker caches the shell and any data files you
+  visit. The data cache name is shared with the original app, so statutes
+  downloaded there (Settings → Download for offline use) are offline here too.
+  What's missing is this app's own download-everything button.
 - Text-size and density settings, email sharing, bookmark export.
 - Bookmarking infraction entries (sections only).
 - The original's boolean search operators (`NOT`, `OR`); the omnibox is
