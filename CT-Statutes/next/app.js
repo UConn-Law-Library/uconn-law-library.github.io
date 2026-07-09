@@ -277,6 +277,7 @@ async function boot() {
   // subject index is 14 MB — start it in the background after first paint
   setTimeout(() => { loadIndexLazy().then(() => { if (S.route?.area === "ix") render(); }); }, 900);
   setTimeout(loadIncomingLazy, 1400);
+  setTimeout(backgroundOfflineDownload, 2500);
 
   window.addEventListener("hashchange", onHashChange);
   render();
@@ -1456,6 +1457,56 @@ function registerServiceWorker() {
   navigator.serviceWorker.register("./sw.js").catch((err) => {
     console.warn("Service worker registration failed:", err);
   });
+}
+
+const DATA_CACHE = "cgs-data-v1"; // must match sw.js (shared with the original app)
+
+// Fetch the whole corpus (~160 MB) in the background so the app works offline
+// with no manual step: one title at a time, through the service worker (which
+// stores it in the shared data cache), skipping files already there. Runs a
+// few seconds after boot so it never competes with what the user is reading.
+// If the network drops mid-run it just stops; the next visit picks up the
+// remainder. Since the cache is shared, this also lights up the original
+// app's "Downloaded ✓" state without visiting its Settings.
+async function backgroundOfflineDownload() {
+  if (IS_PACKAGED_APP) return;                       // data is already on disk
+  if (!("caches" in window) || !("serviceWorker" in navigator)) return;
+  if (navigator.connection?.saveData) return;        // respect Data Saver
+
+  // wait until a worker controls the page — fetches aren't cached before that
+  // (sw.js calls clients.claim(), so the first visit gains control mid-session)
+  await navigator.serviceWorker.ready.catch(() => null);
+  if (!navigator.serviceWorker.controller) {
+    await new Promise((res) => {
+      const t = setTimeout(res, 8000);
+      navigator.serviceWorker.addEventListener("controllerchange",
+        () => { clearTimeout(t); res(); }, { once: true });
+    });
+    if (!navigator.serviceWorker.controller) return; // try again next visit
+  }
+
+  const files = (S.titles || []).map((t) => t.file).filter(Boolean);
+  const cache = await caches.open(DATA_CACHE);
+  const have = new Set((await cache.keys())
+    .map((r) => new URL(r.url).pathname.split("/").pop()));
+  const missing = files.filter((f) => !have.has(f));
+  if (!missing.length) return;
+
+  for (const f of missing) {
+    try {
+      const resp = await fetch(DATA_DIR + f);
+      if (!resp.ok) continue;
+      await resp.blob(); // drain so the SW's cache.put of the clone completes
+    } catch {
+      return; // offline — resume on the next visit
+    }
+    await new Promise((r) => setTimeout(r, 150)); // stay off the interactive path
+  }
+
+  // the corpus is now on the device — ask the browser not to evict it
+  try {
+    if (!(await navigator.storage?.persisted?.())) navigator.storage?.persist?.();
+  } catch { /* best effort */ }
 }
 
 // -----------------------------
