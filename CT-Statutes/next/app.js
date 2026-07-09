@@ -277,6 +277,7 @@ async function boot() {
   // subject index is 14 MB — start it in the background after first paint
   setTimeout(() => { loadIndexLazy().then(() => { if (S.route?.area === "ix") render(); }); }, 900);
   setTimeout(loadIncomingLazy, 1400);
+  setTimeout(backgroundOfflineDownload, 2500);
 
   window.addEventListener("hashchange", onHashChange);
   render();
@@ -1391,6 +1392,140 @@ function wireChrome() {
 }
 
 // -----------------------------
+// PWA (install button + offline shell)
+// -----------------------------
+// Same approach as ../app.js. The Android/iOS shells serve this code from
+// files packaged inside the app, where installing makes no sense.
+const IS_PACKAGED_APP = location.hostname === "appassets.androidplatform.net"
+  || location.protocol === "ctstatutes:";
+
+// Chromium browsers fire beforeinstallprompt when the app is installable; we
+// stash the event so the header "Install app" button can re-fire it. iOS
+// Safari has no install API at all, so there the button explains the manual
+// Share → Add to Home Screen steps instead.
+let deferredInstallPrompt = null;
+
+function isInstalledDisplayMode() {
+  return window.matchMedia?.("(display-mode: standalone)")?.matches
+    || navigator.standalone === true; // iOS home-screen web app
+}
+
+function setupInstallUI() {
+  if (IS_PACKAGED_APP || isInstalledDisplayMode()) return;
+  const btn = $("installBtn");
+  if (!btn) return;
+
+  const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent)
+    || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1); // iPadOS reports as Mac
+
+  window.addEventListener("beforeinstallprompt", (ev) => {
+    ev.preventDefault();
+    deferredInstallPrompt = ev;
+    btn.hidden = false;
+  });
+
+  window.addEventListener("appinstalled", () => {
+    deferredInstallPrompt = null;
+    btn.hidden = true;
+    // ask the browser not to evict the cached statutes under disk pressure
+    try { navigator.storage?.persist?.(); } catch { /* best effort */ }
+    // start fetching the corpus now so it's offline-ready by first launch
+    backgroundOfflineDownload(true);
+  });
+
+  btn.addEventListener("click", async () => {
+    if (isIOS && !deferredInstallPrompt) {
+      alert("To install: tap the Share button in Safari, then choose “Add to Home Screen”.");
+      return;
+    }
+    if (!deferredInstallPrompt) return;
+    const ev = deferredInstallPrompt;
+    deferredInstallPrompt = null;
+    ev.prompt();
+    const choice = await ev.userChoice.catch(() => null);
+    if (choice?.outcome === "accepted") {
+      btn.hidden = true;
+    } else {
+      deferredInstallPrompt = ev; // declined — keep the button so they can retry
+    }
+  });
+
+  if (isIOS) btn.hidden = false;
+}
+
+function registerServiceWorker() {
+  if (!("serviceWorker" in navigator) || IS_PACKAGED_APP) return;
+  // file:// and some embedded contexts don't support SW — offline mode then degrades gracefully
+  navigator.serviceWorker.register("./sw.js").catch((err) => {
+    console.warn("Service worker registration failed:", err);
+  });
+}
+
+const DATA_CACHE = "cgs-data-v1"; // must match sw.js (shared with the original app)
+
+// Fetch the whole corpus (~160 MB) in the background so the installed app
+// works offline with no manual step: one title at a time, through the service
+// worker (which stores it in the shared data cache), skipping files already
+// there. Only runs when the app is installed — installing is the signal of
+// commitment; a casual browser visit (maybe on cellular data) stays
+// lightweight and just caches what it reads. Runs a few seconds after boot so
+// it never competes with what the user is reading. If the network drops
+// mid-run it just stops; the next launch picks up the remainder. Since the
+// cache is shared, this also lights up the original app's "Downloaded ✓"
+// state without visiting its Settings.
+let offlineDownloadRunning = false;
+
+async function backgroundOfflineDownload(justInstalled = false) {
+  if (IS_PACKAGED_APP) return;                       // data is already on disk
+  // right after an in-browser install the tab is still in browser display
+  // mode, so the appinstalled handler passes justInstalled to start early
+  if (!justInstalled && !isInstalledDisplayMode()) return;
+  if (offlineDownloadRunning) return;
+  if (!("caches" in window) || !("serviceWorker" in navigator)) return;
+  if (navigator.connection?.saveData) return;        // respect Data Saver
+
+  offlineDownloadRunning = true;
+  try {
+    // wait until a worker controls the page — fetches aren't cached before that
+    // (sw.js calls clients.claim(), so the first visit gains control mid-session)
+    await navigator.serviceWorker.ready.catch(() => null);
+    if (!navigator.serviceWorker.controller) {
+      await new Promise((res) => {
+        const t = setTimeout(res, 8000);
+        navigator.serviceWorker.addEventListener("controllerchange",
+          () => { clearTimeout(t); res(); }, { once: true });
+      });
+      if (!navigator.serviceWorker.controller) return; // try again next launch
+    }
+
+    const files = (S.titles || []).map((t) => t.file).filter(Boolean);
+    const cache = await caches.open(DATA_CACHE);
+    const have = new Set((await cache.keys())
+      .map((r) => new URL(r.url).pathname.split("/").pop()));
+    const missing = files.filter((f) => !have.has(f));
+    if (!missing.length) return;
+
+    for (const f of missing) {
+      try {
+        const resp = await fetch(DATA_DIR + f);
+        if (!resp.ok) continue;
+        await resp.blob(); // drain so the SW's cache.put of the clone completes
+      } catch {
+        return; // offline — resume on the next launch
+      }
+      await new Promise((r) => setTimeout(r, 150)); // stay off the interactive path
+    }
+
+    // the corpus is now on the device — ask the browser not to evict it
+    try {
+      if (!(await navigator.storage?.persisted?.())) navigator.storage?.persist?.();
+    } catch { /* best effort */ }
+  } finally {
+    offlineDownloadRunning = false;
+  }
+}
+
+// -----------------------------
 // GO
 // -----------------------------
 // the URL names the reading position; don't let the browser fight our scrolls
@@ -1398,6 +1533,8 @@ if ("scrollRestoration" in history) history.scrollRestoration = "manual";
 updateBmBadge();
 wireOmni();
 wireChrome();
+setupInstallUI();
+registerServiceWorker();
 boot().catch((e) => {
   readerEl.innerHTML = `<div class="notice">Failed to start: ${esc(e.message)}.
     Serve this folder over HTTP with the <code>data/</code> directory one level up

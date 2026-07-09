@@ -93,8 +93,6 @@ repeat the A–Z letter grid inline since the sidebar lives in a drawer there.
 This is a prototype for evaluating the presentation concept, so some production
 features of the original app are out of scope:
 
-- **PWA / service worker / offline download** — the original's `sw.js` approach
-  would port over directly.
 - Text-size and density settings, email sharing, bookmark export.
 - Bookmarking infraction entries (sections only).
 - The original's boolean search operators (`NOT`, `OR`); the omnibox is
@@ -104,6 +102,15 @@ features of the original app are out of scope:
 
 - Plain HTML/CSS/JS, zero dependencies, hash routing — same hosting story as the
   original (GitHub Pages, or packaged into the Android/iOS WebView shells).
+- Installable PWA: manifest + `sw.js` (ported from the original — shell
+  network-first, data cache-first) and an Install button in the header. Once
+  the app is installed (or immediately on accepting the install prompt), the
+  full corpus downloads automatically in the background, one title at a time,
+  skipping files already cached and respecting the browser's Data Saver
+  setting; an interrupted run resumes on the next launch. Plain browser visits
+  stay lightweight and only cache what they read. The data cache name is
+  shared with the original app, so statutes downloaded by either app are
+  offline in both and stored once.
 - Title 42a (Uniform Commercial Code) is empty in the crawled snapshot
   (`title_42a.json` has no chapters), so cross-references into the UCC show a
   "not in the crawled data" notice with a link to cga.ct.gov. That's a crawler
