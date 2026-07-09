@@ -346,6 +346,7 @@ function bindSettings() {
   });
 
   $("offlineDownloadBtn").addEventListener("click", () => {
+    requestPersistentStorage(); // user gesture — some browsers prompt
     preloadAllTitles();
     updateOfflineButton();
   });
@@ -654,8 +655,11 @@ async function ensureTitleLoaded(titleKey) {
 
 function setPreloadStatus() {
   const p = state.preload;
+  // Packaged apps and an already-downloaded PWA read from local storage, so
+  // the slow part is indexing, not downloading.
+  const localData = IS_PACKAGED_APP || state.offlineStored;
   if (p.running) {
-    setStatus(IS_PACKAGED_APP
+    setStatus(localData
       ? `Indexing statutes ${p.loaded}/${p.total}…`
       : `Downloading for offline use ${p.loaded}/${p.total}…`);
   } else if (p.done && !p.failed) {
@@ -678,8 +682,10 @@ function updateOfflineButton() {
   const p = state.preload;
   if (p.running) {
     btn.disabled = true;
-    btn.textContent = `Downloading… ${p.loaded}/${p.total}`;
-    if (hint) hint.textContent = "Keep this tab open";
+    btn.textContent = state.offlineStored
+      ? `Indexing… ${p.loaded}/${p.total}`
+      : `Downloading… ${p.loaded}/${p.total}`;
+    if (hint) hint.textContent = state.offlineStored ? "Reading stored data" : "Keep this tab open";
   } else if (p.done) {
     btn.disabled = true;
     btn.textContent = p.failed ? `Downloaded (${p.failed} failed)` : "Downloaded ✓";
@@ -724,11 +730,19 @@ async function checkOfflineStored() {
     state.offlineStored = false;
   }
   updateOfflineButton();
+
+  // Cached files alone don't make subject-index links or full-text search
+  // work: those need the per-session in-memory indexes (sectionLoc etc.)
+  // built by indexLoadedTitle. Like the packaged apps, load everything up
+  // front — the SW serves ./data/ cache-first, so this reads from disk, not
+  // the network.
+  if (state.offlineStored && !state.preload.running && !state.preload.done) {
+    preloadAllTitles();
+  }
 }
 
 async function preloadAllTitles() {
   if (state.preload.running) return;
-  requestPersistentStorage();
   const titles = state.master?.titles || [];
   state.preload.running = true;
   state.preload.total = titles.length;
@@ -762,6 +776,8 @@ async function preloadAllTitles() {
     render();
   } else if (state.route.area === "browse" && !state.route.titleKey) {
     render(); // refresh home offline card
+  } else if (state.route.area === "index") {
+    render(); // citation links go live once sectionLoc is populated
   }
 }
 
@@ -1957,7 +1973,7 @@ function renderSearch() {
   crumbsEl.innerHTML = `<span class="muted">Search</span>`;
 
   const stillLoading = state.preload.running
-    ? `<span class="tag">still ${IS_PACKAGED_APP ? "indexing" : "downloading"} titles — results may grow (${state.preload.loaded}/${state.preload.total})</span>` : "";
+    ? `<span class="tag">still ${IS_PACKAGED_APP || state.offlineStored ? "indexing" : "downloading"} titles — results may grow (${state.preload.loaded}/${state.preload.total})</span>` : "";
 
   const group = (name, items, renderItem) => items.length ? `
     <div class="result-group">
@@ -2048,7 +2064,10 @@ function bindUI() {
   scopeEl.addEventListener("change", () => {
     // Full-text search needs the title bodies; choosing that scope is an
     // explicit signal to fetch them, so start the background download then.
-    if (scopeEl.value === "fulltext") preloadAllTitles();
+    if (scopeEl.value === "fulltext") {
+      requestPersistentStorage(); // user gesture — some browsers prompt
+      preloadAllTitles();
+    }
     setSearch(qEl.value, scopeEl.value);
   });
 
