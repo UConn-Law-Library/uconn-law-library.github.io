@@ -1429,6 +1429,8 @@ function setupInstallUI() {
     btn.hidden = true;
     // ask the browser not to evict the cached statutes under disk pressure
     try { navigator.storage?.persist?.(); } catch { /* best effort */ }
+    // start fetching the corpus now so it's offline-ready by first launch
+    backgroundOfflineDownload(true);
   });
 
   btn.addEventListener("click", async () => {
@@ -1461,52 +1463,66 @@ function registerServiceWorker() {
 
 const DATA_CACHE = "cgs-data-v1"; // must match sw.js (shared with the original app)
 
-// Fetch the whole corpus (~160 MB) in the background so the app works offline
-// with no manual step: one title at a time, through the service worker (which
-// stores it in the shared data cache), skipping files already there. Runs a
-// few seconds after boot so it never competes with what the user is reading.
-// If the network drops mid-run it just stops; the next visit picks up the
-// remainder. Since the cache is shared, this also lights up the original
-// app's "Downloaded ✓" state without visiting its Settings.
-async function backgroundOfflineDownload() {
+// Fetch the whole corpus (~160 MB) in the background so the installed app
+// works offline with no manual step: one title at a time, through the service
+// worker (which stores it in the shared data cache), skipping files already
+// there. Only runs when the app is installed — installing is the signal of
+// commitment; a casual browser visit (maybe on cellular data) stays
+// lightweight and just caches what it reads. Runs a few seconds after boot so
+// it never competes with what the user is reading. If the network drops
+// mid-run it just stops; the next launch picks up the remainder. Since the
+// cache is shared, this also lights up the original app's "Downloaded ✓"
+// state without visiting its Settings.
+let offlineDownloadRunning = false;
+
+async function backgroundOfflineDownload(justInstalled = false) {
   if (IS_PACKAGED_APP) return;                       // data is already on disk
+  // right after an in-browser install the tab is still in browser display
+  // mode, so the appinstalled handler passes justInstalled to start early
+  if (!justInstalled && !isInstalledDisplayMode()) return;
+  if (offlineDownloadRunning) return;
   if (!("caches" in window) || !("serviceWorker" in navigator)) return;
   if (navigator.connection?.saveData) return;        // respect Data Saver
 
-  // wait until a worker controls the page — fetches aren't cached before that
-  // (sw.js calls clients.claim(), so the first visit gains control mid-session)
-  await navigator.serviceWorker.ready.catch(() => null);
-  if (!navigator.serviceWorker.controller) {
-    await new Promise((res) => {
-      const t = setTimeout(res, 8000);
-      navigator.serviceWorker.addEventListener("controllerchange",
-        () => { clearTimeout(t); res(); }, { once: true });
-    });
-    if (!navigator.serviceWorker.controller) return; // try again next visit
-  }
-
-  const files = (S.titles || []).map((t) => t.file).filter(Boolean);
-  const cache = await caches.open(DATA_CACHE);
-  const have = new Set((await cache.keys())
-    .map((r) => new URL(r.url).pathname.split("/").pop()));
-  const missing = files.filter((f) => !have.has(f));
-  if (!missing.length) return;
-
-  for (const f of missing) {
-    try {
-      const resp = await fetch(DATA_DIR + f);
-      if (!resp.ok) continue;
-      await resp.blob(); // drain so the SW's cache.put of the clone completes
-    } catch {
-      return; // offline — resume on the next visit
-    }
-    await new Promise((r) => setTimeout(r, 150)); // stay off the interactive path
-  }
-
-  // the corpus is now on the device — ask the browser not to evict it
+  offlineDownloadRunning = true;
   try {
-    if (!(await navigator.storage?.persisted?.())) navigator.storage?.persist?.();
-  } catch { /* best effort */ }
+    // wait until a worker controls the page — fetches aren't cached before that
+    // (sw.js calls clients.claim(), so the first visit gains control mid-session)
+    await navigator.serviceWorker.ready.catch(() => null);
+    if (!navigator.serviceWorker.controller) {
+      await new Promise((res) => {
+        const t = setTimeout(res, 8000);
+        navigator.serviceWorker.addEventListener("controllerchange",
+          () => { clearTimeout(t); res(); }, { once: true });
+      });
+      if (!navigator.serviceWorker.controller) return; // try again next launch
+    }
+
+    const files = (S.titles || []).map((t) => t.file).filter(Boolean);
+    const cache = await caches.open(DATA_CACHE);
+    const have = new Set((await cache.keys())
+      .map((r) => new URL(r.url).pathname.split("/").pop()));
+    const missing = files.filter((f) => !have.has(f));
+    if (!missing.length) return;
+
+    for (const f of missing) {
+      try {
+        const resp = await fetch(DATA_DIR + f);
+        if (!resp.ok) continue;
+        await resp.blob(); // drain so the SW's cache.put of the clone completes
+      } catch {
+        return; // offline — resume on the next launch
+      }
+      await new Promise((r) => setTimeout(r, 150)); // stay off the interactive path
+    }
+
+    // the corpus is now on the device — ask the browser not to evict it
+    try {
+      if (!(await navigator.storage?.persisted?.())) navigator.storage?.persist?.();
+    } catch { /* best effort */ }
+  } finally {
+    offlineDownloadRunning = false;
+  }
 }
 
 // -----------------------------
