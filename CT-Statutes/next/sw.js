@@ -24,6 +24,7 @@ const SHELL_ASSETS = [
   "./app.js",
   "./manifest.webmanifest",
   "./icon.svg",
+  "./wordmark.svg",
 ];
 
 self.addEventListener("install", (event) => {
