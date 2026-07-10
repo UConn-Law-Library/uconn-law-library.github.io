@@ -18,8 +18,12 @@ const DATA_VERSION_URL = DATA_DIR + "version.json";
 const MAX_GROUP_RESULTS = 100;     // per result group (sections, infractions, …)
 const MAX_FULLTEXT_RESULTS = 200;
 
-const PRELOAD_CONCURRENCY = 3;
-const PRELOAD_YIELD_MS = 30;
+// Parsed titles kept in page memory for browsing. Bodies for search come from
+// the full-text worker, which never retains them, so a small cache is plenty.
+const MAX_CACHED_TITLES = 12;
+
+const DOWNLOAD_CONCURRENCY = 3;
+const DOWNLOAD_YIELD_MS = 30;
 
 const DATA_CACHE = "cgs-data-v1";  // must match sw.js
 
@@ -68,11 +72,15 @@ const state = {
   chapterLoc: new Map(),         // chapter number (incl. unpadded) -> {t, c}
 
   route: { area: "browse", titleKey: null, chapterKey: null, sectionKey: null, category: null, infraId: null, letter: null, headingSlug: null },
-  search: { q: "", scope: "nav", results: null, posTerms: [] },
+  search: {
+    q: "", scope: "nav", results: null, posTerms: [],
+    // streaming full-text state, fed by ft-worker.js
+    ft: { id: 0, q: null, running: false, done: 0, total: 0, rows: [] },
+  },
   bookmarks: [],
   recents: [],
 
-  preload: { running: false, loaded: 0, total: 0, failed: 0, done: false },
+  download: { running: false, loaded: 0, total: 0, failed: 0, done: false, bytes: 0 },
   offlineStored: false,          // every title file present in the SW data cache
 };
 
@@ -371,7 +379,7 @@ function bindSettings() {
 
   $("offlineDownloadBtn").addEventListener("click", () => {
     requestPersistentStorage(); // user gesture — some browsers prompt
-    preloadAllTitles();
+    downloadAllTitles();
     updateOfflineButton();
   });
 
@@ -609,6 +617,13 @@ async function loadSearchIndex() {
   state.searchChapterByKey.clear();
   for (const chapter of data.chapters || []) {
     state.searchChapterByKey.set(keyChapter(chapter.t, chapter.c), chapter);
+    // route in-text "chapter 246" citations without loading any title body
+    const loc = { t: chapter.t, c: chapter.c };
+    const unpadded = chapter.c.replace(/^0+(?=\d)/, "");
+    if (!state.chapterLoc.has(unpadded)) {
+      state.chapterLoc.set(unpadded, loc);
+      state.chapterLoc.set(chapter.c, loc);
+    }
   }
   for (const section of data.sections || []) {
     if (!state.sectionLoc.has(section.s)) {
@@ -704,8 +719,31 @@ function indexLoadedTitle(titleObj) {
   }
 }
 
+// Drop a parsed title from memory, including its entries in the derived
+// lookup maps (which would otherwise pin the whole object graph).
+// sectionLoc/chapterLoc stay: they hold tiny locators, not section bodies,
+// and are seeded from search_index.json anyway.
+function evictTitle(titleKey) {
+  const titleObj = state.titleCache.get(titleKey);
+  if (!titleObj) return;
+  state.titleCache.delete(titleKey);
+  for (const c of titleObj.chapters || []) {
+    state.chapterByKey.delete(keyChapter(titleKey, c.chapter_key));
+    for (const s of c.sections || []) {
+      if (s.section_key) state.sectionByKey.delete(keySection(titleKey, c.chapter_key, s.section_key));
+    }
+  }
+}
+
 async function ensureTitleLoaded(titleKey) {
-  if (!titleKey || state.titleCache.has(titleKey)) return;
+  if (!titleKey) return;
+  if (state.titleCache.has(titleKey)) {
+    // refresh LRU recency (Map preserves insertion order)
+    const titleObj = state.titleCache.get(titleKey);
+    state.titleCache.delete(titleKey);
+    state.titleCache.set(titleKey, titleObj);
+    return;
+  }
   const entry = state.titleByKey.get(titleKey);
   if (!entry || !entry.file) return;
 
@@ -713,46 +751,45 @@ async function ensureTitleLoaded(titleKey) {
   const titleObj = await fetchJson(DATA_DIR + entry.file);
   state.titleCache.set(titleKey, titleObj);
   indexLoadedTitle(titleObj);
-  setPreloadStatus();
+  while (state.titleCache.size > MAX_CACHED_TITLES) {
+    const oldest = state.titleCache.keys().next().value;
+    if (oldest === state.route.titleKey || oldest === titleKey) break;
+    evictTitle(oldest);
+  }
+  setStatus("Ready");
 }
 
-function setPreloadStatus() {
-  const p = state.preload;
-  // Packaged apps and an already-downloaded PWA read from local storage, so
-  // the slow part is indexing, not downloading.
-  const localData = IS_PACKAGED_APP || state.offlineStored;
-  if (p.running) {
-    setStatus(localData
-      ? `Indexing statutes ${p.loaded}/${p.total}…`
-      : `Downloading for offline use ${p.loaded}/${p.total}…`);
-  } else if (p.done && !p.failed) {
-    setStatus(IS_PACKAGED_APP ? "Ready" : "Ready — available offline");
-  } else if (p.done) {
-    setStatus(`Ready (${p.failed} title${p.failed === 1 ? "" : "s"} failed to load)`);
+function setDownloadStatus() {
+  const d = state.download;
+  if (d.running) {
+    setStatus(`Downloading for offline use ${d.loaded}/${d.total}…`);
+  } else if (d.done && !d.failed) {
+    setStatus("Ready — available offline");
+  } else if (d.done) {
+    setStatus(`Ready (${d.failed} title${d.failed === 1 ? "" : "s"} failed to download)`);
   } else {
     setStatus("Ready");
   }
   updateOfflineButton();
 }
 
-// Reflect preload progress in the settings "Download for offline use" control.
-// The bulk download is opt-in (this button or selecting full-text search), so
-// it is not started automatically on every visit.
+// Reflect download progress in the settings "Download for offline use"
+// control. The bulk download is opt-in via this button only; browsing and
+// full-text search store titles as a side effect of the cache-first worker,
+// so nothing is fetched wholesale without an explicit request.
 function updateOfflineButton() {
   const btn = $("offlineDownloadBtn");
   if (!btn) return;
   const hint = $("offlineHint");
-  const p = state.preload;
-  if (p.running) {
+  const d = state.download;
+  if (d.running) {
     btn.disabled = true;
-    btn.textContent = state.offlineStored
-      ? `Indexing… ${p.loaded}/${p.total}`
-      : `Downloading… ${p.loaded}/${p.total}`;
-    if (hint) hint.textContent = state.offlineStored ? "Reading stored data" : "Keep this tab open";
-  } else if (p.done) {
+    btn.textContent = `Downloading… ${d.loaded}/${d.total}`;
+    if (hint) hint.textContent = "Keep this tab open";
+  } else if (d.done) {
     btn.disabled = true;
-    btn.textContent = p.failed ? `Downloaded (${p.failed} failed)` : "Downloaded ✓";
-    if (hint) hint.textContent = p.failed ? "Some titles failed" : "Available offline";
+    btn.textContent = d.failed ? `Downloaded (${d.failed} failed)` : "Downloaded ✓";
+    if (hint) hint.textContent = d.failed ? "Some titles failed" : "Available offline";
   } else if (state.offlineStored) {
     btn.disabled = true;
     btn.textContent = "Downloaded ✓";
@@ -760,7 +797,9 @@ function updateOfflineButton() {
   } else {
     btn.disabled = false;
     btn.textContent = "Download for offline use";
-    if (hint) hint.textContent = "All statutes";
+    // device-storage cost up front, from the version manifest's byte total
+    const mb = state.dataVersion?.bytes ? Math.round(state.dataVersion.bytes / 1e6) : null;
+    if (hint) hint.textContent = mb ? `All statutes · about ${mb} MB` : "All statutes";
   }
 }
 
@@ -793,55 +832,44 @@ async function checkOfflineStored() {
     state.offlineStored = false;
   }
   updateOfflineButton();
-
-  // Cached files alone don't make subject-index links or full-text search
-  // work: those need the per-session in-memory indexes (sectionLoc etc.)
-  // built by indexLoadedTitle. Like the packaged apps, load everything up
-  // front — the SW serves ./data/ cache-first, so this reads from disk, not
-  // the network.
-  if (state.offlineStored && !state.preload.running && !state.preload.done) {
-    preloadAllTitles();
-  }
 }
 
-async function preloadAllTitles() {
-  if (state.preload.running) return;
-  const titles = state.master?.titles || [];
-  state.preload.running = true;
-  state.preload.total = titles.length;
-  state.preload.loaded = state.titleCache.size;
-  state.preload.failed = 0;
+// Fetch every title file so the service worker's cache-first data handler
+// stores it. Responses are read and discarded — nothing is parsed or kept in
+// page memory; navigation links come from search_index.json and full-text
+// search streams bodies through ft-worker.js.
+async function downloadAllTitles() {
+  if (state.download.running) return;
+  const files = (state.master?.titles || []).map((t) => t.file).filter(Boolean);
+  state.download.running = true;
+  state.download.total = files.length;
+  state.download.loaded = 0;
+  state.download.failed = 0;
+  state.download.bytes = 0;
 
-  const queue = titles.map((t) => t.title_key).filter((k) => !state.titleCache.has(k));
+  const queue = [...files];
 
-  async function worker() {
+  async function fetchNext() {
     while (queue.length) {
-      const titleKey = queue.shift();
+      const file = queue.shift();
       try {
-        await ensureTitleLoaded(titleKey);
+        const res = await fetch(DATA_DIR + file);
+        if (!res.ok) throw new Error(String(res.status));
+        state.download.bytes += (await res.arrayBuffer()).byteLength;
       } catch {
-        state.preload.failed++;
+        state.download.failed++;
       }
-      state.preload.loaded = state.titleCache.size;
-      setPreloadStatus();
-      await sleep(PRELOAD_YIELD_MS);
+      state.download.loaded++;
+      setDownloadStatus();
+      await sleep(DOWNLOAD_YIELD_MS);
     }
   }
 
-  await Promise.all(Array.from({ length: PRELOAD_CONCURRENCY }, worker));
-  state.preload.running = false;
-  state.preload.done = true;
-  if (!state.preload.failed) state.offlineStored = true;
-  setPreloadStatus();
-
-  if (state.search.q) {
-    runSearch();
-    render();
-  } else if (state.route.area === "browse" && !state.route.titleKey) {
-    render(); // refresh home offline card
-  } else if (state.route.area === "index") {
-    render(); // citation links go live once sectionLoc is populated
-  }
+  await Promise.all(Array.from({ length: DOWNLOAD_CONCURRENCY }, fetchNext));
+  state.download.running = false;
+  state.download.done = true;
+  if (!state.download.failed) state.offlineStored = true;
+  setDownloadStatus();
 }
 
 // -----------------------------
@@ -850,88 +878,117 @@ async function preloadAllTitles() {
 // Second dash segment covers UCC citations like 42a-1-201.
 const STAT_QUERY_RE = /^(?:sec(?:tion)?\.?\s*|§\s*)?(\d+[a-z]{0,2}-\d+[a-z]{0,3}(?:-\d+[a-z]{0,3})?)\.?$/i;
 
-// --- boolean query language: terms are ANDed by default; AND / OR / NOT
-// (capitals) and a leading "-" combine them; "double quotes" match exact
-// phrases; parentheses group. Lowercase and/or/not stay literal words so
-// legal phrases like "aiding and abetting" search naturally.
-function parseQuery(raw) {
-  const toks = raw.match(/"[^"]*"?|\(|\)|[^\s()"]+/g) || [];
-  let i = 0;
+// The boolean query language (parseQuery / evalQuery / collectPositive and
+// the per-title scanner) lives in search-query.js, shared with ft-worker.js.
 
-  function parseOr() {
-    let left = parseAnd();
-    while (i < toks.length && toks[i] === "OR") {
-      i++;
-      const right = parseAnd();
-      if (right) left = left ? { type: "or", a: left, b: right } : right;
-    }
-    return left;
+// --- full-text search, streamed off the main thread ---------------------
+// ft-worker.js fetches title files one at a time (cache-first via the
+// service worker), scans them, and posts matches back; nothing is retained.
+// Where workers are unavailable (some packaged-app WebViews), the same scan
+// runs on the main thread with a yield between titles.
+let ftWorker = null;
+let ftWorkerBroken = false;
+let ftRenderTimer = null;
+
+function getFtWorker() {
+  if (ftWorkerBroken) return null;
+  if (ftWorker) return ftWorker;
+  try {
+    ftWorker = new Worker("./ft-worker.js");
+  } catch {
+    ftWorkerBroken = true;
+    return null;
   }
-
-  function parseAnd() {
-    const kids = [];
-    while (i < toks.length && toks[i] !== ")" && toks[i] !== "OR") {
-      if (toks[i] === "AND") { i++; continue; }
-      const t = parseTerm();
-      if (t) kids.push(t);
+  ftWorker.onmessage = (ev) => onFtProgress(ev.data);
+  ftWorker.onerror = () => {
+    // e.g. the worker script failed to load — redo the search in-page
+    ftWorkerBroken = true;
+    ftWorker.terminate();
+    ftWorker = null;
+    const ft = state.search.ft;
+    if (ft.running) {
+      ft.q = null; // force a restart through the fallback path
+      runSearch();
+      render();
     }
-    if (!kids.length) return null;
-    return kids.length === 1 ? kids[0] : { type: "and", kids };
-  }
-
-  function parseTerm() {
-    let tok = toks[i];
-    if (tok === ")") return null; // parseAnd's loop ends on this token
-    if (tok === "NOT") {
-      i++;
-      const kid = parseTerm();
-      return kid ? { type: "not", kid } : null;
-    }
-    if (tok === "(") {
-      i++;
-      const e = parseOr();
-      if (toks[i] === ")") i++;
-      return e;
-    }
-    i++;
-    let negate = false;
-    if (tok.length > 1 && tok[0] === "-" && tok[1] !== '"') {
-      negate = true;
-      tok = tok.slice(1);
-    }
-    tok = tok.replace(/^"|"$/g, "").toLowerCase().trim();
-    if (!tok) return null;
-    const term = { type: "term", text: tok };
-    return negate ? { type: "not", kid: term } : term;
-  }
-
-  return parseOr();
+  };
+  return ftWorker;
 }
 
-function evalQuery(node, hay) {
-  switch (node.type) {
-    case "term": return hay.includes(node.text);
-    case "not": return !evalQuery(node.kid, hay);
-    case "and": return node.kids.every((k) => evalQuery(k, hay));
-    case "or": return evalQuery(node.a, hay) || evalQuery(node.b, hay);
-  }
-  return false;
+// Re-render at most a few times a second while results stream in, so the
+// list stays readable and typing stays responsive.
+function scheduleFtRender() {
+  if (ftRenderTimer) return;
+  ftRenderTimer = setTimeout(() => {
+    ftRenderTimer = null;
+    if (state.search.q && state.search.scope === "fulltext") {
+      runSearch();
+      render();
+    }
+  }, 300);
 }
 
-// non-negated terms, used for highlighting and snippets
-function collectPositive(node, negated = false, out = []) {
-  if (!node) return out;
-  if (node.type === "term") {
-    if (!negated) out.push(node.text);
-  } else if (node.type === "not") {
-    collectPositive(node.kid, !negated, out);
-  } else if (node.type === "and") {
-    node.kids.forEach((k) => collectPositive(k, negated, out));
-  } else {
-    collectPositive(node.a, negated, out);
-    collectPositive(node.b, negated, out);
+function onFtProgress(msg) {
+  const ft = state.search.ft;
+  if (!msg || msg.id !== ft.id) return; // stale search
+  if (msg.rows) {
+    ft.done = msg.done;
+    ft.total = msg.total;
+    ft.rows.push(...msg.rows);
   }
-  return out;
+  if (msg.finished) {
+    ft.running = false;
+    if (ftRenderTimer) { clearTimeout(ftRenderTimer); ftRenderTimer = null; }
+    if (state.search.q && state.search.scope === "fulltext") {
+      runSearch();
+      render();
+    }
+    return;
+  }
+  scheduleFtRender();
+}
+
+function startFulltextSearch(qRaw) {
+  const ft = state.search.ft;
+  if (ft.q === qRaw) return; // already running or finished for this query
+  const files = (state.master?.titles || [])
+    .filter((t) => t.file)
+    .map((t) => ({ key: t.title_key, file: t.file }));
+  ft.id++;
+  ft.q = qRaw;
+  ft.running = true;
+  ft.done = 0;
+  ft.total = files.length;
+  ft.rows = [];
+
+  const worker = getFtWorker();
+  const req = { id: ft.id, query: qRaw, dataDir: DATA_DIR, files, max: MAX_FULLTEXT_RESULTS };
+  if (worker) worker.postMessage(req);
+  else fulltextScanInPage(req);
+}
+
+async function fulltextScanInPage(req) {
+  const ast = parseQuery(req.query);
+  const posTerms = collectPositive(ast);
+  let found = 0;
+  let done = 0;
+  for (const entry of req.files) {
+    if (req.id !== state.search.ft.id) return;
+    let rows = [];
+    try {
+      if (ast) {
+        const titleObj = await fetchJson(req.dataDir + entry.file);
+        rows = scanTitleForQuery(titleObj, ast, posTerms, req.max - found);
+      }
+    } catch { /* skip unreachable titles; the progress line shows coverage */ }
+    if (req.id !== state.search.ft.id) return;
+    done++;
+    found += rows.length;
+    onFtProgress({ id: req.id, done, total: req.files.length, rows });
+    if (found >= req.max) break;
+    await sleep(15); // keep the page interactive between titles
+  }
+  onFtProgress({ id: req.id, finished: true, found });
 }
 
 function setSearch(q, scope) {
@@ -941,13 +998,22 @@ function setSearch(q, scope) {
   render();
 }
 
+function cancelFulltextSearch() {
+  const ft = state.search.ft;
+  if (ft.running) ft.id++; // the worker abandons a stale id between titles
+  ft.running = false;
+  ft.q = null;
+}
+
 function runSearch() {
   const qRaw = state.search.q;
   if (!qRaw) {
     state.search.results = null;
     state.search.posTerms = [];
+    cancelFulltextSearch();
     return;
   }
+  if (state.search.scope !== "fulltext") cancelFulltextSearch();
   const statMatch = qRaw.match(STAT_QUERY_RE);
   const statKey = statMatch ? statMatch[1].toLowerCase() : null;
   const statTitleKey = statKey ? titleKeyForSection(statKey) : null;
@@ -1014,35 +1080,17 @@ function runSearch() {
   }
 
   if (state.search.scope === "fulltext" && !statKey) {
-    // full text of statute bodies, across all loaded titles
-    for (const [titleKey, titleObj] of state.titleCache.entries()) {
-      const tEntry = state.titleByKey.get(titleKey);
-      const tLabel = tEntry ? fmtTitle(tEntry) : titleKey;
-      for (const c of titleObj.chapters || []) {
-        for (const s of c.sections || []) {
-          if (!s.section_key) continue;
-          const text = s.content && s.content.text ? String(s.content.text) : "";
-          if (!text) continue;
-          const hay = text.toLowerCase();
-          if (!matchesTokens(hay)) continue;
-          let idx = -1, hitLen = 0;
-          for (const t of posTerms) {
-            idx = hay.indexOf(t);
-            if (idx !== -1) { hitLen = t.length; break; }
-          }
-          if (idx === -1) idx = 0; // e.g. purely negative query
-          const start = Math.max(0, idx - 60);
-          const end = Math.min(text.length, idx + hitLen + 110);
-          groups.sections.push({
-            label: stripSectionPrefix(s.label || s.section_key) || s.section_key,
-            sub: `${tLabel} • ${fmtChapter(c)}`,
-            snippet: text.slice(start, end).replace(/\s+/g, " ").trim(),
-            hash: hashFor.section(titleKey, c.chapter_key, s.section_key),
-          });
-          if (groups.sections.length >= MAX_FULLTEXT_RESULTS) break;
-        }
-        if (groups.sections.length >= MAX_FULLTEXT_RESULTS) break;
-      }
+    // full text of statute bodies: streamed in by ft-worker.js, which scans
+    // every title without keeping any of them in page memory
+    startFulltextSearch(qRaw);
+    for (const row of state.search.ft.rows) {
+      const tEntry = state.titleByKey.get(row.t);
+      groups.sections.push({
+        label: stripSectionPrefix(row.label) || row.s,
+        sub: `${tEntry ? fmtTitle(tEntry) : row.t} • ${row.cLabel}`,
+        snippet: row.snippet,
+        hash: hashFor.section(row.t, row.c, row.s),
+      });
       if (groups.sections.length >= MAX_FULLTEXT_RESULTS) break;
     }
   } else if (!statKey) {
@@ -1551,7 +1599,8 @@ function citedSectionKeys(paragraphs, selfKey) {
 function renderCrossRefsPanel(keys, settled = false) {
   const items = keys.map((k) => {
     const loc = state.sectionLoc.get(k);
-    if (!loc) {
+    const s = loc ? state.sectionByKey.get(keySection(loc.t, loc.c, k)) : null;
+    if (!loc || (!s && !settled)) {
       return `
       <details class="xref">
         <summary>Sec. ${esc(k)}</summary>
@@ -1560,7 +1609,6 @@ function renderCrossRefsPanel(keys, settled = false) {
         </div>
       </details>`;
     }
-    const s = state.sectionByKey.get(keySection(loc.t, loc.c, k));
     const paras = s?.content?.body_paragraphs || [];
     return `
       <details class="xref">
@@ -1590,8 +1638,14 @@ function bindCrossRefsPanel(keys) {
   if (!el) return;
   el.addEventListener("toggle", async () => {
     if (!el.open) return;
+    // "missing" means the section body isn't in memory — sectionLoc knows
+    // every section's location up front (search_index.json), so test the
+    // loaded-body map instead.
     const missing = [...new Set(
-      keys.filter((k) => !state.sectionLoc.has(k)).map(titleKeyForSection).filter(Boolean)
+      keys.filter((k) => {
+        const loc = state.sectionLoc.get(k);
+        return !loc || !state.sectionByKey.has(keySection(loc.t, loc.c, k));
+      }).map(titleKeyForSection).filter(Boolean)
     )];
     if (!missing.length) return;
     await Promise.all(missing.map((t) => ensureTitleLoaded(t).catch(() => { })));
@@ -2134,8 +2188,10 @@ function renderSearch() {
 
   crumbsEl.innerHTML = `<span class="muted">Search</span>`;
 
-  const stillLoading = state.preload.running
-    ? `<span class="tag">still ${IS_PACKAGED_APP || state.offlineStored ? "indexing" : "downloading"} titles — results may grow (${state.preload.loaded}/${state.preload.total})</span>` : "";
+  const ft = state.search.ft;
+  const stillLoading = state.search.scope === "fulltext" && ft.running
+    ? `<span class="tag">searching all statutes — ${ft.done}/${ft.total} titles${IS_PACKAGED_APP || state.offlineStored
+      ? "" : " (titles download once, then search from this device)"}</span>` : "";
 
   const group = (name, items, renderItem) => items.length ? `
     <div class="result-group">
@@ -2224,12 +2280,8 @@ function bindUI() {
     searchTimer = setTimeout(() => setSearch(qEl.value, scopeEl.value), navScopeDelay());
   });
   scopeEl.addEventListener("change", () => {
-    // Full-text search needs the title bodies; choosing that scope is an
-    // explicit signal to fetch them, so start the background download then.
-    if (scopeEl.value === "fulltext") {
-      requestPersistentStorage(); // user gesture — some browsers prompt
-      preloadAllTitles();
-    }
+    // Full-text search streams title bodies through the worker on demand —
+    // switching scope downloads nothing by itself.
     setSearch(qEl.value, scopeEl.value);
   });
 
@@ -2345,13 +2397,10 @@ function registerServiceWorker() {
     checkOfflineStored(); // async — reflects a previous session's download
     await applyRoute();
     loadStatutesIndex(); // large file — load without blocking first paint
-    // Titles load on demand as the user browses; the full corpus is only
-    // downloaded when requested (Settings → Download for offline use) or when
-    // full-text search is selected, so first visits stay lightweight.
-    // The packaged Android app has every title on disk already, so load them
-    // all up front: subject-index links and full-text search then work
-    // without any manual step. The workers yield, so browsing stays smooth.
-    if (IS_PACKAGED_APP) preloadAllTitles();
+    // Title bodies load on demand: a small LRU while browsing, and streamed
+    // through ft-worker.js for full-text search. Nothing preloads the whole
+    // corpus into memory — not even the packaged apps, where every file is
+    // already on disk and the worker reads it locally.
   } catch (e) {
     setStatus("Error");
     viewEl.innerHTML = `<div class="empty">Failed to load data: ${esc(e.message || String(e))}<br>
