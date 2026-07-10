@@ -112,8 +112,8 @@ def data_files(master) -> list[Path]:
     return paths
 
 
-def source_summary(path: Path):
-    source = read_json(path).get("source") or {}
+def source_summary(payload) -> dict:
+    source = payload.get("source") or {}
     return {
         key: source[key]
         for key in ("generated_at_utc", "generated", "revised", "effective")
@@ -121,8 +121,12 @@ def source_summary(path: Path):
     }
 
 
-def build_version(master) -> tuple[str, int, int]:
-    paths = data_files(master)
+def compute_digest(paths) -> tuple[str, int]:
+    """Deterministic hash + byte total over the given data files.
+
+    validate_data.py recomputes this to prove version.json matches the
+    committed data, so any change here must ship with that check.
+    """
     digest = hashlib.sha256()
     total_bytes = 0
     for path in sorted(paths, key=lambda item: item.name):
@@ -132,17 +136,32 @@ def build_version(master) -> tuple[str, int, int]:
         digest.update(b"\0")
         digest.update(raw)
         digest.update(b"\0")
+    return digest.hexdigest(), total_bytes
 
-    version = digest.hexdigest()
+
+def build_version(master, chapter_count: int, section_count: int) -> tuple[str, int, int]:
+    paths = data_files(master)
+    version, total_bytes = compute_digest(paths)
+    statutes_index = read_json(DATA_DIR / "statutes_index.json")
+    infractions = read_json(DATA_DIR / "infractions.json")
     payload = {
         "schema": 1,
         "version": version,
         "files": len(paths),
         "bytes": total_bytes,
+        # Record counts let a refresh diff (and validate_data.py --baseline)
+        # flag a dataset that silently shrank or ballooned.
+        "counts": {
+            "titles": len(master.get("titles") or []),
+            "chapters": chapter_count,
+            "sections": section_count,
+            "index_headings": len(statutes_index.get("headings") or []),
+            "infractions": len(infractions.get("entries") or []),
+        },
         "sources": {
-            "statutes": source_summary(MASTER_PATH),
-            "index": source_summary(DATA_DIR / "statutes_index.json"),
-            "infractions": source_summary(DATA_DIR / "infractions.json"),
+            "statutes": source_summary(master),
+            "index": source_summary(statutes_index),
+            "infractions": source_summary(infractions),
         },
     }
     write_json(VERSION_PATH, payload)
@@ -152,7 +171,7 @@ def build_version(master) -> tuple[str, int, int]:
 def main() -> None:
     master = read_json(MASTER_PATH)
     chapter_count, section_count = build_search_index(master)
-    version, file_count, total_bytes = build_version(master)
+    version, file_count, total_bytes = build_version(master, chapter_count, section_count)
     print(
         f"Built {SEARCH_PATH.name}: {chapter_count:,} chapters, "
         f"{section_count:,} sections"

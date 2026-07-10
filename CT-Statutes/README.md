@@ -28,6 +28,7 @@
 | [`data/`](data/) | Generated JSON consumed by the application. |
 | [`update_data.py`](update_data.py) | Downloads the current source PDFs and runs the data generators below in dependency order. |
 | [`build_app_indexes.py`](build_app_indexes.py) | Builds the complete navigation-search catalog and deterministic data-version manifest after a refresh. |
+| [`validate_data.py`](validate_data.py) | Data-quality gate: schema, record-count, citation-integrity, parser-artifact, and sentinel checks over everything in `data/`. |
 | [`ct_CGS_Crawl-v2.py`](ct_CGS_Crawl-v2.py) | Crawls current statute titles, chapters, sections, and full text from the Connecticut General Assembly. |
 | [`parse_index.py`](parse_index.py) | Converts the three subject-index PDFs into `data/statutes_index.json`. |
 | [`parse_infractions.py`](parse_infractions.py) | Converts the Judicial Branch schedule PDF into `data/infractions.json` and links entries to statute sections. |
@@ -142,7 +143,7 @@ The virtual environment is local development state and should not be committed.
 
 ### 2. Refresh everything at once
 
-`update_data.py` performs a complete refresh in one command. It downloads the current source PDFs (locating the subject-index PDFs' year-versioned links on the LCO page, so a new annual revision is picked up automatically), runs the three source generators in dependency order, and then runs `build_app_indexes.py`. Statutes run first, and infractions run last among the source generators so their links are built against the fresh crawl.
+`update_data.py` performs a complete refresh in one command. It downloads the current source PDFs (locating the subject-index PDFs' year-versioned links on the LCO page, so a new annual revision is picked up automatically), runs the three source generators in dependency order, then runs `build_app_indexes.py`, and finally gates the result with `validate_data.py` — comparing record counts against the pre-refresh `version.json`, so a parser that silently lost or duplicated a region of its source fails the refresh. Statutes run first, and infractions run last among the source generators so their links are built against the fresh crawl.
 
 ```bash
 python update_data.py
@@ -204,19 +205,19 @@ When running any generator directly instead of through `update_data.py`, finish 
 
 ```bash
 python build_app_indexes.py
+python validate_data.py
 ```
 
 Commit the resulting `search_index.json` and `version.json` with the other generated changes. The deterministic version changes whenever any runtime dataset changes.
 
 ### 6. Review generated changes
 
-Generated data can be large. Review source metadata, record counts, parser output, and a sample of entries before committing it:
+`validate_data.py` checks structure, record-count bounds, key uniqueness, citation integrity, empty statute bodies, parser artifacts, sentinel records, and `version.json` consistency, and exits non-zero on any failure (the workflow [`.github/workflows/validate-statute-data.yml`](../.github/workflows/validate-statute-data.yml) runs the same gate on pull requests that touch `data/`). Passing `--baseline <old version.json>` additionally flags record counts that drifted more than 20% — `update_data.py` does this automatically against the pre-refresh manifest.
+
+Before committing, also review what automation can't judge:
 
 ```bash
-python -m json.tool data/titles_index.json >/dev/null
-python -m json.tool data/statutes_index.json >/dev/null
-python -m json.tool data/infractions.json >/dev/null
-find data -name 'title_*.json' -print0 | xargs -0 -n1 python -m json.tool >/dev/null
+python validate_data.py
 git diff --stat
 git status --short
 ```

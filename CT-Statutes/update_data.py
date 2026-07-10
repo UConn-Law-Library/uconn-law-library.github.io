@@ -9,6 +9,9 @@ Stages, in dependency order:
   3. infractions  parse_infractions.py  schedule PDF       -> data/infractions.json
   4. app indexes  build_app_indexes.py  generated JSON     -> data/search_index.json,
                                                               data/version.json
+  5. validate     validate_data.py      generated JSON     -> exit status only;
+     schema, counts (vs. the pre-refresh version.json), citation integrity,
+     parser-artifact and sentinel checks — a failure fails the whole refresh
 
 The infractions stage must run after the statutes stage because it links each
 schedule entry to the freshly crawled title files.
@@ -38,6 +41,7 @@ import re
 import shutil
 import subprocess
 import sys
+import tempfile
 import time
 from urllib.parse import unquote, urljoin
 
@@ -187,6 +191,15 @@ def main() -> None:
 
     session = make_session()
 
+    # Snapshot the pre-refresh manifest so the validate stage can flag record
+    # counts that drifted more than its threshold from the last dataset.
+    baseline_path = None
+    version_path = os.path.join(DATA_DIR, "version.json")
+    if os.path.exists(version_path):
+        fd, baseline_path = tempfile.mkstemp(prefix="cgs-version-", suffix=".json")
+        os.close(fd)
+        shutil.copy(version_path, baseline_path)
+
     results: dict[str, bool] = {}
 
     if "statutes" in wanted:
@@ -251,12 +264,21 @@ def main() -> None:
         results["app-indexes"] = run_stage(
             "app indexes", "build_app_indexes.py")
 
+    # Gate the refreshed dataset: a parser can exit 0 on a changed source
+    # layout and still emit wrong records, so check what actually landed.
+    if results.get("app-indexes"):
+        extra = ["--baseline", baseline_path] if baseline_path else []
+        results["validate"] = run_stage("validate", "validate_data.py", extra)
+    if baseline_path:
+        os.remove(baseline_path)
+
     print("\n--- Summary ---")
     for name in STAGES:
         status = ("OK" if results[name] else "FAILED") if name in results else "skipped"
         print(f"  {name:<12} {status}")
-    if "app-indexes" in results:
-        print(f"  {'app indexes':<12} {'OK' if results['app-indexes'] else 'FAILED'}")
+    for name, label in (("app-indexes", "app indexes"), ("validate", "validate")):
+        if name in results:
+            print(f"  {label:<12} {'OK' if results[name] else 'FAILED'}")
 
     # sanity-check the files the web app loads at startup
     for fname in ("titles_index.json", "statutes_index.json", "infractions.json"):

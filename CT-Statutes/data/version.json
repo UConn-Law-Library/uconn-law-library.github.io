@@ -1,8 +1,15 @@
 {
   "schema": 1,
-  "version": "d25150472a89b87388f627056c0d2143093b2d4bc6ac0b19eaf3525774a78972",
+  "version": "dd6bf43eb4258836aabff35035c2afeda8b01e4667489bdd8b43b0746859cd2c",
   "files": 85,
-  "bytes": 172780371,
+  "bytes": 172673022,
+  "counts": {
+    "titles": 81,
+    "chapters": 1102,
+    "sections": 30245,
+    "index_headings": 5652,
+    "infractions": 1737
+  },
   "sources": {
     "statutes": {
       "generated_at_utc": "2026-02-13T19:31:26Z"
@@ -12,7 +19,7 @@
       "revised": "Revision of 1958, revised to January 1, 2025"
     },
     "infractions": {
-      "generated": "2026-06-09",
+      "generated": "2026-07-09",
       "effective": "October 1, 2025"
     }
   }
