@@ -145,6 +145,15 @@ function fmtMoney(n) {
 
 function cite(e) { return e.citation || e.stat_no; }
 
+// "2026-02-13T19:31:26Z" or "2026-06-10" -> "February 13, 2026"
+function fmtDate(iso) {
+  if (!iso) return null;
+  const d = new Date(/T/.test(iso) ? iso : iso + "T00:00:00Z");
+  if (Number.isNaN(d.getTime())) return iso;
+  return d.toLocaleDateString("en-US",
+    { year: "numeric", month: "long", day: "numeric", timeZone: "UTC" });
+}
+
 function keyChapter(t, c) { return `${t}:${c}`; }
 function keySection(t, c, s) { return `${t}:${c}:${s}`; }
 
@@ -183,6 +192,10 @@ function parseHash() {
     r.area = "bookmarks";
     return r;
   }
+  if (parts[0] === "a") {
+    r.area = "about";
+    return r;
+  }
   if (parts[0] === "titles") {
     r.area = "browse";
     r.titlesList = true;
@@ -210,6 +223,7 @@ const hashFor = {
   infraCategory: (slug) => `#/i/c/${encodeURIComponent(slug)}`,
   infraEntry: (id) => `#/i/e/${encodeURIComponent(id)}`,
   bookmarks: () => "#/b",
+  about: () => "#/a",
 };
 
 function go(hash) { location.hash = hash; }
@@ -239,7 +253,7 @@ function parentHash() {
     if (r.category) return hashFor.infractions();
     return hashFor.home();
   }
-  if (r.area === "bookmarks") return hashFor.home();
+  if (r.area === "bookmarks" || r.area === "about") return hashFor.home();
   return null;
 }
 
@@ -351,6 +365,9 @@ function bindSettings() {
     setSetting(DENSITY_KEY, ev.target.checked ? "compact" : null);
     applySettings();
   });
+
+  // navigation link inside the panel — close it so the page it opens is visible
+  $("aboutLink").addEventListener("click", () => toggleSettingsPanel(false));
 
   $("offlineDownloadBtn").addEventListener("click", () => {
     requestPersistentStorage(); // user gesture — some browsers prompt
@@ -1237,6 +1254,9 @@ function renderInner() {
   } else if (state.route.area === "bookmarks") {
     renderBookmarksNav();
     renderBookmarksView();
+  } else if (state.route.area === "about") {
+    renderAboutNav();
+    renderAboutView();
   } else {
     renderBrowseNav();
     renderBrowseView();
@@ -1660,6 +1680,11 @@ function renderHome() {
         <p>Bookmark sections and infractions to find them quickly.</p>
       </a>
     </div>
+    <p class="small muted home-provenance">Unofficial research aid${state.master?.source?.generated_at_utc
+      ? ` — statute text captured ${fmtDate(state.master.source.generated_at_utc)}` : ""}${inf?.source?.effective
+      ? `; infraction schedule effective ${esc(inf.source.effective)}` : ""}.
+      Verify against the official publications before relying on it.
+      <a href="${hashFor.about()}">Data &amp; sources →</a></p>
     ${renderHomeRows("🕘 Recently viewed", state.recents.slice(0, HOME_ROWS), null)}
     ${renderHomeRows("★ Bookmarks",
     [...state.bookmarks].sort((a, b) => b.ts - a.ts).slice(0, HOME_ROWS),
@@ -1996,6 +2021,97 @@ function renderBookmarksView() {
       render();
     });
   });
+}
+
+// -----------------------------
+// RENDER — about / data & sources
+// -----------------------------
+// One record per dataset: what it is, where the official copy lives, and how
+// current the local snapshot is. The per-dataset source objects load with the
+// data; version.json's summary fills in when a dataset hasn't loaded yet.
+function datasetProvenance() {
+  const v = state.dataVersion?.sources || {};
+  const statutes = state.master?.source || v.statutes || {};
+  const index = state.statIndex?.source || v.index || {};
+  const infractions = state.infractions?.source || v.infractions || {};
+  return [
+    {
+      name: "Statute text",
+      what: "Every title, chapter and section of the General Statutes, crawled from the General Assembly's website.",
+      publisher: "Connecticut General Assembly",
+      url: statutes.titles_url || "https://www.cga.ct.gov/current/pub/titles.htm",
+      dates: [statutes.generated_at_utc
+        && `Captured ${fmtDate(statutes.generated_at_utc)}`],
+      caveat: "Amendments made after the capture date do not appear here until the next data refresh.",
+    },
+    {
+      name: "Subject index",
+      what: "The Legislative Commissioners' Office index to the General Statutes, A to Z.",
+      publisher: index.publisher || "Connecticut General Assembly, Legislative Commissioners' Office",
+      url: index.url || "https://www.cga.ct.gov/lco/statutes-index.asp",
+      dates: [index.revised, index.generated && `Parsed ${fmtDate(index.generated)}`],
+      caveat: "The official index is revised annually and can trail recently passed legislation.",
+    },
+    {
+      name: "Infractions schedule",
+      what: "Mail-in violations and infractions with fine amounts (Chart A of the Judicial Branch schedule).",
+      publisher: infractions.publisher || "State of Connecticut Judicial Branch",
+      url: infractions.url || "https://www.jud.ct.gov/webforms/forms/infractions.pdf",
+      dates: [infractions.effective && `Effective ${infractions.effective}`,
+        infractions.generated && `Parsed ${fmtDate(infractions.generated)}`],
+      caveat: "Fine amounts change when a new schedule takes effect — confirm amounts against the current official schedule.",
+    },
+  ];
+}
+
+function renderAboutNav() {
+  navHeading.textContent = "Data & sources";
+  navEl.innerHTML = "";
+  navEl.appendChild(renderList(datasetProvenance().map((d) => ({
+    kicker: d.publisher,
+    title: `${d.name} ↗`,
+    hash: d.url,
+  }))));
+  navEl.querySelectorAll('a[href^="http"]').forEach((a) => {
+    a.target = "_blank";
+    a.rel = "noopener";
+  });
+}
+
+function renderAboutView() {
+  crumbsEl.innerHTML = `<span class="muted">Data &amp; sources</span>`;
+  const counts = state.dataVersion?.counts;
+  const cards = datasetProvenance().map((d) => `
+    <div class="card about-source">
+      <div class="kicker">${esc(d.publisher)}</div>
+      <div class="title">${esc(d.name)}</div>
+      <div class="sub">${esc(d.what)}</div>
+      ${d.dates.filter(Boolean).map((t) => `<span class="tag">${esc(t)}</span>`).join(" ")}
+      <div class="sub">${esc(d.caveat)}</div>
+      <p class="small"><a href="${esc(d.url)}" target="_blank" rel="noopener">Official source ↗</a></p>
+    </div>`).join("");
+
+  viewEl.innerHTML = `
+    <h1 class="h1">Data &amp; sources</h1>
+    <div class="disclaimer" role="note">
+      <strong>Unofficial research aid.</strong> This app is published by the UConn Law Library
+      and is not affiliated with the Connecticut General Assembly or the Judicial Branch.
+      It reflects a point-in-time copy of the official publications listed below — always
+      verify statutory language and fine amounts against the official source before relying
+      on them. Nothing here is legal advice.
+    </div>
+    <div class="list">${cards}</div>
+    ${counts ? `<p class="small muted">This snapshot holds ${counts.titles} titles,
+      ${Number(counts.chapters).toLocaleString("en-US")} chapters,
+      ${Number(counts.sections).toLocaleString("en-US")} statute sections,
+      ${Number(counts.index_headings).toLocaleString("en-US")} index headings and
+      ${Number(counts.infractions).toLocaleString("en-US")} infraction entries.</p>` : ""}
+    <p class="small muted">Data refreshes monthly from the official publications; the app checks for a
+      refreshed dataset each time it starts. How the data is produced, including every parser and its
+      validation checks, is documented in the
+      <a href="https://github.com/UConn-Law-Library/uconn-law-library.github.io/tree/main/CT-Statutes"
+         target="_blank" rel="noopener">public source repository ↗</a>.</p>
+  `;
 }
 
 // -----------------------------

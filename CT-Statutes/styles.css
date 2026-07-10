@@ -512,6 +512,8 @@ a:hover { text-decoration: underline; }
 
 .btn:hover { border-color: var(--accent); }
 
+a.btn { display: inline-block; text-decoration: none; }
+
 .btn.primary {
   background: var(--accent);
   border-color: var(--accent);
@@ -675,6 +677,26 @@ a.home-card:hover {
 }
 
 .home-card p { margin: 6px 0; font-size: 0.84375rem; color: var(--muted); }
+
+.home-provenance { max-width: 900px; margin-top: 14px; }
+
+/* ---------- Data & sources ---------- */
+.disclaimer {
+  max-width: 76ch;
+  margin: 14px 0;
+  padding: 12px 14px;
+  border: 1px solid var(--star);
+  border-left-width: 4px;
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--star) 8%, var(--bg));
+  font-size: 0.875rem;
+}
+
+.about-source { max-width: 76ch; }
+.about-source .tag { margin: 8px 6px 0 0; }
+.about-source .sub + .sub,
+.about-source .tag + .sub { margin-top: 8px; }
+.about-source p { margin: 8px 0 0; }
 
 /* ---------- Subject index ---------- */
 .letter-grid {

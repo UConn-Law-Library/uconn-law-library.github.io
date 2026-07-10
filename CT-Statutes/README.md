@@ -988,12 +988,12 @@ No user search queries, bookmarks, or reading history are transmitted to a serve
 
 Potential improvements:
 
-* Add a visible “data last updated” section to the home page.
-* Add a validation script for generated JSON.
-* Add a GitHub Action for data validation on commit.
 * Add a `README.md` directly inside `Pages/Work/cgs/`.
-* Add a plain-language disclaimer and official-source note.
 * Add a “clear all site data” troubleshooting button.
 * Add automated checks for broken statute links.
 * Add a changelog for data refreshes.
 * Add a small admin checklist for annual or session-based updates.
+
+Completed: snapshot dates and a plain-language disclaimer now appear on the home
+page and the in-app **Data & sources** page (`#/a`); `validate_data.py` and the
+`validate-statute-data.yml` workflow cover JSON validation locally and on CI.
