@@ -95,6 +95,7 @@ const crumbsAsideEl = $("crumbsAside");
 const statusPill = $("statusPill");
 const qEl = $("q");
 const scopeEl = $("scope");
+const omniPanel = $("omniPanel");
 const backBtn = $("backBtn");
 const backBtnTop = $("backBtnTop");
 const navHeading = $("navHeading");
@@ -106,6 +107,7 @@ const tabs = {
   index: $("tabIndex"),
   infractions: $("tabInfractions"),
   bookmarks: $("tabBookmarks"),
+  about: $("tabAbout"),
 };
 
 // -----------------------------
@@ -691,6 +693,7 @@ async function loadStatutesIndex() {
     if (state.search.q) {
       runSearch();
       render();
+      if (document.activeElement === qEl) renderOmni();
     } else if (state.route.area === "index" || (state.route.area === "browse" && !state.route.titleKey)) {
       render();
     }
@@ -924,6 +927,7 @@ function scheduleFtRender() {
     if (state.search.q && state.search.scope === "fulltext") {
       runSearch();
       render();
+      if (document.activeElement === qEl) renderOmni();
     }
   }, 300);
 }
@@ -942,6 +946,7 @@ function onFtProgress(msg) {
     if (state.search.q && state.search.scope === "fulltext") {
       runSearch();
       render();
+      if (document.activeElement === qEl) renderOmni();
     }
     return;
   }
@@ -996,6 +1001,7 @@ function setSearch(q, scope) {
   state.search.scope = scope;
   runSearch();
   render();
+  if (!state.search.q) closeOmni();
 }
 
 function cancelFulltextSearch() {
@@ -1147,6 +1153,92 @@ function runSearch() {
   }
 
   state.search.results = groups;
+}
+
+// Quick mixed-result panel adapted from the /next/ reader. Its rows come
+// from runSearch(), so the same Boolean AST drives both these suggestions
+// and the complete metadata/full-text result views.
+let omniSelection = -1;
+
+function omniItems() {
+  return [...omniPanel.querySelectorAll(".omni-item")];
+}
+
+function closeOmni() {
+  omniPanel.hidden = true;
+  qEl.setAttribute("aria-expanded", "false");
+  qEl.removeAttribute("aria-activedescendant");
+  omniSelection = -1;
+}
+
+function renderOmni() {
+  const q = qEl.value.trim();
+  if (!q || q !== state.search.q) {
+    closeOmni();
+    return;
+  }
+
+  const g = state.search.results || { sections: [], infractions: [], topics: [], chapters: [], titles: [] };
+  const rows = [];
+  const addRows = (kind, items, limit, map) => {
+    for (const item of items.slice(0, limit)) rows.push({ kind, ...map(item) });
+  };
+
+  addRows("Section", g.sections || [], 5, (r) => ({
+    hash: r.hash, title: r.label, sub: r.sub || "", amount: null,
+  }));
+  addRows("Title", g.titles || [], 2, (r) => ({
+    hash: r.hash, title: r.label, sub: "", amount: null,
+  }));
+  addRows("Chapter", g.chapters || [], 3, (r) => ({
+    hash: r.hash, title: r.label, sub: r.sub || "", amount: null,
+  }));
+  addRows("Topic", g.topics || [], 3, (r) => ({
+    hash: r.hash, title: r.label, sub: r.sub || "", amount: null,
+  }));
+  addRows("Fine", g.infractions || [], 3, (r) => ({
+    hash: r.hash, title: r.label, sub: r.sub || "", amount: r.amount,
+  }));
+
+  if (!rows.length) {
+    const pending = !state.statIndex ? " Index topics are still loading." : "";
+    omniPanel.innerHTML = `<div class="omni-empty">No quick matches.${pending}
+      Press <b>Enter</b> for complete results; Boolean operators are supported.</div>`;
+  } else {
+    const clamp = (s, max = 150) => s.length > max ? s.slice(0, max) + "..." : s;
+    omniPanel.innerHTML = rows.map((row, i) => `
+      <a class="omni-item" id="omniOption${i}" role="option" aria-selected="false"
+         data-omni-index="${i}" href="${esc(row.hash)}">
+        <span class="omni-kind">${esc(row.kind)}</span>
+        <span class="omni-main">${highlight(clamp(row.title), q)}</span>
+        ${row.amount != null ? `<span class="omni-amount">${fmtMoney(row.amount)}</span>` : ""}
+        ${row.sub ? `<span class="omni-sub">${esc(clamp(row.sub, 180))}</span>` : ""}
+      </a>`).join("");
+  }
+
+  const ft = state.search.ft;
+  const progress = state.search.scope === "fulltext" && ft.running
+    ? `Searching full text: ${ft.done}/${ft.total} titles`
+    : "Enter: all results | Up/Down: choose | Esc: close";
+  omniPanel.insertAdjacentHTML("beforeend", `<div class="omni-foot">${esc(progress)}</div>`);
+  omniPanel.hidden = false;
+  qEl.setAttribute("aria-expanded", "true");
+  omniSelection = -1;
+}
+
+function moveOmniSelection(delta) {
+  const items = omniItems();
+  if (!items.length) return false;
+  omniSelection = (omniSelection + delta + items.length) % items.length;
+  items.forEach((item, i) => {
+    const selected = i === omniSelection;
+    item.classList.toggle("selected", selected);
+    item.setAttribute("aria-selected", String(selected));
+  });
+  const active = items[omniSelection];
+  qEl.setAttribute("aria-activedescendant", active.id);
+  active.scrollIntoView({ block: "nearest" });
+  return true;
 }
 
 // -----------------------------
@@ -2119,7 +2211,7 @@ function datasetProvenance() {
 }
 
 function renderAboutNav() {
-  navHeading.textContent = "Data & sources";
+  navHeading.textContent = "About";
   navEl.innerHTML = "";
   navEl.appendChild(renderList(datasetProvenance().map((d) => ({
     kicker: d.publisher,
@@ -2133,7 +2225,7 @@ function renderAboutNav() {
 }
 
 function renderAboutView() {
-  crumbsEl.innerHTML = `<span class="muted">Data &amp; sources</span>`;
+  crumbsEl.innerHTML = `<span class="muted">About</span>`;
   const counts = state.dataVersion?.counts;
   const cards = datasetProvenance().map((d) => `
     <div class="card about-source">
@@ -2146,7 +2238,10 @@ function renderAboutView() {
     </div>`).join("");
 
   viewEl.innerHTML = `
-    <h1 class="h1">Data &amp; sources</h1>
+    <h1 class="h1">About CT General Statutes Explorer</h1>
+    <p class="muted">A UConn Law Library research tool for browsing and searching the Connecticut
+      General Statutes, the official subject index, and the Judicial Branch infraction schedule.</p>
+    <h2>Data &amp; sources</h2>
     <div class="disclaimer" role="note">
       <strong>Unofficial research aid.</strong> This app is published by the UConn Law Library
       and is not affiliated with the Connecticut General Assembly or the Judicial Branch.
@@ -2202,7 +2297,9 @@ function renderSearch() {
   viewEl.innerHTML = `
     <h1 class="h1">Search: “${esc(q)}”</h1>
     <div class="meta">
-      <span class="muted">${state.search.scope === "fulltext" ? "Full text of statutes" : "Titles, sections & infractions"}</span>
+      <span class="muted">${state.search.scope === "fulltext"
+        ? "Full text of statutes"
+        : "Titles, chapters, sections, index topics & infractions"}</span>
       ${stillLoading}
     </div>
     ${totals === 0 ? `<div class="empty">No results for “${esc(q)}”. Try fewer words, a statute number like “14-227a”,
@@ -2250,10 +2347,11 @@ function renderSearch() {
 // INIT + EVENTS
 // -----------------------------
 async function applyRoute() {
+  closeOmni();
   state.route = parseHash();
 
   // navigating anywhere exits search mode
-  if (state.search.q) {
+  if (state.search.q || qEl.value) {
     state.search.q = "";
     state.search.results = null;
     qEl.value = "";
@@ -2275,14 +2373,73 @@ async function applyRoute() {
 function bindUI() {
   const navScopeDelay = () => (scopeEl.value === "fulltext" ? 350 : 180);
   let searchTimer;
+  const refreshSearchFromInput = () => {
+    setSearch(qEl.value, scopeEl.value);
+    if (document.activeElement === qEl) renderOmni();
+  };
+
   qEl.addEventListener("input", () => {
     clearTimeout(searchTimer);
-    searchTimer = setTimeout(() => setSearch(qEl.value, scopeEl.value), navScopeDelay());
+    searchTimer = setTimeout(refreshSearchFromInput, navScopeDelay());
+  });
+  qEl.addEventListener("focus", () => {
+    if (!qEl.value.trim()) return;
+    clearTimeout(searchTimer);
+    if (state.search.q !== qEl.value.trim() || state.search.scope !== scopeEl.value) {
+      setSearch(qEl.value, scopeEl.value);
+    }
+    renderOmni();
+  });
+  qEl.addEventListener("keydown", (ev) => {
+    if (ev.key === "ArrowDown" || ev.key === "ArrowUp") {
+      if (omniPanel.hidden || !moveOmniSelection(ev.key === "ArrowDown" ? 1 : -1)) return;
+      ev.preventDefault();
+      return;
+    }
+    if (ev.key === "Enter") {
+      ev.preventDefault();
+      clearTimeout(searchTimer);
+      const items = omniItems();
+      if (!omniPanel.hidden && omniSelection >= 0 && items[omniSelection]) {
+        const target = items[omniSelection].getAttribute("href");
+        closeOmni();
+        qEl.blur();
+        if (location.hash === target) applyRoute();
+        else go(target);
+      } else {
+        setSearch(qEl.value, scopeEl.value);
+        closeOmni();
+        qEl.blur();
+      }
+      return;
+    }
+    if (ev.key === "Escape" && !omniPanel.hidden) {
+      ev.preventDefault();
+      ev.stopPropagation();
+      closeOmni();
+      qEl.blur();
+    }
   });
   scopeEl.addEventListener("change", () => {
     // Full-text search streams title bodies through the worker on demand —
     // switching scope downloads nothing by itself.
     setSearch(qEl.value, scopeEl.value);
+    if (document.activeElement === qEl) renderOmni();
+  });
+
+  omniPanel.addEventListener("mousedown", (ev) => {
+    const link = ev.target.closest(".omni-item");
+    if (!link) return;
+    ev.preventDefault();
+    clearTimeout(searchTimer);
+    const target = link.getAttribute("href");
+    closeOmni();
+    qEl.blur();
+    if (location.hash === target) applyRoute();
+    else go(target);
+  });
+  document.addEventListener("click", (ev) => {
+    if (!ev.target.closest(".search-omni")) closeOmni();
   });
 
   const goUp = () => {

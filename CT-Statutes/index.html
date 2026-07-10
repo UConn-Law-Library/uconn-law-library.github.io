@@ -37,18 +37,24 @@
         <a href="#/i" id="tabInfractions" data-tab="infractions">Infractions</a>
         <a href="#/b" id="tabBookmarks" data-tab="bookmarks">Bookmarks<span id="bmCount" class="count-badge"
             hidden></span></a>
+        <a href="#/a" id="tabAbout" data-tab="about">About</a>
         <button id="settingsBtn" class="settings-btn" aria-label="Settings" aria-haspopup="true"
           aria-expanded="false">⚙<span class="settings-label"> Settings</span></button>
       </nav>
       <span class="pill" id="statusPill" role="status" aria-live="polite">Loading…</span>
     </div>
     <div class="header-row">
-      <div class="input">
-        <input id="q" type="search"
-          placeholder='Search keywords, statute numbers, or boolean — e.g. “14-296aa”, dog NOT license, leash OR muzzle'
-          autocomplete="off" aria-label="Search statutes and infractions" />
+      <div class="input search-omni">
+        <div class="search-field">
+          <input id="q" type="search"
+            placeholder='Search statutes, index topics and infractions'
+            autocomplete="off" spellcheck="false" aria-label="Search statutes, index topics and infractions"
+            role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="omniPanel" />
+          <kbd class="search-kbd" aria-hidden="true">/</kbd>
+          <div id="omniPanel" class="omni-panel" role="listbox" hidden></div>
+        </div>
         <select id="scope" aria-label="Search scope">
-          <option value="nav" selected>Titles, sections &amp; infractions</option>
+          <option value="nav" selected>Everything</option>
           <option value="fulltext">Full text of statutes</option>
         </select>
       </div>
@@ -95,8 +101,8 @@
     </div>
     <hr class="setting-divider" />
     <div class="setting-row">
-      <a class="btn" id="aboutLink" href="#/a">Data &amp; sources</a>
-      <span class="setting-hint">Snapshot dates &amp; disclaimer</span>
+      <a class="btn" id="aboutLink" href="#/a">About</a>
+      <span class="setting-hint">Sources, dates &amp; disclaimer</span>
     </div>
   </div>
 

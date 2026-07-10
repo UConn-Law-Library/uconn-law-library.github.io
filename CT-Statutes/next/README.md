@@ -123,3 +123,177 @@ features of the original app are out of scope:
   full-text scan doesn't hold ~160 MB of JSON in memory.
 - Bookmarks and recents are in `localStorage` under `cgsr:*` keys (separate from
   the original app's `cgs:*` keys, so the two apps don't interfere).
+
+## Version map: 1.0.5
+
+The current prototype version is defined in `app.js` as `APP_VERSION = "1.0.5"`.
+The app is a static, dependency-free PWA made from these files:
+
+- `index.html`: application shell, header, search box, settings panel, side nav,
+  reader pane, and outline pane.
+- `styles.css`: responsive three-pane/two-pane/drawer layout, reading
+  typography, print styles, theme variables, compact density mode, and mobile
+  bottom navigation.
+- `app.js`: all state management, data loading, hash routing, rendering, search,
+  subsection parsing, bookmarks, settings, install flow, and offline corpus
+  download logic.
+- `sw.js`: service worker for shell caching, shared legal-data caching, and data
+  version invalidation.
+- `manifest.webmanifest`, `icon.svg`, `wordmark.svg`: install metadata and
+  branding assets.
+- `incoming_refs.json`: generated reverse-citation map used by the "Cited by"
+  panel.
+- `build_incoming.py`: maintenance script that rebuilds `incoming_refs.json`
+  from `../data/title_*.json`.
+
+### Runtime data contract
+
+The app must be served from `CT-Statutes/next/` with the generated data directory
+available one level up at `CT-Statutes/data/`.
+
+Boot-time data:
+
+- `../data/version.json`: corpus version hash, file count, byte count, source
+  dates, and summary counts.
+- `../data/titles_index.json`: title list and the title JSON filename for each
+  title.
+- `../data/search_index.json`: lightweight chapter and section heading index
+  used for initial navigation and instant heading search.
+- `../data/infractions.json`: infraction schedule entries and fine metadata.
+
+Lazy/on-demand data:
+
+- `../data/statutes_index.json`: subject index. It is about 14 MB and starts
+  loading shortly after first paint.
+- `../data/title_XX.json`: title payloads. These load when a title or chapter is
+  opened, and are kept in an in-memory LRU cache capped at 12 titles.
+- `./incoming_refs.json`: reverse-citation map. It loads shortly after boot and
+  updates rendered "Cited by" chips once available.
+
+The `version.json` snapshot currently reports 81 titles, 1,102 chapters, 30,245
+sections, 5,652 index headings, 1,737 infraction entries, and 171,739,742 bytes
+across 85 generated data files.
+
+### Routes
+
+CGS Reader uses hash routes only, so it can run from GitHub Pages and WebView
+shells without server rewrites.
+
+- `#/`: title landing page and recents.
+- `#/t/<title_key>`: chapters for a title, for example `#/t/14`.
+- `#/t/<title_key>/c/<chapter_key>`: continuous chapter reader, for example
+  `#/t/14/c/248`.
+- `#/t/<title_key>/c/<chapter_key>/s/<section_key>`: scroll directly to a
+  section in a chapter.
+- `#/t/<title_key>/c/<chapter_key>/s/<section_key>/p/<path>`: scroll directly to
+  a structured subsection marker path, for example `p/b.1`.
+- `#/s/<section-or-citation>`: resolver for bare citations such as
+  `14-296aa` or `14-296aa(b)(1)`.
+- `#/q/<query>`: grouped navigation search results.
+- `#/ft/<query>`: progressive full-text search across all title files.
+- `#/ix`, `#/ix/l/<letter>`, `#/ix/h/<heading_slug>`: subject index views.
+- `#/inf`, `#/inf/c/<category_slug>`: infraction schedule views.
+- `#/bm`: saved sections.
+- `#/about`: version, source, and snapshot metadata.
+
+### Main lifecycle
+
+1. `index.html` applies saved theme, text size, and compact-density settings
+   before first paint.
+2. `boot()` checks `../data/version.json`, invalidates stale shared data cache
+   when the corpus version changed, loads `titles_index.json` and
+   `search_index.json`, then renders the current hash route.
+3. `infractions.json` loads in parallel and triggers a re-render for home or
+   infractions pages when ready.
+4. `statutes_index.json`, `incoming_refs.json`, and optional offline background
+   corpus download start after first paint.
+5. `hashchange` drives all navigation through `render()`, which cancels any
+   running full-text search, resets view chrome, and dispatches to the matching
+   view function.
+
+### Search behavior
+
+The omnibox is intentionally broad:
+
+- Citation-like input can jump directly to a section resolver.
+- Instant results are grouped across sections, titles, chapters, subject-index
+  topics, and infractions.
+- Pressing Enter without selecting a quick result opens `#/q/<query>`.
+- The full search page offers `#/ft/<query>` for streamed full-text matching
+  across title JSON files. Results stop at `FT_MAX_RESULTS` (300).
+
+The full-text implementation loads title files one at a time through the same LRU
+title cache used by browsing, so a corpus-wide scan does not permanently retain
+every title payload in memory.
+
+### Section rendering
+
+Chapter pages render the entire chapter as a reading surface. Each section:
+
+- Rebuilds flat body paragraphs into nested subsection rows using leading
+  markers such as `(a)`, `(1)`, `(A)`, `(i)`, and `(I)`.
+- Creates addressable subsection anchors from the marker path.
+- Linkifies statute citations in body text, history, and annotations.
+- Shows fine pills when matching entries exist in the infraction schedule.
+- Exposes history, annotations, source, and "Cited by" panels as inline chips.
+- Collapses long repeated quoted-definition runs into expandable definition
+  groups.
+
+Chapter scrolling is observed after render. As the visible section changes, the
+URL is retargeted to that section without adding a new browser history entry, and
+the outline rail tracks the active section.
+
+### Storage and caches
+
+Local storage keys:
+
+- `cgsr:theme`: pinned theme, either `light` or `dark`; absent means system
+  preference.
+- `cgsr:textsize`: reading text scale.
+- `cgsr:density`: `compact` when compact list density is enabled.
+- `cgsr:bookmarks`: saved section records.
+- `cgsr:recents`: recently read section records, capped at 12.
+- `cgs:data-version:v1`: shared corpus version marker, also used by the original
+  app.
+
+Cache storage names:
+
+- `cgsr-shell-v2`: `/next/` shell assets, network-first.
+- `cgs-data-v1`: shared legal data cache, cache-first, also used by the original
+  app.
+- `cgs-meta-v1`: shared version metadata cache.
+
+Plain browser visits stay lightweight. After installation, or after the user
+chooses "Download for offline use", the app downloads all title files into the
+shared data cache one at a time. The background downloader respects Data Saver
+and can resume on a later launch.
+
+### Maintenance checklist
+
+After refreshing the generated data in `../data/`:
+
+1. Rebuild the lightweight app indexes from `CT-Statutes/` if the source data
+   changed:
+
+   ```bash
+   cd CT-Statutes
+   python build_app_indexes.py
+   ```
+
+2. Rebuild the reverse-citation map for this prototype:
+
+   ```bash
+   cd CT-Statutes/next
+   python build_incoming.py
+   ```
+
+3. Serve the parent folder and smoke-test the main routes:
+
+   ```bash
+   cd CT-Statutes
+   python -m http.server 8000
+   ```
+
+   Open `http://localhost:8000/next/`, then check a title page, a chapter page,
+   a citation resolver route, subject index, infractions, saved sections, and
+   About.

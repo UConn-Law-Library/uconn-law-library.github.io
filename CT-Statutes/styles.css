@@ -287,6 +287,104 @@ select {
   color: var(--text);
 }
 
+/* ---------- Unified search suggestions ---------- */
+.search-field {
+  position: relative;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.search-field input[type="search"] { padding-right: 42px; }
+
+.search-kbd {
+  position: absolute;
+  top: 50%;
+  right: 12px;
+  transform: translateY(-50%);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  background: var(--bg);
+  color: var(--muted);
+  padding: 0 6px;
+  font: inherit;
+  font-size: 0.75rem;
+  pointer-events: none;
+}
+
+.omni-panel {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  right: 0;
+  z-index: 40;
+  max-height: min(65vh, 560px);
+  overflow-y: auto;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--bg);
+  box-shadow: 0 12px 30px rgb(15 23 42 / 0.22);
+}
+
+.omni-panel[hidden] { display: none; }
+
+.omni-item {
+  display: grid;
+  grid-template-columns: 64px minmax(0, 1fr) auto;
+  column-gap: 8px;
+  align-items: baseline;
+  padding: 9px 11px;
+  border-bottom: 1px solid var(--border);
+  color: var(--text);
+  text-decoration: none;
+}
+
+.omni-item:hover,
+.omni-item.selected {
+  background: var(--panel-2);
+  text-decoration: none;
+}
+
+.omni-kind {
+  color: var(--muted);
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.omni-main {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  font-weight: 600;
+}
+
+.omni-amount {
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.omni-sub {
+  grid-column: 2 / -1;
+  color: var(--muted);
+  font-size: 0.78125rem;
+  overflow-wrap: anywhere;
+}
+
+.omni-empty,
+.omni-foot {
+  padding: 10px 12px;
+  color: var(--muted);
+  font-size: 0.78125rem;
+}
+
+.omni-foot {
+  position: sticky;
+  bottom: 0;
+  border-top: 1px solid var(--border);
+  background: var(--panel);
+}
+
 /* ---------- Layout ---------- */
 main {
   display: grid;
@@ -842,6 +940,8 @@ a.home-card:hover {
   .settings-btn {
     font-size: 0.78125rem;
     padding: 8px 10px;
+    min-width: 0;
+    white-space: nowrap;
   }
 
   .settings-label { display: none; }
@@ -875,7 +975,16 @@ a.home-card:hover {
 
 @media (max-width: 600px) {
   .input { flex-wrap: wrap; }
+  .search-field { flex-basis: 100%; }
   .input select { flex: 1; }
+  .search-kbd { display: none; }
+  .search-field input[type="search"] { padding-right: 12px; }
+  .tabs a,
+  .settings-btn {
+    padding-inline: 4px;
+    font-size: 0.6875rem;
+  }
+  .count-badge { display: none; }
 }
 
 @media print {
