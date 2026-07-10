@@ -1,14 +1,15 @@
 {
   "schema": 1,
-  "version": "89cdd65884101591bd91bc813fd572f2b3196d13e4c5fb2e129344644cce6a56",
-  "files": 85,
-  "bytes": 171739742,
+  "version": "df634d865ca452670f94179a498d3d3add9018b0983ccd6fe73de1aa563d3f12",
+  "files": 146,
+  "bytes": 197381405,
   "counts": {
     "titles": 81,
     "chapters": 1102,
     "sections": 30245,
     "index_headings": 5652,
-    "infractions": 1737
+    "infractions": 1737,
+    "supplement_sections": 1931
   },
   "sources": {
     "statutes": {
@@ -21,6 +22,11 @@
     "infractions": {
       "generated": "2026-07-09",
       "effective": "October 1, 2025"
+    },
+    "supplement": {
+      "generated_at_utc": "2026-07-10T15:00:16Z",
+      "supplement_year": 2026,
+      "titles_url": "https://www.cga.ct.gov/2026/sup/titles.htm"
     }
   }
 }

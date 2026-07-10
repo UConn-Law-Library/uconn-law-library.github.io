@@ -30,6 +30,7 @@
 | [`build_app_indexes.py`](build_app_indexes.py) | Builds the complete navigation-search catalog and deterministic data-version manifest after a refresh. |
 | [`validate_data.py`](validate_data.py) | Data-quality gate: schema, record-count, citation-integrity, parser-artifact, and sentinel checks over everything in `data/`. |
 | [`ct_CGS_Crawl-v2.py`](ct_CGS_Crawl-v2.py) | Crawls current statute titles, chapters, sections, and full text from the Connecticut General Assembly. |
+| [`ct_CGS_Supplement_Crawl.py`](ct_CGS_Supplement_Crawl.py) | Crawls the annual General Statutes Supplement (amended, added, and repealed sections) into `data/supplement/`, reusing the main crawler's extraction logic. |
 | [`parse_index.py`](parse_index.py) | Converts the three subject-index PDFs into `data/statutes_index.json`. |
 | [`parse_infractions.py`](parse_infractions.py) | Converts the Judicial Branch schedule PDF into `data/infractions.json` and links entries to statute sections. |
 | [`Index A-H.pdf`](Index%20A-H.pdf), [`Index I-S.pdf`](Index%20I-S.pdf), [`Index T-Z.pdf`](Index%20T-Z.pdf) | Source PDFs for the General Statutes subject index. |
@@ -60,6 +61,9 @@ The repository contains generated snapshots; it does not request statute content
 | `data/title_XX.json` | Connecticut General Assembly title and chapter pages | A title's metadata, chapters, sections, full text, history, annotations, and repeal status when detected. Lettered titles use filenames such as `title_10a.json`. |
 | `data/statutes_index.json` | [Legislative Commissioners' Office statutes index](https://www.cga.ct.gov/lco/statutes-index.asp) | Subject headings, nested entries, statute references, and “see” cross-references extracted from the three index PDFs. |
 | `data/infractions.json` | [Connecticut Judicial Branch infractions schedule](https://www.jud.ct.gov/webforms/forms/infractions.pdf) | Violation descriptions, schedule categories, monetary columns, source-page numbers, and links to matching statute sections. |
+| `data/supplement/title_XX.json` | [Connecticut General Assembly supplement pages](https://www.cga.ct.gov/2026/sup/titles.htm) | One file per amended title, same shape as `data/title_XX.json`, holding only the sections the supplement amends, adds, or repeals. |
+| `data/supplement/supplement_index.json` | Generated with the supplement crawl | Master list of supplement titles and their per-title filenames (analog of `titles_index.json`). |
+| `data/supplement/supplement_map.json` | Generated with the supplement crawl | Flat overlay loaded at startup: amended `section_key → {t, c, l, f, status?}` plus the amended chapter and title key sets, so the app can badge amended material and fetch supplement text on demand. |
 | `data/search_index.json` | Generated from all `title_XX.json` files | Lightweight chapter and section labels/routes, allowing complete navigation search without loading statute bodies. |
 | `data/version.json` | Generated from every runtime JSON dataset | Deterministic SHA-256 version plus source dates and corpus size, used to invalidate stale offline data. |
 
@@ -143,7 +147,7 @@ The virtual environment is local development state and should not be committed.
 
 ### 2. Refresh everything at once
 
-`update_data.py` performs a complete refresh in one command. It downloads the current source PDFs (locating the subject-index PDFs' year-versioned links on the LCO page, so a new annual revision is picked up automatically), runs the three source generators in dependency order, then runs `build_app_indexes.py`, and finally gates the result with `validate_data.py` — comparing record counts against the pre-refresh `version.json`, so a parser that silently lost or duplicated a region of its source fails the refresh. Statutes run first, and infractions run last among the source generators so their links are built against the fresh crawl.
+`update_data.py` performs a complete refresh in one command. It downloads the current source PDFs (locating the subject-index PDFs' year-versioned links on the LCO page, so a new annual revision is picked up automatically), runs the four source generators in dependency order, then runs `build_app_indexes.py`, and finally gates the result with `validate_data.py` — comparing record counts against the pre-refresh `version.json`, so a parser that silently lost or duplicated a region of its source fails the refresh. Statutes run first, and infractions run last among the source generators so their links are built against the fresh crawl.
 
 ```bash
 python update_data.py
@@ -152,10 +156,10 @@ python update_data.py
 Useful options:
 
 - `--no-download` parses the PDFs already in the folder instead of downloading fresh copies. A failed download never overwrites an existing PDF.
-- `--only statutes`, `--only index`, or `--only infractions` runs a single stage (repeatable).
-- `--sleep 0.5` slows the statute crawl (passed through to the crawler).
+- `--only statutes`, `--only supplement`, `--only index`, or `--only infractions` runs a single stage (repeatable).
+- `--sleep 0.5` slows the statute and supplement crawls (passed through to the crawlers).
 
-The script exits non-zero if any stage fails, and ends with a summary showing each generated file's `source` date. Steps 3–5 below run the same generators individually.
+The script exits non-zero if any stage fails, and ends with a summary showing each generated file's `source` date. Steps 3–6 below run the same generators individually.
 
 #### Scheduled refresh on GitHub
 
@@ -175,7 +179,17 @@ The crawler rewrites `data/title_XX.json` and `data/titles_index.json`. It also 
 
 Be considerate of the Connecticut General Assembly's servers. Keep a delay between requests and avoid repeatedly running a full crawl during debugging.
 
-### 4. Refresh and parse the subject index
+### 4. Crawl the supplement
+
+The General Assembly publishes an annual supplement listing only the sections amended, added, or repealed since the base revision. The supplement crawler traverses it the same way as the main crawl (its page markup is identical) and writes `data/supplement/`:
+
+```bash
+python ct_CGS_Supplement_Crawl.py
+```
+
+Use `--year` for a different supplement year, `--titles 1,42a` for a partial crawl (which leaves `supplement_index.json` and `supplement_map.json` untouched), and the same `--sleep`/`--jitter`/`--timeout` pacing options as the main crawler. The web app loads `supplement_map.json` at startup to badge amended titles, chapters, and sections, and fetches the per-title supplement files on demand to show the amended text.
+
+### 5. Refresh and parse the subject index
 
 Download the current three PDF ranges from the [official index page](https://www.cga.ct.gov/lco/statutes-index.asp), preserve these filenames, and replace the repository copies:
 
@@ -191,7 +205,7 @@ python parse_index.py
 
 The parser processes the files in parallel by default and writes `data/statutes_index.json`. For troubleshooting, `--serial` disables multiprocessing and `--limit N` parses only the first `N` pages of each PDF. A limited run is for debugging only and should not replace the committed complete index.
 
-### 5. Refresh and parse the infractions schedule
+### 6. Refresh and parse the infractions schedule
 
 Download the current [official infractions PDF](https://www.jud.ct.gov/webforms/forms/infractions.pdf) as `infractions_schedule.pdf`, then run:
 
@@ -210,7 +224,7 @@ python validate_data.py
 
 Commit the resulting `search_index.json` and `version.json` with the other generated changes. The deterministic version changes whenever any runtime dataset changes.
 
-### 6. Review generated changes
+### 7. Review generated changes
 
 `validate_data.py` checks structure, record-count bounds, key uniqueness, citation integrity, empty statute bodies, parser artifacts, sentinel records, and `version.json` consistency, and exits non-zero on any failure (the workflow [`.github/workflows/validate-statute-data.yml`](../.github/workflows/validate-statute-data.yml) runs the same gate on pull requests that touch `data/`). Passing `--baseline <old version.json>` additionally flags record counts that drifted more than 20% — `update_data.py` does this automatically against the pre-refresh manifest.
 
@@ -229,6 +243,7 @@ Also test representative navigation and searches in a browser, including:
 - a subject-index cross-reference;
 - an infraction linked to a statute;
 - a repealed section;
+- a section amended by the supplement (badge, provenance note, prior-revision text) and one the supplement added;
 - offline reload after the data has been cached.
 
 ## Application architecture

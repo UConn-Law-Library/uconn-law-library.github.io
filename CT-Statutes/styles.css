@@ -10,6 +10,7 @@
   --accent-contrast: #ffffff;
   --mark: #fde68a;
   --star: #d97706;
+  --danger: #b91c1c;
   --shadow: 0 1px 2px rgb(15 23 42 / 0.06);
 }
 
@@ -29,6 +30,7 @@
     --accent-contrast: #0f172a;
     --mark: #92681c;
     --star: #fbbf24;
+    --danger: #f87171;
     --shadow: none;
   }
 }
@@ -45,6 +47,7 @@
   --accent-contrast: #0f172a;
   --mark: #92681c;
   --star: #fbbf24;
+  --danger: #f87171;
   --shadow: none;
 }
 
@@ -699,6 +702,43 @@ details.xrefs > summary:hover {
   color: var(--text);
   font-weight: 600;
 }
+
+/* 2026 Supplement badges */
+.tag.supp {
+  color: var(--accent);
+  border-color: color-mix(in srgb, var(--accent) 45%, var(--border));
+  background: color-mix(in srgb, var(--accent) 10%, var(--panel));
+  font-weight: 600;
+}
+
+.tag.repealed {
+  color: var(--danger);
+  border-color: color-mix(in srgb, var(--danger) 45%, var(--border));
+  background: color-mix(in srgb, var(--danger) 10%, var(--panel));
+  font-weight: 600;
+}
+
+/* provenance banner above supplement text on a section page */
+.supp-note {
+  border: 1px solid color-mix(in srgb, var(--accent) 35%, var(--border));
+  border-left: 4px solid var(--accent);
+  background: color-mix(in srgb, var(--accent) 8%, var(--panel));
+  border-radius: 8px;
+  padding: 10px 14px;
+  margin: 12px 0;
+  font-size: 0.875rem;
+  max-width: 85ch;
+}
+
+.supp-note.repealed {
+  border-color: color-mix(in srgb, var(--danger) 35%, var(--border));
+  border-left-color: var(--danger);
+  background: color-mix(in srgb, var(--danger) 8%, var(--panel));
+}
+
+/* collapsed prior-revision text under a supplement amendment */
+details.prior { margin: 12px 0; }
+details.prior > summary { font-size: 0.875rem; }
 
 mark {
   background: var(--mark);

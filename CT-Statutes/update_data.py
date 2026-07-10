@@ -5,11 +5,13 @@ One-command refresh of every dataset the CT Statutes Explorer uses.
 Stages, in dependency order:
   1. statutes     ct_CGS_Crawl-v2.py    crawls cga.ct.gov  -> data/title_*.json,
                                                               data/titles_index.json
-  2. index        parse_index.py        LCO index PDFs     -> data/statutes_index.json
-  3. infractions  parse_infractions.py  schedule PDF       -> data/infractions.json
-  4. app indexes  build_app_indexes.py  generated JSON     -> data/search_index.json,
+  2. supplement   ct_CGS_Supplement_Crawl.py
+                                        crawls cga.ct.gov  -> data/supplement/*.json
+  3. index        parse_index.py        LCO index PDFs     -> data/statutes_index.json
+  4. infractions  parse_infractions.py  schedule PDF       -> data/infractions.json
+  5. app indexes  build_app_indexes.py  generated JSON     -> data/search_index.json,
                                                               data/version.json
-  5. validate     validate_data.py      generated JSON     -> exit status only;
+  6. validate     validate_data.py      generated JSON     -> exit status only;
      schema, counts (vs. the pre-refresh version.json), citation integrity,
      parser-artifact and sentinel checks — a failure fails the whole refresh
 
@@ -70,7 +72,7 @@ BROWSER_UA = (
 )
 DOWNLOAD_ATTEMPTS = 4
 
-STAGES = ("statutes", "index", "infractions")
+STAGES = ("statutes", "supplement", "index", "infractions")
 
 
 def make_session() -> requests.Session:
@@ -206,6 +208,11 @@ def main() -> None:
         extra = ["--sleep", str(args.sleep)] if args.sleep is not None else []
         results["statutes"] = run_stage("statutes", "ct_CGS_Crawl-v2.py", extra)
 
+    if "supplement" in wanted:
+        extra = ["--sleep", str(args.sleep)] if args.sleep is not None else []
+        results["supplement"] = run_stage(
+            "supplement", "ct_CGS_Supplement_Crawl.py", extra)
+
     if "index" in wanted:
         revised = None
         if not args.no_download:
@@ -281,7 +288,8 @@ def main() -> None:
             print(f"  {label:<12} {'OK' if results[name] else 'FAILED'}")
 
     # sanity-check the files the web app loads at startup
-    for fname in ("titles_index.json", "statutes_index.json", "infractions.json"):
+    for fname in ("titles_index.json", "statutes_index.json", "infractions.json",
+                  os.path.join("supplement", "supplement_map.json")):
         path = os.path.join(DATA_DIR, fname)
         try:
             with open(path, encoding="utf-8") as f:

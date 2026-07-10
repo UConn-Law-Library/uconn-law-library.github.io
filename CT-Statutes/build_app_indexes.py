@@ -18,6 +18,9 @@ DATA_DIR = HERE / "data"
 MASTER_PATH = DATA_DIR / "titles_index.json"
 SEARCH_PATH = DATA_DIR / "search_index.json"
 VERSION_PATH = DATA_DIR / "version.json"
+SUPPLEMENT_DIR = DATA_DIR / "supplement"
+SUPPLEMENT_INDEX_PATH = SUPPLEMENT_DIR / "supplement_index.json"
+SUPPLEMENT_MAP_PATH = SUPPLEMENT_DIR / "supplement_map.json"
 
 
 def read_json(path: Path):
@@ -94,6 +97,25 @@ def build_search_index(master) -> tuple[int, int]:
     return len(chapters), len(sections)
 
 
+def supplement_files() -> list[Path]:
+    """Supplement dataset files, when a supplement crawl has been generated.
+
+    The supplement is optional: before ct_CGS_Supplement_Crawl.py has run
+    (or in a year without one) the directory is absent and the version digest
+    simply doesn't cover it.
+    """
+    if not SUPPLEMENT_INDEX_PATH.is_file():
+        return []
+    supp_index = read_json(SUPPLEMENT_INDEX_PATH)
+    paths = [SUPPLEMENT_INDEX_PATH, SUPPLEMENT_MAP_PATH]
+    paths.extend(
+        SUPPLEMENT_DIR / entry["file"]
+        for entry in supp_index.get("titles") or []
+        if entry.get("file")
+    )
+    return paths
+
+
 def data_files(master) -> list[Path]:
     paths = [
         MASTER_PATH,
@@ -106,6 +128,7 @@ def data_files(master) -> list[Path]:
         for entry in master.get("titles") or []
         if entry.get("file")
     )
+    paths.extend(supplement_files())
     missing = [str(path) for path in paths if not path.is_file()]
     if missing:
         raise FileNotFoundError("Missing generated data files: " + ", ".join(missing))
@@ -130,13 +153,18 @@ def compute_digest(paths) -> tuple[str, int]:
     Line endings are normalized first: git's eol conversion can put CRLF in a
     Windows working copy of files whose blobs are LF, and the digest must be
     the same on every platform that checks out the same data.
+
+    Files are identified by their data/-relative path (not the basename):
+    supplement files reuse the base title files' names in a subdirectory.
     """
     digest = hashlib.sha256()
     total_bytes = 0
-    for path in sorted(paths, key=lambda item: item.name):
+    def rel(path: Path) -> str:
+        return path.relative_to(DATA_DIR).as_posix()
+    for path in sorted(paths, key=rel):
         raw = path.read_bytes().replace(b"\r\n", b"\n")
         total_bytes += len(raw)
-        digest.update(path.name.encode("utf-8"))
+        digest.update(rel(path).encode("utf-8"))
         digest.update(b"\0")
         digest.update(raw)
         digest.update(b"\0")
@@ -148,6 +176,8 @@ def build_version(master, chapter_count: int, section_count: int) -> tuple[str, 
     version, total_bytes = compute_digest(paths)
     statutes_index = read_json(DATA_DIR / "statutes_index.json")
     infractions = read_json(DATA_DIR / "infractions.json")
+    supplement_map = (read_json(SUPPLEMENT_MAP_PATH)
+                      if SUPPLEMENT_MAP_PATH.is_file() else None)
     payload = {
         "schema": 1,
         "version": version,
@@ -168,6 +198,15 @@ def build_version(master, chapter_count: int, section_count: int) -> tuple[str, 
             "infractions": source_summary(infractions),
         },
     }
+    if supplement_map is not None:
+        payload["counts"]["supplement_sections"] = len(
+            supplement_map.get("sections") or {})
+        supp_source = supplement_map.get("source") or {}
+        payload["sources"]["supplement"] = {
+            key: supp_source[key]
+            for key in ("generated_at_utc", "supplement_year", "titles_url")
+            if supp_source.get(key)
+        }
     write_json(VERSION_PATH, payload)
     return version, len(paths), total_bytes
 
