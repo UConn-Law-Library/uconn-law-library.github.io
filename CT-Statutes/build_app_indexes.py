@@ -126,11 +126,15 @@ def compute_digest(paths) -> tuple[str, int]:
 
     validate_data.py recomputes this to prove version.json matches the
     committed data, so any change here must ship with that check.
+
+    Line endings are normalized first: git's eol conversion can put CRLF in a
+    Windows working copy of files whose blobs are LF, and the digest must be
+    the same on every platform that checks out the same data.
     """
     digest = hashlib.sha256()
     total_bytes = 0
     for path in sorted(paths, key=lambda item: item.name):
-        raw = path.read_bytes()
+        raw = path.read_bytes().replace(b"\r\n", b"\n")
         total_bytes += len(raw)
         digest.update(path.name.encode("utf-8"))
         digest.update(b"\0")
