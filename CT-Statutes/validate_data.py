@@ -8,8 +8,9 @@ sentinel records, and version.json consistency. update_data.py runs this as
 its final stage; run it directly after any manual data edit.
 
 Thresholds are grounded in the February 2026 corpus (81 titles, 1,102
-chapters, ~30k sections, ~5.7k index headings, ~1.7k infractions) with wide
-margins, so they gate parser breakage — not ordinary legislative drift.
+chapters, ~30k sections, ~5.7k index headings, ~1.7k infractions, ~1.9k
+supplement-amended sections) with wide margins, so they gate parser
+breakage — not ordinary legislative drift.
 
 Usage (from inside CT-Statutes):
   python validate_data.py                          # validate data/
@@ -31,6 +32,9 @@ from build_app_indexes import (
     DATA_DIR,
     MASTER_PATH,
     SEARCH_PATH,
+    SUPPLEMENT_DIR,
+    SUPPLEMENT_INDEX_PATH,
+    SUPPLEMENT_MAP_PATH,
     VERSION_PATH,
     compute_digest,
     data_files,
@@ -44,6 +48,8 @@ COUNT_BOUNDS = {
     "sections": (24000, 40000),
     "index_headings": (4000, 8000),
     "infractions": (1300, 2400),
+    # sparse overlay: the July 2026 supplement holds ~1.9k amended sections
+    "supplement_sections": (200, 8000),
 }
 BASELINE_MAX_DRIFT = 0.20     # --baseline: fail beyond +/-20% per count
 
@@ -306,6 +312,104 @@ def validate_infractions(c: Checker, chapters, all_section_keys):
     return len(entries)
 
 
+# The overlay is a sparse subset of the statutes, so most amended keys should
+# exist in the base corpus; the rest are sections the supplement adds. The
+# July 2026 crawl overlaps ~80%.
+MIN_SUPPLEMENT_OVERLAP = 0.5
+
+
+def validate_supplement(c: Checker, master, all_section_keys):
+    """Schema/count checks for the data/supplement/ overlay. Returns the
+    amended-section count, or None when no supplement dataset exists (a
+    supplement is optional — see build_app_indexes.supplement_files)."""
+    print("supplement/")
+    if not SUPPLEMENT_MAP_PATH.is_file():
+        print("  skipped — no supplement dataset")
+        return None
+
+    overlay = read_json(SUPPLEMENT_MAP_PATH)
+    supp_index = read_json(SUPPLEMENT_INDEX_PATH)
+
+    source = overlay.get("source") or {}
+    c.check("supplement.source",
+            source.get("kind") == "supplement"
+            and bool(source.get("supplement_year"))
+            and bool(source.get("generated_at_utc")),
+            "source kind/supplement_year/generated_at_utc present")
+
+    title_keys = set(overlay.get("titles") or [])
+    chapters_map = overlay.get("chapters") or {}
+    sections_map = overlay.get("sections") or {}
+    master_keys = {t.get("title_key") for t in master.get("titles") or []}
+
+    lo, hi = COUNT_BOUNDS["supplement_sections"]
+    c.check("supplement.count", lo <= len(sections_map) <= hi,
+            in_bounds("supplement_sections", len(sections_map)))
+    c.check("supplement.titles", bool(title_keys) and title_keys <= master_keys,
+            f"{len(title_keys)} supplement titles, all in the master index")
+
+    bad_chapters = [f"{ck}: title {entry.get('t')!r} not in supplement titles"
+                    for ck, entry in chapters_map.items()
+                    if entry.get("t") not in title_keys]
+    c.examples("supplement.chapters", bad_chapters,
+               f"{len(chapters_map)} chapter entries point at supplement titles")
+
+    # per-title files listed by the index: present, parseable, keys consistent
+    index_files = {}
+    bad_files = []
+    for entry in supp_index.get("titles") or []:
+        fname = entry.get("file")
+        if not fname or not entry.get("title_key"):
+            bad_files.append(f"index entry missing file/title_key: {entry!r}")
+            continue
+        path = SUPPLEMENT_DIR / fname
+        if not path.is_file():
+            bad_files.append(f"{fname}: missing")
+            continue
+        title = read_json(path)
+        if title.get("title_key") != entry["title_key"]:
+            bad_files.append(f"{fname}: title_key mismatch")
+            continue
+        keys = set()
+        for chapter in title.get("chapters") or []:
+            for section in chapter.get("sections") or []:
+                key = (section.get("section_key") or "").lower()
+                if key:
+                    keys.add(key)
+                for grouped in section.get("section_keys") or []:
+                    keys.add(str(grouped).lower())
+        index_files[fname] = keys
+    c.examples("supplement.files", bad_files,
+               f"{len(index_files)} per-title files present and consistent")
+
+    # every overlay entry routes into its per-title file
+    bad_entries = []
+    overlap = 0
+    for key, entry in sections_map.items():
+        if not (entry.get("t") and entry.get("c") and entry.get("l")
+                and entry.get("f")):
+            bad_entries.append(f"{key}: missing t/c/l/f")
+            continue
+        if entry.get("status") not in (None, "repealed"):
+            bad_entries.append(f"{key}: unknown status {entry['status']!r}")
+        if entry["t"] not in title_keys:
+            bad_entries.append(f"{key}: title {entry['t']!r} not in supplement")
+        file_keys = index_files.get(entry["f"])
+        if file_keys is not None and key.lower() not in file_keys:
+            bad_entries.append(f"{key}: not found in {entry['f']}")
+        if key.lower() in all_section_keys:
+            overlap += 1
+    c.examples("supplement.entries", bad_entries,
+               "overlay entries resolve into their supplement files")
+
+    fraction = overlap / max(len(sections_map), 1)
+    c.check("supplement.overlap", fraction >= MIN_SUPPLEMENT_OVERLAP,
+            f"{overlap:,} of {len(sections_map):,} amended sections exist in "
+            f"the base corpus ({fraction:.1%}, required "
+            f"{MIN_SUPPLEMENT_OVERLAP:.0%}); the rest are new sections")
+    return len(sections_map)
+
+
 def validate_search_index(c: Checker, master, chapters, routable):
     print("search_index.json")
     search = read_json(SEARCH_PATH)
@@ -365,7 +469,10 @@ def validate_baseline(c: Checker, counts, baseline_path: str):
     for name, value in counts.items():
         previous = baseline.get(name)
         if not previous:
-            c.check(f"baseline.{name}", False, f"no baseline value for {name}")
+            # a count added since the baseline manifest (e.g. the supplement
+            # dataset shipping for the first time) has nothing to drift from
+            c.check(f"baseline.{name}", True,
+                    f"{value:,} (new count, not in baseline)")
             continue
         drift = abs(value - previous) / previous
         c.check(f"baseline.{name}", drift <= BASELINE_MAX_DRIFT,
@@ -376,8 +483,9 @@ def validate_baseline(c: Checker, counts, baseline_path: str):
 def main() -> None:
     ap = argparse.ArgumentParser(description="Validate the generated data/ files.")
     ap.add_argument("--baseline", metavar="VERSION_JSON",
+                    # argparse %-formats help strings, so escape the percent
                     help="previous version.json; fail when record counts "
-                         f"drift more than {BASELINE_MAX_DRIFT:.0%}")
+                         f"drift more than {BASELINE_MAX_DRIFT * 100:.0f}%%")
     args = ap.parse_args()
 
     c = Checker()
@@ -386,6 +494,7 @@ def main() -> None:
     heading_count = validate_index(c, all_section_keys)
     infraction_count = validate_infractions(c, chapters, all_section_keys)
     validate_search_index(c, master, chapters, routable)
+    supplement_count = validate_supplement(c, master, all_section_keys)
     counts = {
         "titles": len(master.get("titles") or []),
         "chapters": len(chapters),
@@ -393,6 +502,8 @@ def main() -> None:
         "index_headings": heading_count,
         "infractions": infraction_count,
     }
+    if supplement_count is not None:
+        counts["supplement_sections"] = supplement_count
     validate_version(c, master, counts)
     if args.baseline:
         validate_baseline(c, counts, args.baseline)

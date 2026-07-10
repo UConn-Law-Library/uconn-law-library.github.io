@@ -1,6 +1,7 @@
 /* CT General Statutes Explorer
  * Data: ./data/titles_index.json + ./data/title_XX.json (ct_CGS_Crawl-v2.py)
  *       ./data/infractions.json (parse_infractions.py)
+ *       ./data/supplement/*.json (ct_CGS_Supplement_Crawl.py)
  */
 
 "use strict";
@@ -14,6 +15,8 @@ const INFRACTIONS_URL = DATA_DIR + "infractions.json";
 const STAT_INDEX_URL = DATA_DIR + "statutes_index.json";
 const SEARCH_INDEX_URL = DATA_DIR + "search_index.json";
 const DATA_VERSION_URL = DATA_DIR + "version.json";
+const SUPPLEMENT_DIR = DATA_DIR + "supplement/";
+const SUPPLEMENT_MAP_URL = SUPPLEMENT_DIR + "supplement_map.json";
 
 const MAX_GROUP_RESULTS = 100;     // per result group (sections, infractions, …)
 const MAX_FULLTEXT_RESULTS = 200;
@@ -21,6 +24,7 @@ const MAX_FULLTEXT_RESULTS = 200;
 // Parsed titles kept in page memory for browsing. Bodies for search come from
 // the full-text worker, which never retains them, so a small cache is plenty.
 const MAX_CACHED_TITLES = 12;
+const MAX_CACHED_SUPP_TITLES = 6;
 
 const DOWNLOAD_CONCURRENCY = 3;
 const DOWNLOAD_YIELD_MS = 30;
@@ -63,6 +67,10 @@ const state = {
   searchIndex: null,             // lightweight complete chapter/section catalog
   searchChapterByKey: new Map(), // `${t}:${c}` -> compact search-index chapter
   dataVersion: null,
+
+  supplement: null,              // supplement_map.json payload (amended-key overlay)
+  suppTitleKeys: new Set(),      // title keys with supplement entries
+  suppTitleCache: new Map(),     // supplement file name -> loaded title object (LRU)
 
   titleCache: new Map(),         // title_key -> loaded title object
   titleByKey: new Map(),         // title_key -> master entry
@@ -703,6 +711,149 @@ async function loadStatutesIndex() {
   }
 }
 
+// -----------------------------
+// 2026 SUPPLEMENT OVERLAY
+// -----------------------------
+// The supplement is a sparse overlay on the base revision: only amended
+// titles/chapters/sections appear. supplement_map.json is small and answers
+// "is X amended?" at startup; the per-title supplement files (same shape as
+// data/title_XX.json) load on demand when an amended section is viewed.
+async function loadSupplementMap() {
+  try {
+    const data = await fetchJson(SUPPLEMENT_MAP_URL);
+    state.supplement = data;
+    state.suppTitleKeys = new Set(data.titles || []);
+  } catch (err) {
+    console.warn("Supplement data unavailable:", err);
+    state.supplement = null;
+    state.suppTitleKeys = new Set();
+  }
+}
+
+function suppYear() {
+  return state.supplement?.source?.supplement_year || 2026;
+}
+
+// The supplement to year Y is read against the statutes revised to Jan 1, Y-1.
+function suppReadWithNote() {
+  return `intended to be read with the General Statutes revised to January 1, ${suppYear() - 1}`;
+}
+
+function suppSectionEntry(sectionKey) {
+  return (sectionKey && state.supplement?.sections?.[sectionKey]) || null;
+}
+
+// Chapter numbers are unique across the whole CGS, so the overlay keys
+// chapters without their title.
+function suppChapterEntry(chapterKey) {
+  return (chapterKey && state.supplement?.chapters?.[chapterKey]) || null;
+}
+
+function suppTagHtml(entry) {
+  if (!entry) return "";
+  return entry.status === "repealed"
+    ? `<span class="tag repealed">Repealed</span>`
+    : `<span class="tag supp">${suppYear()} Supp.</span>`;
+}
+
+async function ensureSuppTitleLoaded(file) {
+  const cached = state.suppTitleCache.get(file);
+  if (cached) {
+    state.suppTitleCache.delete(file);   // refresh LRU recency
+    state.suppTitleCache.set(file, cached);
+    return cached;
+  }
+  const titleObj = await fetchJson(SUPPLEMENT_DIR + file);
+  state.suppTitleCache.set(file, titleObj);
+  while (state.suppTitleCache.size > MAX_CACHED_SUPP_TITLES) {
+    const oldest = state.suppTitleCache.keys().next().value;
+    if (oldest === file) break;
+    state.suppTitleCache.delete(oldest);
+  }
+  return titleObj;
+}
+
+// Locate a section inside a loaded supplement title. Grouped repeal rows
+// cover several keys via section_keys, so match those too.
+function findSuppSection(titleObj, sectionKey) {
+  for (const c of titleObj.chapters || []) {
+    for (const s of c.sections || []) {
+      if (s.section_key === sectionKey
+        || (Array.isArray(s.section_keys) && s.section_keys.includes(sectionKey))) {
+        return { section: s, chapter: c };
+      }
+    }
+  }
+  return null;
+}
+
+function findSuppChapter(titleObj, chapterKey) {
+  return (titleObj.chapters || []).find((c) => c.chapter_key === chapterKey) || null;
+}
+
+// Fetch the supplement title file the current route needs (amended section,
+// or a supplement-only chapter), so render functions can use it synchronously.
+// A failed fetch is fine: the section view falls back to the base text with
+// a note, and supplement-only routes show "not found".
+async function ensureSupplementForRoute() {
+  const { area, titleKey, chapterKey, sectionKey } = state.route;
+  if (area !== "browse" || !state.supplement) return;
+  let file = null;
+  if (sectionKey) {
+    file = suppSectionEntry(sectionKey)?.f || null;
+  } else if (chapterKey && !state.chapterByKey.has(keyChapter(titleKey, chapterKey))) {
+    const entry = suppChapterEntry(chapterKey);
+    if (entry) file = `title_${entry.t}.json`;
+  }
+  if (!file) return;
+  try {
+    await ensureSuppTitleLoaded(file);
+  } catch (err) {
+    console.warn("Supplement title unavailable:", err);
+  }
+}
+
+// Supplement-only chapters of a title (new chapters the base revision lacks),
+// for the browse nav. Labels come from the loaded supplement file when it is
+// cached; otherwise they are derived from the chapter key.
+function suppOnlyChaptersFor(titleKey, baseTitleObj) {
+  if (!state.supplement) return [];
+  const baseKeys = new Set((baseTitleObj?.chapters || []).map((c) => c.chapter_key));
+  const rows = [];
+  for (const [chapterKey, entry] of Object.entries(state.supplement.chapters || {})) {
+    if (entry.t !== titleKey || baseKeys.has(chapterKey)) continue;
+    const cached = state.suppTitleCache.get(`title_${titleKey}.json`);
+    const chapter = cached ? findSuppChapter(cached, chapterKey) : null;
+    rows.push({
+      chapter_key: chapterKey,
+      label: chapter?.label || chapLabelFromKey(chapterKey),
+      name: chapter?.name || "",
+      count: chapter ? (chapter.sections || []).length : null,
+    });
+  }
+  return rows.sort((a, b) => a.chapter_key.localeCompare(b.chapter_key, "en", { numeric: true }));
+}
+
+// "023m" -> "Chapter 23m"; UCC article keys "art_012a" -> "Article 12a"
+function chapLabelFromKey(chapterKey) {
+  const m = chapterKey.match(/^art_0*(\w+)$/);
+  if (m) return `Article ${m[1]}`;
+  return `Chapter ${chapterKey.replace(/^0+(?=\d)/, "")}`;
+}
+
+// Supplement sections of a chapter that the base revision doesn't have
+// (sections added by the supplement), for the browse nav.
+function suppOnlySectionsFor(titleKey, chapterKey, baseChapter) {
+  if (!state.supplement) return [];
+  const baseKeys = new Set((baseChapter?.sections || []).map((s) => s.section_key));
+  const rows = [];
+  for (const [sectionKey, entry] of Object.entries(state.supplement.sections || {})) {
+    if (entry.t !== titleKey || entry.c !== chapterKey || baseKeys.has(sectionKey)) continue;
+    rows.push({ section_key: sectionKey, label: entry.l, status: entry.status });
+  }
+  return rows.sort((a, b) => a.section_key.localeCompare(b.section_key, "en", { numeric: true }));
+}
+
 function indexLoadedTitle(titleObj) {
   for (const c of titleObj.chapters || []) {
     state.chapterByKey.set(keyChapter(titleObj.title_key, c.chapter_key), c);
@@ -819,18 +970,35 @@ async function requestPersistentStorage() {
   }
 }
 
+// Every data file the bulk offline download covers, as paths relative to
+// DATA_DIR: the base title files plus the 2026 Supplement overlay files.
+function offlineDataFiles() {
+  const files = (state.master?.titles || []).map((t) => t.file).filter(Boolean);
+  if (state.supplement) {
+    const supp = new Set(["supplement/supplement_map.json"]);
+    for (const e of Object.values(state.supplement.sections || {})) {
+      if (e.f) supp.add("supplement/" + e.f);
+    }
+    files.push(...supp);
+  }
+  return files;
+}
+
 // The service worker keeps downloaded titles in Cache Storage across launches,
 // but preload state lives in memory, so on a fresh launch the Settings button
 // would offer to download data that is already on the device. Compare the data
-// cache against the master title list and reflect "already stored" in the UI.
+// cache against the download list and reflect "already stored" in the UI.
+// (Match on the /data/-relative path, not the basename: supplement files reuse
+// the base files' names in a subdirectory.)
 async function checkOfflineStored() {
   if (IS_PACKAGED_APP || !("caches" in window)) return;
   try {
     const cache = await caches.open(DATA_CACHE);
     const keys = await cache.keys();
-    const cachedFiles = new Set(keys.map((r) => new URL(r.url).pathname.split("/").pop()));
-    const files = (state.master?.titles || []).map((t) => t.file).filter(Boolean);
-    state.offlineStored = files.length > 0 && files.every((f) => cachedFiles.has(f));
+    const cachedPaths = keys.map((r) => new URL(r.url).pathname);
+    const files = offlineDataFiles();
+    state.offlineStored = files.length > 0
+      && files.every((f) => cachedPaths.some((p) => p.endsWith("/data/" + f)));
   } catch {
     state.offlineStored = false;
   }
@@ -843,7 +1011,7 @@ async function checkOfflineStored() {
 // search streams bodies through ft-worker.js.
 async function downloadAllTitles() {
   if (state.download.running) return;
-  const files = (state.master?.titles || []).map((t) => t.file).filter(Boolean);
+  const files = offlineDataFiles();
   state.download.running = true;
   state.download.total = files.length;
   state.download.loaded = 0;
@@ -1051,7 +1219,21 @@ function runSearch() {
           exact: skey === statKey,
           label: row.l || `Sec. ${skey}`,
           sub: `${tEntry ? fmtTitle(tEntry) : row.t} • ${ch ? `${ch.l}${ch.n ? " — " + ch.n : ""}` : row.c}`,
+          supp: suppSectionEntry(skey),
           hash: hashFor.section(row.t, row.c, skey),
+        });
+      }
+    }
+    // sections that exist only in the 2026 Supplement (new since the base revision)
+    for (const [skey, e] of Object.entries(state.supplement?.sections || {})) {
+      if ((skey === statKey || skey.startsWith(statKey)) && !state.sectionLoc.has(skey)) {
+        const tEntry = state.titleByKey.get(e.t);
+        groups.sections.push({
+          exact: skey === statKey,
+          label: e.l || `Sec. ${skey}`,
+          sub: `${tEntry ? fmtTitle(tEntry) : e.t} • New — ${suppYear()} Supplement`,
+          supp: e,
+          hash: hashFor.section(e.t, e.c, skey),
         });
       }
     }
@@ -1095,6 +1277,7 @@ function runSearch() {
         label: stripSectionPrefix(row.label) || row.s,
         sub: `${tEntry ? fmtTitle(tEntry) : row.t} • ${row.cLabel}`,
         snippet: row.snippet,
+        supp: suppSectionEntry(row.s),
         hash: hashFor.section(row.t, row.c, row.s),
       });
       if (groups.sections.length >= MAX_FULLTEXT_RESULTS) break;
@@ -1121,9 +1304,24 @@ function runSearch() {
         groups.sections.push({
           label: s.l || s.s,
           sub: `${tEntry ? fmtTitle(tEntry) : s.t} • ${ch ? `${ch.l}${ch.n ? " — " + ch.n : ""}` : s.c}`,
+          supp: suppSectionEntry(s.s),
           hash: hashFor.section(s.t, s.c, s.s),
         });
         if (groups.sections.length >= MAX_GROUP_RESULTS) break;
+      }
+    }
+    // labels of sections that exist only in the 2026 Supplement
+    for (const [skey, e] of Object.entries(state.supplement?.sections || {})) {
+      if (groups.sections.length >= MAX_GROUP_RESULTS) break;
+      if (state.sectionLoc.has(skey)) continue;
+      if (matchesTokens(`${e.l || ""} ${skey}`.toLowerCase())) {
+        const tEntry = state.titleByKey.get(e.t);
+        groups.sections.push({
+          label: e.l || skey,
+          sub: `${tEntry ? fmtTitle(tEntry) : e.t} • New — ${suppYear()} Supplement`,
+          supp: e,
+          hash: hashFor.section(e.t, e.c, skey),
+        });
       }
     }
     // subject-index headings by keyword
@@ -1491,22 +1689,53 @@ function renderBrowseNav() {
     if (!titleObj) {
       cols.appendChild(navColumnMessage(head, `Loading ${titleEntry?.label || "title"}…`));
     } else {
-      cols.appendChild(navColumn(head, (titleObj.chapters || []).map((c) => ({
+      // amended-but-existing chapters carry no chip — only sections (and
+      // wholly new chapters, below) are badged, to keep the panes calm
+      const items = (titleObj.chapters || []).map((c) => ({
         kicker: `${c.label} · ${(c.sections || []).length} sections`,
         title: c.name || "(no chapter name)",
         hash: hashFor.chapter(titleKey, c.chapter_key),
         selected: c.chapter_key === chapterKey,
-      }))));
+      }));
+      // chapters added by the supplement that the base revision doesn't have
+      for (const c of suppOnlyChaptersFor(titleKey, titleObj)) {
+        items.push({
+          kicker: `${c.label}${c.count != null ? ` · ${c.count} sections` : ""}`,
+          title: c.name || "(new chapter)",
+          hash: hashFor.chapter(titleKey, c.chapter_key),
+          selected: c.chapter_key === chapterKey,
+          right: `<span class="tag supp">new — ${suppYear()} Supp.</span>`,
+        });
+      }
+      cols.appendChild(navColumn(head, items));
     }
   }
 
   if (titleKey && chapterKey) {
     const c = state.chapterByKey.get(keyChapter(titleKey, chapterKey));
-    const head = `${c?.label || "Chapter"} — sections`;
-    if (!c) {
+    const suppChapter = !c && state.suppTitleCache.has(`title_${titleKey}.json`)
+      ? findSuppChapter(state.suppTitleCache.get(`title_${titleKey}.json`), chapterKey)
+      : null;
+    const head = `${c?.label || suppChapter?.label || "Chapter"} — sections`;
+    if (!c && !suppChapter) {
       cols.appendChild(navColumnMessage(head, "Loading…"));
+    } else if (!c) {
+      // supplement-only chapter: every section comes from the supplement file
+      cols.appendChild(navColumn(head, (suppChapter.sections || []).map((s) => {
+        const key = s.section_key || (s.section_keys || [])[0];
+        return {
+          kicker: key ? `Sec. ${key}` : "Sections",
+          title: stripSectionPrefix(s.label) || "(no label)",
+          hash: key ? hashFor.section(titleKey, chapterKey, key) : hashFor.chapter(titleKey, chapterKey),
+          selected: key === sectionKey
+            || (Array.isArray(s.section_keys) && s.section_keys.includes(sectionKey)),
+          right: s.content?.status === "repealed"
+            ? `<span class="tag repealed">Repealed</span>`
+            : `<span class="tag supp">${suppYear()} Supp.</span>`,
+        };
+      })));
     } else {
-      cols.appendChild(navColumn(head, (c.sections || []).filter((s) => s.section_key).map((s) => ({
+      const items = (c.sections || []).filter((s) => s.section_key).map((s) => ({
         kicker: `Sec. ${s.section_key}`,
         title: stripSectionPrefix(s.label) || "(no label)",
         hash: hashFor.section(titleKey, chapterKey, s.section_key),
@@ -1514,8 +1743,22 @@ function renderBrowseNav() {
         right: [
           state.infraBySection.has(s.section_key) ? `<span class="tag">infraction</span>` : "",
           s.content?.status ? `<span class="tag">${esc(s.content.status)}</span>` : "",
+          suppTagHtml(suppSectionEntry(s.section_key)),
         ].join(""),
-      }))));
+      }));
+      // sections added by the supplement that the base chapter doesn't have
+      for (const s of suppOnlySectionsFor(titleKey, chapterKey, c)) {
+        items.push({
+          kicker: `Sec. ${s.section_key}`,
+          title: stripSectionPrefix(s.label) || "(no label)",
+          hash: hashFor.section(titleKey, chapterKey, s.section_key),
+          selected: s.section_key === sectionKey,
+          right: s.status === "repealed"
+            ? `<span class="tag repealed">Repealed</span>`
+            : `<span class="tag supp">new — ${suppYear()} Supp.</span>`,
+        });
+      }
+      cols.appendChild(navColumn(head, items));
     }
   }
 
@@ -1545,11 +1788,30 @@ function renderBrowseView() {
   const { titleKey, chapterKey, sectionKey } = state.route;
   const titleEntry = titleKey ? state.titleByKey.get(titleKey) : null;
   const title = titleKey ? state.titleCache.get(titleKey) : null;
-  const chapter = titleKey && chapterKey ? state.chapterByKey.get(keyChapter(titleKey, chapterKey)) : null;
+  let chapter = titleKey && chapterKey ? state.chapterByKey.get(keyChapter(titleKey, chapterKey)) : null;
   const section = titleKey && chapterKey && sectionKey
     ? state.sectionByKey.get(keySection(titleKey, chapterKey, sectionKey)) : null;
 
-  crumbsEl.innerHTML = renderBreadcrumbs({ titleEntry, chapter, section });
+  // supplement-only routes: a chapter or section that exists only in the
+  // 2026 Supplement (ensureSupplementForRoute fetched its title file)
+  let suppOnlyChapter = false;
+  if (chapterKey && !chapter) {
+    const entry = suppChapterEntry(chapterKey);
+    const suppTitle = entry ? state.suppTitleCache.get(`title_${entry.t}.json`) : null;
+    const found = suppTitle ? findSuppChapter(suppTitle, chapterKey) : null;
+    if (found) { chapter = found; suppOnlyChapter = true; }
+  }
+  let suppOnlySection = null;
+  if (sectionKey && !section && suppSectionEntry(sectionKey)) {
+    const suppTitle = state.suppTitleCache.get(suppSectionEntry(sectionKey).f);
+    suppOnlySection = suppTitle ? findSuppSection(suppTitle, sectionKey) : null;
+  }
+
+  crumbsEl.innerHTML = renderBreadcrumbs({
+    titleEntry,
+    chapter: chapter || suppOnlySection?.chapter,
+    section: section || (suppOnlySection ? { section_key: sectionKey } : null),
+  });
 
   if (!titleKey) {
     if (state.route.titlesList) {
@@ -1583,14 +1845,23 @@ function renderBrowseView() {
     viewEl.innerHTML = `
       <h1 class="h1">${esc(chapter?.label || "Chapter")}${chapter?.name ? ` — ${esc(chapter.name)}` : ""}</h1>
       <div class="meta">
+        ${suppOnlyChapter ? `<span class="tag supp">New — ${suppYear()} Supplement</span>` : ""}
         <span class="muted">Sections: ${(chapter?.sections || []).length}</span>
         ${chapter?.url ? `<a href="${esc(chapter.url)}" target="_blank" rel="noopener">Open on cga.ct.gov</a>` : ""}
       </div>
+      ${suppOnlyChapter ? `<p class="muted" style="max-width:70ch;">This chapter was added by the
+        ${suppYear()} Supplement and does not appear in the General Statutes revised to
+        January 1, ${suppYear() - 1}.</p>` : ""}
       <div class="empty">Choose a section from the list.</div>`;
     return;
   }
 
   if (!section) {
+    if (suppOnlySection) {
+      renderSectionView(suppOnlySection.section, titleEntry, suppOnlySection.chapter,
+        { suppOnly: true, routeKey: sectionKey });
+      return;
+    }
     viewEl.innerHTML = title
       ? `<div class="empty">Section not found in this chapter.</div>`
       : `<div class="empty">Loading…</div>`;
@@ -1600,14 +1871,36 @@ function renderBrowseView() {
   renderSectionView(section, titleEntry, chapter);
 }
 
-function renderSectionView(section, titleEntry, chapter) {
+function renderSectionView(section, titleEntry, chapter, opts = {}) {
+  // grouped supplement repeal rows have no single section_key of their own;
+  // normalize to the routed key so bookmarks/recents/share all work
+  if (!section.section_key && opts.routeKey) {
+    section = { ...section, section_key: opts.routeKey };
+  }
   const content = section.content || {};
   const body = Array.isArray(content.body_paragraphs) ? content.body_paragraphs : [];
   const source = Array.isArray(content.source) ? content.source : [];
   const history = Array.isArray(content.history) ? content.history : [];
   const annotations = Array.isArray(content.annotations) ? content.annotations : [];
   const infraEntries = state.infraBySection.get(section.section_key) || [];
-  const xrefKeys = citedSectionKeys(body, section.section_key);
+
+  // 2026 Supplement overlay for this section (opts.suppOnly means the
+  // section object itself already IS the supplement text — a new section)
+  const year = suppYear();
+  const suppEntry = opts.suppOnly ? null : suppSectionEntry(section.section_key);
+  let supp = null;         // {section, chapter} from the supplement title file
+  if (suppEntry) {
+    const suppTitle = state.suppTitleCache.get(suppEntry.f);
+    supp = suppTitle ? findSuppSection(suppTitle, section.section_key) : null;
+  }
+  const suppContent = supp?.section?.content || (opts.suppOnly ? content : null);
+  const suppBody = Array.isArray(suppContent?.body_paragraphs) ? suppContent.body_paragraphs : [];
+  const repealed = (suppEntry?.status || suppContent?.status) === "repealed";
+  const hasSuppText = (opts.suppOnly || supp) && suppBody.length > 0;
+
+  const xrefKeys = citedSectionKeys(
+    hasSuppText && !opts.suppOnly ? [...suppBody, ...body] : (opts.suppOnly ? suppBody : body),
+    section.section_key);
 
   const bookmarked = findSectionBookmark(titleEntry.title_key, chapter.chapter_key, section.section_key) >= 0;
 
@@ -1619,26 +1912,92 @@ function renderSectionView(section, titleEntry, chapter) {
     label: section.label || `Sec. ${section.section_key}`,
   });
 
+  // --- supplement blocks -------------------------------------------------
+  let suppChip = "";
+  let suppBlock = "";
+  let bodyBlock;
+  const paras = (arr) => arr.map((p) => `<p>${linkifyCitations(esc(p), section.section_key)}</p>`).join("");
+
+  if (opts.suppOnly) {
+    suppChip = repealed
+      ? `<span class="tag repealed">Repealed — ${year} Supplement</span>`
+      : `<span class="tag supp">New — ${year} Supplement</span>`;
+    suppBlock = `
+      <div class="supp-note${repealed ? " repealed" : ""}" role="note">
+        <strong>${repealed ? `Repealed by the ${year} Supplement` : `Added by the ${year} Supplement`}</strong>
+        — this section does not appear in the General Statutes revised to January 1, ${year - 1};
+        the text below is from the ${year} Supplement, ${suppReadWithNote()}.
+      </div>`;
+    bodyBlock = `
+      <div class="body">
+        ${suppBody.length ? paras(suppBody)
+        : `<div class="empty">No statute body text found for this section.</div>`}
+      </div>`;
+  } else if (suppEntry && hasSuppText) {
+    suppChip = repealed
+      ? `<span class="tag repealed">Repealed — ${year} Supplement</span>`
+      : `<span class="tag supp">Amended — ${year} Supplement</span>`;
+    suppBlock = `
+      <div class="supp-note${repealed ? " repealed" : ""}" role="note">
+        <strong>${repealed ? `Repealed by the ${year} Supplement` : `As amended by the ${year} Supplement`}</strong>
+        — ${suppReadWithNote()}. The ${year - 1} revision text is below for reference.
+      </div>`;
+    bodyBlock = `
+      <div class="body">${paras(suppBody)}</div>
+      ${suppContent.source?.length ? renderPanel(`Source (${year} Supplement)`, suppContent.source, false, section.section_key) : ""}
+      ${suppContent.history?.length ? renderPanel(`History (${year} Supplement)`, suppContent.history, false, section.section_key) : ""}
+      <details class="prior">
+        <summary>Text of the ${year - 1} revision <span class="muted">(${repealed ? "repealed" : "superseded"} by the ${year} Supplement)</span></summary>
+        <div class="panel">
+          ${body.length ? paras(body) : `<div class="muted">No body text in the ${year - 1} revision.</div>`}
+          ${renderPanel("Source", source, false, section.section_key)}
+          ${renderPanel("History", history, false, section.section_key)}
+          ${renderAnnotationsPanel("Annotations", annotations, section.section_key)}
+        </div>
+      </details>`;
+  } else {
+    if (suppEntry) {
+      // amended per the overlay map, but the supplement file didn't load
+      suppChip = suppTagHtml(suppEntry);
+      const suppUrl = state.supplement?.source?.titles_url;
+      suppBlock = `
+        <div class="supp-note${repealed ? " repealed" : ""}" role="note">
+          <strong>${repealed ? `Repealed by the ${year} Supplement` : `Amended by the ${year} Supplement`}</strong>
+          — the supplement text could not be loaded; the text below is the ${year - 1} revision.
+          ${suppUrl ? `<a href="${esc(suppUrl)}" target="_blank" rel="noopener">Official ${year} Supplement ↗</a>` : ""}
+        </div>`;
+    }
+    bodyBlock = `
+      <div class="body">
+        ${body.length ? paras(body)
+        : `<div class="empty">No statute body text found for this section.</div>`}
+      </div>`;
+  }
+
   viewEl.innerHTML = `
     <div class="section-label">${esc(section.label || `Sec. ${section.section_key}`)}</div>
     <div class="meta">
-      ${content.status ? `<span class="tag">${esc(content.status)}</span>` : ""}
+      ${content.status && !opts.suppOnly ? `<span class="tag">${esc(content.status)}</span>` : ""}
+      ${suppChip}
       <button class="btn star" data-action="bookmark" aria-pressed="${bookmarked}"
         aria-label="${bookmarked ? "Remove bookmark" : "Bookmark this section"}">★ ${bookmarked ? "Bookmarked" : "Bookmark"}</button>
       ${shareButtonsHtml()}
       ${section.url ? `<a href="${esc(section.url)}" target="_blank" rel="noopener">Open on cga.ct.gov</a>` : ""}
     </div>
 
-    <div class="body">
-      ${body.length
-      ? body.map((p) => `<p>${linkifyCitations(esc(p), section.section_key)}</p>`).join("")
-      : `<div class="empty">No statute body text found for this section.</div>`}
-    </div>
+    ${suppBlock}
+    ${bodyBlock}
 
     ${infraEntries.length ? renderInfractionsForSection(infraEntries) : ""}
-    ${renderPanel("Source", source, false, section.section_key)}
-    ${renderPanel("History", history, false, section.section_key)}
-    ${renderAnnotationsPanel("Annotations", annotations, section.section_key)}
+    ${opts.suppOnly ? `
+      ${renderPanel(`Source (${year} Supplement)`, source, false, section.section_key)}
+      ${history.length ? renderPanel(`History (${year} Supplement)`, history, false, section.section_key) : ""}
+      ${annotations.length ? renderAnnotationsPanel(`Annotations (${year} Supplement)`, annotations, section.section_key) : ""}
+    ` : suppEntry && hasSuppText ? "" /* 2025-revision panels live inside details.prior */ : `
+      ${renderPanel("Source", source, false, section.section_key)}
+      ${renderPanel("History", history, false, section.section_key)}
+      ${renderAnnotationsPanel("Annotations", annotations, section.section_key)}
+    `}
     ${xrefKeys.length ? renderCrossRefsPanel(xrefKeys) : ""}
   `;
 
@@ -1647,10 +2006,23 @@ function renderSectionView(section, titleEntry, chapter) {
       titleEntry.title_key, chapter.chapter_key, section.section_key,
       section.label || `Sec. ${section.section_key}`
     );
-    renderSectionView(section, titleEntry, chapter);
+    renderSectionView(section, titleEntry, chapter, opts);
   });
 
-  bindShareButtons(viewEl, () => sectionShareText(section, titleEntry, chapter));
+  // share the current (supplement) text, flagged with its provenance
+  const shareSection = hasSuppText
+    ? {
+      ...section,
+      content: {
+        ...content,
+        body_paragraphs: [
+          `[${repealed ? "Repealed by" : "As amended by"} the ${year} Supplement — ${suppReadWithNote()}.]`,
+          ...suppBody,
+        ],
+      },
+    }
+    : section;
+  bindShareButtons(viewEl, () => sectionShareText(shareSection, titleEntry, chapter));
   bindCrossRefsPanel(xrefKeys);
 }
 
@@ -1827,7 +2199,8 @@ function renderHome() {
       </a>
     </div>
     <p class="small muted home-provenance">Unofficial research aid${state.master?.source?.generated_at_utc
-      ? ` — statute text captured ${fmtDate(state.master.source.generated_at_utc)}` : ""}${inf?.source?.effective
+      ? ` — statute text captured ${fmtDate(state.master.source.generated_at_utc)}` : ""}${state.supplement
+      ? `, including the ${suppYear()} Supplement` : ""}${inf?.source?.effective
       ? `; infraction schedule effective ${esc(inf.source.effective)}` : ""}.
       Verify against the official publications before relying on it.
       <a href="${hashFor.about()}">Data &amp; sources →</a></p>
@@ -2180,7 +2553,8 @@ function datasetProvenance() {
   const statutes = state.master?.source || v.statutes || {};
   const index = state.statIndex?.source || v.index || {};
   const infractions = state.infractions?.source || v.infractions || {};
-  return [
+  const supplement = state.supplement?.source || v.supplement || null;
+  const datasets = [
     {
       name: "Statute text",
       what: "Every title, chapter and section of the General Statutes, crawled from the General Assembly's website.",
@@ -2208,6 +2582,18 @@ function datasetProvenance() {
       caveat: "Fine amounts change when a new schedule takes effect — confirm amounts against the current official schedule.",
     },
   ];
+  if (supplement) {
+    const year = supplement.supplement_year || suppYear();
+    datasets.splice(1, 0, {
+      name: `${year} Supplement`,
+      what: "Sections amended, added or repealed since the base revision. Amended sections show the supplement text; the app badges them throughout.",
+      publisher: "Connecticut General Assembly",
+      url: supplement.titles_url || `https://www.cga.ct.gov/${year}/sup/titles.htm`,
+      dates: [supplement.generated_at_utc && `Captured ${fmtDate(supplement.generated_at_utc)}`],
+      caveat: `The supplement is intended to be read with the General Statutes revised to January 1, ${year - 1} — it replaces only the sections it lists.`,
+    });
+  }
+  return datasets;
 }
 
 function renderAboutNav() {
@@ -2254,7 +2640,9 @@ function renderAboutView() {
       ${Number(counts.chapters).toLocaleString("en-US")} chapters,
       ${Number(counts.sections).toLocaleString("en-US")} statute sections,
       ${Number(counts.index_headings).toLocaleString("en-US")} index headings and
-      ${Number(counts.infractions).toLocaleString("en-US")} infraction entries.</p>` : ""}
+      ${Number(counts.infractions).toLocaleString("en-US")} infraction entries${counts.supplement_sections
+      ? `, plus ${Number(counts.supplement_sections).toLocaleString("en-US")} sections
+      amended, added or repealed by the ${suppYear()} Supplement` : ""}.</p>` : ""}
     <p class="small muted">Data refreshes monthly from the official publications; the app checks for a
       refreshed dataset each time it starts. How the data is produced, including every parser and its
       validation checks, is documented in the
@@ -2309,7 +2697,7 @@ function renderSearch() {
       <code>(dog OR cat) AND bite</code> — operators must be CAPITALIZED.</p>
     ${group("Statute sections", g.sections, (r) => `
       <a class="card" href="${r.hash}">
-        <div class="kicker">Section${r.exact ? ` <span class="tag">exact match</span>` : ""}</div>
+        <div class="kicker">Section${r.exact ? ` <span class="tag">exact match</span>` : ""}${r.supp ? ` ${suppTagHtml(r.supp)}` : ""}</div>
         <div class="title">${highlight(r.label, q)}</div>
         ${r.sub ? `<div class="sub">${esc(r.sub)}</div>` : ""}
         ${r.snippet ? `<div class="sub">…${highlight(r.snippet, q)}…</div>` : ""}
@@ -2360,6 +2748,7 @@ async function applyRoute() {
   try {
     if (state.route.area === "browse" && state.route.titleKey) {
       await ensureTitleLoaded(state.route.titleKey);
+      await ensureSupplementForRoute();
     }
     render();
     viewEl.focus({ preventScroll: true });
@@ -2549,7 +2938,7 @@ function registerServiceWorker() {
 
   try {
     await ensureCurrentDataVersion();
-    await Promise.all([loadMaster(), loadInfractions(), loadSearchIndex()]);
+    await Promise.all([loadMaster(), loadInfractions(), loadSearchIndex(), loadSupplementMap()]);
     setStatus("Ready");
     checkOfflineStored(); // async — reflects a previous session's download
     await applyRoute();
