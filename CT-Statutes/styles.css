@@ -1,53 +1,73 @@
+/* Palette shared with the /next/ CGS Reader (see next/styles.css) so both
+   apps read as one product: warm paper light theme, soft slate dark theme. */
 :root {
-  --border: #e2e8f0;
-  --muted: #64748b;
-  --bg: #ffffff;
-  --panel: #f8fafc;
-  --panel-2: #f1f5f9;
-  --text: #0f172a;
-  --link: #1d4ed8;
-  --accent: #1e3a8a;
+  --border: #e4e1d8;
+  --muted: #6b7078;
+  --bg: #faf9f6;
+  --panel: #ffffff;
+  --panel-2: #f2f0ea;
+  --text: #21242b;
+  --link: #1e4fa3;
+  --accent: #1e4fa3;
   --accent-contrast: #ffffff;
-  --mark: #fde68a;
-  --star: #d97706;
-  --danger: #b91c1c;
-  --shadow: 0 1px 2px rgb(15 23 42 / 0.06);
+  --mark: #ffe9a8;
+  --star: #8a6d1d;
+  --danger: #a3341e;
+  --shadow: 0 1px 2px rgb(30 35 50 / 0.08);
 }
 
 /* Dark palette applies when the system prefers dark (and the user hasn't
-   pinned light), or when the user pinned dark via the header toggle.
+   pinned light or OLED), or when the user pinned dark via Settings.
    Keep both blocks identical. */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --border: #334155;
-    --muted: #94a3b8;
-    --bg: #0f172a;
-    --panel: #1e293b;
-    --panel-2: #243349;
-    --text: #e2e8f0;
-    --link: #93c5fd;
-    --accent: #3b82f6;
-    --accent-contrast: #0f172a;
-    --mark: #92681c;
-    --star: #fbbf24;
-    --danger: #f87171;
+    --border: #2b303b;
+    --muted: #9aa0ab;
+    --bg: #14161b;
+    --panel: #1b1e25;
+    --panel-2: #22262f;
+    --text: #e7e5df;
+    --link: #8ab0f0;
+    --accent: #8ab0f0;
+    --accent-contrast: #14161b;
+    --mark: #6b5a19;
+    --star: #d8b95c;
+    --danger: #e08a76;
     --shadow: none;
   }
 }
 
 :root[data-theme="dark"] {
-  --border: #334155;
-  --muted: #94a3b8;
-  --bg: #0f172a;
-  --panel: #1e293b;
-  --panel-2: #243349;
-  --text: #e2e8f0;
-  --link: #93c5fd;
-  --accent: #3b82f6;
-  --accent-contrast: #0f172a;
-  --mark: #92681c;
-  --star: #fbbf24;
-  --danger: #f87171;
+  --border: #2b303b;
+  --muted: #9aa0ab;
+  --bg: #14161b;
+  --panel: #1b1e25;
+  --panel-2: #22262f;
+  --text: #e7e5df;
+  --link: #8ab0f0;
+  --accent: #8ab0f0;
+  --accent-contrast: #14161b;
+  --mark: #6b5a19;
+  --star: #d8b95c;
+  --danger: #e08a76;
+  --shadow: none;
+}
+
+/* OLED: the dark palette on a true-black base, so pixels switch off on
+   OLED screens. Must come after the blocks above so it wins when pinned. */
+:root[data-theme="oled"] {
+  --border: #23262d;
+  --muted: #8f959f;
+  --bg: #000000;
+  --panel: #0b0d11;
+  --panel-2: #16181d;
+  --text: #e7e5df;
+  --link: #8ab0f0;
+  --accent: #8ab0f0;
+  --accent-contrast: #000000;
+  --mark: #5a4b15;
+  --star: #d8b95c;
+  --danger: #e08a76;
   --shadow: none;
 }
 
@@ -102,7 +122,10 @@ header {
   font-weight: 700;
   font-size: 1rem;
   white-space: nowrap;
+  color: inherit;
 }
+
+a.brand:hover { text-decoration: none; }
 
 .brand-mark {
   display: inline-block;
@@ -280,14 +303,6 @@ input[type="search"] {
 input[type="search"]:focus-visible {
   border-color: var(--accent);
   box-shadow: 0 0 0 2px color-mix(in srgb, var(--accent) 30%, transparent);
-}
-
-select {
-  padding: 9px 10px;
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  background: var(--panel);
-  color: var(--text);
 }
 
 /* ---------- Unified search suggestions ---------- */
@@ -816,18 +831,26 @@ a.home-card:hover {
 
 .home-card p { margin: 6px 0; font-size: 0.84375rem; color: var(--muted); }
 
-.home-provenance { max-width: 900px; margin-top: 14px; }
-
 /* ---------- Data & sources ---------- */
-.disclaimer {
+.about-brand {
+  background: #000e2f; /* UConn navy (the wordmark's own brand color) — artwork is filled white */
+  border-radius: 16px;
+  padding: 34px 28px;
+  margin-bottom: 20px;
   max-width: 76ch;
+}
+
+.about-brand img {
+  display: block;
+  width: min(340px, 100%);
+  margin: 0 auto;
+}
+
+.about-meta {
+  color: var(--muted);
+  font-size: 0.8125rem;
+  font-variant-numeric: tabular-nums;
   margin: 14px 0;
-  padding: 12px 14px;
-  border: 1px solid var(--star);
-  border-left-width: 4px;
-  border-radius: 12px;
-  background: color-mix(in srgb, var(--star) 8%, var(--bg));
-  font-size: 0.875rem;
 }
 
 .about-source { max-width: 76ch; }
@@ -1016,7 +1039,6 @@ a.home-card:hover {
 @media (max-width: 600px) {
   .input { flex-wrap: wrap; }
   .search-field { flex-basis: 100%; }
-  .input select { flex: 1; }
   .search-kbd { display: none; }
   .search-field input[type="search"] { padding-right: 12px; }
   .tabs a,

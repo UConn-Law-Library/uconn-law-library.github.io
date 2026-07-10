@@ -8,7 +8,7 @@
 
 "use strict";
 
-const SHELL_CACHE = "cgs-shell-v4";
+const SHELL_CACHE = "cgs-shell-v5";
 const DATA_CACHE = "cgs-data-v1"; // must match app.js
 const META_CACHE = "cgs-meta-v1"; // shared with next/sw.js
 
@@ -21,6 +21,7 @@ const SHELL_ASSETS = [
   "./ft-worker.js",
   "./manifest.webmanifest",
   "./icon.svg",
+  "./wordmark.svg",
 ];
 
 self.addEventListener("install", (event) => {

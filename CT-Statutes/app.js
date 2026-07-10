@@ -9,6 +9,9 @@
 // -----------------------------
 // CONFIG
 // -----------------------------
+const APP_VERSION = "1.0.0"; // shown on the About page
+const APP_YEAR = 2026;
+
 const DATA_DIR = "./data/";
 const MASTER_URL = DATA_DIR + "titles_index.json";
 const INFRACTIONS_URL = DATA_DIR + "infractions.json";
@@ -102,7 +105,6 @@ const crumbsEl = $("crumbs");
 const crumbsAsideEl = $("crumbsAside");
 const statusPill = $("statusPill");
 const qEl = $("q");
-const scopeEl = $("scope");
 const omniPanel = $("omniPanel");
 const backBtn = $("backBtn");
 const backBtnTop = $("backBtnTop");
@@ -115,7 +117,6 @@ const tabs = {
   index: $("tabIndex"),
   infractions: $("tabInfractions"),
   bookmarks: $("tabBookmarks"),
-  about: $("tabAbout"),
 };
 
 // -----------------------------
@@ -293,7 +294,7 @@ function setSetting(key, value) {
 
 function storedTheme() {
   const t = getSetting(THEME_KEY);
-  return t === "light" || t === "dark" ? t : null;
+  return t === "light" || t === "dark" || t === "oled" ? t : null;
 }
 
 function effectiveTheme() {
@@ -311,8 +312,9 @@ function applySettings() {
   const pinned = storedTheme();
   if (pinned) root.dataset.theme = pinned;
   else delete root.dataset.theme;
+  const eff = effectiveTheme();
   document.querySelector('meta[name="theme-color"]')
-    ?.setAttribute("content", effectiveTheme() === "dark" ? "#0f172a" : "#1e3a8a");
+    ?.setAttribute("content", eff === "oled" ? "#000000" : eff === "dark" ? "#14161b" : "#1e4fa3");
 
   const scale = textScale();
   if (scale === 1) root.style.removeProperty("--font-scale");
@@ -927,8 +929,8 @@ function setDownloadStatus() {
   updateOfflineButton();
 }
 
-// Reflect download progress in the settings "Download for offline use"
-// control. The bulk download is opt-in via this button only; browsing and
+// Reflect download progress in the settings "Download" control (offline
+// copy). The bulk download is opt-in via this button only; browsing and
 // full-text search store titles as a side effect of the cache-first worker,
 // so nothing is fetched wholesale without an explicit request.
 function updateOfflineButton() {
@@ -950,10 +952,8 @@ function updateOfflineButton() {
     if (hint) hint.textContent = "Stored on this device";
   } else {
     btn.disabled = false;
-    btn.textContent = "Download for offline use";
-    // device-storage cost up front, from the version manifest's byte total
-    const mb = state.dataVersion?.bytes ? Math.round(state.dataVersion.bytes / 1e6) : null;
-    if (hint) hint.textContent = mb ? `All statutes · about ${mb} MB` : "All statutes";
+    btn.textContent = "Download";
+    if (hint) hint.textContent = "For offline use";
   }
 }
 
@@ -1918,16 +1918,13 @@ function renderSectionView(section, titleEntry, chapter, opts = {}) {
   let bodyBlock;
   const paras = (arr) => arr.map((p) => `<p>${linkifyCitations(esc(p), section.section_key)}</p>`).join("");
 
+  // the supplement chips are the sole provenance notice on the page; the
+  // share/email text keeps a spelled-out note, and only the load-failure
+  // case below still shows a banner (there the chip alone would mislead)
   if (opts.suppOnly) {
     suppChip = repealed
       ? `<span class="tag repealed">Repealed — ${year} Supplement</span>`
       : `<span class="tag supp">New — ${year} Supplement</span>`;
-    suppBlock = `
-      <div class="supp-note${repealed ? " repealed" : ""}" role="note">
-        <strong>${repealed ? `Repealed by the ${year} Supplement` : `Added by the ${year} Supplement`}</strong>
-        — this section does not appear in the General Statutes revised to January 1, ${year - 1};
-        the text below is from the ${year} Supplement, ${suppReadWithNote()}.
-      </div>`;
     bodyBlock = `
       <div class="body">
         ${suppBody.length ? paras(suppBody)
@@ -1937,11 +1934,6 @@ function renderSectionView(section, titleEntry, chapter, opts = {}) {
     suppChip = repealed
       ? `<span class="tag repealed">Repealed — ${year} Supplement</span>`
       : `<span class="tag supp">Amended — ${year} Supplement</span>`;
-    suppBlock = `
-      <div class="supp-note${repealed ? " repealed" : ""}" role="note">
-        <strong>${repealed ? `Repealed by the ${year} Supplement` : `As amended by the ${year} Supplement`}</strong>
-        — ${suppReadWithNote()}. The ${year - 1} revision text is below for reference.
-      </div>`;
     bodyBlock = `
       <div class="body">${paras(suppBody)}</div>
       ${suppContent.source?.length ? renderPanel(`Source (${year} Supplement)`, suppContent.source, false, section.section_key) : ""}
@@ -2198,12 +2190,6 @@ function renderHome() {
         <p>Bookmark sections and infractions to find them quickly.</p>
       </a>
     </div>
-    <p class="small muted home-provenance">Unofficial research aid${state.master?.source?.generated_at_utc
-      ? ` — statute text captured ${fmtDate(state.master.source.generated_at_utc)}` : ""}${state.supplement
-      ? `, including the ${suppYear()} Supplement` : ""}${inf?.source?.effective
-      ? `; infraction schedule effective ${esc(inf.source.effective)}` : ""}.
-      Verify against the official publications before relying on it.
-      <a href="${hashFor.about()}">Data &amp; sources →</a></p>
     ${renderHomeRows("🕘 Recently viewed", state.recents.slice(0, HOME_ROWS), null)}
     ${renderHomeRows("★ Bookmarks",
     [...state.bookmarks].sort((a, b) => b.ts - a.ts).slice(0, HOME_ROWS),
@@ -2213,7 +2199,7 @@ function renderHome() {
   $("exampleSearch")?.addEventListener("click", (ev) => {
     ev.preventDefault();
     qEl.value = "14-296aa";
-    setSearch(qEl.value, scopeEl.value);
+    setSearch(qEl.value, "nav");
   });
 }
 
@@ -2624,17 +2610,15 @@ function renderAboutView() {
     </div>`).join("");
 
   viewEl.innerHTML = `
+    <div class="about-brand">
+      <img src="./wordmark.svg" alt="UConn School of Law — Law Library and Technology" />
+    </div>
     <h1 class="h1">About CT General Statutes Explorer</h1>
     <p class="muted">A UConn Law Library research tool for browsing and searching the Connecticut
       General Statutes, the official subject index, and the Judicial Branch infraction schedule.</p>
+    <p class="about-meta">Version ${APP_VERSION} · ${APP_YEAR}</p>
+    <p><a class="btn primary" href="https://library.law.uconn.edu/" target="_blank" rel="noopener">Visit the Law Library ↗</a></p>
     <h2>Data &amp; sources</h2>
-    <div class="disclaimer" role="note">
-      <strong>Unofficial research aid.</strong> This app is published by the UConn Law Library
-      and is not affiliated with the Connecticut General Assembly or the Judicial Branch.
-      It reflects a point-in-time copy of the official publications listed below — always
-      verify statutory language and fine amounts against the official source before relying
-      on them. Nothing here is legal advice.
-    </div>
     <div class="list">${cards}</div>
     ${counts ? `<p class="small muted">This snapshot holds ${counts.titles} titles,
       ${Number(counts.chapters).toLocaleString("en-US")} chapters,
@@ -2689,9 +2673,12 @@ function renderSearch() {
         ? "Full text of statutes"
         : "Titles, chapters, sections, index topics & infractions"}</span>
       ${stillLoading}
+      <button class="btn" id="scopeSwitchBtn">${state.search.scope === "fulltext"
+        ? "← Back to quick results"
+        : "Search full text of all statutes →"}</button>
     </div>
     ${totals === 0 ? `<div class="empty">No results for “${esc(q)}”. Try fewer words, a statute number like “14-227a”,
-      the full-text scope, or boolean operators — e.g. <code>leash OR muzzle</code>.</div>` : ""}
+      the full-text search, or boolean operators — e.g. <code>leash OR muzzle</code>.</div>` : ""}
     <p class="small muted search-tips">Advanced: words combine with AND by default · <code>leash OR muzzle</code> ·
       <code>dog NOT license</code> or <code>-license</code> · <code>"evading responsibility"</code> for exact phrases ·
       <code>(dog OR cat) AND bite</code> — operators must be CAPITALIZED.</p>
@@ -2729,6 +2716,12 @@ function renderSearch() {
         <div class="title">${highlight(r.label, q)}</div>
       </a>`)}
   `;
+
+  // replaces the old scope dropdown: widen this query to the statute bodies,
+  // or drop back to the quick metadata search
+  $("scopeSwitchBtn")?.addEventListener("click", () => {
+    setSearch(q, state.search.scope === "fulltext" ? "nav" : "fulltext");
+  });
 }
 
 // -----------------------------
@@ -2741,6 +2734,7 @@ async function applyRoute() {
   // navigating anywhere exits search mode
   if (state.search.q || qEl.value) {
     state.search.q = "";
+    state.search.scope = "nav";
     state.search.results = null;
     qEl.value = "";
   }
@@ -2760,10 +2754,14 @@ async function applyRoute() {
 }
 
 function bindUI() {
-  const navScopeDelay = () => (scopeEl.value === "fulltext" ? 350 : 180);
+  // typing while a full-text search is showing keeps that scope; a fresh
+  // search starts in the quick "everything" scope (the results page has a
+  // button to widen it to full text)
+  const currentScope = () => state.search.scope || "nav";
+  const navScopeDelay = () => (currentScope() === "fulltext" ? 350 : 180);
   let searchTimer;
   const refreshSearchFromInput = () => {
-    setSearch(qEl.value, scopeEl.value);
+    setSearch(qEl.value, currentScope());
     if (document.activeElement === qEl) renderOmni();
   };
 
@@ -2774,8 +2772,8 @@ function bindUI() {
   qEl.addEventListener("focus", () => {
     if (!qEl.value.trim()) return;
     clearTimeout(searchTimer);
-    if (state.search.q !== qEl.value.trim() || state.search.scope !== scopeEl.value) {
-      setSearch(qEl.value, scopeEl.value);
+    if (state.search.q !== qEl.value.trim()) {
+      setSearch(qEl.value, currentScope());
     }
     renderOmni();
   });
@@ -2796,7 +2794,7 @@ function bindUI() {
         if (location.hash === target) applyRoute();
         else go(target);
       } else {
-        setSearch(qEl.value, scopeEl.value);
+        setSearch(qEl.value, currentScope());
         closeOmni();
         qEl.blur();
       }
@@ -2809,13 +2807,6 @@ function bindUI() {
       qEl.blur();
     }
   });
-  scopeEl.addEventListener("change", () => {
-    // Full-text search streams title bodies through the worker on demand —
-    // switching scope downloads nothing by itself.
-    setSearch(qEl.value, scopeEl.value);
-    if (document.activeElement === qEl) renderOmni();
-  });
-
   omniPanel.addEventListener("mousedown", (ev) => {
     const link = ev.target.closest(".omni-item");
     if (!link) return;
@@ -2849,7 +2840,7 @@ function bindUI() {
       qEl.select();
     } else if (ev.key === "Escape" && state.search.q) {
       qEl.value = "";
-      setSearch("", scopeEl.value);
+      setSearch("", "nav");
     }
   });
 }
