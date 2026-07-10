@@ -1,0 +1,44 @@
+# Data-quality gate for CT-Statutes datasets.
+#
+# Runs CT-Statutes/validate_data.py against the committed data/ files whenever
+# they (or the validation logic) change in a push or pull request. The monthly
+# refresh workflow validates its own output before opening a PR, but PRs the
+# refresh bot opens with GITHUB_TOKEN do not trigger pull_request workflows —
+# this catches everything else: manual data edits, parser-change PRs that
+# regenerate data, and merges to main.
+#
+# Stdlib only; no source downloads, so a Linux runner is fine here.
+
+name: Validate CT-Statutes data
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "CT-Statutes/data/**"
+      - "CT-Statutes/validate_data.py"
+      - "CT-Statutes/build_app_indexes.py"
+      - ".github/workflows/validate-statute-data.yml"
+  pull_request:
+    paths:
+      - "CT-Statutes/data/**"
+      - "CT-Statutes/validate_data.py"
+      - "CT-Statutes/build_app_indexes.py"
+      - ".github/workflows/validate-statute-data.yml"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate the generated datasets
+        working-directory: CT-Statutes
+        run: python validate_data.py

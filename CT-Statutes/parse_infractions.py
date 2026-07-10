@@ -8,7 +8,8 @@ CT Infractions Schedule parser (jud.ct.gov)
 Each schedule row becomes an entry:
   stat_no      statute citation as printed (e.g. "14-100a(d1B*")
   section_key  base C.G.S. section (e.g. "14-100a") used to link into the
-               statute JSON produced by ct_CGS_Crawl-v2.py
+               statute JSON produced by ct_CGS_Crawl-v2.py; public act rows
+               get "pa<num>" (e.g. "pa25-55"), which never links
   description  infraction/violation description
   amounts      column values (total_due, fine, fee, z_fee, cost, surcharge,
                stf, bipsa, mf, plus) where present
@@ -42,6 +43,9 @@ FIRST_SCHEDULE_PAGE = 5  # 0-based; pages before this are cover/TOC/preface
 # Section letters are lowercase in the schedule; uppercase Z/SZ suffixes are
 # construction-zone / school-zone fee variants, not part of the section number.
 STAT_RE = re.compile(r"^(\d+[a-z]{0,2}-\d+[a-z]{0,3})\S*$")
+# Public act citation, e.g. "PA25-55(3(b(1" = PA 25-55 Sec. 3(b)(1). These rows
+# cite session law not yet folded into the C.G.S. crawl, so they never link.
+PA_STAT_RE = re.compile(r"^PA(\d+-\d+)\S*$")
 AMOUNT_RE = re.compile(r"^\d{1,3}(?:,\d{3})*\.\d{2}$")
 
 # x coordinate that separates description text from the amount columns
@@ -128,6 +132,73 @@ def clean_citation(stat_no, base):
     return base + "".join(f"({g})" for g in groups)
 
 
+# Citation reference inside a description, printed in the schedule's squashed
+# form, e.g. "Violation of 14-296aa(b1st in a ... work zone" or "14-219(b(5*".
+DESC_CITE_RE = re.compile(r"^((?:PA)?\d+[a-z]{0,2}-\d+[a-z]{0,3})(\(\S*)$")
+ORDINAL_RE = re.compile(r"(1st|2nd|3rd|\d+th)$")
+
+
+def fix_citation_token(token):
+    """Rewrite a squashed citation reference into readable form.
+
+    "14-296aa(b1st" -> "14-296aa(b) (1st offense)"
+    "14-219(b(5*"   -> "14-219(b)(5)*"
+    Tokens whose parentheses already balance are left untouched.
+    """
+    body = token.rstrip(".,;:")
+    punct = token[len(body):]
+    m = DESC_CITE_RE.match(body)
+    if not m:
+        return token
+    base, rest = m.groups()
+    if rest.count("(") == rest.count(")"):
+        return token
+    star = rest.endswith("*")
+    rest = rest.rstrip("*")
+    om = ORDINAL_RE.search(rest)
+    ordinal = om.group(1) if om else None
+    if ordinal:
+        rest = rest[:om.start()]
+    groups = re.findall(r"[A-Za-z]+|\d+", rest)
+    fixed = base + "".join(f"({g})" for g in groups) + ("*" if star else "")
+    if ordinal:
+        fixed += f" ({ordinal} offense)"
+    return fixed + punct
+
+
+# Zone-fee rows describe the base row they double, e.g. a citation of
+# "14-296aa(b1Z" with description "Violation of 14-296aa(b1st in a ... zone".
+ZONE_REF_RE = re.compile(
+    r"^Violation of ((?:PA)?\d+[a-z]{0,2}-\d+[a-z]{0,3}(?:\([a-z0-9]+\))*)"
+    r" \((1st|2nd|3rd|\d+th) offense\)")
+
+
+def reconcile_zone_citation(entry):
+    """Drop a squashed offense ordinal that clean_citation read as a
+    subdivision.
+
+    "14-296aa(b1Z" means 14-296aa(b), 1st offense, in a work zone — not
+    subdivision (b)(1). The digit is an ordinal exactly when the row's own
+    description cites the base row with a matching "(Nth offense)" marker;
+    real trailing subdivisions (e.g. "21a-421hhh(a1") have no such marker.
+    """
+    m = ZONE_REF_RE.match(entry["description"])
+    if not m:
+        return
+    cited, ordinal = m.groups()
+    n = re.match(r"\d+", ordinal).group(0)
+    if entry["citation"] == f"{cited}({n})":
+        entry["citation"] = cited
+
+
+def polish_entries(entries):
+    """Make descriptions readable after assembly from wrapped PDF lines."""
+    for entry in entries:
+        entry["description"] = " ".join(
+            fix_citation_token(tok) for tok in entry["description"].split())
+        reconcile_zone_citation(entry)
+
+
 def is_category(ws):
     """Category headings sit at the left margin, all-caps, with no citation."""
     text = " ".join(w["text"] for w in ws)
@@ -156,8 +227,17 @@ def parse_schedule(pdf):
 
         for ws in lines:
             text = " ".join(w["text"] for w in ws)
-            # skip the two header rows and the page-number footer
-            if text.startswith("TOTAL") or text.startswith("STAT NO"):
+            # The alphabetical re-listing restates every schedule row in a
+            # description-first layout, followed by the per-m.p.h. speeding
+            # tables and sample forms; none of it parses as rows, so the
+            # numerical schedule — and this parser's work — ends here.
+            if re.search(r"-\s*Alphabetical Order\s*$", text):
+                if current:
+                    entries.append(current)
+                return entries
+            # skip the header rows (either column order) and page-number footer
+            if (text.startswith("TOTAL") or text.startswith("STAT NO")
+                    or text.startswith("INFRACTIONS/VIOLATIONS")):
                 continue
             if len(ws) == 1 and re.fullmatch(r"\d{1,3}", text):
                 continue
@@ -166,14 +246,22 @@ def parse_schedule(pdf):
             right = [w for w in ws if w["x0"] >= AMOUNT_ZONE_X]
 
             first = ws[0]
-            if first["x0"] <= ROW_START_X and STAT_RE.match(first["text"]):
+            stat_m = STAT_RE.match(first["text"])
+            pa_m = None if stat_m else PA_STAT_RE.match(first["text"])
+            if first["x0"] <= ROW_START_X and (stat_m or pa_m):
                 if current:
                     entries.append(current)
                 stat_no = first["text"]
-                base = STAT_RE.match(stat_no).group(1).lower()
+                if stat_m:
+                    base = stat_m.group(1).lower()
+                    citation = clean_citation(stat_no, base)
+                else:
+                    num = pa_m.group(1)
+                    base = "pa" + num  # never a C.G.S. key, so never links
+                    citation = "PA " + clean_citation(stat_no[2:], num)
                 current = {
                     "stat_no": stat_no,
-                    "citation": clean_citation(stat_no, base),
+                    "citation": citation,
                     "section_key": base,
                     "description": " ".join(w["text"] for w in left[1:]),
                     "amounts": {},
@@ -258,6 +346,7 @@ def main():
             effective = m.group(1)
         entries = parse_schedule(pdf)
 
+    polish_entries(entries)
     linked = link_to_statutes(entries)
 
     out = {

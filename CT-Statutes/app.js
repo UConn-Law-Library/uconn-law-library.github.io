@@ -1901,7 +1901,9 @@ function renderInfractionDetail(e) {
         <div class="title">C.G.S. Sec. ${esc(e.section_key)}</div>
         <div class="sub">Open the full statute text</div>
       </a>`
-    : `<div class="empty">The underlying statute (Sec. ${esc(e.section_key)}) is not in the local statute data.</div>`;
+    : `<div class="empty">${e.section_key.startsWith("pa")
+        ? `This entry cites a public act (${esc(cite(e))}) not yet folded into the codified statute data.`
+        : `The underlying statute (Sec. ${esc(e.section_key)}) is not in the local statute data.`}</div>`;
 
   viewEl.innerHTML = `
     <div class="section-label">§ ${esc(cite(e))} — infraction/violation</div>
