@@ -294,7 +294,7 @@ All runtime assets are static. Deploy the `CT-Statutes` directory without a buil
 - serve `index.html` as the directory index (GitHub Pages and most static hosts require the lowercase name);
 - keep the application and `data/` directory under the same origin and path scope.
 
-After deployment, load the site online once to populate the shell cache. Individual title files become available offline after they have been opened, scanned by a full-text search, or fetched by Settings → Download for offline use.
+After deployment, load the site online once to populate the shell cache. Individual title files become available offline after they have been opened, scanned by a full-text search, or fetched by Settings → Download.
 
 ## Maintenance notes
 
@@ -404,6 +404,7 @@ The stylesheet uses CSS variables for theme colors and supports:
 * System theme detection
 * Explicit light mode
 * Explicit dark mode
+* Explicit OLED (true-black) mode
 * Text-size scaling
 * Compact list density
 * Sticky header
@@ -707,11 +708,11 @@ Common routes:
 
 ### Search
 
-The search box supports two scopes:
+The search box searches titles, chapters, sections, index topics and infractions as you type. The full results page offers a button that widens the same query to the full text of the statute bodies:
 
 ```text
-Titles, sections & infractions
-Full text of statutes
+Titles, chapters, sections, index topics & infractions   (default)
+Full text of statutes                                     (via "Search full text of all statutes")
 ```
 
 Search supports:
@@ -1010,6 +1011,7 @@ Potential improvements:
 * Add a changelog for data refreshes.
 * Add a small admin checklist for annual or session-based updates.
 
-Completed: snapshot dates and a plain-language disclaimer now appear on the home
-page and the in-app **Data & sources** page (`#/a`); `validate_data.py` and the
-`validate-statute-data.yml` workflow cover JSON validation locally and on CI.
+Completed: snapshot dates appear on the in-app **Data & sources** page (`#/a`),
+which also carries the Law Library wordmark, app version, and a link to the
+library's website; `validate_data.py` and the `validate-statute-data.yml`
+workflow cover JSON validation locally and on CI.
