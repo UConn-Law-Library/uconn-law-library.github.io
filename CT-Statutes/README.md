@@ -100,7 +100,7 @@ title
             └── status (present when detected as repealed)
 ```
 
-The application initially loads the master files and lightweight `search_index.json`. It fetches individual `title_XX.json` files as needed for browsing and progressively downloads them for full-text search. Citation and section-heading searches therefore cover the complete corpus even before any statute body file has loaded.
+The application initially loads the master files and lightweight `search_index.json`. Individual `title_XX.json` files are fetched on demand — a small LRU cache while browsing, and streamed through the full-text worker while searching. Citation and section-heading searches cover the complete corpus even before any statute body file has loaded.
 
 ### Subject-index data shape
 
@@ -225,7 +225,7 @@ git status --short
 Also test representative navigation and searches in a browser, including:
 
 - a numeric citation and a keyword search;
-- full-text search after all titles finish downloading;
+- full-text search, letting the "searched N/81 titles" indicator finish;
 - a subject-index cross-reference;
 - an infraction linked to a statute;
 - a repealed section;
@@ -279,7 +279,7 @@ All runtime assets are static. Deploy the `CT-Statutes` directory without a buil
 - serve `index.html` as the directory index (GitHub Pages and most static hosts require the lowercase name);
 - keep the application and `data/` directory under the same origin and path scope.
 
-After deployment, load the site online once to populate the shell cache. Individual title files become available offline after they have been opened or downloaded for full-text search.
+After deployment, load the site online once to populate the shell cache. Individual title files become available offline after they have been opened, scanned by a full-text search, or fetched by Settings → Download for offline use.
 
 ## Maintenance notes
 
@@ -410,7 +410,8 @@ Major responsibilities include:
 * Recently viewed storage
 * Share link generation
 * JSON loading
-* Title preloading
+* Title caching (LRU) and the offline bulk download
+* Full-text search orchestration (`ft-worker.js` with the shared `search-query.js` engine)
 * Search parsing and evaluation
 * Rendering of Browse, Index, Infractions, Bookmarks, and Search views
 * Service worker registration
@@ -666,7 +667,7 @@ Simplified structure:
 8. The app loads `titles_index.json` and `infractions.json`.
 9. The current route is rendered.
 10. `statutes_index.json` loads asynchronously.
-11. All title files begin preloading in the background for offline use and full-text search.
+11. Title bodies load on demand only: a small LRU cache (12 titles) serves browsing, and full-text search streams bodies through `ft-worker.js` without retaining them. Nothing preloads the 160 MB corpus.
 
 ### Routing
 
@@ -724,9 +725,9 @@ Operators must be capitalized to be treated as Boolean operators.
 
 ### Full-Text Search Behavior
 
-Full-text search runs against title data that has already loaded into memory. Because the app preloads all title files in the background, results may grow while the preload process continues.
+Full-text search runs in a Web Worker (`ft-worker.js`, sharing the query engine in `search-query.js`). The worker streams through every title file — fetching one, scanning its sections, posting matches, and discarding the parsed JSON — so the whole corpus is searched without holding it in page memory or blocking the main thread. Results appear progressively with a "searched N/81 titles" indicator, so partial coverage is never presented silently as complete.
 
-Users can also force a title to load by browsing to that title.
+Fetches go through the service worker's cache-first data handler: titles already viewed or downloaded for offline use are read from disk, and anything else is fetched from the network once (and cached as a side effect). Where Web Workers are unavailable, the same streaming scan runs on the main thread with yields between titles.
 
 ## 8. Offline Behavior
 
@@ -884,7 +885,7 @@ After refreshing data or changing code, test the following:
 * Infraction entries link back to statute sections when available.
 * Search works for a statute number such as `14-296aa`.
 * Keyword search returns sections, topics, chapters, titles, and infractions where applicable.
-* Full-text search returns results after title preloading has progressed.
+* Full-text search streams results while the "searched N/81 titles" indicator advances.
 * Bookmarks can be added and removed.
 * Recently viewed items appear on the home page.
 * Theme, text size, and compact mode persist after reload.
@@ -915,7 +916,7 @@ If that does not work, clear site data in the browser or bump the data cache ver
 
 ### Full-text search seems incomplete
 
-Full-text search only covers title files that have loaded into memory. Wait for background preloading to finish, or browse directly to the relevant title to load it.
+Full-text search scans every title each time; the progress tag shows how many of the 81 titles have been searched. On a first visit this includes downloading each title once, so a slow connection makes early results sparse — searching again after the scan finishes reads everything from the on-device cache. Titles that fail to download are skipped for that search.
 
 ### Subject index does not load
 
@@ -977,7 +978,7 @@ No user search queries, bookmarks, or reading history are transmitted to a serve
 
 ## 16. Known Limitations
 
-* Full-text search depends on title files being loaded or preloaded.
+* Full-text search on a first visit downloads each title file once while it scans.
 * Offline data may become stale until the data cache is cleared.
 * PDF parsing can break if the source PDF layouts change.
 * The app relies on official source pages remaining structurally consistent.

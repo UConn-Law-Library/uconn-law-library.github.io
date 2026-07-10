@@ -8,7 +8,7 @@
 
 "use strict";
 
-const SHELL_CACHE = "cgs-shell-v2";
+const SHELL_CACHE = "cgs-shell-v3";
 const DATA_CACHE = "cgs-data-v1"; // must match app.js
 const META_CACHE = "cgs-meta-v1"; // shared with next/sw.js
 
@@ -17,6 +17,8 @@ const SHELL_ASSETS = [
   "./index.html",
   "./styles.css",
   "./app.js",
+  "./search-query.js",
+  "./ft-worker.js",
   "./manifest.webmanifest",
   "./icon.svg",
 ];
