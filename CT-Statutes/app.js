@@ -12,6 +12,8 @@ const DATA_DIR = "./data/";
 const MASTER_URL = DATA_DIR + "titles_index.json";
 const INFRACTIONS_URL = DATA_DIR + "infractions.json";
 const STAT_INDEX_URL = DATA_DIR + "statutes_index.json";
+const SEARCH_INDEX_URL = DATA_DIR + "search_index.json";
+const DATA_VERSION_URL = DATA_DIR + "version.json";
 
 const MAX_GROUP_RESULTS = 100;     // per result group (sections, infractions, …)
 const MAX_FULLTEXT_RESULTS = 200;
@@ -35,6 +37,7 @@ const HOME_ROWS = 5;     // shown on the home page per section
 const THEME_KEY = "cgs:theme";       // "light" | "dark" pins a theme; unset follows the system
 const TEXT_SIZE_KEY = "cgs:textsize"; // font scale factor; unset = 1
 const DENSITY_KEY = "cgs:density";    // "compact"; unset = comfortable
+const DATA_VERSION_KEY = "cgs:data-version:v1";
 const TEXT_SIZES = [0.85, 0.925, 1, 1.075, 1.15, 1.25, 1.4];
 
 // -----------------------------
@@ -52,6 +55,10 @@ const state = {
   idxByName: new Map(),          // heading name -> heading object
   idxLetters: new Map(),         // "A" -> [heading, ...]
   idxByRef: new Map(),           // base section key -> Set of headings citing it
+
+  searchIndex: null,             // lightweight complete chapter/section catalog
+  searchChapterByKey: new Map(), // `${t}:${c}` -> compact search-index chapter
+  dataVersion: null,
 
   titleCache: new Map(),         // title_key -> loaded title object
   titleByKey: new Map(),         // title_key -> master entry
@@ -546,12 +553,51 @@ async function fetchJson(url) {
   return res.json();
 }
 
+// Fetch the small version manifest before any legal data. The cache-busting
+// query gets through an older installed service worker, allowing this release
+// to migrate legacy cache-first data immediately. The current service worker
+// identifies offline fallbacks so an offline launch never discards its only
+// stored copy.
+async function ensureCurrentDataVersion() {
+  try {
+    const res = await fetch(`${DATA_VERSION_URL}?check=${Date.now()}`, { cache: "no-store" });
+    if (!res.ok) return;
+    const manifest = await res.json();
+    if (!manifest?.version) return;
+
+    const previous = getSetting(DATA_VERSION_KEY);
+    const source = res.headers.get("X-CGS-Version-Source");
+    const authoritative = source !== "cache";
+    if (!IS_PACKAGED_APP && authoritative && previous !== manifest.version && "caches" in window) {
+      await caches.delete(DATA_CACHE);
+    }
+    setSetting(DATA_VERSION_KEY, manifest.version);
+    state.dataVersion = manifest;
+  } catch {
+    // Offline or an older deployment without a manifest: preserve cached data.
+  }
+}
+
 async function loadMaster() {
   setStatus("Loading titles index…");
   const master = await fetchJson(MASTER_URL);
   state.master = master;
   state.titleByKey.clear();
   for (const t of master.titles || []) state.titleByKey.set(t.title_key, t);
+}
+
+async function loadSearchIndex() {
+  const data = await fetchJson(SEARCH_INDEX_URL);
+  state.searchIndex = data;
+  state.searchChapterByKey.clear();
+  for (const chapter of data.chapters || []) {
+    state.searchChapterByKey.set(keyChapter(chapter.t, chapter.c), chapter);
+  }
+  for (const section of data.sections || []) {
+    if (!state.sectionLoc.has(section.s)) {
+      state.sectionLoc.set(section.s, { t: section.t, c: section.c });
+    }
+  }
 }
 
 async function loadInfractions() {
@@ -887,6 +933,7 @@ function runSearch() {
   }
   const statMatch = qRaw.match(STAT_QUERY_RE);
   const statKey = statMatch ? statMatch[1].toLowerCase() : null;
+  const statTitleKey = statKey ? titleKeyForSection(statKey) : null;
   const ast = parseQuery(qRaw);
   const posTerms = collectPositive(ast);
   state.search.posTerms = posTerms;
@@ -898,24 +945,24 @@ function runSearch() {
   // --- titles (always available from master)
   for (const t of state.master?.titles || []) {
     const hay = `${t.label} ${t.name || ""}`.toLowerCase();
-    if ((statKey && t.title_key === statKey.split("-")[0]) || matchesTokens(hay)) {
+    if ((statTitleKey && t.title_key === statTitleKey) || matchesTokens(hay)) {
       groups.titles.push({ label: fmtTitle(t), hash: hashFor.title(t.title_key) });
       if (groups.titles.length >= 20) break;
     }
   }
 
-  // --- statute-number lookup across loaded titles
+  // --- statute-number lookup across the complete lightweight catalog
   if (statKey) {
-    for (const [skey, loc] of state.sectionLoc.entries()) {
+    for (const row of state.searchIndex?.sections || []) {
+      const skey = row.s;
       if (skey === statKey || skey.startsWith(statKey)) {
-        const s = state.sectionByKey.get(keySection(loc.t, loc.c, skey));
-        const tEntry = state.titleByKey.get(loc.t);
-        const ch = state.chapterByKey.get(keyChapter(loc.t, loc.c));
+        const tEntry = state.titleByKey.get(row.t);
+        const ch = state.searchChapterByKey.get(keyChapter(row.t, row.c));
         groups.sections.push({
           exact: skey === statKey,
-          label: s?.label || `Sec. ${skey}`,
-          sub: `${tEntry ? fmtTitle(tEntry) : loc.t} • ${ch ? fmtChapter(ch) : loc.c}`,
-          hash: hashFor.section(loc.t, loc.c, skey),
+          label: row.l || `Sec. ${skey}`,
+          sub: `${tEntry ? fmtTitle(tEntry) : row.t} • ${ch ? `${ch.l}${ch.n ? " — " + ch.n : ""}` : row.c}`,
+          hash: hashFor.section(row.t, row.c, skey),
         });
       }
     }
@@ -982,33 +1029,30 @@ function runSearch() {
       if (groups.sections.length >= MAX_FULLTEXT_RESULTS) break;
     }
   } else if (!statKey) {
-    // label search: chapters + sections across loaded titles
-    for (const [titleKey, titleObj] of state.titleCache.entries()) {
-      const tEntry = state.titleByKey.get(titleKey);
-      const tLabel = tEntry ? fmtTitle(tEntry) : titleKey;
-      for (const c of titleObj.chapters || []) {
-        const cHay = `${c.label} ${c.name || ""}`.toLowerCase();
-        if (groups.chapters.length < MAX_GROUP_RESULTS && matchesTokens(cHay)) {
-          groups.chapters.push({
-            label: fmtChapter(c),
-            sub: tLabel,
-            hash: hashFor.chapter(titleKey, c.chapter_key),
-          });
-        }
-        if (groups.sections.length < MAX_GROUP_RESULTS) {
-          for (const s of c.sections || []) {
-            if (!s.section_key) continue;
-            const sHay = `${s.label || ""} ${s.section_key}`.toLowerCase();
-            if (matchesTokens(sHay)) {
-              groups.sections.push({
-                label: s.label || s.section_key,
-                sub: `${tLabel} • ${fmtChapter(c)}`,
-                hash: hashFor.section(titleKey, c.chapter_key, s.section_key),
-              });
-              if (groups.sections.length >= MAX_GROUP_RESULTS) break;
-            }
-          }
-        }
+    // label search: every chapter + section, without loading the body files
+    for (const c of state.searchIndex?.chapters || []) {
+      const cHay = `${c.l || ""} ${c.n || ""}`.toLowerCase();
+      if (matchesTokens(cHay)) {
+        const tEntry = state.titleByKey.get(c.t);
+        groups.chapters.push({
+          label: `${c.l}${c.n ? " — " + c.n : ""}`,
+          sub: tEntry ? fmtTitle(tEntry) : c.t,
+          hash: hashFor.chapter(c.t, c.c),
+        });
+        if (groups.chapters.length >= MAX_GROUP_RESULTS) break;
+      }
+    }
+    for (const s of state.searchIndex?.sections || []) {
+      const sHay = `${s.l || ""} ${s.s}`.toLowerCase();
+      if (matchesTokens(sHay)) {
+        const tEntry = state.titleByKey.get(s.t);
+        const ch = state.searchChapterByKey.get(keyChapter(s.t, s.c));
+        groups.sections.push({
+          label: s.l || s.s,
+          sub: `${tEntry ? fmtTitle(tEntry) : s.t} • ${ch ? `${ch.l}${ch.n ? " — " + ch.n : ""}` : s.c}`,
+          hash: hashFor.section(s.t, s.c, s.s),
+        });
+        if (groups.sections.length >= MAX_GROUP_RESULTS) break;
       }
     }
     // subject-index headings by keyword
@@ -2177,7 +2221,8 @@ function registerServiceWorker() {
   registerServiceWorker();
 
   try {
-    await Promise.all([loadMaster(), loadInfractions()]);
+    await ensureCurrentDataVersion();
+    await Promise.all([loadMaster(), loadInfractions(), loadSearchIndex()]);
     setStatus("Ready");
     checkOfflineStored(); // async — reflects a previous session's download
     await applyRoute();

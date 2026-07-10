@@ -64,6 +64,7 @@ jobs:
 
             - [ ] `source` dates in `titles_index.json`, `statutes_index.json`, and `infractions.json` look right
             - [ ] record counts in the workflow log are close to the previous run's
+            - [ ] `search_index.json` covers all generated chapters and sections, and `version.json` changed when runtime data changed
             - [ ] a sample statute section, index heading, and infraction render correctly
             - [ ] the infractions `source.effective` date matches the current schedule on jud.ct.gov — that site blocks GitHub's runner IPs, so a failed download parses the committed `infractions_schedule.pdf` instead (the log says when this happened)
             - [ ] if only `generated` timestamps changed, closing this PR without merging is fine

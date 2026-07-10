@@ -102,23 +102,24 @@ features of the original app are out of scope:
 
 - Plain HTML/CSS/JS, zero dependencies, hash routing — same hosting story as the
   original (GitHub Pages, or packaged into the Android/iOS WebView shells).
-- Installable PWA: manifest + `sw.js` (ported from the original — shell
-  network-first, data cache-first) and an Install button in the header. Once
+- Installable PWA: manifest + `sw.js` (shell and version manifest network-first,
+  legal data cache-first with version invalidation) and an Install button in the header. Once
   the app is installed (or immediately on accepting the install prompt), the
   full corpus downloads automatically in the background, one title at a time,
   skipping files already cached and respecting the browser's Data Saver
   setting; an interrupted run resumes on the next launch. Plain browser visits
   stay lightweight and only cache what they read. The data cache name is
   shared with the original app, so statutes downloaded by either app are
-  offline in both and stored once.
+  offline in both and stored once. A changed `data/version.json` invalidates
+  the shared stale-data cache before refreshed datasets load.
 - Title 42a (Uniform Commercial Code) is empty in the crawled snapshot
   (`title_42a.json` has no chapters), so cross-references into the UCC show a
   "not in the crawled data" notice with a link to cga.ct.gov. That's a crawler
   gap that affects the original app too.
-- `titles_index.json` and `infractions.json` load at boot; the 14 MB subject index
-  loads lazily in the background; `title_XX.json` files load on demand with a
-  small LRU cache (12 titles) so a full-text scan doesn't hold ~160 MB of JSON in
-  memory. Section locations found along the way are kept in a lightweight registry
-  so previously-seen sections stay searchable.
+- `titles_index.json`, `search_index.json`, and `infractions.json` load at boot;
+  the lightweight search index makes all chapter and section headings available
+  immediately. The 14 MB subject index loads lazily in the background;
+  `title_XX.json` files load on demand with a small LRU cache (12 titles) so a
+  full-text scan doesn't hold ~160 MB of JSON in memory.
 - Bookmarks and recents are in `localStorage` under `cgsr:*` keys (separate from
   the original app's `cgs:*` keys, so the two apps don't interfere).

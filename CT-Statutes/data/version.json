@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "version": "d25150472a89b87388f627056c0d2143093b2d4bc6ac0b19eaf3525774a78972",
+  "files": 85,
+  "bytes": 172780371,
+  "sources": {
+    "statutes": {
+      "generated_at_utc": "2026-02-13T19:31:26Z"
+    },
+    "index": {
+      "generated": "2026-06-10",
+      "revised": "Revision of 1958, revised to January 1, 2025"
+    },
+    "infractions": {
+      "generated": "2026-06-09",
+      "effective": "October 1, 2025"
+    }
+  }
+}

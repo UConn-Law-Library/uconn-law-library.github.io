@@ -18,6 +18,10 @@ const DATA_DIR = "../data/";
 const MASTER_URL = DATA_DIR + "titles_index.json";
 const INFRACTIONS_URL = DATA_DIR + "infractions.json";
 const STAT_INDEX_URL = DATA_DIR + "statutes_index.json";
+const SEARCH_INDEX_URL = DATA_DIR + "search_index.json";
+const DATA_VERSION_URL = DATA_DIR + "version.json";
+const DATA_CACHE = "cgs-data-v1"; // shared with the original app
+const DATA_VERSION_KEY = "cgs:data-version:v1";
 
 const THEME_KEY = "cgsr:theme";       // "light" | "dark" pins a theme; unset follows the system
 const TEXT_SIZE_KEY = "cgsr:textsize"; // font scale factor; unset = 1
@@ -180,6 +184,23 @@ async function fetchJSON(url) {
   return res.json();
 }
 
+async function ensureCurrentDataVersion() {
+  try {
+    const res = await fetch(`${DATA_VERSION_URL}?check=${Date.now()}`, { cache: "no-store" });
+    if (!res.ok) return;
+    const manifest = await res.json();
+    if (!manifest?.version) return;
+    const previous = localStorage.getItem(DATA_VERSION_KEY);
+    const authoritative = res.headers.get("X-CGS-Version-Source") !== "cache";
+    if (!IS_PACKAGED_APP && authoritative && previous !== manifest.version && "caches" in window) {
+      await caches.delete(DATA_CACHE);
+    }
+    localStorage.setItem(DATA_VERSION_KEY, manifest.version);
+  } catch {
+    // Preserve the currently stored corpus when offline.
+  }
+}
+
 function registerTitle(t) {
   if (S.registered.has(t.title_key)) return;
   S.registered.add(t.title_key);
@@ -262,9 +283,24 @@ function updateCiteChips() {
 }
 
 async function boot() {
-  S.master = await fetchJSON(MASTER_URL);
+  await ensureCurrentDataVersion();
+  const [master, searchIndex] = await Promise.all([
+    fetchJSON(MASTER_URL),
+    fetchJSON(SEARCH_INDEX_URL),
+  ]);
+  S.master = master;
   S.titles = S.master.titles || [];
   for (const t of S.titles) S.titleByKey.set(t.title_key, t);
+  S.navChRows = (searchIndex.chapters || []).map((c) => ({
+    ck: c.c, label: c.l, name: c.n || "", tk: c.t,
+  }));
+  S.navSecRows = (searchIndex.sections || []).map((s) => ({
+    key: s.s, label: s.l || "", tk: s.t, ck: s.c,
+  }));
+  for (const s of S.navSecRows) {
+    if (!S.secLoc.has(s.key)) S.secLoc.set(s.key, { tk: s.tk, ck: s.ck });
+  }
+  for (const t of S.titles) S.registered.add(t.title_key);
   checkOfflineStored();
 
   fetchJSON(INFRACTIONS_URL).then((inf) => {
@@ -999,20 +1035,6 @@ async function viewResolve(token, ref) {
 // -----------------------------
 // SEARCH (instant + results page)
 // -----------------------------
-// Section headings only become searchable once their title's JSON is loaded
-// (registerTitle fills S.navSecRows), so on a fresh visit a citation query
-// like "14-4" finds infractions but no sections. When a query names a
-// section, fetch that title in the background and refresh the results, so
-// sections show up on the first search rather than after visiting the title.
-function ensureCitedTitle(q, refresh) {
-  for (const tok of tokenize(q)) {
-    const tk = titleKeyForSection(tok);
-    if (!tk) continue;
-    if (!S.registered.has(tk)) loadTitle(tk).then(refresh).catch(() => { });
-    return;
-  }
-}
-
 function navSearch(q, perGroup) {
   const terms = tokenize(q);
   const out = { jump: null, titles: [], chapters: [], sections: [], topics: [], fines: [], topicsPending: !S.idx };
@@ -1058,10 +1080,6 @@ async function viewSearch(token, q) {
       if (token === S.renderToken && S.route?.area === "search" && S.route.q === q) render();
     });
   }
-  ensureCitedTitle(q, () => {
-    if (token === S.renderToken && S.route?.area === "search" && S.route.q === q) render();
-  });
-
   const r = navSearch(q, 50);
   const terms = tokenize(q);
   const hl = (s) => highlightTerms(esc(s), terms);
@@ -1070,7 +1088,7 @@ async function viewSearch(token, q) {
   readerEl.innerHTML = `
     <h1 class="page-h">Results for “${esc(q)}”</h1>
     <p class="page-sub">Matched against titles, chapters, section headings, index topics, and the infraction schedule.
-      Section headings cover the <b>${S.registered.size}</b> title${S.registered.size === 1 ? "" : "s"} loaded so far —
+      Section headings cover all <b>${S.titles.length}</b> titles —
       full-text search scans every word of all ${S.titles.length} titles.</p>
     <p><a class="btn primary" href="${H.fulltext(q)}">Search full text of all statutes →</a></p>
     ${r.jump ? `<div class="res-grp"><div class="sec-h">Citation</div>
@@ -1332,9 +1350,6 @@ function renderOmni(q) {
   const terms = tokenize(q);
   if (!terms.length) { closeOmni(); return; }
   loadIndexLazy();
-  ensureCitedTitle(q, () => {
-    if (!omniPanel.hidden && qEl.value === q) renderOmni(q);
-  });
   const r = navSearch(q, 5);
   const hl = (s) => highlightTerms(esc(s), terms);
   const items = [];
@@ -1680,8 +1695,6 @@ function registerServiceWorker() {
     console.warn("Service worker registration failed:", err);
   });
 }
-
-const DATA_CACHE = "cgs-data-v1"; // must match sw.js (shared with the original app)
 
 // Fetch the whole corpus (~160 MB): one title at a time, through the service
 // worker (which stores it in the shared data cache), skipping files already

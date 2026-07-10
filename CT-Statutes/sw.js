@@ -8,8 +8,9 @@
 
 "use strict";
 
-const SHELL_CACHE = "cgs-shell-v1";
+const SHELL_CACHE = "cgs-shell-v2";
 const DATA_CACHE = "cgs-data-v1"; // must match app.js
+const META_CACHE = "cgs-meta-v1"; // shared with next/sw.js
 
 const SHELL_ASSETS = [
   "./",
@@ -31,7 +32,10 @@ self.addEventListener("activate", (event) => {
   event.waitUntil(
     caches.keys().then((keys) =>
       Promise.all(
-        keys.filter((k) => k !== SHELL_CACHE && k !== DATA_CACHE)
+        // Cache Storage is origin-wide. Only remove this app's old shell
+        // caches; cgsr-* belongs to the /next/ reader and cgs-data/meta are
+        // intentionally shared by both apps.
+        keys.filter((k) => k.startsWith("cgs-shell-") && k !== SHELL_CACHE)
           .map((k) => caches.delete(k))
       )
     ).then(() => self.clients.claim())
@@ -64,6 +68,49 @@ async function networkFirst(request, cacheName) {
   }
 }
 
+function withVersionSource(response, source) {
+  const headers = new Headers(response.headers);
+  headers.set("X-CGS-Version-Source", source);
+  return new Response(response.body, {
+    status: response.status,
+    statusText: response.statusText,
+    headers,
+  });
+}
+
+async function parsedVersion(response) {
+  try {
+    return (await response.clone().json()).version || null;
+  } catch {
+    return null;
+  }
+}
+
+// version.json is always checked online first. When its deterministic hash
+// changes, discard the shared legal-data cache before the page requests any
+// master or title JSON. Offline launches fall back to the last manifest and
+// keep their stored corpus intact.
+async function versionFirst(request) {
+  const cache = await caches.open(META_CACHE);
+  const url = new URL(request.url);
+  const cacheKey = new Request(url.origin + url.pathname);
+  const previous = await cache.match(cacheKey);
+  try {
+    const response = await fetch(request, { cache: "no-store" });
+    if (!response.ok) return response;
+    const [oldVersion, newVersion] = await Promise.all([
+      previous ? parsedVersion(previous) : null,
+      parsedVersion(response),
+    ]);
+    if (newVersion && oldVersion !== newVersion) await caches.delete(DATA_CACHE);
+    await cache.put(cacheKey, response.clone());
+    return withVersionSource(response, "network");
+  } catch (err) {
+    if (previous) return withVersionSource(previous, "cache");
+    throw err;
+  }
+}
+
 self.addEventListener("fetch", (event) => {
   const { request } = event;
   if (request.method !== "GET") return;
@@ -74,7 +121,9 @@ self.addEventListener("fetch", (event) => {
   const scopePath = new URL(self.registration.scope).pathname;
   if (!url.pathname.startsWith(scopePath)) return;
 
-  if (url.pathname.includes("/data/")) {
+  if (url.pathname.endsWith("/data/version.json")) {
+    event.respondWith(versionFirst(request));
+  } else if (url.pathname.includes("/data/")) {
     event.respondWith(cacheFirst(request, DATA_CACHE));
   } else {
     event.respondWith(networkFirst(request, SHELL_CACHE));

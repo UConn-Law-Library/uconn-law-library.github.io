@@ -7,6 +7,8 @@ Stages, in dependency order:
                                                               data/titles_index.json
   2. index        parse_index.py        LCO index PDFs     -> data/statutes_index.json
   3. infractions  parse_infractions.py  schedule PDF       -> data/infractions.json
+  4. app indexes  build_app_indexes.py  generated JSON     -> data/search_index.json,
+                                                              data/version.json
 
 The infractions stage must run after the statutes stage because it links each
 schedule entry to the freshly crawled title files.
@@ -242,10 +244,19 @@ def main() -> None:
             results["infractions"] = run_stage(
                 "infractions", "parse_infractions.py")
 
+    # Rebuild the complete navigation index and deterministic version after
+    # every successful full or partial refresh.  The service worker uses the
+    # version to invalidate cached legal data when a refreshed dataset ships.
+    if results and all(results.values()):
+        results["app-indexes"] = run_stage(
+            "app indexes", "build_app_indexes.py")
+
     print("\n--- Summary ---")
     for name in STAGES:
         status = ("OK" if results[name] else "FAILED") if name in results else "skipped"
         print(f"  {name:<12} {status}")
+    if "app-indexes" in results:
+        print(f"  {'app indexes':<12} {'OK' if results['app-indexes'] else 'FAILED'}")
 
     # sanity-check the files the web app loads at startup
     for fname in ("titles_index.json", "statutes_index.json", "infractions.json"):

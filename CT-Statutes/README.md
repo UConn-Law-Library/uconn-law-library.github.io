@@ -26,7 +26,8 @@
 | [`manifest.webmanifest`](manifest.webmanifest) | PWA metadata. |
 | [`icon.svg`](icon.svg) | Site and installable-app icon. |
 | [`data/`](data/) | Generated JSON consumed by the application. |
-| [`update_data.py`](update_data.py) | Downloads the current source PDFs and runs the three generators below in dependency order. |
+| [`update_data.py`](update_data.py) | Downloads the current source PDFs and runs the data generators below in dependency order. |
+| [`build_app_indexes.py`](build_app_indexes.py) | Builds the complete navigation-search catalog and deterministic data-version manifest after a refresh. |
 | [`ct_CGS_Crawl-v2.py`](ct_CGS_Crawl-v2.py) | Crawls current statute titles, chapters, sections, and full text from the Connecticut General Assembly. |
 | [`parse_index.py`](parse_index.py) | Converts the three subject-index PDFs into `data/statutes_index.json`. |
 | [`parse_infractions.py`](parse_infractions.py) | Converts the Judicial Branch schedule PDF into `data/infractions.json` and links entries to statute sections. |
@@ -58,6 +59,8 @@ The repository contains generated snapshots; it does not request statute content
 | `data/title_XX.json` | Connecticut General Assembly title and chapter pages | A title's metadata, chapters, sections, full text, history, annotations, and repeal status when detected. Lettered titles use filenames such as `title_10a.json`. |
 | `data/statutes_index.json` | [Legislative Commissioners' Office statutes index](https://www.cga.ct.gov/lco/statutes-index.asp) | Subject headings, nested entries, statute references, and “see” cross-references extracted from the three index PDFs. |
 | `data/infractions.json` | [Connecticut Judicial Branch infractions schedule](https://www.jud.ct.gov/webforms/forms/infractions.pdf) | Violation descriptions, schedule categories, monetary columns, source-page numbers, and links to matching statute sections. |
+| `data/search_index.json` | Generated from all `title_XX.json` files | Lightweight chapter and section labels/routes, allowing complete navigation search without loading statute bodies. |
+| `data/version.json` | Generated from every runtime JSON dataset | Deterministic SHA-256 version plus source dates and corpus size, used to invalidate stale offline data. |
 
 The master generated datasets include source metadata. Check their `source.generated`, `source.revised`, or `source.effective` fields to determine the snapshot's date; do not infer currency from the repository's deployment date.
 
@@ -96,7 +99,7 @@ title
             └── status (present when detected as repealed)
 ```
 
-The application initially loads only the small master indexes. It fetches individual `title_XX.json` files as needed for browsing and progressively downloads them for full-text search.
+The application initially loads the master files and lightweight `search_index.json`. It fetches individual `title_XX.json` files as needed for browsing and progressively downloads them for full-text search. Citation and section-heading searches therefore cover the complete corpus even before any statute body file has loaded.
 
 ### Subject-index data shape
 
@@ -139,7 +142,7 @@ The virtual environment is local development state and should not be committed.
 
 ### 2. Refresh everything at once
 
-`update_data.py` performs a complete refresh in one command. It downloads the current source PDFs (locating the subject-index PDFs' year-versioned links on the LCO page, so a new annual revision is picked up automatically), then runs the three generators in dependency order: statutes first, infractions last so its statute links are built against the fresh crawl.
+`update_data.py` performs a complete refresh in one command. It downloads the current source PDFs (locating the subject-index PDFs' year-versioned links on the LCO page, so a new annual revision is picked up automatically), runs the three source generators in dependency order, and then runs `build_app_indexes.py`. Statutes run first, and infractions run last among the source generators so their links are built against the fresh crawl.
 
 ```bash
 python update_data.py
@@ -197,6 +200,14 @@ python parse_infractions.py
 
 This writes `data/infractions.json`. Run it after the statute crawl so its `ref` objects are built against the current title files.
 
+When running any generator directly instead of through `update_data.py`, finish with:
+
+```bash
+python build_app_indexes.py
+```
+
+Commit the resulting `search_index.json` and `version.json` with the other generated changes. The deterministic version changes whenever any runtime dataset changes.
+
 ### 6. Review generated changes
 
 Generated data can be large. Review source metadata, record counts, parser output, and a sample of entries before committing it:
@@ -250,12 +261,13 @@ Clearing browser site data removes these preferences and bookmarks.
 
 ### Offline caching
 
-`sw.js` uses two caches:
+`sw.js` uses three caches:
 
-- `cgs-shell-v1` uses a network-first strategy for HTML, CSS, JavaScript, the manifest, and the icon.
+- `cgs-shell-v2` uses a network-first strategy for HTML, CSS, JavaScript, the manifest, and the icon.
 - `cgs-data-v1` uses a cache-first strategy for files under `data/`.
+- `cgs-meta-v1` stores `data/version.json`, which is checked network-first before startup data is loaded.
 
-The cache names in `sw.js` and `app.js` must stay synchronized. When a change requires all clients to discard old cached resources, increment the relevant cache version. The **Re-download data** setting clears the data cache and reloads the application.
+When the manifest's deterministic version changes, the service worker deletes `cgs-data-v1` before the app loads the refreshed master files. If the version check cannot reach the network, it preserves the existing cache so offline launches continue to work. The data and metadata caches are intentionally shared with `next/`; each app deletes only its own prefixed shell caches. Cache names in the service workers and application files must stay synchronized. The **Re-download data** setting clears the data cache and reloads the application.
 
 ## Deployment
 
