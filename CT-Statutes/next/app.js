@@ -46,6 +46,7 @@ const S = {
   master: null,
   titles: [],
   titleByKey: new Map(),
+  dataVersion: null,                // version.json manifest (dates + counts)
 
   titleCache: new Map(),            // title_key -> parsed title JSON (LRU)
   titleLoading: new Map(),          // title_key -> Promise
@@ -196,6 +197,7 @@ async function ensureCurrentDataVersion() {
       await caches.delete(DATA_CACHE);
     }
     localStorage.setItem(DATA_VERSION_KEY, manifest.version);
+    S.dataVersion = manifest; // About shows its source dates and counts
   } catch {
     // Preserve the currently stored corpus when offline.
   }
@@ -1111,7 +1113,9 @@ async function viewSearch(token, q) {
 function infRowHtml(terms) {
   return (e) => {
     const cite = e.citation || e.stat_no || "";
-    const target = e.section_key ? H.resolve(e.section_key) : null;
+    // public act rows ("pa25-55") cite session law with no statute to resolve
+    const target = e.section_key && titleKeyForSection(e.section_key)
+      ? H.resolve(e.section_key) : null;
     const amt = e.amounts?.total_due != null ? fmtMoney(e.amounts.total_due) : "";
     const desc = (e.description || "").length > 220 ? e.description.slice(0, 220) + "…" : (e.description || "");
     const inner = `<span class="ri-key">§ ${esc(cite)}</span>${highlightTerms(esc(desc), terms)}
@@ -1126,6 +1130,30 @@ function infRowHtml(terms) {
 // -----------------------------
 function viewAbout(token) {
   sidenavTitles(null);
+  const fmtDate = (iso) => {
+    if (!iso) return null;
+    const d = new Date(/T/.test(iso) ? iso : iso + "T00:00:00Z");
+    return Number.isNaN(d.getTime()) ? iso
+      : d.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric", timeZone: "UTC" });
+  };
+  // per-dataset source objects, with version.json's summary as the fallback
+  // for anything not loaded yet (the 14 MB index arrives in the background)
+  const v = S.dataVersion?.sources || {};
+  const stat = S.master?.source || v.statutes || {};
+  const idx = S.idx?.source || v.index || {};
+  const inf = S.inf?.source || v.infractions || {};
+  const sources = [
+    ["Statute text", "Connecticut General Assembly",
+      stat.titles_url || "https://www.cga.ct.gov/current/pub/titles.htm",
+      [stat.generated_at_utc && `captured ${fmtDate(stat.generated_at_utc)}`]],
+    ["Subject index", idx.publisher || "Connecticut General Assembly, Legislative Commissioners' Office",
+      idx.url || "https://www.cga.ct.gov/lco/statutes-index.asp",
+      [idx.revised, idx.generated && `parsed ${fmtDate(idx.generated)}`]],
+    ["Infractions schedule", inf.publisher || "State of Connecticut Judicial Branch",
+      inf.url || "https://www.jud.ct.gov/webforms/forms/infractions.pdf",
+      [inf.effective && `effective ${inf.effective}`, inf.generated && `parsed ${fmtDate(inf.generated)}`]],
+  ];
+  const counts = S.dataVersion?.counts;
   readerEl.innerHTML = `
     <div class="about">
       <div class="about-brand">
@@ -1139,6 +1167,20 @@ function viewAbout(token) {
       <p class="muted small">Statute text and the infraction schedule are drawn from the Connecticut General
         Assembly's published revision. This reader is an unofficial research aid — verify language
         and amounts against official sources before relying on them.</p>
+      <div class="about-sources">
+        ${sources.map(([name, pub, url, dates]) => `
+          <div class="card">
+            <b>${esc(name)}</b>
+            <span class="small">${esc(pub)}${dates.filter(Boolean).length
+              ? " · " + esc(dates.filter(Boolean).join(" · ")) : ""}
+              · <a href="${esc(url)}" target="_blank" rel="noopener">official source ↗</a></span>
+          </div>`).join("")}
+        ${counts ? `<p class="small muted">Snapshot: ${counts.titles} titles ·
+          ${Number(counts.chapters).toLocaleString()} chapters ·
+          ${Number(counts.sections).toLocaleString()} sections ·
+          ${Number(counts.index_headings).toLocaleString()} index headings ·
+          ${Number(counts.infractions).toLocaleString()} infraction entries</p>` : ""}
+      </div>
     </div>`;
 }
 
@@ -1364,7 +1406,10 @@ function renderOmni(q) {
   for (const h of r.topics) items.push({ kind: "topics", href: H.ixHeading(h.slug), main: titleCase(h.h) });
   for (const e of r.fines) {
     const amt = e.amounts?.total_due != null ? ` · ${fmtMoney(e.amounts.total_due)}` : "";
-    items.push({ kind: "fines", href: e.section_key ? H.resolve(e.section_key) : H.inf(), main: `${e.citation || e.stat_no} — ${e.description || ""}${amt}` });
+    // public act rows have no statute to resolve — open the schedule instead
+    const href = e.section_key && titleKeyForSection(e.section_key)
+      ? H.resolve(e.section_key) : H.inf();
+    items.push({ kind: "fines", href, main: `${e.citation || e.stat_no} — ${e.description || ""}${amt}` });
   }
 
   if (!items.length) {

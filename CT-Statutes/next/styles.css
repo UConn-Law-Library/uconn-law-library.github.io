@@ -160,6 +160,9 @@ header.app {
 .about-brand img { display: block; width: min(340px, 100%); margin: 0 auto; }
 .about-meta { color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; margin: 14px 0 18px; }
 .about .small { margin-top: 26px; }
+.about-sources { display: grid; gap: 10px; margin-top: 18px; text-align: left; }
+.about-sources .card .small { margin-top: 4px; display: block; color: var(--muted); }
+.about-sources p.small { text-align: center; margin: 8px 0 0; }
 
 /* ---------------- compact density ---------------- */
 [data-density="compact"] .nav-item { padding: 4px 9px; }
