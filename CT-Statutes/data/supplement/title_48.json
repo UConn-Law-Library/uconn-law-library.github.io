@@ -1,0 +1,35 @@
+{
+  "title_key": "48",
+  "label": "Title 48",
+  "name": "Eminent Domain",
+  "url": "https://www.cga.ct.gov/2026/sup/title_48.htm",
+  "supplement_year": 2026,
+  "chapters": [
+    {
+      "chapter_key": "835",
+      "label": "Chapter 835",
+      "name": "Eminent Domain",
+      "url": "https://www.cga.ct.gov/2026/sup/chap_835.htm",
+      "sections": [
+        {
+          "section_key": "48-9",
+          "label": "Sec. 48-9. Condemnation of land and water for state institutions and courthouses.",
+          "url": "https://www.cga.ct.gov/2026/sup/chap_835.htm#sec_48-9",
+          "content": {
+            "body_paragraphs": [
+              "Subject to the provisions of section 4b-23, the state may take land, or any interest or estate therein, for the site, or for any addition to the site, of any state institution or courthouse, or for any addition to the site of any institution within the Connecticut State University System, Technical Education and Career System or technical college or for the purposes of subsection (e) of section 22a-133m, and also may take water from any river, brook, spring or springs, pond or lake for the purpose of providing such supply of water as the convenience and necessity of such institution may require. The amount of damages for any such taking shall be determined in the manner provided by section 48-10."
+            ],
+            "source": [
+              "(1949 Rev., S. 7177; March, 1958, P.A. 12, S. 1; 1959, P.A. 411, S. 14; 1967, P.A. 420; P.A. 75-425, S. 44, 57; P.A. 83-587, S. 59, 96; P.A. 91-256, S. 67, 69; P.A. 93-428, S. 30, 39; P.A. 12-116, S. 87; P.A. 17-237, S. 116; P.A. 25-22, S. 112.)"
+            ],
+            "history": [
+              "History: 1959 act referred to state colleges rather than to state “teachers” colleges; 1967 act authorized taking of land for courthouses; P.A. 75-425 specified that taking of land is “subject to the provisions of Sec. 4-26b”; P.A. 83-587 substituted reference to institutions governed by Connecticut State University board of trustees for “state colleges” in keeping with revision of higher education system pursuant to P.A. 82-83 and P.A. 82-218; P.A. 91-256 made a technical change; P.A. 93-428 authorized taking of land for purposes of Sec. 22a-133m, the urban sites remediation program of the department of environmental protection, effective July 1, 1993; pursuant to P.A. 12-116, “vocational school” was changed editorially by the Revisors to “technical high school”, effective July 1, 2012; P.A. 17-237 replaced “technical high school” with “Technical Education and Career System”, effective July 1, 2017; P.A. 25-22 replaced “under the jurisdiction of the Board of Trustees of the Connecticut State University System” with “within the Connecticut State University System”, effective June 9, 2025."
+            ],
+            "annotations": [],
+            "text": "Subject to the provisions of section 4b-23, the state may take land, or any interest or estate therein, for the site, or for any addition to the site, of any state institution or courthouse, or for any addition to the site of any institution within the Connecticut State University System, Technical Education and Career System or technical college or for the purposes of subsection (e) of section 22a-133m, and also may take water from any river, brook, spring or springs, pond or lake for the purpose of providing such supply of water as the convenience and necessity of such institution may require. The amount of damages for any such taking shall be determined in the manner provided by section 48-10."
+          }
+        }
+      ]
+    }
+  ]
+}

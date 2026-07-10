@@ -30,6 +30,7 @@
 | [`build_app_indexes.py`](build_app_indexes.py) | Builds the complete navigation-search catalog and deterministic data-version manifest after a refresh. |
 | [`validate_data.py`](validate_data.py) | Data-quality gate: schema, record-count, citation-integrity, parser-artifact, and sentinel checks over everything in `data/`. |
 | [`ct_CGS_Crawl-v2.py`](ct_CGS_Crawl-v2.py) | Crawls current statute titles, chapters, sections, and full text from the Connecticut General Assembly. |
+| [`ct_CGS_Supplement_Crawl.py`](ct_CGS_Supplement_Crawl.py) | Crawls the annual Supplement to the General Statutes (sections amended since the last revision) into `data/supplement/`, reusing the main crawler's extraction logic. |
 | [`parse_index.py`](parse_index.py) | Converts the three subject-index PDFs into `data/statutes_index.json`. |
 | [`parse_infractions.py`](parse_infractions.py) | Converts the Judicial Branch schedule PDF into `data/infractions.json` and links entries to statute sections. |
 | [`Index A-H.pdf`](Index%20A-H.pdf), [`Index I-S.pdf`](Index%20I-S.pdf), [`Index T-Z.pdf`](Index%20T-Z.pdf) | Source PDFs for the General Statutes subject index. |
@@ -60,6 +61,9 @@ The repository contains generated snapshots; it does not request statute content
 | `data/title_XX.json` | Connecticut General Assembly title and chapter pages | A title's metadata, chapters, sections, full text, history, annotations, and repeal status when detected. Lettered titles use filenames such as `title_10a.json`. |
 | `data/statutes_index.json` | [Legislative Commissioners' Office statutes index](https://www.cga.ct.gov/lco/statutes-index.asp) | Subject headings, nested entries, statute references, and “see” cross-references extracted from the three index PDFs. |
 | `data/infractions.json` | [Connecticut Judicial Branch infractions schedule](https://www.jud.ct.gov/webforms/forms/infractions.pdf) | Violation descriptions, schedule categories, monetary columns, source-page numbers, and links to matching statute sections. |
+| `data/supplement/title_XX.json` | [Connecticut General Assembly supplement pages](https://www.cga.ct.gov/2026/sup/titles.htm) | Same shape as `data/title_XX.json`, but containing only the sections amended in the supplement year. |
+| `data/supplement/supplement_index.json` | Connecticut General Assembly supplement titles page | Lightweight list of supplement titles and their per-title JSON filenames (analog of `titles_index.json`). |
+| `data/supplement/supplement_map.json` | Generated from the supplement crawl | Flat lookup of every amended section key (plus chapter and title key sets) so the application can flag amended sections without loading per-title files. Repealed sections — including ranges published under grouped `#secs_…` headings — carry `"status": "repealed"`. |
 | `data/search_index.json` | Generated from all `title_XX.json` files | Lightweight chapter and section labels/routes, allowing complete navigation search without loading statute bodies. |
 | `data/version.json` | Generated from every runtime JSON dataset | Deterministic SHA-256 version plus source dates and corpus size, used to invalidate stale offline data. |
 
@@ -174,6 +178,17 @@ python ct_CGS_Crawl-v2.py
 The crawler rewrites `data/title_XX.json` and `data/titles_index.json`. It also writes `cgs_index.json` by default as a combined crawler result; that combined file is not used by the web application. Use `--out PATH` to put it elsewhere. Use `--sleep`, `--jitter`, and `--timeout` to tune request pacing and timeouts.
 
 Be considerate of the Connecticut General Assembly's servers. Keep a delay between requests and avoid repeatedly running a full crawl during debugging.
+
+#### Crawl the annual supplement
+
+The Legislative Commissioners' Office also publishes an annual *Supplement to the General Statutes* — only the titles, chapters, and sections amended since the last biennial revision. Its pages use the same markup as the current-statutes site, so the supplement crawler imports the extraction logic from `ct_CGS_Crawl-v2.py` and writes the same JSON shapes:
+
+```bash
+python ct_CGS_Supplement_Crawl.py            # defaults to the 2026 supplement
+python ct_CGS_Supplement_Crawl.py --year 2026 --titles 1,42a   # partial crawl
+```
+
+Output goes to `data/supplement/`: one `title_XX.json` per supplement title, `supplement_index.json` (the master list), and `supplement_map.json` (a flat section-key lookup for flagging amended sections in the application). A partial `--titles` crawl leaves the index and map untouched. `--sleep`, `--jitter`, `--timeout`, and `--no-ssl-verify` behave exactly as in the main crawler.
 
 ### 4. Refresh and parse the subject index
 
