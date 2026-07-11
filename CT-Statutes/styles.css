@@ -647,6 +647,45 @@ a.btn { display: inline-block; text-decoration: none; }
 /* fill the content pane on desktops; cap only on very wide monitors */
 .body { max-width: 120ch; }
 
+.body .statute-paragraph {
+  margin-inline-start: calc((var(--subsection-depth, 1) - 1) * 1.1rem);
+  scroll-margin-top: 130px;
+  border-radius: 6px;
+}
+
+.subsection-marker {
+  color: var(--accent);
+  font-weight: 650;
+  text-decoration: none;
+}
+
+.subsection-marker:hover { text-decoration: underline; }
+
+.copy-citation {
+  margin-inline-start: 0.5rem;
+  padding: 1px 5px;
+  border: 0;
+  border-radius: 5px;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.72em;
+  opacity: 0.45;
+}
+
+.statute-paragraph:hover .copy-citation,
+.copy-citation:focus-visible { opacity: 1; background: var(--panel-2); }
+
+.statute-paragraph.subsection-target {
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  box-shadow: 0 0 0 4px color-mix(in srgb, var(--accent) 12%, transparent);
+}
+
+@media (hover: none) {
+  .copy-citation { opacity: 0.8; }
+}
+
 details {
   border: 1px solid var(--border);
   border-radius: 12px;

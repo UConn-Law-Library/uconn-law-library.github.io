@@ -8,10 +8,11 @@
 ## Features
 
 - Browse statutes by title, chapter, and section.
-- Search title and section metadata, infraction entries, or the full text of statutes.
+- Search title and section metadata, infraction entries, or the full text of statutes, with shareable result URLs.
 - Browse the General Statutes subject index and follow its statute references and cross-references.
 - Browse the infractions schedule by category and open matching statute sections when available.
 - Bookmark sections in the browser.
+- Link to a statute subsection and copy a formatted subsection citation.
 - Adjust color theme, text size, and list density.
 - Install the site as a Progressive Web App (PWA) and use previously downloaded content offline.
 
@@ -258,11 +259,14 @@ The single-page application uses URL hashes, allowing deep links to work on stat
 | `#/t/{title}` | Chapters in a title |
 | `#/t/{title}/c/{chapter}` | Sections in a chapter |
 | `#/t/{title}/c/{chapter}/s/{section}` | Statute section |
+| `#/t/{title}/c/{chapter}/s/{section}/p/{path}` | Statute subsection, such as path `g.1` for `(g)(1)` |
+| `#/q/{query}` | Metadata, subject-index, and infraction search results |
+| `#/ft/{query}` | Progressive full-text statute search results |
 | `#/x` | Subject index |
 | `#/i` | Infractions schedule |
 | `#/b` | Bookmarks |
 
-More specific subject-index and infraction routes are generated internally by `app.js`.
+More specific subject-index and infraction routes are generated internally by `app.js`. Search queries and subsection paths are URL-encoded so results and precise reading locations survive reloads and can be shared.
 
 ### Browser storage
 

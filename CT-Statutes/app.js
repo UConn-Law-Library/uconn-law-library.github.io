@@ -9,7 +9,7 @@
 // -----------------------------
 // CONFIG
 // -----------------------------
-const APP_VERSION = "1.0.0"; // shown on the About page
+const APP_VERSION = "1.1.0"; // shown on the About page
 const APP_YEAR = 2026;
 
 const DATA_DIR = "./data/";
@@ -193,7 +193,14 @@ function sleep(ms) { return new Promise((r) => setTimeout(r, ms)); }
 function parseHash() {
   const h = location.hash || "#/";
   const parts = h.replace(/^#\/?/, "").split("/").filter(Boolean).map(decodeURIComponent);
-  const r = { area: "browse", titleKey: null, chapterKey: null, sectionKey: null, category: null, infraId: null, letter: null, headingSlug: null, titlesList: false };
+  const r = { area: "browse", titleKey: null, chapterKey: null, sectionKey: null, subsectionPath: null, category: null, infraId: null, letter: null, headingSlug: null, query: null, titlesList: false };
+
+  if (parts[0] === "q" || parts[0] === "ft") {
+    r.area = "search";
+    r.query = parts.slice(1).join("/");
+    r.searchScope = parts[0] === "ft" ? "fulltext" : "nav";
+    return r;
+  }
 
   if (parts[0] === "x") {
     r.area = "index";
@@ -225,6 +232,7 @@ function parseHash() {
     if (k === "t") r.titleKey = v;
     if (k === "c") r.chapterKey = v;
     if (k === "s") r.sectionKey = v;
+    if (k === "p" && /^[0-9a-zA-Z]{1,4}(?:\.[0-9a-zA-Z]{1,4})*$/.test(v || "")) r.subsectionPath = v;
   }
   return r;
 }
@@ -235,6 +243,9 @@ const hashFor = {
   title: (t) => `#/t/${encodeURIComponent(t)}`,
   chapter: (t, c) => `#/t/${encodeURIComponent(t)}/c/${encodeURIComponent(c)}`,
   section: (t, c, s) => `#/t/${encodeURIComponent(t)}/c/${encodeURIComponent(c)}/s/${encodeURIComponent(s)}`,
+  subsection: (t, c, s, p) => `${hashFor.section(t, c, s)}/p/${encodeURIComponent(p)}`,
+  search: (q) => `#/q/${encodeURIComponent(q)}`,
+  fulltext: (q) => `#/ft/${encodeURIComponent(q)}`,
   index: () => "#/x",
   indexLetter: (l) => `#/x/l/${encodeURIComponent(l)}`,
   indexHeading: (slug) => `#/x/h/${encodeURIComponent(slug)}`,
@@ -249,7 +260,9 @@ function go(hash) { location.hash = hash; }
 
 function parentHash() {
   const r = state.route;
+  if (r.area === "search") return hashFor.home();
   if (r.area === "browse") {
+    if (r.subsectionPath) return hashFor.section(r.titleKey, r.chapterKey, r.sectionKey);
     if (r.sectionKey) return hashFor.chapter(r.titleKey, r.chapterKey);
     if (r.chapterKey) return hashFor.title(r.titleKey);
     if (r.titleKey) return hashFor.titles();
@@ -496,6 +509,98 @@ function recordRecent(item) {
 // -----------------------------
 // SHARING
 // -----------------------------
+// CT statutes commonly nest paragraphs as (a) -> (1) -> (A) -> (i) -> (I).
+// Rebuild that path from the crawler's flat paragraphs so every subdivision
+// can have a stable URL and a conventional copyable citation.
+const SUBSECTION_ORDER = { la: 1, n: 2, ua: 3, lr: 4, ur: 5 };
+const SUBSECTION_ROMAN_RE = /^m{0,3}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})$/;
+
+function romanValue(token) {
+  const values = { i: 1, v: 5, x: 10, l: 50, c: 100, d: 500, m: 1000 };
+  let value = 0;
+  for (let i = 0; i < token.length; i++) {
+    const current = values[token[i]] || 0;
+    const next = values[token[i + 1]] || 0;
+    value += current < next ? -current : current;
+  }
+  return value;
+}
+
+function nextAlphaToken(token) {
+  if (!/^([a-z])\1*$/i.test(token)) return null;
+  const ch = token[0].toLowerCase();
+  if (ch === "z") return "a".repeat(token.length + 1);
+  return String.fromCharCode(ch.charCodeAt(0) + 1).repeat(token.length);
+}
+
+function validSubsectionToken(token) {
+  if (/^\d{1,3}$/.test(token)) return true;
+  if (/^[a-z]{1,2}$/.test(token) || /^[A-Z]{1,2}$/.test(token)) return true;
+  return token.length <= 4 && SUBSECTION_ROMAN_RE.test(token.toLowerCase()) && /^[a-zA-Z]+$/.test(token);
+}
+
+function classifySubsectionToken(token, stack) {
+  if (/^\d+$/.test(token)) return "n";
+  const lower = token === token.toLowerCase();
+  const normalized = token.toLowerCase();
+  const alpha = lower ? "la" : "ua";
+  const roman = lower ? "lr" : "ur";
+  if (!SUBSECTION_ROMAN_RE.test(normalized)) return alpha;
+  for (const frame of stack) {
+    if (frame.type === roman && romanValue(normalized) === romanValue(frame.last.toLowerCase()) + 1) return roman;
+  }
+  for (const frame of stack) {
+    if (frame.type === alpha && nextAlphaToken(frame.last) === normalized) return alpha;
+  }
+  if (normalized === "i") {
+    const top = stack[stack.length - 1];
+    if (top && SUBSECTION_ORDER[top.type] === SUBSECTION_ORDER[roman] - 1) return roman;
+  }
+  return alpha;
+}
+
+function applySubsectionToken(token, stack) {
+  const type = classifySubsectionToken(token, stack);
+  while (stack.length && SUBSECTION_ORDER[stack[stack.length - 1].type] > SUBSECTION_ORDER[type]) stack.pop();
+  const top = stack[stack.length - 1];
+  if (top && top.type === type) top.last = token;
+  else stack.push({ type, last: token });
+  return stack.length;
+}
+
+function structureParagraphs(paragraphs) {
+  const stack = [];
+  return paragraphs.map((paragraph) => {
+    const match = /^\s*((?:\([0-9a-zA-Z]{1,4}\)\s*)+)/.exec(paragraph);
+    if (!match) return { depth: 0, markers: [], path: [], text: paragraph };
+    const tokens = [...match[1].matchAll(/\(([0-9a-zA-Z]{1,4})\)/g)].map((m) => m[1]);
+    if (!tokens.every(validSubsectionToken)) return { depth: 0, markers: [], path: [], text: paragraph };
+    let depth = 0;
+    const markers = [];
+    tokens.forEach((token, index) => {
+      const nextDepth = applySubsectionToken(token, stack);
+      if (index === 0) depth = nextDepth;
+      markers.push({ token, path: stack.map((frame) => frame.last).join(".") });
+    });
+    return { depth, markers, path: stack.map((frame) => frame.last), text: paragraph.slice(match[0].length) };
+  });
+}
+
+function subsectionSuffix(path) {
+  return path ? path.split(".").filter(Boolean).map((token) => `(${token})`).join("") : "";
+}
+
+function subsectionCitation(sectionKey, path) {
+  return `C.G.S. § ${sectionKey}${subsectionSuffix(path)}`;
+}
+
+function paragraphForSubsection(paragraphs, path) {
+  if (!path) return null;
+  const wanted = path.split(".");
+  return structureParagraphs(paragraphs).find((row) =>
+    row.path.length >= wanted.length && wanted.every((token, index) => row.path[index] === token)) || null;
+}
+
 function appUrlFor(hash) {
   const base = IS_PACKAGED_APP
     ? "https://uconn-law-library.github.io/CT-Statutes/"
@@ -510,14 +615,20 @@ function mailtoHref(subject, body) {
   return `mailto:?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 }
 
-function sectionShareText(section, titleEntry, chapter) {
+function sectionShareText(section, titleEntry, chapter, subsectionPath = null) {
   const label = section.label || `Sec. ${section.section_key}`;
   const paras = (section.content && section.content.body_paragraphs) || [];
-  let excerpt = paras.join("\n\n");
+  const subsection = paragraphForSubsection(paras, subsectionPath);
+  let excerpt = subsection
+    ? `${subsection.markers.map((m) => `(${m.token})`).join("")} ${subsection.text}`.trim()
+    : paras.join("\n\n");
   if (excerpt.length > 1200) excerpt = excerpt.slice(0, 1199) + "…";
-  const hash = hashFor.section(titleEntry.title_key, chapter.chapter_key, section.section_key);
+  const hash = subsectionPath
+    ? hashFor.subsection(titleEntry.title_key, chapter.chapter_key, section.section_key, subsectionPath)
+    : hashFor.section(titleEntry.title_key, chapter.chapter_key, section.section_key);
+  const citation = subsectionCitation(section.section_key, subsectionPath);
   const lines = [
-    label,
+    subsectionPath ? `${citation} — ${stripSectionPrefix(label)}` : label,
     `Connecticut General Statutes — ${fmtTitle(titleEntry)}, ${fmtChapter(chapter)}`,
     "",
     excerpt,
@@ -527,7 +638,7 @@ function sectionShareText(section, titleEntry, chapter) {
   if (section.url) lines.push(`Official text: ${section.url}`);
   let topic = stripSectionPrefix(label) || "";
   if (topic.length > 70) topic = topic.slice(0, 69) + "…";
-  const subject = `CGS Sec. ${section.section_key}${topic ? " — " + topic : ""}`;
+  const subject = `CGS Sec. ${section.section_key}${subsectionSuffix(subsectionPath)}${topic ? " — " + topic : ""}`;
   return { subject, body: lines.join("\n") };
 }
 
@@ -1449,15 +1560,20 @@ function moveOmniSelection(delta) {
 function linkifyCitations(escapedText, selfKey) {
   // UCC keys carry a second dash and an uppercase article letter (42a-2A-303);
   // stored section keys are lowercase, so match loosely and look up lowercased.
-  let html = escapedText.replace(/\b\d+[a-zA-Z]{0,3}-\d+[a-zA-Z]{0,3}(?:-\d+[a-zA-Z]{0,3})?\b/g, (token, offset, str) => {
-    const key = token.toLowerCase();
-    if (key === selfKey) return token;
+  let html = escapedText.replace(/\b(\d+[a-zA-Z]{0,3}-\d+[a-zA-Z]{0,3}(?:-\d+[a-zA-Z]{0,3})?)\b((?:\([0-9a-zA-Z]{1,4}\))*)/g,
+    (token, base, suffix, offset, str) => {
+    const key = base.toLowerCase();
+    if (key === selfKey && !suffix) return token;
     // public/special act numbers ("P.A. 14-130") share the section format
     const before = str.slice(Math.max(0, offset - 12), offset);
     if (/(?:P\.?A\.?|S\.?A\.?|act)\s*$/i.test(before)) return token;
     const loc = state.sectionLoc.get(key);
     if (!loc) return token;
-    return `<a href="${hashFor.section(loc.t, loc.c, key)}">${token}</a>`;
+    const path = suffix
+      ? [...suffix.matchAll(/\(([0-9a-zA-Z]{1,4})\)/g)].map((m) => m[1]).join(".")
+      : null;
+    const hash = path ? hashFor.subsection(loc.t, loc.c, key, path) : hashFor.section(loc.t, loc.c, key);
+    return `<a href="${hash}">${token}</a>`;
   });
   html = html.replace(/\b(chapters?\s+)(\d+[a-z]?)\b/gi, (m, word, num) => {
     const loc = state.chapterLoc.get(num.toLowerCase());
@@ -1465,6 +1581,26 @@ function linkifyCitations(escapedText, selfKey) {
     return `${word}<a href="${hashFor.chapter(loc.t, loc.c)}">${num}</a>`;
   });
   return html;
+}
+
+function renderStatuteParagraphs(paragraphs, titleKey, chapterKey, sectionKey, interactive = true) {
+  return structureParagraphs(paragraphs).map((row) => {
+    if (!row.markers.length) return `<p>${linkifyCitations(esc(row.text), sectionKey)}</p>`;
+    const path = row.path.join(".");
+    const markers = row.markers.map((marker) => {
+      if (!interactive) return `<span class="subsection-marker">(${esc(marker.token)})</span>`;
+      const href = hashFor.subsection(titleKey, chapterKey, sectionKey, marker.path);
+      const markerCitation = subsectionCitation(sectionKey, marker.path);
+      return `<a class="subsection-marker" href="${href}" title="Link to ${esc(markerCitation)}">(${esc(marker.token)})</a>`;
+    }).join("");
+    if (!interactive) return `<p class="statute-paragraph" style="--subsection-depth:${Math.min(row.depth, 6)}">
+      ${markers} ${linkifyCitations(esc(row.text), sectionKey)}</p>`;
+    const citation = subsectionCitation(sectionKey, path);
+    return `<p class="statute-paragraph" style="--subsection-depth:${Math.min(row.depth, 6)}"
+      data-subsection-path="${esc(path)}" tabindex="-1">${markers} ${linkifyCitations(esc(row.text), sectionKey)}
+      <button class="copy-citation" type="button" data-copy-citation="${esc(citation)}"
+        aria-label="Copy ${esc(citation)}">Copy citation</button></p>`;
+  }).join("");
 }
 function renderList(items) {
   const wrap = document.createElement("div");
@@ -1916,7 +2052,8 @@ function renderSectionView(section, titleEntry, chapter, opts = {}) {
   let suppChip = "";
   let suppBlock = "";
   let bodyBlock;
-  const paras = (arr) => arr.map((p) => `<p>${linkifyCitations(esc(p), section.section_key)}</p>`).join("");
+  const paras = (arr, interactive = true) => renderStatuteParagraphs(
+    arr, titleEntry.title_key, chapter.chapter_key, section.section_key, interactive);
 
   // the supplement chips are the sole provenance notice on the page; the
   // share/email text keeps a spelled-out note, and only the load-failure
@@ -1941,7 +2078,7 @@ function renderSectionView(section, titleEntry, chapter, opts = {}) {
       <details class="prior">
         <summary>Text of the ${year - 1} revision <span class="muted">(${repealed ? "repealed" : "superseded"} by the ${year} Supplement)</span></summary>
         <div class="panel">
-          ${body.length ? paras(body) : `<div class="muted">No body text in the ${year - 1} revision.</div>`}
+          ${body.length ? paras(body, false) : `<div class="muted">No body text in the ${year - 1} revision.</div>`}
           ${renderPanel("Source", source, false, section.section_key)}
           ${renderPanel("History", history, false, section.section_key)}
           ${renderAnnotationsPanel("Annotations", annotations, section.section_key)}
@@ -2001,6 +2138,19 @@ function renderSectionView(section, titleEntry, chapter, opts = {}) {
     renderSectionView(section, titleEntry, chapter, opts);
   });
 
+  viewEl.querySelectorAll("[data-copy-citation]").forEach((button) => {
+    button.addEventListener("click", async () => {
+      try {
+        await navigator.clipboard.writeText(button.dataset.copyCitation);
+        const old = button.textContent;
+        button.textContent = "Copied";
+        setTimeout(() => { button.textContent = old; }, 900);
+      } catch {
+        button.textContent = "Copy unavailable";
+      }
+    });
+  });
+
   // share the current (supplement) text, flagged with its provenance
   const shareSection = hasSuppText
     ? {
@@ -2014,7 +2164,8 @@ function renderSectionView(section, titleEntry, chapter, opts = {}) {
       },
     }
     : section;
-  bindShareButtons(viewEl, () => sectionShareText(shareSection, titleEntry, chapter));
+  bindShareButtons(viewEl, () => sectionShareText(
+    shareSection, titleEntry, chapter, state.route.subsectionPath));
   bindCrossRefsPanel(xrefKeys);
 }
 
@@ -2199,7 +2350,7 @@ function renderHome() {
   $("exampleSearch")?.addEventListener("click", (ev) => {
     ev.preventDefault();
     qEl.value = "14-296aa";
-    setSearch(qEl.value, "nav");
+    go(hashFor.search(qEl.value));
   });
 }
 
@@ -2720,7 +2871,9 @@ function renderSearch() {
   // replaces the old scope dropdown: widen this query to the statute bodies,
   // or drop back to the quick metadata search
   $("scopeSwitchBtn")?.addEventListener("click", () => {
-    setSearch(q, state.search.scope === "fulltext" ? "nav" : "fulltext");
+    const target = state.search.scope === "fulltext" ? hashFor.search(q) : hashFor.fulltext(q);
+    if (location.hash === target) applyRoute();
+    else go(target);
   });
 }
 
@@ -2731,8 +2884,13 @@ async function applyRoute() {
   closeOmni();
   state.route = parseHash();
 
-  // navigating anywhere exits search mode
-  if (state.search.q || qEl.value) {
+  if (state.route.area === "search") {
+    state.search.q = (state.route.query || "").trim();
+    state.search.scope = state.route.searchScope || "nav";
+    qEl.value = state.search.q;
+    runSearch();
+  } else if (state.search.q || qEl.value) {
+    // Navigating away from a search route exits search mode.
     state.search.q = "";
     state.search.scope = "nav";
     state.search.results = null;
@@ -2745,7 +2903,20 @@ async function applyRoute() {
       await ensureSupplementForRoute();
     }
     render();
-    viewEl.focus({ preventScroll: true });
+    const subsection = state.route.subsectionPath
+      ? [...viewEl.querySelectorAll("[data-subsection-path]")].find((element) => {
+        const actual = element.dataset.subsectionPath.split(".");
+        const wanted = state.route.subsectionPath.split(".");
+        return actual.length >= wanted.length && wanted.every((token, index) => actual[index] === token);
+      })
+      : null;
+    if (subsection) {
+      subsection.scrollIntoView({ block: "start" });
+      subsection.focus({ preventScroll: true });
+      subsection.classList.add("subsection-target");
+    } else {
+      viewEl.focus({ preventScroll: true });
+    }
   } catch (e) {
     setStatus("Error");
     crumbsEl.textContent = "";
@@ -2794,9 +2965,14 @@ function bindUI() {
         if (location.hash === target) applyRoute();
         else go(target);
       } else {
-        setSearch(qEl.value, currentScope());
+        const query = qEl.value.trim();
+        const target = currentScope() === "fulltext" ? hashFor.fulltext(query) : hashFor.search(query);
         closeOmni();
         qEl.blur();
+        if (query) {
+          if (location.hash === target) applyRoute();
+          else go(target);
+        }
       }
       return;
     }
@@ -2839,8 +3015,11 @@ function bindUI() {
       qEl.focus();
       qEl.select();
     } else if (ev.key === "Escape" && state.search.q) {
-      qEl.value = "";
-      setSearch("", "nav");
+      if (state.route.area === "search") go(hashFor.home());
+      else {
+        qEl.value = "";
+        setSearch("", "nav");
+      }
     }
   });
 }
