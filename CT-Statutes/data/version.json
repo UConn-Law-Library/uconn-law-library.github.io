@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "df634d865ca452670f94179a498d3d3add9018b0983ccd6fe73de1aa563d3f12",
+  "version": "899ec0eb736d28a82b42c1e9cc18ab9260e93f938ddb821134f3875e53699330",
   "files": 146,
-  "bytes": 197381405,
+  "bytes": 197384698,
   "counts": {
     "titles": 81,
     "chapters": 1102,
@@ -13,18 +13,18 @@
   },
   "sources": {
     "statutes": {
-      "generated_at_utc": "2026-02-13T19:31:26Z"
+      "generated_at_utc": "2026-07-12T18:07:00Z"
     },
     "index": {
-      "generated": "2026-06-10",
+      "generated": "2026-07-12",
       "revised": "Revision of 1958, revised to January 1, 2025"
     },
     "infractions": {
-      "generated": "2026-07-09",
+      "generated": "2026-07-12",
       "effective": "October 1, 2025"
     },
     "supplement": {
-      "generated_at_utc": "2026-07-10T15:00:16Z",
+      "generated_at_utc": "2026-07-12T18:21:15Z",
       "supplement_year": 2026,
       "titles_url": "https://www.cga.ct.gov/2026/sup/titles.htm"
     }
