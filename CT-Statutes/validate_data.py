@@ -390,7 +390,8 @@ def validate_supplement(c: Checker, master, all_section_keys):
                 and entry.get("f")):
             bad_entries.append(f"{key}: missing t/c/l/f")
             continue
-        if entry.get("status") not in (None, "repealed"):
+        if entry.get("status") not in (
+                None, "repealed", "reserved", "transferred", "obsolete", "mixed"):
             bad_entries.append(f"{key}: unknown status {entry['status']!r}")
         if entry["t"] not in title_keys:
             bad_entries.append(f"{key}: title {entry['t']!r} not in supplement")
