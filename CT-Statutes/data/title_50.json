@@ -106,12 +106,25 @@
           "section_key": "",
           "label": "Secs. 50-6 and 50-7. Disposition of stray beasts; lost goods. Restoration to owner if claimed; procedure if unclaimed.",
           "url": "https://www.cga.ct.gov/current/pub/chap_859.htm#secs_50-6_and_50-7",
+          "grouped": true,
+          "section_keys": [
+            "50-6",
+            "50-7"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 50-6 and 50-7 are repealed, effective October 1, 2000."
+            ],
+            "source": [
+              "(1949 Rev., S. 7291, 7292; 1961, P.A. 517, S. 68; P.A. 77-183, S. 277, 291; P.A. 76-436, S. 240, 681; P.A. 00-92, S. 16.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 50-6 and 50-7 are repealed, effective October 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -245,7 +258,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 50-6 and 50-7. Disposition of stray beasts; lost goods. Restoration to owner if claimed; procedure if unclaimed. Sections 50-6 and 50-7 are repealed, effective October 1, 2000.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -260,7 +276,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 50-6 and 50-7. Disposition of stray beasts; lost goods. Restoration to owner if claimed; procedure if unclaimed. Sections 50-6 and 50-7 are repealed, effective October 1, 2000.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]

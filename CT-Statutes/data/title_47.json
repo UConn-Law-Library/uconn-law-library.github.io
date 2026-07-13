@@ -493,7 +493,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 47-14 is repealed."
+            "text": "Section 47-14 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1036,7 +1040,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 830, Sec. 47a-3d ."
+            "text": "Transferred to Chapter 830, Sec. 47a-3d .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1052,7 +1060,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 47-23 is repealed."
+            "text": "Section 47-23 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1066,19 +1078,40 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 831, Sec. 47a-22 ."
+            "text": "Transferred to Chapter 831, Sec. 47a-22 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 47-23b to 47-23f, 47-24. Security deposit refunds. Tenant not liable for rent while premises are untenantable.",
           "url": "https://www.cga.ct.gov/current/pub/chap_821.htm#secs_47-23b_to_47-23f_47-24",
+          "grouped": true,
+          "section_keys": [
+            "47-23b",
+            "47-23c",
+            "47-23d",
+            "47-23e",
+            "47-23f",
+            "47-24"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 47-23b to 47-23f , inclusive, and 47-24 are repealed."
+            ],
+            "source": [
+              "(1949, Rev., S. 7108; P.A. 75-614, S. 1–5; P.A. 76-95, S. 26, 27; 76-435, S. 75, 82.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 47-23b to 47-23f , inclusive, and 47-24 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1092,7 +1125,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 830, Sec. 47a-5 ."
+            "text": "Transferred to Chapter 830, Sec. 47a-5 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1108,7 +1145,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 47-24b is repealed."
+            "text": "Section 47-24b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1122,7 +1163,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 830, Sec. 47a-8 ."
+            "text": "Transferred to Chapter 830, Sec. 47a-8 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1138,7 +1183,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 47-24d is repealed."
+            "text": "Section 47-24d is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2090,7 +2139,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 47-23b to 47-23f, 47-24. Security deposit refunds. Tenant not liable for rent while premises are untenantable. Sections 47-23b to 47-23f , inclusive, and 47-24 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2105,7 +2157,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 47-23b to 47-23f, 47-24. Security deposit refunds. Tenant not liable for rent while premises are untenantable. Sections 47-23b to 47-23f , inclusive, and 47-24 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2120,7 +2175,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 47-23b to 47-23f, 47-24. Security deposit refunds. Tenant not liable for rent while premises are untenantable. Sections 47-23b to 47-23f , inclusive, and 47-24 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -2443,12 +2501,25 @@
           "section_key": "",
           "label": "Secs. 47-36m and 47-36n. Fees for recording statutory forms. Other legal forms of deeds and mortgages not precluded.",
           "url": "https://www.cga.ct.gov/current/pub/chap_821a.htm#secs_47-36m_and_47-36n",
+          "grouped": true,
+          "section_keys": [
+            "47-36m",
+            "47-36n"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 47-36m and 47-36n are repealed."
+            ],
+            "source": [
+              "(P.A. 75-309, S. 16, 17; P.A. 76-271, S. 2; P.A. 79-602, S. 132.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 47-36m and 47-36n are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2543,12 +2614,28 @@
           "section_key": "",
           "label": "Secs. 47-36t to 47-36z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_821a.htm#secs_47-36t_to_47-36z",
+          "grouped": true,
+          "section_keys": [
+            "47-36t",
+            "47-36u",
+            "47-36v",
+            "47-36w",
+            "47-36x",
+            "47-36y",
+            "47-36z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2563,7 +2650,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 47-36m and 47-36n. Fees for recording statutory forms. Other legal forms of deeds and mortgages not precluded. Sections 47-36m and 47-36n are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2578,7 +2668,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 47-36m and 47-36n. Fees for recording statutory forms. Other legal forms of deeds and mortgages not precluded. Sections 47-36m and 47-36n are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3414,12 +3507,25 @@
           "section_key": "",
           "label": "Secs. 47-57 and 47-58. Resident aliens and French citizens, rights re real estate. When nonresident aliens may hold real estate.",
           "url": "https://www.cga.ct.gov/current/pub/chap_824.htm#secs_47-57_and_47-58",
+          "grouped": true,
+          "section_keys": [
+            "47-57",
+            "47-58"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 47-57 and 47-58 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 7166, 7167; P.A. 74-60; P.A. 85-211, S. 2.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 47-57 and 47-58 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3433,7 +3539,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 821, Sec. 47-7a ."
+            "text": "Transferred to Chapter 821, Sec. 47-7a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3449,7 +3559,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 47-59 is repealed."
+            "text": "Section 47-59 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3600,7 +3714,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 47-62 is repealed."
+            "text": "Section 47-62 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3873,12 +3991,25 @@
           "section_key": "",
           "label": "Secs. 47-66e and 47-66f. Indian burial sites; inventory of state land. Excavation of Indian burial sites; notice, removal and reinterment of remains.",
           "url": "https://www.cga.ct.gov/current/pub/chap_824.htm#secs_47-66e_and_47-66f",
+          "grouped": true,
+          "section_keys": [
+            "47-66e",
+            "47-66f"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 47-66e and 47-66f are repealed."
+            ],
+            "source": [
+              "(P.A. 81-242, S. 1–3; P.A. 89-368, S. 29, 30.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 47-66e and 47-66f are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3994,7 +4125,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 47-57 and 47-58. Resident aliens and French citizens, rights re real estate. When nonresident aliens may hold real estate. Sections 47-57 and 47-58 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4009,7 +4143,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 47-57 and 47-58. Resident aliens and French citizens, rights re real estate. When nonresident aliens may hold real estate. Sections 47-57 and 47-58 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4024,7 +4161,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 47-66e and 47-66f. Indian burial sites; inventory of state land. Excavation of Indian burial sites; notice, removal and reinterment of remains. Sections 47-66e and 47-66f are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4039,7 +4179,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 47-66e and 47-66f. Indian burial sites; inventory of state land. Excavation of Indian burial sites; notice, removal and reinterment of remains. Sections 47-66e and 47-66f are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -4054,12 +4197,25 @@
           "section_key": "",
           "label": "Secs. 47-67 and 47-68. Title. Definitions.",
           "url": "https://www.cga.ct.gov/current/pub/chap_825.htm#secs_47-67_and_47-68",
+          "grouped": true,
+          "section_keys": [
+            "47-67",
+            "47-68"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 47-67 and 47-68 are repealed."
+            ],
+            "source": [
+              "(1963, P.A. 605, S. 1, 2; 1971, P.A. 813, S. 1, 2; P.A. 76-308, S. 35, 36; P.A. 79-602, S. 132.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 47-67 and 47-68 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4131,7 +4287,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 47-69 is repealed."
+            "text": "Section 47-69 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4808,7 +4968,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 47-85 is repealed."
+            "text": "Section 47-85 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5059,12 +5223,25 @@
           "section_key": "",
           "label": "Secs. 47-89 and 47-90. Incorporation; appeal from board of tax review. Effect of rule against perpetuities and rule restricting unreasonable restraints on alienation.",
           "url": "https://www.cga.ct.gov/current/pub/chap_825.htm#secs_47-89_and_47-90",
+          "grouped": true,
+          "section_keys": [
+            "47-89",
+            "47-90"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 47-89 and 47-90 are repealed."
+            ],
+            "source": [
+              "(1969, P.A. 716, S. 1; 1971, P.A. 211; 813, S. 14, 15; P.A. 73-514; P.A. 76-308, S. 35, 36.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 47-89 and 47-90 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5157,12 +5334,24 @@
           "section_key": "",
           "label": "Secs. 47-90d to 47-90f.",
           "url": "https://www.cga.ct.gov/current/pub/chap_825.htm#secs_47-90d_to_47-90f",
+          "grouped": true,
+          "section_keys": [
+            "47-90d",
+            "47-90e",
+            "47-90f"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5222,7 +5411,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 47-67 and 47-68. Title. Definitions. Sections 47-67 and 47-68 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5237,7 +5429,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 47-67 and 47-68. Title. Definitions. Sections 47-67 and 47-68 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5252,7 +5447,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 47-89 and 47-90. Incorporation; appeal from board of tax review. Effect of rule against perpetuities and rule restricting unreasonable restraints on alienation. Sections 47-89 and 47-90 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5267,7 +5465,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 47-89 and 47-90. Incorporation; appeal from board of tax review. Effect of rule against perpetuities and rule restricting unreasonable restraints on alienation. Sections 47-89 and 47-90 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -5931,12 +6132,99 @@
           "section_key": "",
           "label": "Secs. 47-122 to 47-199.",
           "url": "https://www.cga.ct.gov/current/pub/chap_827.htm#secs_47-122_to_47-199",
+          "grouped": true,
+          "section_keys": [
+            "47-122",
+            "47-123",
+            "47-124",
+            "47-125",
+            "47-126",
+            "47-127",
+            "47-128",
+            "47-129",
+            "47-130",
+            "47-131",
+            "47-132",
+            "47-133",
+            "47-134",
+            "47-135",
+            "47-136",
+            "47-137",
+            "47-138",
+            "47-139",
+            "47-140",
+            "47-141",
+            "47-142",
+            "47-143",
+            "47-144",
+            "47-145",
+            "47-146",
+            "47-147",
+            "47-148",
+            "47-149",
+            "47-150",
+            "47-151",
+            "47-152",
+            "47-153",
+            "47-154",
+            "47-155",
+            "47-156",
+            "47-157",
+            "47-158",
+            "47-159",
+            "47-160",
+            "47-161",
+            "47-162",
+            "47-163",
+            "47-164",
+            "47-165",
+            "47-166",
+            "47-167",
+            "47-168",
+            "47-169",
+            "47-170",
+            "47-171",
+            "47-172",
+            "47-173",
+            "47-174",
+            "47-175",
+            "47-176",
+            "47-177",
+            "47-178",
+            "47-179",
+            "47-180",
+            "47-181",
+            "47-182",
+            "47-183",
+            "47-184",
+            "47-185",
+            "47-186",
+            "47-187",
+            "47-188",
+            "47-189",
+            "47-190",
+            "47-191",
+            "47-192",
+            "47-193",
+            "47-194",
+            "47-195",
+            "47-196",
+            "47-197",
+            "47-198",
+            "47-199"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -8835,12 +9123,25 @@
           "section_key": "",
           "label": "Secs. 47-296 to 47-299.",
           "url": "https://www.cga.ct.gov/current/pub/chap_828.htm#secs_47-296_to_47-299",
+          "grouped": true,
+          "section_keys": [
+            "47-296",
+            "47-297",
+            "47-298",
+            "47-299"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]

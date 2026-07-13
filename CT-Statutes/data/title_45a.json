@@ -122,24 +122,61 @@
           "section_key": "",
           "label": "Secs. 45a-3 to 45a-6. (Formerly Secs. 45-1d to 45-1g). Probate district of Griswold established. Probate district of West Hartford established. Probate district of Woodbridge established. Probate district of Bloomfield established.",
           "url": "https://www.cga.ct.gov/current/pub/chap_801.htm#secs_45a-3_to_45a-6",
+          "grouped": true,
+          "section_keys": [
+            "45a-3",
+            "45a-4",
+            "45a-5",
+            "45a-6"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 45a-3 to 45a-6 , inclusive, are repealed, effective January 5, 2011."
+            ],
+            "source": [
+              "(P.A. 78-247, S. 1, 3; P.A. 82-4, S. 2, 3; P.A. 85-186, S. 2; P.A. 87-581, S. 2; P.A. 03-19, S. 90–93; Sept. Sp. Sess. P.A. 09-1, S. 4.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 45a-3 to 45a-6 , inclusive, are repealed, effective January 5, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 45a-6a to 45a-6k. Probate district of Eastford established. Probate district of Stafford established. Probate district of Mansfield established. Probate district of New Hartford established. Probate district of Woodbury established. Probate district of New Fairfield established. Probate district of Plainfield established. Probate district of Colchester established. Probate district of the Northwest Corner established. Probate district of Suffield-East Granby established. Probate district of Litchfield established.",
           "url": "https://www.cga.ct.gov/current/pub/chap_801.htm#secs_45a-6a_to_45a-6k",
+          "grouped": true,
+          "section_keys": [
+            "45a-6a",
+            "45a-6b",
+            "45a-6c",
+            "45a-6d",
+            "45a-6e",
+            "45a-6f",
+            "45a-6g",
+            "45a-6h",
+            "45a-6i",
+            "45a-6j",
+            "45a-6k"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 45a-6a to 45a-6k , inclusive, are repealed, effective January 5, 2011."
+            ],
+            "source": [
+              "(P.A. 96-60, S. 2; P.A. 98-1, S. 2–4; P.A. 02-2, S. 2; 02-5, S. 2–5; P.A. 03-19, S. 94–97; P.A. 04-19, S. 2; P.A. 06-2, S. 2–4; Sept. Sp. Sess. P.A. 09-1, S. 4.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 45a-6a to 45a-6k , inclusive, are repealed, effective January 5, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -428,12 +465,26 @@
           "section_key": "",
           "label": "Secs. 45a-13 to 45a-17.",
           "url": "https://www.cga.ct.gov/current/pub/chap_801.htm#secs_45a-13_to_45a-17",
+          "grouped": true,
+          "section_keys": [
+            "45a-13",
+            "45a-14",
+            "45a-15",
+            "45a-16",
+            "45a-17"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -697,12 +748,27 @@
           "section_key": "",
           "label": "Secs. 45a-28 to 45a-33.",
           "url": "https://www.cga.ct.gov/current/pub/chap_801.htm#secs_45a-28_to_45a-33",
+          "grouped": true,
+          "section_keys": [
+            "45a-28",
+            "45a-29",
+            "45a-30",
+            "45a-31",
+            "45a-32",
+            "45a-33"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1217,19 +1283,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-57 is repealed, effective January 1, 1997."
+            "text": "Section 45a-57 is repealed, effective January 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 45a-58 to 45a-61.",
           "url": "https://www.cga.ct.gov/current/pub/chap_801.htm#secs_45a-58_to_45a-61",
+          "grouped": true,
+          "section_keys": [
+            "45a-58",
+            "45a-59",
+            "45a-60",
+            "45a-61"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1484,12 +1567,26 @@
           "section_key": "",
           "label": "Secs. 45a-69 to 45a-73.",
           "url": "https://www.cga.ct.gov/current/pub/chap_801.htm#secs_45a-69_to_45a-73",
+          "grouped": true,
+          "section_keys": [
+            "45a-69",
+            "45a-70",
+            "45a-71",
+            "45a-72",
+            "45a-73"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1842,12 +1939,25 @@
           "section_key": "",
           "label": "Secs. 45a-86 to 45a-89.",
           "url": "https://www.cga.ct.gov/current/pub/chap_801.htm#secs_45a-86_to_45a-89",
+          "grouped": true,
+          "section_keys": [
+            "45a-86",
+            "45a-87",
+            "45a-88",
+            "45a-89"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1966,7 +2076,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-94 is repealed, effective January 5, 2011."
+            "text": "Section 45a-94 is repealed, effective January 5, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2021,12 +2135,23 @@
           "section_key": "",
           "label": "Secs. 45a-96 and 45a-97.",
           "url": "https://www.cga.ct.gov/current/pub/chap_801.htm#secs_45a-96_and_45a-97",
+          "grouped": true,
+          "section_keys": [
+            "45a-96",
+            "45a-97"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2041,7 +2166,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 45a-3 to 45a-6. (Formerly Secs. 45-1d to 45-1g). Probate district of Griswold established. Probate district of West Hartford established. Probate district of Woodbridge established. Probate district of Bloomfield established. Sections 45a-3 to 45a-6 , inclusive, are repealed, effective January 5, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2056,7 +2184,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 45a-3 to 45a-6. (Formerly Secs. 45-1d to 45-1g). Probate district of Griswold established. Probate district of West Hartford established. Probate district of Woodbridge established. Probate district of Bloomfield established. Sections 45a-3 to 45a-6 , inclusive, are repealed, effective January 5, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2348,12 +2479,25 @@
           "section_key": "",
           "label": "Secs. 45a-101 to 45a-104.",
           "url": "https://www.cga.ct.gov/current/pub/chap_801a.htm#secs_45a-101_to_45a-104",
+          "grouped": true,
+          "section_keys": [
+            "45a-101",
+            "45a-102",
+            "45a-103",
+            "45a-104"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -2395,7 +2539,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-106 is repealed, effective January 1, 2016."
+            "text": "Section 45a-106 is repealed, effective January 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2598,7 +2746,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-107a is repealed, effective July 1, 2012."
+            "text": "Section 45a-107a is repealed, effective July 1, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2642,7 +2794,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-108 is repealed, effective January 1, 2016."
+            "text": "Section 45a-108 is repealed, effective January 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2762,7 +2918,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-113 is repealed, effective June 6, 2014."
+            "text": "Section 45a-113 is repealed, effective June 6, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2826,12 +2986,26 @@
           "section_key": "",
           "label": "Secs. 45a-114 to 45a-118.",
           "url": "https://www.cga.ct.gov/current/pub/chap_801b.htm#secs_45a-114_to_45a-118",
+          "grouped": true,
+          "section_keys": [
+            "45a-114",
+            "45a-115",
+            "45a-116",
+            "45a-117",
+            "45a-118"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2919,7 +3093,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-122 is repealed, effective October 1, 2015."
+            "text": "Section 45a-122 is repealed, effective October 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3371,12 +3549,26 @@
           "section_key": "",
           "label": "Secs. 45a-136a to 45a-136e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_801b.htm#secs_45a-136a_to_45a-136e",
+          "grouped": true,
+          "section_keys": [
+            "45a-136a",
+            "45a-136b",
+            "45a-136c",
+            "45a-136d",
+            "45a-136e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3406,12 +3598,23 @@
           "section_key": "",
           "label": "Secs. 45a-137 and 45a-138.",
           "url": "https://www.cga.ct.gov/current/pub/chap_801b.htm#secs_45a-137_and_45a-138",
+          "grouped": true,
+          "section_keys": [
+            "45a-137",
+            "45a-138"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3585,12 +3788,26 @@
           "section_key": "",
           "label": "Secs. 45a-146 to 45a-150.",
           "url": "https://www.cga.ct.gov/current/pub/chap_801b.htm#secs_45a-146_to_45a-150",
+          "grouped": true,
+          "section_keys": [
+            "45a-146",
+            "45a-147",
+            "45a-148",
+            "45a-149",
+            "45a-150"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3735,12 +3952,26 @@
           "section_key": "",
           "label": "Secs. 45a-157 to 45a-161.",
           "url": "https://www.cga.ct.gov/current/pub/chap_801b.htm#secs_45a-157_to_45a-161",
+          "grouped": true,
+          "section_keys": [
+            "45a-157",
+            "45a-158",
+            "45a-159",
+            "45a-160",
+            "45a-161"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4017,12 +4248,26 @@
           "section_key": "",
           "label": "Secs. 45a-170 to 45a-174.",
           "url": "https://www.cga.ct.gov/current/pub/chap_801b.htm#secs_45a-170_to_45a-174",
+          "grouped": true,
+          "section_keys": [
+            "45a-170",
+            "45a-171",
+            "45a-172",
+            "45a-173",
+            "45a-174"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4305,12 +4550,25 @@
           "section_key": "",
           "label": "Secs. 45a-182 to 45a-185.",
           "url": "https://www.cga.ct.gov/current/pub/chap_801b.htm#secs_45a-182_to_45a-185",
+          "grouped": true,
+          "section_keys": [
+            "45a-182",
+            "45a-183",
+            "45a-184",
+            "45a-185"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4551,7 +4809,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-189 is repealed, effective October 1, 2009."
+            "text": "Section 45a-189 is repealed, effective October 1, 2009.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4567,19 +4829,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-190 is repealed, effective July 1, 2013."
+            "text": "Section 45a-190 is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 45a-191 and 45a-192. (Formerly Secs. 45-293 and 45-294). Interest of appellant to be stated. Order of notice.",
           "url": "https://www.cga.ct.gov/current/pub/chap_801b.htm#secs_45a-191_and_45a-192",
+          "grouped": true,
+          "section_keys": [
+            "45a-191",
+            "45a-192"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 45a-191 and 45a-192 are repealed, effective October 1, 2007."
+            ],
+            "source": [
+              "(1949 Rev., S. 7075, 7076; P.A. 80-476, S. 97, 98; P.A. 07-116, S. 33.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 45a-191 and 45a-192 are repealed, effective October 1, 2007.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4614,12 +4893,26 @@
           "section_key": "",
           "label": "Secs. 45a-194 to 45a-198.",
           "url": "https://www.cga.ct.gov/current/pub/chap_801b.htm#secs_45a-194_to_45a-198",
+          "grouped": true,
+          "section_keys": [
+            "45a-194",
+            "45a-195",
+            "45a-196",
+            "45a-197",
+            "45a-198"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4634,7 +4927,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 45a-191 and 45a-192. (Formerly Secs. 45-293 and 45-294). Interest of appellant to be stated. Order of notice. Sections 45a-191 and 45a-192 are repealed, effective October 1, 2007.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4649,7 +4945,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 45a-191 and 45a-192. (Formerly Secs. 45-293 and 45-294). Interest of appellant to be stated. Order of notice. Sections 45a-191 and 45a-192 are repealed, effective October 1, 2007.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -4712,7 +5011,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4943,36 +5246,88 @@
           "section_key": "",
           "label": "Secs. 45a-210 to 45a-213.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802.htm#secs_45a-210_to_45a-213",
+          "grouped": true,
+          "section_keys": [
+            "45a-210",
+            "45a-211",
+            "45a-212",
+            "45a-213"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 45a-214 to 45a-227. (Formerly Secs. 45-350 to 45-363). Principal and Income Act, generally.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802.htm#secs_45a-214_to_45a-227",
+          "grouped": true,
+          "section_keys": [
+            "45a-214",
+            "45a-215",
+            "45a-216",
+            "45a-217",
+            "45a-218",
+            "45a-219",
+            "45a-220",
+            "45a-221",
+            "45a-222",
+            "45a-223",
+            "45a-224",
+            "45a-225",
+            "45a-226",
+            "45a-227"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 45a-214 to 45a-227 , inclusive, are repealed, effective January 1, 2000."
+            ],
+            "source": [
+              "(P.A. 87-440, S. 1–14; P.A. 95-316, S. 2; P.A. 99-164, S. 35, 36.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 45a-214 to 45a-227 , inclusive, are repealed, effective January 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 45a-228 to 45a-232.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802.htm#secs_45a-228_to_45a-232",
+          "grouped": true,
+          "section_keys": [
+            "45a-228",
+            "45a-229",
+            "45a-230",
+            "45a-231",
+            "45a-232"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5181,12 +5536,26 @@
           "section_key": "",
           "label": "Secs. 45a-237 to 45a-241.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802.htm#secs_45a-237_to_45a-241",
+          "grouped": true,
+          "section_keys": [
+            "45a-237",
+            "45a-238",
+            "45a-239",
+            "45a-240",
+            "45a-241"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5361,12 +5730,25 @@
           "section_key": "",
           "label": "Secs. 45a-246 to 45a-249.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802.htm#secs_45a-246_to_45a-249",
+          "grouped": true,
+          "section_keys": [
+            "45a-246",
+            "45a-247",
+            "45a-248",
+            "45a-249"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5381,7 +5763,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 45a-214 to 45a-227. (Formerly Secs. 45-350 to 45-363). Principal and Income Act, generally. Sections 45a-214 to 45a-227 , inclusive, are repealed, effective January 1, 2000.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5396,7 +5781,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 45a-214 to 45a-227. (Formerly Secs. 45-350 to 45-363). Principal and Income Act, generally. Sections 45a-214 to 45a-227 , inclusive, are repealed, effective January 1, 2000.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -5494,12 +5882,26 @@
           "section_key": "",
           "label": "Secs. 45a-252 to 45a-256.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802a.htm#secs_45a-252_to_45a-256",
+          "grouped": true,
+          "section_keys": [
+            "45a-252",
+            "45a-253",
+            "45a-254",
+            "45a-255",
+            "45a-256"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5873,12 +6275,26 @@
           "section_key": "",
           "label": "Secs. 45a-268 to 45a-272.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802a.htm#secs_45a-268_to_45a-272",
+          "grouped": true,
+          "section_keys": [
+            "45a-268",
+            "45a-269",
+            "45a-270",
+            "45a-271",
+            "45a-272"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -6005,12 +6421,25 @@
           "section_key": "",
           "label": "Secs. 45a-278 to 45a-281.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802b.htm#secs_45a-278_to_45a-281",
+          "grouped": true,
+          "section_keys": [
+            "45a-278",
+            "45a-279",
+            "45a-280",
+            "45a-281"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6517,12 +6946,26 @@
           "section_key": "",
           "label": "Secs. 45a-298 to 45a-302.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802b.htm#secs_45a-298_to_45a-302",
+          "grouped": true,
+          "section_keys": [
+            "45a-298",
+            "45a-299",
+            "45a-300",
+            "45a-301",
+            "45a-302"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6576,12 +7019,26 @@
           "section_key": "",
           "label": "Secs. 45a-304 to 45a-308.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802b.htm#secs_45a-304_to_45a-308",
+          "grouped": true,
+          "section_keys": [
+            "45a-304",
+            "45a-305",
+            "45a-306",
+            "45a-307",
+            "45a-308"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6608,12 +7065,26 @@
           "section_key": "",
           "label": "Secs. 45a-310 to 45a-314.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802b.htm#secs_45a-310_to_45a-314",
+          "grouped": true,
+          "section_keys": [
+            "45a-310",
+            "45a-311",
+            "45a-312",
+            "45a-313",
+            "45a-314"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6819,7 +7290,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7073,7 +7548,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-328 is repealed, effective October 1, 2018."
+            "text": "Section 45a-328 is repealed, effective October 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7286,7 +7765,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-334a is repealed, effective October 1, 2016."
+            "text": "Section 45a-334a is repealed, effective October 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7719,12 +8202,26 @@
           "section_key": "",
           "label": "Secs. 45a-335 to 45a-339.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802b.htm#secs_45a-335_to_45a-339",
+          "grouped": true,
+          "section_keys": [
+            "45a-335",
+            "45a-336",
+            "45a-337",
+            "45a-338",
+            "45a-339"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7852,7 +8349,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-344 is repealed, effective January 1, 1998."
+            "text": "Section 45a-344 is repealed, effective January 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7913,12 +8414,26 @@
           "section_key": "",
           "label": "Secs. 45a-348 to 45a-352.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802b.htm#secs_45a-348_to_45a-352",
+          "grouped": true,
+          "section_keys": [
+            "45a-348",
+            "45a-349",
+            "45a-350",
+            "45a-351",
+            "45a-352"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8580,36 +9095,105 @@
           "section_key": "",
           "label": "Secs. 45a-385 to 45a-389.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802b.htm#secs_45a-385_to_45a-389",
+          "grouped": true,
+          "section_keys": [
+            "45a-385",
+            "45a-386",
+            "45a-387",
+            "45a-388",
+            "45a-389"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 45a-390 to 45a-419. (Formerly Secs. 45-204a to 45-205, 45-207 to 45-210, 45-212 to 45-213b, 45-214 to 45-221, 45-223 to 45-228 and 45-230). “Fiduciary” defined; applicability of chapter. Claims to be in writing and sworn to if required. Order of payment of claims. Payment of funeral and last illness expenses of married person. Notice to be given when decedent or relative received aid or care from state, including the Department of Veterans' Affairs; effect on limitation of claims. Effect of time for presenting claims to fiduciary; effect of failure to present claim; orders re extension of time; amount of claim; exceptions. Presentation of claims when fiduciary is a nonresident. Return of notice and list of claims. Determination of claims presented against solvent estate if fiduciary dies or is removed, period of limitation for suit on disallowed claims. Suit upon claims against fiduciary; period of limitation. Procedure when fiduciary ignores presented claim; period of limitation. Hearing on disallowed claims by Probate Court or commissioners; appeals; costs. Suit against solvent estate on disallowed claim; limitation period; suspension of limitation period; tort actions. Payment of claims of fiduciary. Any estate may be settled as insolvent. Estate found solvent to pay interest on debts, claims of nonresident creditors, after-accruing claims. Appointment of commissioners to determine claims on insolvent estates, notice to creditors. Limitation of time for exhibiting claims to commissioners. Appointment of commissioners after time for presentation of claims has expired; fiduciary to deliver claims and notify creditors. Settlement of estate without commissioners. Claims not exhibited are barred; newly discovered assets. What claims may be allowed. Procedure when creditor has security for his claim. Commissioners' report; notice to claimants of disallowed claims; hearing on objections; appeal. Suits against insolvent estates prohibited; exceptions; pending suits. Compensation of commissioners. Prohibition on appointment of certain persons as commissioners. Commissioners disqualified, validity of acts. When commissioners disagree or one cannot act. Removal of commissioners; appointment of successors.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802b.htm#secs_45a-390_to_45a-419",
+          "grouped": true,
+          "section_keys": [
+            "45a-390",
+            "45a-391",
+            "45a-392",
+            "45a-393",
+            "45a-394",
+            "45a-395",
+            "45a-396",
+            "45a-397",
+            "45a-398",
+            "45a-399",
+            "45a-400",
+            "45a-401",
+            "45a-402",
+            "45a-403",
+            "45a-404",
+            "45a-405",
+            "45a-406",
+            "45a-407",
+            "45a-408",
+            "45a-409",
+            "45a-410",
+            "45a-411",
+            "45a-412",
+            "45a-413",
+            "45a-414",
+            "45a-415",
+            "45a-416",
+            "45a-417",
+            "45a-418",
+            "45a-419"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 45a-390 to 45a-419 , inclusive, are repealed, effective July 1, 2013."
+            ],
+            "source": [
+              "(1949 Rev., S. 6990–6995, 6997–7006, 7008–7015, 7047; 1953, S. 2935d; 1953, S. 2944d; 1955, S. 2934d; 1955, S. 2936d; 1957, P.A. 535; 1959, P.A. 90; 1959, P.A. 219; 1963, P.A. 217; February, 1965, P.A. 287; 1967, P.A. 558, S. 25, 49, 50; 1969, P.A. 649; 1971, P.A. 210, S. 1; P.A. 74-91, S. 1; P.A. 75-118; 75-181, S. 1–3; P.A. 76-1, S. 1, 2; P.A. 77-26; 77-251; 77-288, S. 2; 77-614, S. 132, 610; P.A. 80-476, S. 263–292; P.A. 84-294, S. 13; 84-455, S. 3; P.A. 87-384, S. 34; P.A. 88-285, S. 31, 35; P.A. 93-279, S. 13; P.A. 95-316, S. 4; P.A. 07-217, S. 163; P.A. 13-81, S. 21.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 45a-390 to 45a-419 , inclusive, are repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 45a-420 to 45a-424.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802b.htm#secs_45a-420_to_45a-424",
+          "grouped": true,
+          "section_keys": [
+            "45a-420",
+            "45a-421",
+            "45a-422",
+            "45a-423",
+            "45a-424"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -9104,7 +9688,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-438a is repealed."
+            "text": "Section 45a-438a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9565,12 +10153,26 @@
           "section_key": "",
           "label": "Secs. 45a-453 to 45a-457.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802b.htm#secs_45a-453_to_45a-457",
+          "grouped": true,
+          "section_keys": [
+            "45a-453",
+            "45a-454",
+            "45a-455",
+            "45a-456",
+            "45a-457"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -9753,7 +10355,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -10001,12 +10607,23 @@
           "section_key": "",
           "label": "Secs. 45a-469 and 45a-470.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802b.htm#secs_45a-469_and_45a-470",
+          "grouped": true,
+          "section_keys": [
+            "45a-469",
+            "45a-470"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -10108,7 +10725,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-473 is repealed, effective January 1, 2020."
+            "text": "Section 45a-473 is repealed, effective January 1, 2020.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10351,7 +10972,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-484 is repealed, effective January 1, 2020."
+            "text": "Section 45a-484 is repealed, effective January 1, 2020.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10399,24 +11024,54 @@
           "section_key": "",
           "label": "Secs. 45a-487 to 45a-487f. Powers of trustees who are trust beneficiaries. Beneficiary interests in trust matters: Definitions. Representation by holder of power of appointment. Representation by court-appointed conservator or guardian, agent, trustee, executor or administrator, or parent. Representation of minor, incapacitated or unborn individual or person whose identity or location is unknown. Appointment of guardian ad litem by court, when; powers. Notice and consent re representation and binding another person.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802c.htm#secs_45a-487_to_45a-487f",
+          "grouped": true,
+          "section_keys": [
+            "45a-487",
+            "45a-487a",
+            "45a-487b",
+            "45a-487c",
+            "45a-487d",
+            "45a-487e",
+            "45a-487f"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 45a-487 to 45a-487f , inclusive, are repealed, effective January 1, 2020."
+            ],
+            "source": [
+              "(P.A. 95-315, S. 1, 2; P.A. 01-69, S. 1–6; P.A. 06-196, S. 275; P.A. 07-116, S. 7; P.A. 19-137, S. 123.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 45a-487 to 45a-487f , inclusive, are repealed, effective January 1, 2020.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 45a-487g to 45a-487i.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802c.htm#secs_45a-487g_to_45a-487i",
+          "grouped": true,
+          "section_keys": [
+            "45a-487g",
+            "45a-487h",
+            "45a-487i"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -10692,7 +11347,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-488 is repealed, effective January 1, 2020."
+            "text": "Section 45a-488 is repealed, effective January 1, 2020.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10880,12 +11539,24 @@
           "section_key": "",
           "label": "Secs. 45a-497 to 45a-499.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802c.htm#secs_45a-497_to_45a-499",
+          "grouped": true,
+          "section_keys": [
+            "45a-497",
+            "45a-498",
+            "45a-499"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -13012,7 +13683,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -13185,12 +13860,26 @@
           "section_key": "",
           "label": "Secs. 45a-509 to 45a-513.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802c.htm#secs_45a-509_to_45a-513",
+          "grouped": true,
+          "section_keys": [
+            "45a-509",
+            "45a-510",
+            "45a-511",
+            "45a-512",
+            "45a-513"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -13330,7 +14019,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -13413,48 +14106,105 @@
           "section_key": "",
           "label": "Secs. 45a-522 to 45a-525.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802c.htm#secs_45a-522_to_45a-525",
+          "grouped": true,
+          "section_keys": [
+            "45a-522",
+            "45a-523",
+            "45a-524",
+            "45a-525"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 45a-526 to 45a-529. (Formerly Secs. 45-100h to 45-100k). Short title: Uniform Management of Institutional Funds Act. Definitions. Expenditure of net appreciation, standards. Exception and restriction on expenditure of net appreciation; construction.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802c.htm#secs_45a-526_to_45a-529",
+          "grouped": true,
+          "section_keys": [
+            "45a-526",
+            "45a-527",
+            "45a-528",
+            "45a-529"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 45a-526 to 45a-529 , inclusive, are repealed, effective April 29, 2008."
+            ],
+            "source": [
+              "(P.A. 73-548, S. 1–3, 9; P.A. 74-121, S. 1, 2; P.A. 80-476, S. 211; P.A. 93-189, S. 4, 5; P.A. 08-6, S. 4.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 45a-526 to 45a-529 , inclusive, are repealed, effective April 29, 2008.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 45a-529a and 45a-529b. Accumulation of annual net income, standards. Exception and restriction on accumulation of annual net income; construction.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802c.htm#secs_45a-529a_and_45a-529b",
+          "grouped": true,
+          "section_keys": [
+            "45a-529a",
+            "45a-529b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 45a-529a and 45a-529b are repealed, effective April 29, 2008."
+            ],
+            "source": [
+              "(P.A. 93-189, S. 2, 3; P.A. 08-6, S. 4.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 45a-529a and 45a-529b are repealed, effective April 29, 2008.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 45a-530 to 45a-534. (Formerly Secs. 45-100 l to 45-100p). Investment of institutional funds. Delegation of powers of investment. Standards applicable to actions of governing board. Release of restriction in gift instrument: Written consent, court order; limitations; doctrine of cy pres applicable. Construction.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802c.htm#secs_45a-530_to_45a-534",
+          "grouped": true,
+          "section_keys": [
+            "45a-530",
+            "45a-531",
+            "45a-532",
+            "45a-533",
+            "45a-534"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 45a-530 to 45a-534 , inclusive, are repealed, effective April 29, 2008."
+            ],
+            "source": [
+              "(P.A. 73-548, S. 4–8; P.A. 78-280, S. 2, 127; P.A. 80-476, S. 212; P.A. 93-189, S. 6; P.A. 97-140, S. 14; P.A. 08-6, S. 4.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 45a-530 to 45a-534 , inclusive, are repealed, effective April 29, 2008.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13680,12 +14430,25 @@
           "section_key": "",
           "label": "Secs. 45a-536 to 45a-539.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802c.htm#secs_45a-536_to_45a-539",
+          "grouped": true,
+          "section_keys": [
+            "45a-536",
+            "45a-537",
+            "45a-538",
+            "45a-539"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -13701,7 +14464,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Sections 45-100a to 45-100c , inclusive, are repealed, except said sections shall continue in effect insofar as any instrument executed prior to January 1, 1970, incorporated said sections."
+            "text": "Sections 45-100a to 45-100c , inclusive, are repealed, except said sections shall continue in effect insofar as any instrument executed prior to January 1, 1970, incorporated said sections.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14708,12 +15475,23 @@
           "section_key": "",
           "label": "Secs. 45a-544 and 45a-545.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802c.htm#secs_45a-544_and_45a-545",
+          "grouped": true,
+          "section_keys": [
+            "45a-544",
+            "45a-545"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -15418,7 +16196,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 45a-526 to 45a-529. (Formerly Secs. 45-100h to 45-100k). Short title: Uniform Management of Institutional Funds Act. Definitions. Expenditure of net appreciation, standards. Exception and restriction on expenditure of net appreciation; construction. Sections 45a-526 to 45a-529 , inclusive, are repealed, effective April 29, 2008.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -15433,7 +16214,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 45a-526 to 45a-529. (Formerly Secs. 45-100h to 45-100k). Short title: Uniform Management of Institutional Funds Act. Definitions. Expenditure of net appreciation, standards. Exception and restriction on expenditure of net appreciation; construction. Sections 45a-526 to 45a-529 , inclusive, are repealed, effective April 29, 2008.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -15448,7 +16232,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 45a-529a and 45a-529b. Accumulation of annual net income, standards. Exception and restriction on accumulation of annual net income; construction. Sections 45a-529a and 45a-529b are repealed, effective April 29, 2008.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -15463,7 +16250,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 45a-529a and 45a-529b. Accumulation of annual net income, standards. Exception and restriction on accumulation of annual net income; construction. Sections 45a-529a and 45a-529b are repealed, effective April 29, 2008.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -15508,12 +16298,34 @@
           "section_key": "",
           "label": "Secs. 45a-546 to 45a-556. (Formerly Secs. 45-101 to 45-109b). Definitions. Methods of making gifts. Gift, devise or bequest to be irrevocable. Rights and powers granted custodian, issuers, transfer agents, brokers. Powers and duties of custodian. Reimbursement of custodian. Responsibility of issuer, transfer agent, bank, life insurance company, savings and loan association, credit union, broker or other person. Successor custodian. Registration of custodian. Petition for accounting. Construction. Not exclusive method of gift. Prior gifts of interests in real property. Custodial property held in custodianship which terminates after December 31, 1972, and before October 1, 1980.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802d.htm#secs_45a-546_to_45a-556",
+          "grouped": true,
+          "section_keys": [
+            "45a-546",
+            "45a-547",
+            "45a-548",
+            "45a-549",
+            "45a-550",
+            "45a-551",
+            "45a-552",
+            "45a-553",
+            "45a-554",
+            "45a-555",
+            "45a-556"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 45a-546 to 45a-556 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1955, S. 2917d–2924d; 1957, P.A. 619, S. 1–9; 1961, P.A. 504; 1963, P.A. 283, S. 1–3, 5; February, 1965, P.A. 455, S. 1–7; 1967, P.A. 125; 144, S. 1–5; 833, S. 1–3; 1971, P.A. 133, S. 1–4; 1972, P.A. 127, S. 69–72; P.A. 75-124, S. 1, 2; P.A. 77-614, S. 139, 610; P.A. 78-121, S. 76, 113; 78-198, S. 1–4, 6; P.A. 79-631, S. 39, 111; P.A. 80-410, S. 14–20; P.A. 81-25, S. 1, 2; 81-396, S. 6; P.A. 86-264, S. 12–15; P.A. 88-65, S. 39; P.A. 95-117, S. 28.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 45a-546 to 45a-556 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -15998,7 +16810,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -16052,19 +16868,37 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-562 is repealed, effective October 1, 2016."
+            "text": "Section 45a-562 is repealed, effective October 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 45a-563 to 45a-567.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802e.htm#secs_45a-563_to_45a-567",
+          "grouped": true,
+          "section_keys": [
+            "45a-563",
+            "45a-564",
+            "45a-565",
+            "45a-566",
+            "45a-567"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -16230,12 +17064,25 @@
           "section_key": "",
           "label": "Secs. 45a-574 to 45a-577.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802f.htm#secs_45a-574_to_45a-577",
+          "grouped": true,
+          "section_keys": [
+            "45a-574",
+            "45a-575",
+            "45a-576",
+            "45a-577"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -16470,12 +17317,26 @@
           "section_key": "",
           "label": "Secs. 45a-586 to 45a-590.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802g.htm#secs_45a-586_to_45a-590",
+          "grouped": true,
+          "section_keys": [
+            "45a-586",
+            "45a-587",
+            "45a-588",
+            "45a-589",
+            "45a-590"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -16490,12 +17351,23 @@
           "section_key": "",
           "label": "Secs. 45a-591 and 45a-592.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802h.htm#secs_45a-591_and_45a-592",
+          "grouped": true,
+          "section_keys": [
+            "45a-591",
+            "45a-592"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -16654,12 +17526,24 @@
           "section_key": "",
           "label": "Secs. 45a-600 to 45a-602.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802h.htm#secs_45a-600_to_45a-602",
+          "grouped": true,
+          "section_keys": [
+            "45a-600",
+            "45a-601",
+            "45a-602"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -16928,12 +17812,34 @@
           "section_key": "",
           "label": "Secs. 45a-608a to 45a-608m.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802h.htm#secs_45a-608a_to_45a-608m",
+          "grouped": true,
+          "section_keys": [
+            "45a-608a",
+            "45a-608b",
+            "45a-608c",
+            "45a-608d",
+            "45a-608e",
+            "45a-608f",
+            "45a-608g",
+            "45a-608h",
+            "45a-608i",
+            "45a-608j",
+            "45a-608k",
+            "45a-608l",
+            "45a-608m"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -17679,12 +18585,23 @@
           "section_key": "",
           "label": "Secs. 45a-626 and 45a-627.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802h.htm#secs_45a-626_and_45a-627",
+          "grouped": true,
+          "section_keys": [
+            "45a-626",
+            "45a-627"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -17698,7 +18615,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -17964,12 +18885,26 @@
           "section_key": "",
           "label": "Secs. 45a-639 to 45a-643.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802h.htm#secs_45a-639_to_45a-643",
+          "grouped": true,
+          "section_keys": [
+            "45a-639",
+            "45a-640",
+            "45a-641",
+            "45a-642",
+            "45a-643"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -18358,7 +19293,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-653 is repealed, effective July 1, 2019."
+            "text": "Section 45a-653 is repealed, effective July 1, 2019.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -18735,12 +19674,23 @@
           "section_key": "",
           "label": "Secs. 45a-665 and 45a-666.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802h.htm#secs_45a-665_and_45a-666",
+          "grouped": true,
+          "section_keys": [
+            "45a-665",
+            "45a-666"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -19228,7 +20178,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-668 is repealed, effective May 4, 2004."
+            "text": "Section 45a-668 is repealed, effective May 4, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -19646,19 +20600,37 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-684 is repealed, effective July 1, 2016."
+            "text": "Section 45a-684 is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 45a-685 to 45a-689.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802h.htm#secs_45a-685_to_45a-689",
+          "grouped": true,
+          "section_keys": [
+            "45a-685",
+            "45a-686",
+            "45a-687",
+            "45a-688",
+            "45a-689"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -19886,12 +20858,23 @@
           "section_key": "",
           "label": "Secs. 45a-701 and 45a-702.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802h.htm#secs_45a-701_and_45a-702",
+          "grouped": true,
+          "section_keys": [
+            "45a-701",
+            "45a-702"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -19915,12 +20898,23 @@
           "section_key": "",
           "label": "Secs. 45a-704 and 45a-705.",
           "url": "https://www.cga.ct.gov/current/pub/chap_802h.htm#secs_45a-704_and_45a-705",
+          "grouped": true,
+          "section_keys": [
+            "45a-704",
+            "45a-705"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -20137,12 +21131,26 @@
           "section_key": "",
           "label": "Secs. 45a-710 to 45a-714.",
           "url": "https://www.cga.ct.gov/current/pub/chap_803.htm#secs_45a-710_to_45a-714",
+          "grouped": true,
+          "section_keys": [
+            "45a-710",
+            "45a-711",
+            "45a-712",
+            "45a-713",
+            "45a-714"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -20466,12 +21474,25 @@
           "section_key": "",
           "label": "Secs. 45a-720 to 45a-723.",
           "url": "https://www.cga.ct.gov/current/pub/chap_803.htm#secs_45a-720_to_45a-723",
+          "grouped": true,
+          "section_keys": [
+            "45a-720",
+            "45a-721",
+            "45a-722",
+            "45a-723"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -20614,7 +21635,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-726a is repealed, effective July 1, 2013."
+            "text": "Section 45a-726a is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -20745,7 +21770,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-727b is repealed, effective July 1, 2013."
+            "text": "Section 45a-727b is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -21099,12 +22128,26 @@
           "section_key": "",
           "label": "Secs. 45a-738 to 45a-742.",
           "url": "https://www.cga.ct.gov/current/pub/chap_803.htm#secs_45a-738_to_45a-742",
+          "grouped": true,
+          "section_keys": [
+            "45a-738",
+            "45a-739",
+            "45a-740",
+            "45a-741",
+            "45a-742"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -21377,7 +22420,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 45a-762 is repealed, effective June 30, 2017."
+            "text": "Section 45a-762 is repealed, effective June 30, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -21497,12 +22544,26 @@
           "section_key": "",
           "label": "Secs. 45a-758 to 45a-762.",
           "url": "https://www.cga.ct.gov/current/pub/chap_803.htm#secs_45a-758_to_45a-762",
+          "grouped": true,
+          "section_keys": [
+            "45a-758",
+            "45a-759",
+            "45a-760",
+            "45a-761",
+            "45a-762"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -21581,12 +22642,26 @@
           "section_key": "",
           "label": "Secs. 45a-766 to 45a-770.",
           "url": "https://www.cga.ct.gov/current/pub/chap_803.htm#secs_45a-766_to_45a-770",
+          "grouped": true,
+          "section_keys": [
+            "45a-766",
+            "45a-767",
+            "45a-768",
+            "45a-769",
+            "45a-770"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -21613,12 +22688,29 @@
           "section_key": "",
           "label": "Secs. 45a-771 to 45a-776. (Formerly Secs. 45-69f to 45-69k). Child born as a result of artificial insemination legitimate. Definitions. A.I.D.; who may perform; consent required. Request and consent to be filed in Probate Court; confidentiality, status of child born as result of A.I.D. No rights in donor of sperm or eggs. Status of child determined by jurisdiction of birth.",
           "url": "https://www.cga.ct.gov/current/pub/chap_803a.htm#secs_45a-771_to_45a-776",
+          "grouped": true,
+          "section_keys": [
+            "45a-771",
+            "45a-772",
+            "45a-773",
+            "45a-774",
+            "45a-775",
+            "45a-776"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 45a-771 to 45a-776 , inclusive, are repealed, effective January 1, 2022."
+            ],
+            "source": [
+              "(P.A. 75-233, S. 1–8; P.A. 76-279, S. 1, 3, 4; 76-435, S. 8, 82; P.A. 80-476, S. 174–179; P.A. 07-93, S. 1–3; P.A. 21-15, S. 149.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 45a-771 to 45a-776 , inclusive, are repealed, effective January 1, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -21682,12 +22774,26 @@
           "section_key": "",
           "label": "Secs. 45a-780 to 45a-784.",
           "url": "https://www.cga.ct.gov/current/pub/chap_803a.htm#secs_45a-780_to_45a-784",
+          "grouped": true,
+          "section_keys": [
+            "45a-780",
+            "45a-781",
+            "45a-782",
+            "45a-783",
+            "45a-784"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {

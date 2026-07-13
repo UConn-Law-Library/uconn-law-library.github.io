@@ -21,7 +21,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -35,7 +39,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -78,7 +86,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         }
       ]

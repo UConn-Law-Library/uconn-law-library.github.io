@@ -331,7 +331,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 49-6 is repealed."
+            "text": "Section 49-6 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -465,12 +469,25 @@
           "section_key": "",
           "label": "Secs. 49-7b to 49-7e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_846.htm#secs_49-7b_to_49-7e",
+          "grouped": true,
+          "section_keys": [
+            "49-7b",
+            "49-7c",
+            "49-7d",
+            "49-7e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1472,12 +1489,36 @@
           "section_key": "",
           "label": "Secs. 49-30a to 49-30o.",
           "url": "https://www.cga.ct.gov/current/pub/chap_846.htm#secs_49-30a_to_49-30o",
+          "grouped": true,
+          "section_keys": [
+            "49-30a",
+            "49-30b",
+            "49-30c",
+            "49-30d",
+            "49-30e",
+            "49-30f",
+            "49-30g",
+            "49-30h",
+            "49-30i",
+            "49-30j",
+            "49-30k",
+            "49-30l",
+            "49-30m",
+            "49-30n",
+            "49-30o"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1660,7 +1701,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 49-31a is repealed."
+            "text": "Section 49-31a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2114,12 +2159,25 @@
           "section_key": "",
           "label": "Secs. 49-31t and 49-31u. Eligibility for foreclosure mediation program after consent to foreclosure by market sale. Foreclosure mediation program: Certificate of good standing.",
           "url": "https://www.cga.ct.gov/current/pub/chap_846.htm#secs_49-31t_and_49-31u",
+          "grouped": true,
+          "section_keys": [
+            "49-31t",
+            "49-31u"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 49-31t and 49-31u are repealed, effective October 1, 2016."
+            ],
+            "source": [
+              "(P.A. 14-7, S. 21; 14-84, S. 12; 14-217, S. 207; P.A. 16-65, S. 94.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 49-31t and 49-31u are repealed, effective October 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2152,7 +2210,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 49-31t and 49-31u. Eligibility for foreclosure mediation program after consent to foreclosure by market sale. Foreclosure mediation program: Certificate of good standing. Sections 49-31t and 49-31u are repealed, effective October 1, 2016.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2167,7 +2228,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 49-31t and 49-31u. Eligibility for foreclosure mediation program after consent to foreclosure by market sale. Foreclosure mediation program: Certificate of good standing. Sections 49-31t and 49-31u are repealed, effective October 1, 2016.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -2191,7 +2255,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 49-32 is repealed."
+            "text": "Section 49-32 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2740,7 +2808,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 49-40 is repealed."
+            "text": "Section 49-40 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2777,7 +2849,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 906, Sec. 52-380c ."
+            "text": "Transferred to Chapter 906, Sec. 52-380c .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -2983,12 +3059,26 @@
           "section_key": "",
           "label": "Secs. 49-44 to 49-46. Recording of judgment lien; when it holds from attachment. Lien only on land liable to execution at date of judgment. Owner of judgment may file lien; foreclosure, limitation of time, notice of lis pendens.",
           "url": "https://www.cga.ct.gov/current/pub/chap_847.htm#secs_49-44_to_49-46",
+          "grouped": true,
+          "section_keys": [
+            "49-44",
+            "49-45",
+            "49-46"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 49-44 to 49-46 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 7225–7227; P.A. 78-120; 78-280, S. 2, 127; P.A. 79-602, S. 102, 103; P.A. 83-581, S. 39, 40; P.A. 84-546, S. 127, 173.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 49-44 to 49-46 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3002,7 +3092,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 906, Sec. 52-380d ."
+            "text": "Transferred to Chapter 906, Sec. 52-380d .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3016,7 +3110,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 906, Sec. 52-380h ."
+            "text": "Transferred to Chapter 906, Sec. 52-380h .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3046,7 +3144,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 906, Sec. 52-380i ."
+            "text": "Transferred to Chapter 906, Sec. 52-380i .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3062,7 +3164,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 49-49 is repealed."
+            "text": "Section 49-49 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3076,7 +3182,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 906, Sec. 52-380f ."
+            "text": "Transferred to Chapter 906, Sec. 52-380f .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3172,7 +3282,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 906, Sec. 52-380b ."
+            "text": "Transferred to Chapter 906, Sec. 52-380b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3350,7 +3464,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 49-57 is repealed."
+            "text": "Section 49-57 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3992,12 +4110,32 @@
           "section_key": "",
           "label": "Secs. 49-77 to 49-85. Liens of factors on merchandise, generally.",
           "url": "https://www.cga.ct.gov/current/pub/chap_847.htm#secs_49-77_to_49-85",
+          "grouped": true,
+          "section_keys": [
+            "49-77",
+            "49-78",
+            "49-79",
+            "49-80",
+            "49-81",
+            "49-82",
+            "49-83",
+            "49-84",
+            "49-85"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 49-77 to 49-85 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2982d, 7256–7260, 7262, 7263; 1955, S. 2979d, 2984d–2986d; 1959, P.A. 133, S. 10-102; 615, S. 1, 2.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 49-77 to 49-85 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4123,7 +4261,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 49-92 is repealed."
+            "text": "Section 49-92 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4385,12 +4527,36 @@
           "section_key": "",
           "label": "Secs. 49-92 l to 49-92n.",
           "url": "https://www.cga.ct.gov/current/pub/chap_847.htm#secs_49-92l_to_49-92n",
+          "grouped": true,
+          "section_keys": [
+            "49-92",
+            "49-92a",
+            "49-92b",
+            "49-92c",
+            "49-92d",
+            "49-92e",
+            "49-92f",
+            "49-92g",
+            "49-92h",
+            "49-92i",
+            "49-92j",
+            "49-92k",
+            "49-92l",
+            "49-92m",
+            "49-92n"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4445,12 +4611,23 @@
           "section_key": "",
           "label": "Secs. 49-92q and 49-92r.",
           "url": "https://www.cga.ct.gov/current/pub/chap_847.htm#secs_49-92q_and_49-92r",
+          "grouped": true,
+          "section_keys": [
+            "49-92q",
+            "49-92r"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4474,12 +4651,28 @@
           "section_key": "",
           "label": "Secs. 49-92t to 49-92z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_847.htm#secs_49-92t_to_49-92z",
+          "grouped": true,
+          "section_keys": [
+            "49-92t",
+            "49-92u",
+            "49-92v",
+            "49-92w",
+            "49-92x",
+            "49-92y",
+            "49-92z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4494,7 +4687,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 49-44 to 49-46. Recording of judgment lien; when it holds from attachment. Lien only on land liable to execution at date of judgment. Owner of judgment may file lien; foreclosure, limitation of time, notice of lis pendens. Sections 49-44 to 49-46 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4509,7 +4705,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 49-44 to 49-46. Recording of judgment lien; when it holds from attachment. Lien only on land liable to execution at date of judgment. Owner of judgment may file lien; foreclosure, limitation of time, notice of lis pendens. Sections 49-44 to 49-46 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4524,7 +4723,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 49-77 to 49-85. Liens of factors on merchandise, generally. Sections 49-77 to 49-85 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4539,7 +4741,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 49-77 to 49-85. Liens of factors on merchandise, generally. Sections 49-77 to 49-85 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -4554,12 +4759,46 @@
           "section_key": "",
           "label": "Secs. 49-93 to 49-115. Chattel mortgages.",
           "url": "https://www.cga.ct.gov/current/pub/chap_848.htm#secs_49-93_to_49-115",
+          "grouped": true,
+          "section_keys": [
+            "49-93",
+            "49-94",
+            "49-95",
+            "49-96",
+            "49-97",
+            "49-98",
+            "49-99",
+            "49-100",
+            "49-101",
+            "49-102",
+            "49-103",
+            "49-104",
+            "49-105",
+            "49-106",
+            "49-107",
+            "49-108",
+            "49-109",
+            "49-110",
+            "49-111",
+            "49-112",
+            "49-113",
+            "49-114",
+            "49-115"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 49-93 to 49-115 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 7265–7285; 1951, S. 2996d, 2997d, 2999d; 1953, S. 2994d; 1955, S. 2993d, 2995d; November, 1955, S. N222; 1957, P.A. 534, 626; 1959, P.A. 133, S. 10-102.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 49-93 to 49-115 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4574,7 +4813,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 49-93 to 49-115. Chattel mortgages. Sections 49-93 to 49-115 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4589,7 +4831,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 49-93 to 49-115. Chattel mortgages. Sections 49-93 to 49-115 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]

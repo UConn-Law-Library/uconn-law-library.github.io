@@ -46,12 +46,25 @@
           "section_key": "",
           "label": "Secs. 13a-2 to 13a-3a. Highway Commissioner: Appointment; oath of office; powers and duties. Commuter parking facilities.",
           "url": "https://www.cga.ct.gov/current/pub/chap_236.htm#secs_13a-2_to_13a-3a",
+          "grouped": true,
+          "section_keys": [
+            "13a-2",
+            "13a-3a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13a-2 to 13a-3a , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2180–2182, 2196, 2197; November, 1949, S. 1196d; 1955, S. 1185d, 1186d, 1196d; November, 1955, S. N157; 1957, P.A. 386; 1958 Rev., S. 13-67–13-69, 13-82, 13-83, 13-92, 13-94, 13-96; 1959, P.A. 60; 1961, P.A. 160; 605, S. 3, 4; 1963, P.A. 226, S. 2, 3; February, 1965, P.A. 378, S. 1; 1967, P.A. 700; 1969, P.A. 768, S. 263.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13a-2 to 13a-3a , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -85,7 +98,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13a-4 is repealed."
+            "text": "Section 13a-4 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -306,7 +323,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-2 to 13a-3a. Highway Commissioner: Appointment; oath of office; powers and duties. Commuter parking facilities. Sections 13a-2 to 13a-3a , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -321,7 +341,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-2 to 13a-3a. Highway Commissioner: Appointment; oath of office; powers and duties. Commuter parking facilities. Sections 13a-2 to 13a-3a , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -457,7 +480,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13a-18 is repealed."
+            "text": "Section 13a-18 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -707,7 +734,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13a-27 is repealed, effective July 13, 2011."
+            "text": "Section 13a-27 is repealed, effective July 13, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -721,7 +752,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 238, Sec. 13a-117a ."
+            "text": "Transferred to Chapter 238, Sec. 13a-117a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1532,7 +1567,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 248, Sec. 14-238a ."
+            "text": "Transferred to Chapter 248, Sec. 14-238a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1803,7 +1842,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13a-69 is repealed, effective October 1, 2019."
+            "text": "Section 13a-69 is repealed, effective October 1, 2019.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2153,12 +2196,25 @@
           "section_key": "",
           "label": "Secs. 13a-79a and 13a-79b. Right-of-way revolving fund; payment of taxes on and lease of property acquired prior to highway construction. Establishment of long-range highway plan.",
           "url": "https://www.cga.ct.gov/current/pub/chap_238.htm#secs_13a-79a_and_13a-79b",
+          "grouped": true,
+          "section_keys": [
+            "13a-79a",
+            "13a-79b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13a-79a and 13a-79b are repealed."
+            ],
+            "source": [
+              "(February, 1965, P.A. 325, S. 6, 7; 1967, P.A. 410; 1969, P.A. 768, S. 84, 85; 1972, P.A. 135, S. 1; P.A. 73-451, S. 1, 3; 73-675, S. 10, 44; P.A. 76-213, S. 1, 3.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13a-79a and 13a-79b are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2383,19 +2439,43 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13a-81 is repealed."
+            "text": "Section 13a-81 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 13a-81a to 13a-81 l . Highway relocation assistance.",
           "url": "https://www.cga.ct.gov/current/pub/chap_238.htm#secs_13a-81a_to_13a-81l",
+          "grouped": true,
+          "section_keys": [
+            "13a-81a",
+            "13a-81b",
+            "13a-81c",
+            "13a-81d",
+            "13a-81e",
+            "13a-81f",
+            "13a-81g",
+            "13a-81h",
+            "13a-81i",
+            "13a-81j",
+            "13a-81k",
+            "13a-81l"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "(a) Sections 13a-81a to 13a-81 l , inclusive, are repealed except that any payment or matter, due or pending, pursuant to said sections 13a-81a to 13a-81 l , inclusive, shall be paid or handled in accordance with said sections, or regulations or procedures promulgated pursuant thereto.",
+              "(b) All rights or liabilities now existing under sections 13a-81a to 13a-81 l , inclusive, and under regulations or procedures pursuant thereto shall not be affected by the repeal of such sections or portions thereof under subsection (a) of this section."
+            ],
+            "source": [
+              "(1969, P.A. 503, S. 1–12; 1971, P.A. 838, S. 17.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "(a) Sections 13a-81a to 13a-81 l , inclusive, are repealed except that any payment or matter, due or pending, pursuant to said sections 13a-81a to 13a-81 l , inclusive, shall be paid or handled in accordance with said sections, or regulations or procedures promulgated pursuant thereto.\n\n(b) All rights or liabilities now existing under sections 13a-81a to 13a-81 l , inclusive, and under regulations or procedures pursuant thereto shall not be affected by the repeal of such sections or portions thereof under subsection (a) of this section."
           }
         },
         {
@@ -2555,7 +2635,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13a-85c is repealed, effective July 1, 2013."
+            "text": "Section 13a-85c is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3063,12 +3147,25 @@
           "section_key": "",
           "label": "Secs. 13a-98c and 13a-98d. Extension of federal-aid primary and secondary systems into urban areas. Agreements with Secretary of Transportation and municipalities.",
           "url": "https://www.cga.ct.gov/current/pub/chap_238.htm#secs_13a-98c_and_13a-98d",
+          "grouped": true,
+          "section_keys": [
+            "13a-98c",
+            "13a-98d"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13a-98c and 13a-98d are repealed."
+            ],
+            "source": [
+              "(1969, P.A. 501, S. 1, 2, 4, 5; P.A. 73-425, S. 1, 2; P.A. 75-485, S. 7, 8.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13a-98c and 13a-98d are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3113,12 +3210,25 @@
           "section_key": "",
           "label": "Secs. 13a-98g and 13a-98h. Federal aid urban system. Selection of routes to be included in system.",
           "url": "https://www.cga.ct.gov/current/pub/chap_238.htm#secs_13a-98g_and_13a-98h",
+          "grouped": true,
+          "section_keys": [
+            "13a-98g",
+            "13a-98h"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13a-98g and 13a-98h are repealed."
+            ],
+            "source": [
+              "(1971, P.A. 584, S. 1, 2; P.A. 75-485, S. 1, 2, 8; P.A. 94-188, S. 29.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13a-98g and 13a-98h are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3776,7 +3886,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13a-117a is repealed, effective June 29, 1993."
+            "text": "Section 13a-117a is repealed, effective June 29, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3951,7 +4065,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13a-123a is repealed, effective July 1, 1998."
+            "text": "Section 13a-123a is repealed, effective July 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4248,7 +4366,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13a-125 is repealed."
+            "text": "Section 13a-125 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4521,7 +4643,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13a-134 is repealed."
+            "text": "Section 13a-134 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5226,12 +5352,26 @@
           "section_key": "",
           "label": "Secs. 13a-153a to 13a-153e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_238.htm#secs_13a-153a_to_13a-153e",
+          "grouped": true,
+          "section_keys": [
+            "13a-153a",
+            "13a-153b",
+            "13a-153c",
+            "13a-153d",
+            "13a-153e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5290,7 +5430,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-79a and 13a-79b. Right-of-way revolving fund; payment of taxes on and lease of property acquired prior to highway construction. Establishment of long-range highway plan. Sections 13a-79a and 13a-79b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5305,7 +5448,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-79a and 13a-79b. Right-of-way revolving fund; payment of taxes on and lease of property acquired prior to highway construction. Establishment of long-range highway plan. Sections 13a-79a and 13a-79b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5320,7 +5466,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-81a to 13a-81 l . Highway relocation assistance. (a) Sections 13a-81a to 13a-81 l , inclusive, are repealed except that any payment or matter, due or pending, pursuant to said sections 13a-81a to 13a-81 l , inclusive, shall be paid or handled in accordance with said sections, or regulations or procedures promulgated pursuant thereto.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5335,7 +5484,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-81a to 13a-81 l . Highway relocation assistance. (a) Sections 13a-81a to 13a-81 l , inclusive, are repealed except that any payment or matter, due or pending, pursuant to said sections 13a-81a to 13a-81 l , inclusive, shall be paid or handled in accordance with said sections, or regulations or procedures promulgated pursuant thereto.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5350,7 +5502,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-98c and 13a-98d. Extension of federal-aid primary and secondary systems into urban areas. Agreements with Secretary of Transportation and municipalities. Sections 13a-98c and 13a-98d are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5365,7 +5520,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-98c and 13a-98d. Extension of federal-aid primary and secondary systems into urban areas. Agreements with Secretary of Transportation and municipalities. Sections 13a-98c and 13a-98d are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5380,7 +5538,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-98g and 13a-98h. Federal aid urban system. Selection of routes to be included in system. Sections 13a-98g and 13a-98h are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5395,7 +5556,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-98g and 13a-98h. Federal aid urban system. Selection of routes to be included in system. Sections 13a-98g and 13a-98h are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -5410,12 +5574,26 @@
           "section_key": "",
           "label": "Secs. 13a-154 to 13a-156. Tolls on Merritt and Wilbur Cross Parkways. Registration markers, coupons, tickets and tokens; fees. Toll plates for certain disabled veterans. Toll plates for certain handicapped drivers. Tolls and charges on expressways.",
           "url": "https://www.cga.ct.gov/current/pub/chap_239.htm#secs_13a-154_to_13a-156",
+          "grouped": true,
+          "section_keys": [
+            "13a-154",
+            "13a-155",
+            "13a-156"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13a-154 to 13a-156 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2276, 2277; 1951, 1953, 1955, June, 1955, S. 1204d; 1951, 1955, S. 1205d; 1953, 1955, June, 1955, S. 1212d; November, 1955, S. N161; 1958 Rev., S. 13-154, 13-155, 13-162; 1959, P.A. 409, S. 2, 3; 1963, P.A. 226, S. 154–156; 1969, P.A. 768, S. 109; 1971, P.A. 235, S. 1; 324, S. 2; P.A. 73-675, S. 20–22, 44; P.A. 74-195; 74-342, S. 16, 17, 43; P.A. 75-568, S. 16, 17, 45; P.A. 76-114, S. 17, 18, 21; P.A. 77-590; P.A. 79-64; P.A. 80-466, S. 1, 25; P.A. 81-67, S. 2, 3, 7; P.A. 82-449, S. 4, 5; 82-472, S. 37, 183; P.A. 86-201, S. 5; P.A. 91-407, S. 41, 42.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13a-154 to 13a-156 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5443,12 +5621,25 @@
           "section_key": "",
           "label": "Secs. 13a-158 to 13a-162a. Variations in tolls and charges on Putnam Bridge. Tolls on Gold Star Memorial Bridge. Charging of tolls for use of approach route to the Mohegan-Pequot Bridge; protection of Governor John Davis Lodge Turnpike obligations. Exemptions from toll payments. Penalty for evasion of toll payment; use of prohibited material in automatic machine or of expired toll tickets. Removal of tolls on the Governor John Davis Lodge Turnpike, Bissell Bridge, Putnam Bridge and Charter Oak Bridge.",
           "url": "https://www.cga.ct.gov/current/pub/chap_239.htm#secs_13a-158_to_13a-162a",
+          "grouped": true,
+          "section_keys": [
+            "13a-158",
+            "13a-162a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13a-158 to 13a-162a , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2215, 2278, 2309, 2328; 1953, 1955, June, 1955, S. 1212d; 1955, S. 1197d, 1206d, 1251d, 1256d, 1274d; November, 1955, S. N162; 1958 Rev., S. 13-100, 13-101, 13-156, 13-162, 13-194, 13-202, 13-233; 1961, P.A. 478; 493; 517, S. 119; 541, S. 13, 15; 1963, P.A. 226, S. 158–162; 611, S. 1; February, 1965, P.A. 284; 1967, P.A. 374, S. 2; 1969, P.A. 211, S. 1; 768, S. 10; P.A. 73-170; 73-675, S. 23, 44; P.A. 74-342, S. 19, 43; P.A. 75-568, S. 18, 45; P.A. 79-539, S. 1, 2; P.A. 80-434; P.A. 81-67, S. 6, 7; P.A. 82-223, S. 4; P.A. 83-553, S. 1, 4; 83-577, S. 10; P.A. 86-201, S. 6–8; P.A. 90-263, S. 42, 74; P.A. 91-407, S. 41, 42.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13a-158 to 13a-162a , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5483,7 +5674,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-154 to 13a-156. Tolls on Merritt and Wilbur Cross Parkways. Registration markers, coupons, tickets and tokens; fees. Toll plates for certain disabled veterans. Toll plates for certain handicapped drivers. Tolls and charges on expressways. Sections 13a-154 to 13a-156 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5498,7 +5692,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-154 to 13a-156. Tolls on Merritt and Wilbur Cross Parkways. Registration markers, coupons, tickets and tokens; fees. Toll plates for certain disabled veterans. Toll plates for certain handicapped drivers. Tolls and charges on expressways. Sections 13a-154 to 13a-156 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5642,19 +5839,42 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 13a-168 to 13a-175. Town aid.",
           "url": "https://www.cga.ct.gov/current/pub/chap_240.htm#secs_13a-168_to_13a-175",
+          "grouped": true,
+          "section_keys": [
+            "13a-168",
+            "13a-169",
+            "13a-170",
+            "13a-171",
+            "13a-172",
+            "13a-173",
+            "13a-174",
+            "13a-175"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13a-168 to 13a-175 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2169–2174, 2176, 2177; 1953, S. 1183d; 1953, June, 1955, S. 1181d; June, 1955, S. 1182d; 1957, P.A. 604, S. 1, 2; 1958 Rev., S. 13-56–13-61, 13-63, 13-64; 1961, P.A. 603, S. 13, 14; 1963, P.A. 226, S. 168–175; 578; February, 1965, P.A. 325, S. 9; 1967, P.A. 701, S. 10.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13a-168 to 13a-175 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5791,7 +6011,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13a-175g is repealed."
+            "text": "Section 13a-175g is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5807,7 +6031,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13a-175h is repealed, effective October 1, 2002."
+            "text": "Section 13a-175h is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5871,12 +6099,37 @@
           "section_key": "",
           "label": "Secs. 13a-175 l to 13a-175o.",
           "url": "https://www.cga.ct.gov/current/pub/chap_240.htm#secs_13a-175l_to_13a-175o",
+          "grouped": true,
+          "section_keys": [
+            "13a-175",
+            "13a-175a",
+            "13a-175b",
+            "13a-175c",
+            "13a-175d",
+            "13a-175e",
+            "13a-175f",
+            "13a-175g",
+            "13a-175h",
+            "13a-175i",
+            "13a-175j",
+            "13a-175k",
+            "13a-175l",
+            "13a-175m",
+            "13a-175n",
+            "13a-175o"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6049,24 +6302,51 @@
           "section_key": "",
           "label": "Secs. 13a-175x to 13a-175z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_240.htm#secs_13a-175x_to_13a-175z",
+          "grouped": true,
+          "section_keys": [
+            "13a-175x",
+            "13a-175y",
+            "13a-175z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 13a-175aa to 13a-175dd. Declaration of policy. Trust fund and separate account established. Trust fund committee established. Investment of funds.",
           "url": "https://www.cga.ct.gov/current/pub/chap_240.htm#secs_13a-175aa_to_13a-175dd",
+          "grouped": true,
+          "section_keys": [
+            "13a-175aa",
+            "13a-175bb",
+            "13a-175cc",
+            "13a-175dd"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13a-175aa to 13a-175dd , inclusive, are repealed."
+            ],
+            "source": [
+              "(July Sp. Sess. P.A. 85-1, S. 1–4, 15; P.A. 86-3, S. 1–3; 86-107, S. 18, 19; 86-178, S. 11, 19; 86-389, S. 1, 3; 86-403, S. 23, 24, 132; P.A. 87-584, S. 17, 18.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13a-175aa to 13a-175dd , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6082,7 +6362,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13a-175ee is repealed, effective October 1, 2002."
+            "text": "Section 13a-175ee is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6100,7 +6384,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13a-175ff is repealed, effective June 3, 1996.\n\n(A)\n\nISSUE OF 1959"
+            "text": "Section 13a-175ff is repealed, effective June 3, 1996.\n\n(A)\n\nISSUE OF 1959",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6437,12 +6725,27 @@
           "section_key": "",
           "label": "Secs. 13a-193 to 13a-196. Highway Debt Service Fund. State Bond Commission may vary use of bond proceeds. Treasurer may determine method of revenue bond sale; negotiable instruments. Pledges to bondholders; binding nature of pledges.",
           "url": "https://www.cga.ct.gov/current/pub/chap_240.htm#secs_13a-193_to_13a-196",
+          "grouped": true,
+          "section_keys": [
+            "13a-193",
+            "13a-194",
+            "13a-195",
+            "13a-196"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13a-193 to 13a-196 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1961, P.A. 605, S. 16–20, 23; 1963, P.A. 226, S. 193–196; P.A. 73-675, S. 29, 44; P.A. 74-342, S. 42, 43.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13a-193 to 13a-196 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6478,7 +6781,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13a-198 is repealed.\n\n(B) (1)\n\nISSUE OF 1969"
+            "text": "Section 13a-198 is repealed.\n\n(B) (1)\n\nISSUE OF 1969",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6734,7 +7041,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13a-198k is repealed."
+            "text": "Section 13a-198k is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6827,72 +7138,178 @@
           "section_key": "",
           "label": "Secs. 13a-199 to 13a-210. Definitions. Bonds. Preliminary requirements for issuance of bonds. Highway Commissioner may issue contracts. Issuance of bonds. Bond declaration. Treasurer to make bond declarations; general powers. Additional expressway bonds. General obligation bonds. Sale of bonds. Bonds not general obligations. Bonds legal investments.",
           "url": "https://www.cga.ct.gov/current/pub/chap_240.htm#secs_13a-199_to_13a-210",
+          "grouped": true,
+          "section_keys": [
+            "13a-199",
+            "13a-200",
+            "13a-201",
+            "13a-202",
+            "13a-203",
+            "13a-204",
+            "13a-205",
+            "13a-206",
+            "13a-207",
+            "13a-208",
+            "13a-209",
+            "13a-210"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13a-199 to 13a-210 , inclusive, are repealed, effective October 1, 1997."
+            ],
+            "source": [
+              "(1953, S. 1208d, 1213d–1215d, 1217d, 1226d, 1233d; 1955, S. 1213d–1215d, 1217d, 1227d, 1228d, 1231d, 1236d; June, 1955, 1213d–1215d, 1217d, 1226d–1228d, 1231d, 1233d, 1236d; 1957, P.A. 2, S. 1–3; 558, S. 1–5; 1958 Rev., S. 13-158, 13-163–13-165, 13-167, 13-176–13-178, 13-181, 13-183, 13-186(a), 13-189; 1959, P.A. 132, S. 16, 19, 21, 22, 25, 27; 1963, P.A. 226, S. 199–210; P.A. 73-675, S. 30, 44; P.A. 74-342, S. 28, 43; P.A. 75-568, S. 26, 45; P.A. 77-614, S. 19, 73, 610; P.A. 80-483, S. 60, 186; P.A. 85-613, S. 113, 154; P.A. 87-496, S. 70, 110; P.A. 96-180, S. 33, 142–146, 166; P.A. 97-62, S. 9.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13a-199 to 13a-210 , inclusive, are repealed, effective October 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 13a-211 to 13a-214. Anticipation notes. Use of receipts from tolls and charges. Additional Expressway Construction Fund. Expressway Reserve Fund.",
           "url": "https://www.cga.ct.gov/current/pub/chap_240.htm#secs_13a-211_to_13a-214",
+          "grouped": true,
+          "section_keys": [
+            "13a-211",
+            "13a-212",
+            "13a-213",
+            "13a-214"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13a-211 to 13a-214 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1953, 1955, June, 1955, S. 1212d, 1216d, 1236d; 1957, P.A. 2, S. 3; 558, S. 4; 1958 Rev., S. 13-162(d)(e), 13-166, 13-186(b); 1959, P.A. 132, S. 17, 18, 26; 1963, P.A 226, S. 211–214; P.A. 73-675, S. 31, 32, 44; P.A. 74-342, S. 29, 30, 43; P.A. 75-568, S. 27, 28, 45; P.A. 85-613, S. 153, 154; P.A. 86-312, S. 20, 21; P.A. 91-407, S. 41, 42.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13a-211 to 13a-214 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 13a-215 to 13a-220. Investment of funds. Pledges binding. Tax exemption. Agreement with bond holders. Committee to receive no compensation; majority action required. Prior covenants and contracts not affected.",
           "url": "https://www.cga.ct.gov/current/pub/chap_240.htm#secs_13a-215_to_13a-220",
+          "grouped": true,
+          "section_keys": [
+            "13a-215",
+            "13a-216",
+            "13a-217",
+            "13a-218",
+            "13a-219",
+            "13a-220"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13a-215 to 13a-220 , inclusive, are repealed, effective October 1, 1997."
+            ],
+            "source": [
+              "(1953, S. 1225d, 1234d, 1235d; 1955, S. 1225d, 1232d, 1235d, 1237d, 1239d; June, 1955, S. 1225d, 1232d, 1234d, 1235d, 1237d, 1239d; 1958 Rev., S. 13-175, 13-182, 13-184, 13-185, 13-187, 13-190; 1959, P.A. 132, S. 24; 409, S. 4; 1963, P.A. 226, S. 215–220; P.A. 73-675, S. 33, 44; P.A. 74-342, S. 31, 43; P.A. 96-180, S. 147, 166; P.A. 97-62, S. 9.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13a-215 to 13a-220 , inclusive, are repealed, effective October 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 13a-221 to 13a-228. Gold Star Memorial Bridge.",
           "url": "https://www.cga.ct.gov/current/pub/chap_240.htm#secs_13a-221_to_13a-228",
+          "grouped": true,
+          "section_keys": [
+            "13a-221",
+            "13a-222",
+            "13a-223",
+            "13a-224",
+            "13a-225",
+            "13a-226",
+            "13a-227",
+            "13a-228"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13a-221 to 13a-228 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2309, 2310, 2316, 2317, 2319, 2321–2323; 1955, S. 1251d; 1958 Rev., S. 13-194, 13-195, 13-197–13-201; 1961, P.A. 478; 1963, P.A. 226, S. 221, 222, 224–228; 571; 1969, P.A. 768, S. 127; P.A. 73-675, S. 34, 44; P.A. 74-342, S. 42, 43.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13a-221 to 13a-228 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 13a-229 to 13a-234. Hartford and East Hartford Bridge.",
           "url": "https://www.cga.ct.gov/current/pub/chap_240.htm#secs_13a-229_to_13a-234",
+          "grouped": true,
+          "section_keys": [
+            "13a-229",
+            "13a-230",
+            "13a-231",
+            "13a-232",
+            "13a-233",
+            "13a-234"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13a-229 to 13a-234 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 1243d, 2295, 2301, 2302, 2304; 1949, March, 1950, S. 1244d; 1957, P.A. 643, S. 1–4; 1958 Rev., S. 13-206–13-211; 1961, P.A. 400; 1963, P.A. 226, S. 229–234; P.A. 73-675, S. 35, 44; P.A. 74-342, S. 42, 43.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13a-229 to 13a-234 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 13a-235 to 13a-238. Use of tolls. Bonds to be legal investments. Payment of bonds. Not to be affected by other acts.",
           "url": "https://www.cga.ct.gov/current/pub/chap_240.htm#secs_13a-235_to_13a-238",
+          "grouped": true,
+          "section_keys": [
+            "13a-235",
+            "13a-236",
+            "13a-237",
+            "13a-238"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13a-235 to 13a-238 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2328, 2329, 2335, 2337; 1955, S. 1256d; 1958 Rev., S. 13-202–13-205; 1963, P.A. 226, S. 235–238; 1967, P.A. 374, S. 1; P.A. 73-675, S. 36, 44; P.A. 74-342, S. 32, 42, 43; P.A. 75-568, S. 29, 45; P.A. 91-407, S. 41, 42.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13a-235 to 13a-238 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7053,7 +7470,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-168 to 13a-175. Town aid. Sections 13a-168 to 13a-175 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7068,7 +7488,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-168 to 13a-175. Town aid. Sections 13a-168 to 13a-175 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7095,7 +7518,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-175aa to 13a-175dd. Declaration of policy. Trust fund and separate account established. Trust fund committee established. Investment of funds. Sections 13a-175aa to 13a-175dd , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7110,7 +7536,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-175aa to 13a-175dd. Declaration of policy. Trust fund and separate account established. Trust fund committee established. Investment of funds. Sections 13a-175aa to 13a-175dd , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7125,7 +7554,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-193 to 13a-196. Highway Debt Service Fund. State Bond Commission may vary use of bond proceeds. Treasurer may determine method of revenue bond sale; negotiable instruments. Pledges to bondholders; binding nature of pledges. Sections 13a-193 to 13a-196 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7140,7 +7572,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-193 to 13a-196. Highway Debt Service Fund. State Bond Commission may vary use of bond proceeds. Treasurer may determine method of revenue bond sale; negotiable instruments. Pledges to bondholders; binding nature of pledges. Sections 13a-193 to 13a-196 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7185,7 +7620,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-211 to 13a-214. Anticipation notes. Use of receipts from tolls and charges. Additional Expressway Construction Fund. Expressway Reserve Fund. Sections 13a-211 to 13a-214 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7200,7 +7638,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-211 to 13a-214. Anticipation notes. Use of receipts from tolls and charges. Additional Expressway Construction Fund. Expressway Reserve Fund. Sections 13a-211 to 13a-214 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7215,7 +7656,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-215 to 13a-220. Investment of funds. Pledges binding. Tax exemption. Agreement with bond holders. Committee to receive no compensation; majority action required. Prior covenants and contracts not affected. Sections 13a-215 to 13a-220 , inclusive, are repealed, effective October 1, 1997.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7230,7 +7674,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-215 to 13a-220. Investment of funds. Pledges binding. Tax exemption. Agreement with bond holders. Committee to receive no compensation; majority action required. Prior covenants and contracts not affected. Sections 13a-215 to 13a-220 , inclusive, are repealed, effective October 1, 1997.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7245,7 +7692,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-221 to 13a-228. Gold Star Memorial Bridge. Sections 13a-221 to 13a-228 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7260,7 +7710,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-221 to 13a-228. Gold Star Memorial Bridge. Sections 13a-221 to 13a-228 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7275,7 +7728,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-229 to 13a-234. Hartford and East Hartford Bridge. Sections 13a-229 to 13a-234 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7290,7 +7746,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-229 to 13a-234. Hartford and East Hartford Bridge. Sections 13a-229 to 13a-234 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7305,7 +7764,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-235 to 13a-238. Use of tolls. Bonds to be legal investments. Payment of bonds. Not to be affected by other acts. Sections 13a-235 to 13a-238 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7320,7 +7782,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13a-235 to 13a-238. Use of tolls. Bonds to be legal investments. Payment of bonds. Not to be affected by other acts. Sections 13a-235 to 13a-238 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -7365,7 +7830,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13a-248 is repealed, effective August 20, 2003."
+            "text": "Section 13a-248 is repealed, effective August 20, 2003.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {

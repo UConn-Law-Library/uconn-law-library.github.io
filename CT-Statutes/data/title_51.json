@@ -23,7 +23,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-1 is repealed."
+            "text": "Section 51-1 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -143,7 +147,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-2 is repealed."
+            "text": "Section 51-2 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -166,12 +174,25 @@
           "section_key": "",
           "label": "Secs. 51-4 and 51-5. Chief Court Administrator to appoint Chief Judges of Superior, Common Pleas and Juvenile Courts; vacancy. Powers and duties of Chief Judges and Probate Court Administrator.",
           "url": "https://www.cga.ct.gov/current/pub/chap_870.htm#secs_51-4_and_51-5",
+          "grouped": true,
+          "section_keys": [
+            "51-4",
+            "51-5"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-4 and 51-5 are repealed."
+            ],
+            "source": [
+              "(1957, P.A. 651, S. 4, 5; 1959, P.A. 28, S. 70, 71; February, 1965, P.A. 331, S. 3, 4; 1967, P.A. 558, S. 1, 2; 622, S. 5; P.A. 73-116, S. 10; 73-365, S. 2; 73-667, S. 1, 2; P.A. 74-183, S. 11, 12, 291; P.A. 76-436, S. 9, 681.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-4 and 51-5 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -279,7 +300,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-6 is repealed."
+            "text": "Section 51-6 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -330,7 +355,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-7 is repealed."
+            "text": "Section 51-7 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -488,7 +517,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-10a is repealed."
+            "text": "Section 51-10a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -607,12 +640,25 @@
           "section_key": "",
           "label": "Secs. 51-11a and 51-11b. Registrar of wills. Disposition of wills in possession of registrar.",
           "url": "https://www.cga.ct.gov/current/pub/chap_870.htm#secs_51-11a_and_51-11b",
+          "grouped": true,
+          "section_keys": [
+            "51-11a",
+            "51-11b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-11a and 51-11b are repealed."
+            ],
+            "source": [
+              "(1967, P.A. 680, S. 1–4; P.A. 73-66, S. 1, 2; P.A. 76-436, S. 46, 681.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-11a and 51-11b are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -655,7 +701,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 873, Sec. 51-51w ."
+            "text": "Transferred to Chapter 873, Sec. 51-51w .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -671,7 +721,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-13 is repealed."
+            "text": "Section 51-13 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -805,7 +859,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 883b, Sec. 51-216a ."
+            "text": "Transferred to Chapter 883b, Sec. 51-216a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -819,7 +877,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 883b, Sec. 51-216c ."
+            "text": "Transferred to Chapter 883b, Sec. 51-216c .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -833,7 +895,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 883b, Sec. 51-216b ."
+            "text": "Transferred to Chapter 883b, Sec. 51-216b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -849,7 +915,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-19 is repealed."
+            "text": "Section 51-19 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -863,7 +933,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 883a, Sec. 51-215b ."
+            "text": "Transferred to Chapter 883a, Sec. 51-215b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -877,19 +951,36 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 883a, Sec. 51-215a ."
+            "text": "Transferred to Chapter 883a, Sec. 51-215a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-21a to 51-26. Connecticut Circuit Court Reports. Publication of state agency regulations and court rules. Publication of rules of the courts: Other documents. Unused volumes of reports. Unclaimed money in possession of officer or employee of Judicial Department; application for payment; escheat. Judicial Council. Reports of prosecuting officers to Judicial Council.",
           "url": "https://www.cga.ct.gov/current/pub/chap_870.htm#secs_51-21a_to_51-26",
+          "grouped": true,
+          "section_keys": [
+            "51-21a",
+            "51-26"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-21a to 51-26 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 1644, 7659, 7660, 7722; March, 1950, S. 1011d; 1951, 1953, S. 3127d; 1957, P.A. 176, S. 12; 651, S. 28; September, 1957, P.A. 11, S. 13; 1959, P.A. 28, S. 76, 77, 79; 1961, P.A. 540, S. 31; 1963, P.A. 288, S. 2; 642, S. 42; 1967, P.A. 558, S. 4; 1971, P.A. 854, S. 20; 1972, P.A. 165, S. 12; June, 1972, P.A. 1, S. 20; P.A. 73-541, S. 5, 7, 8; P.A. 73-620, S. 6, 19; P.A. 74-183, S. 18, 19, 291; P.A. 75-479, S. 24, 25; 75-567, S. 29, 76, 80; P.A. 76-436, S. 51, 681; P.A. 77-13; P.A. 78-280, S. 69, 127; P.A. 82-248, S. 163.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-21a to 51-26 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -904,7 +995,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-4 and 51-5. Chief Court Administrator to appoint Chief Judges of Superior, Common Pleas and Juvenile Courts; vacancy. Powers and duties of Chief Judges and Probate Court Administrator. Sections 51-4 and 51-5 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -919,7 +1013,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-4 and 51-5. Chief Court Administrator to appoint Chief Judges of Superior, Common Pleas and Juvenile Courts; vacancy. Powers and duties of Chief Judges and Probate Court Administrator. Sections 51-4 and 51-5 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -934,7 +1031,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-11a and 51-11b. Registrar of wills. Disposition of wills in possession of registrar. Sections 51-11a and 51-11b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -949,7 +1049,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-11a and 51-11b. Registrar of wills. Disposition of wills in possession of registrar. Sections 51-11a and 51-11b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1238,12 +1341,23 @@
           "section_key": "",
           "label": "Secs. 51-28 and 51-29.",
           "url": "https://www.cga.ct.gov/current/pub/chap_871.htm#secs_51-28_and_51-29",
+          "grouped": true,
+          "section_keys": [
+            "51-28",
+            "51-29"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 882, Secs. 51-183a and 51-183b , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 882, Secs. 51-183a and 51-183b , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1278,7 +1392,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-31 is repealed."
+            "text": "Section 51-31 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1294,7 +1412,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-32 is repealed."
+            "text": "Section 51-32 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1467,12 +1589,25 @@
           "section_key": "",
           "label": "Secs. 51-37 and 51-38. Records and files in New London County. Application of general statutes to municipal and justice courts.",
           "url": "https://www.cga.ct.gov/current/pub/chap_871.htm#secs_51-37_and_51-38",
+          "grouped": true,
+          "section_keys": [
+            "51-37",
+            "51-38"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-37 and 51-38 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 7723, 7737; 1959, P.A. 28, S. 204; P.A. 74-183, S. 25, 291.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-37 and 51-38 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1487,7 +1622,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-37 and 51-38. Records and files in New London County. Application of general statutes to municipal and justice courts. Sections 51-37 and 51-38 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1502,7 +1640,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-37 and 51-38. Records and files in New London County. Application of general statutes to municipal and justice courts. Sections 51-37 and 51-38 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -1577,7 +1718,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-40 is repealed."
+            "text": "Section 51-40 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1591,7 +1736,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 882, Sec. 51-183c ."
+            "text": "Transferred to Chapter 882, Sec. 51-183c .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1605,19 +1754,35 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 882, Sec. 51-183h ."
+            "text": "Transferred to Chapter 882, Sec. 51-183h .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-42 to 51-44.",
           "url": "https://www.cga.ct.gov/current/pub/chap_872.htm#secs_51-42_to_51-44",
+          "grouped": true,
+          "section_keys": [
+            "51-42",
+            "51-43",
+            "51-44"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 882, Secs. 51-183d to 51-183f , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 882, Secs. 51-183d to 51-183f , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1747,7 +1912,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 882, Sec. 51-183g ."
+            "text": "Transferred to Chapter 882, Sec. 51-183g .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1825,7 +1994,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-47a is repealed."
+            "text": "Section 51-47a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2351,7 +2524,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-50g is repealed."
+            "text": "Section 51-50g is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2508,12 +2685,29 @@
           "section_key": "",
           "label": "Secs. 51-51a to 51-51f. Judicial Review Council.",
           "url": "https://www.cga.ct.gov/current/pub/chap_872.htm#secs_51-51a_to_51-51f",
+          "grouped": true,
+          "section_keys": [
+            "51-51a",
+            "51-51b",
+            "51-51c",
+            "51-51d",
+            "51-51e",
+            "51-51f"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-51a to 51-51f , inclusive, are repealed."
+            ],
+            "source": [
+              "(1969, P.A. 771, S. 1–5; 1971, P.A. 188; P.A. 74-183, S. 37, 291; 74-338, S. 2, 94; P.A. 75-328, S. 1–4, 75-479, S. 4, 25; P.A. 76-436, S. 69, 681; P.A. 77-494, S. 17, 18.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-51a to 51-51f , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2528,7 +2722,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-51a to 51-51f. Judicial Review Council. Sections 51-51a to 51-51f , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2543,7 +2740,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-51a to 51-51f. Judicial Review Council. Sections 51-51a to 51-51f , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3025,12 +3225,25 @@
           "section_key": "",
           "label": "Secs. 51-51x and 51-51y. Continuation of service of persons serving in Superior Court, Court of Common Pleas and Juvenile Court on June 30, 1978. Term of office of persons appointed July 1, 1977.",
           "url": "https://www.cga.ct.gov/current/pub/chap_873.htm#secs_51-51x_and_51-51y",
+          "grouped": true,
+          "section_keys": [
+            "51-51x",
+            "51-51y"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-51x and 51-51y are repealed."
+            ],
+            "source": [
+              "(P.A. 76-436, S. 10a, 36a, 37, 681; P.A. 78-280, S. 75, 127; P.A. 82-248, S. 163.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-51x and 51-51y are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3186,7 +3399,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-54 is repealed."
+            "text": "Section 51-54 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3230,7 +3447,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-56 is repealed."
+            "text": "Section 51-56 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3313,7 +3534,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-59 is repealed, effective July 1, 2024."
+            "text": "Section 51-59 is repealed, effective July 1, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3328,7 +3553,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-51x and 51-51y. Continuation of service of persons serving in Superior Court, Court of Common Pleas and Juvenile Court on June 30, 1978. Term of office of persons appointed July 1, 1977. Sections 51-51x and 51-51y are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3343,7 +3571,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-51x and 51-51y. Continuation of service of persons serving in Superior Court, Court of Common Pleas and Juvenile Court on June 30, 1978. Term of office of persons appointed July 1, 1977. Sections 51-51x and 51-51y are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3514,7 +3745,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-64 is repealed."
+            "text": "Section 51-64 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3530,19 +3765,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-65 is repealed, effective July 1, 2019."
+            "text": "Section 51-65 is repealed, effective July 1, 2019.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-66 to 51-71a. Court reporters and stenographers, generally.",
           "url": "https://www.cga.ct.gov/current/pub/chap_874.htm#secs_51-66_to_51-71a",
+          "grouped": true,
+          "section_keys": [
+            "51-66",
+            "51-71a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-66 to 51-71a , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3608, 7591, 7613, 7614, 7731, 7732; 1949, S. 3109d; 1957, P.A. 199, S. 1; 446, S. 2; September, 1957, P.A. 11, S. 36; March, 1958, P.A. 27, S. 57; 1959, P.A. 28, S. 14–18; 204; 1963, P.A. 31; 1967, P.A. 228; P.A. 74-183, S. 43, 44, 280, 291; P.A. 75-530, S. 8, 35; P.A. 76-436, S. 75, 547, 681.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-66 to 51-71a , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3640,7 +3892,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-66 to 51-71a. Court reporters and stenographers, generally. Sections 51-66 to 51-71a , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3655,7 +3910,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-66 to 51-71a. Court reporters and stenographers, generally. Sections 51-66 to 51-71a , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3679,31 +3937,62 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-75 is repealed, effective October 1, 2012."
+            "text": "Section 51-75 is repealed, effective October 1, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-76 and 51-76a. Messengers and assistant messengers: Of Court of Common Pleas; of the Circuit Court.",
           "url": "https://www.cga.ct.gov/current/pub/chap_875.htm#secs_51-76_and_51-76a",
+          "grouped": true,
+          "section_keys": [
+            "51-76",
+            "51-76a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-76 and 51-76a are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 7616; March, 1958, P.A. 27, S. 59; 1959, P.A. 28, S. 19; P.A. 74-183, S. 45, 280, 291; P.A. 76-436, S. 77, 681.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-76 and 51-76a are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-77 to 51-79. Filling of vacancies. Retired messengers may be continued in service. Duties of messengers of the Supreme and Superior Courts.",
           "url": "https://www.cga.ct.gov/current/pub/chap_875.htm#secs_51-77_to_51-79",
+          "grouped": true,
+          "section_keys": [
+            "51-77",
+            "51-78",
+            "51-79"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-77 to 51-79 , inclusive, are repealed, effective June 13, 2023."
+            ],
+            "source": [
+              "(1949 Rev., S. 3139d, 7712, 7713; 1959, P.A. 28, S. 96; February, 1965, P.A. 574, S. 38; 1972, P.A. 165, S. 11; June, 1972, P.A. 1, S. 20; P.A. 77-576, S. 24, 65; P.A. 81-19, S. 2, 3; P.A. 82-248, S. 66–68; P.A. 23-46, S. 44.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-77 to 51-79 , inclusive, are repealed, effective June 13, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3718,7 +4007,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-76 and 51-76a. Messengers and assistant messengers: Of Court of Common Pleas; of the Circuit Court. Sections 51-76 and 51-76a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3733,7 +4025,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-76 and 51-76a. Messengers and assistant messengers: Of Court of Common Pleas; of the Circuit Court. Sections 51-76 and 51-76a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3748,7 +4043,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-77 to 51-79. Filling of vacancies. Retired messengers may be continued in service. Duties of messengers of the Supreme and Superior Courts. Sections 51-77 to 51-79 , inclusive, are repealed, effective June 13, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3763,7 +4061,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-77 to 51-79. Filling of vacancies. Retired messengers may be continued in service. Duties of messengers of the Supreme and Superior Courts. Sections 51-77 to 51-79 , inclusive, are repealed, effective June 13, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3860,7 +4161,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-81a is repealed."
+            "text": "Section 51-81a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3945,12 +4250,24 @@
           "section_key": "",
           "label": "Secs. 51-81e to 51-81g.",
           "url": "https://www.cga.ct.gov/current/pub/chap_876.htm#secs_51-81e_to_51-81g",
+          "grouped": true,
+          "section_keys": [
+            "51-81e",
+            "51-81f",
+            "51-81g"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3978,12 +4295,25 @@
           "section_key": "",
           "label": "Secs. 51-82 and 51-83. Admission to examination of attorneys admitted to practice in other states. Examination of veterans for admission.",
           "url": "https://www.cga.ct.gov/current/pub/chap_876.htm#secs_51-82_and_51-83",
+          "grouped": true,
+          "section_keys": [
+            "51-82",
+            "51-83"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-82 and 51-83 are repealed."
+            ],
+            "source": [
+              "(1949, S. 3119d; 1957, P.A. 528; 597; 1963, P.A. 642, S. 43; P.A. 82-248, S. 163.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-82 and 51-83 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4277,7 +4607,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-89a is repealed."
+            "text": "Section 51-89a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4727,7 +5061,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-92 is repealed."
+            "text": "Section 51-92 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4816,7 +5154,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-82 and 51-83. Admission to examination of attorneys admitted to practice in other states. Examination of veterans for admission. Sections 51-82 and 51-83 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4831,7 +5172,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-82 and 51-83. Admission to examination of attorneys admitted to practice in other states. Examination of veterans for admission. Sections 51-82 and 51-83 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -4929,12 +5273,32 @@
           "section_key": "",
           "label": "Secs. 51-96 to 51-104. Justice court, generally.",
           "url": "https://www.cga.ct.gov/current/pub/chap_877.htm#secs_51-96_to_51-104",
+          "grouped": true,
+          "section_keys": [
+            "51-96",
+            "51-97",
+            "51-98",
+            "51-99",
+            "51-100",
+            "51-101",
+            "51-102",
+            "51-103",
+            "51-104"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-96 to 51-104 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 7550, 7551, 7553–7559; 1959, P.A. 28, S. 204.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-96 to 51-104 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4971,7 +5335,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-106 is repealed."
+            "text": "Section 51-106 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5015,12 +5383,25 @@
           "section_key": "",
           "label": "Secs. 51-109 and 51-110. Justice not reelected; pending matters. Compensation of justices.",
           "url": "https://www.cga.ct.gov/current/pub/chap_877.htm#secs_51-109_and_51-110",
+          "grouped": true,
+          "section_keys": [
+            "51-109",
+            "51-110"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-109 and 51-110 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3616, 7564; 1959, P.A. 28, S. 204.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-109 and 51-110 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5035,7 +5416,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-96 to 51-104. Justice court, generally. Sections 51-96 to 51-104 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5050,7 +5434,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-96 to 51-104. Justice court, generally. Sections 51-96 to 51-104 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5065,7 +5452,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-109 and 51-110. Justice not reelected; pending matters. Compensation of justices. Sections 51-109 and 51-110 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5080,7 +5470,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-109 and 51-110. Justice not reelected; pending matters. Compensation of justices. Sections 51-109 and 51-110 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -5095,12 +5488,39 @@
           "section_key": "",
           "label": "Secs. 51-111 to 51-126. Trial justices and prosecuting grand jurors.",
           "url": "https://www.cga.ct.gov/current/pub/chap_878.htm#secs_51-111_to_51-126",
+          "grouped": true,
+          "section_keys": [
+            "51-111",
+            "51-112",
+            "51-113",
+            "51-114",
+            "51-115",
+            "51-116",
+            "51-117",
+            "51-118",
+            "51-119",
+            "51-120",
+            "51-121",
+            "51-122",
+            "51-123",
+            "51-124",
+            "51-125",
+            "51-126"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-111 to 51-126 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 7566–7576, 7578, 8736–8739; 1957, P.A. 13, S. 98; 574; 651, S. 21; March, 1958, P.A. 27, S. 51; 1959, P.A. 28, S. 204.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-111 to 51-126 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5115,7 +5535,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-111 to 51-126. Trial justices and prosecuting grand jurors. Sections 51-111 to 51-126 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5130,7 +5553,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-111 to 51-126. Trial justices and prosecuting grand jurors. Sections 51-111 to 51-126 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -5145,12 +5571,35 @@
           "section_key": "",
           "label": "Secs. 51-127 to 51-138. Municipal courts.",
           "url": "https://www.cga.ct.gov/current/pub/chap_879.htm#secs_51-127_to_51-138",
+          "grouped": true,
+          "section_keys": [
+            "51-127",
+            "51-128",
+            "51-129",
+            "51-130",
+            "51-131",
+            "51-132",
+            "51-133",
+            "51-134",
+            "51-135",
+            "51-136",
+            "51-137",
+            "51-138"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-127 to 51-138 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 76, 7581–7587, 7590, 7735; 1951, S. 3098d; 1953, S. 25d, 3099d–3101d; 1957, P.A. 13, S. 97; 570; 651, S. 22, 23; 1959, P.A. 28, S. 204.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-127 to 51-138 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5165,7 +5614,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-127 to 51-138. Municipal courts. Sections 51-127 to 51-138 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5180,7 +5632,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-127 to 51-138. Municipal courts. Sections 51-127 to 51-138 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -5204,7 +5659,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-139 is repealed."
+            "text": "Section 51-139 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5218,7 +5677,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 890, Sec. 51-342 ."
+            "text": "Transferred to Chapter 890, Sec. 51-342 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -5234,7 +5697,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-141 is repealed."
+            "text": "Section 51-141 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -5258,7 +5725,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-141a is repealed."
+            "text": "Section 51-141a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5272,19 +5743,39 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 882, Sec. 51-164v ."
+            "text": "Transferred to Chapter 882, Sec. 51-164v .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-142 to 51-146. Constitution of Court of Common Pleas; senior judges, terms, powers. Annual meeting of judges; meeting with judges of Superior Court. Special meetings of judges. Substitute judges. Clerks and clerical staff.",
           "url": "https://www.cga.ct.gov/current/pub/chap_881.htm#secs_51-142_to_51-146",
+          "grouped": true,
+          "section_keys": [
+            "51-142",
+            "51-143",
+            "51-144",
+            "51-145",
+            "51-146"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-142 to 51-146 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 7595, 7598, 7604, 7609, 7610; 1953, S. 3105d; June, 1955, S. 3132d; 1957, P.A. 446, S. 3; March, 1958, P.A. 27, S. 56; 1963, P.A. 394, S. 1; February, 1965, P.A. 331, S. 14; 1967, P.A. 243, S. 1; 656, S. 27, 28; 1969, P.A. 249; P.A. 74-183, S. 2, 59, 291; 74-309, S. 12, 17; P.A. 75-145, S. 1, 2; 75-167, S. 1, 2; 75-530, S. 6, 35; 75-578, S. 11; P.A. 76-388, S. 1, 6; 76-436, S. 79, 681; P.A. 77-452, S. 65, 72.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-142 to 51-146 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5300,7 +5791,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -5314,19 +5809,40 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 870, Sec. 51-10a ."
+            "text": "Transferred to Chapter 870, Sec. 51-10a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-147 to 51-152. Salaries and expenses of clerks and assistant clerks; full-time, part-time requirements. Prosecuting attorneys. Court accommodations in Windham, Middlesex and Tolland Counties. Criminal terms.",
           "url": "https://www.cga.ct.gov/current/pub/chap_881.htm#secs_51-147_to_51-152",
+          "grouped": true,
+          "section_keys": [
+            "51-147",
+            "51-148",
+            "51-149",
+            "51-150",
+            "51-151",
+            "51-152"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-147 to 51-152 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3606, 3608, 3612, 7596, 7602, 7603, 7611, 7612; 1949, S. 3106d, 3108d; November, 1955, S. N226; September, 1957, P.A. 11, S. 36; March, 1958, P.A. 27, S. 53, 57; 1959, P.A. 152, S. 68; 1963, P.A. 642, S. 44, 45; February, 1965, P.A. 516, S. 2; P.A. 73-635, S. 1; P.A. 76-436, S. 79, 681.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-147 to 51-152 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5340,43 +5856,85 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 882, Sec. 51-180a ."
+            "text": "Transferred to Chapter 882, Sec. 51-180a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-154 to 51-156. Civil business at criminal terms. Civil terms: When and where held; at Bristol. Times and places of sessions to be determined by Chief Judge.",
           "url": "https://www.cga.ct.gov/current/pub/chap_881.htm#secs_51-154_to_51-156",
+          "grouped": true,
+          "section_keys": [
+            "51-154",
+            "51-155",
+            "51-156"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-154 to 51-156 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 7597, 7599, 7601; 1953, S. 3107d; 1957, P.A. 446, S. 1, 4; 651, S. 24; March, 1958, P.A. 27, S. 54; 1963, P.A. 642, S. 47, 48; February, 1965, P.A. 204, S. 1; 331, S. 18; 339, S. 2; 1967, P.A. 319; P.A. 76-436, S. 248, 260, 264, 681.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-154 to 51-156 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-156a and 51-156b.",
           "url": "https://www.cga.ct.gov/current/pub/chap_881.htm#secs_51-156a_and_51-156b",
+          "grouped": true,
+          "section_keys": [
+            "51-156a",
+            "51-156b"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 871, Secs. 51-27a and 51-27b , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 871, Secs. 51-27a and 51-27b , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-156c to 51-157. Short calendar, small claims, night sessions; special sessions; construction and acquisition of new courthouses; office of Chief Family Relations Officer abolished. Notice of sessions; assignment of judges.",
           "url": "https://www.cga.ct.gov/current/pub/chap_881.htm#secs_51-156c_to_51-157",
+          "grouped": true,
+          "section_keys": [
+            "51-156c",
+            "51-157"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-156c to 51-157 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 7600; 1957, P.A. 446, S. 5; 651, S. 25; 1959, P.A. 28, S. 22; 1963, P.A. 642, S. 49; February, 1965, P.A. 331, S. 19; 1967, P.A. 121, S. 1; P.A. 73-611; P.A. 74-183, S. 46, 64, 291; P.A. 75-152, S. 1, 2; 75-530, S. 7, 9, 35; 75-612, S. 1, 2; P.A. 76-108, S. 2, 3; 76-388, S. 2, 3, 6; 76-436, S. 271, 681; P.A. 77-452, S. 14, 33, 72; 77-576, S. 40, 65.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-156c to 51-157 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5390,19 +5948,36 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 882, Sec. 51-182o ."
+            "text": "Transferred to Chapter 882, Sec. 51-182o .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-157b to 51-160. Family relations matters transferred from Superior Court: Terms and sessions for hearing; power of court or judge. Adjournment of court. Rooms for special sessions. Place of trial need not be designated.",
           "url": "https://www.cga.ct.gov/current/pub/chap_881.htm#secs_51-157b_to_51-160",
+          "grouped": true,
+          "section_keys": [
+            "51-157b",
+            "51-160"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-157b to 51-160 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 7605, 7606, 7618; 1959, P.A. 152, S. 69; 1963, P.A. 642, S. 50; 1971, P.A. 870, S. 5, 16, 17; P.A. 74-183, S. 280, 291; P.A. 76-436, S. 504, 656, 681; P.A. 77-614, S. 73, 610; P.A. 78-280, S. 126, 127; 78-331, S. 54, 58.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-157b to 51-160 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5416,19 +5991,37 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 882, Sec. 51-190a ."
+            "text": "Transferred to Chapter 882, Sec. 51-190a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-162 to 51-164. Files and judgments of court held in Stamford to be recorded and preserved in Stamford. Transfer of hearings before judge. Records may be rewritten.",
           "url": "https://www.cga.ct.gov/current/pub/chap_881.htm#secs_51-162_to_51-164",
+          "grouped": true,
+          "section_keys": [
+            "51-162",
+            "51-163",
+            "51-164"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-162 to 51-164 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 7608, 7617; 1957, P.A. 446, S. 8, 9; P.A. 76-436, S. 79, 80, 91, 681.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-162 to 51-164 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5442,19 +6035,36 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 886, Sec. 51-286a ."
+            "text": "Transferred to Chapter 886, Sec. 51-286a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-164b and 51-164c. Prosecuting attorneys and associates not to practice criminal law. New trial; rehearing.",
           "url": "https://www.cga.ct.gov/current/pub/chap_881.htm#secs_51-164b_and_51-164c",
+          "grouped": true,
+          "section_keys": [
+            "51-164b",
+            "51-164c"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-164b and 51-164c are repealed."
+            ],
+            "source": [
+              "(1959, P.A. 28, S. 12, 28; P.A. 74-183, S. 62, 65, 291; P.A. 76-436, S. 79, 654, 681.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-164b and 51-164c are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5468,7 +6078,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 884, Sec. 51-239b ."
+            "text": "Transferred to Chapter 884, Sec. 51-239b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -5482,19 +6096,36 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 884, Sec. 51-239a ."
+            "text": "Transferred to Chapter 884, Sec. 51-239a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-164f and 51-164g. Instruction of jury; judgment notwithstanding verdict. Practice and procedure; orders and rules.",
           "url": "https://www.cga.ct.gov/current/pub/chap_881.htm#secs_51-164f_and_51-164g",
+          "grouped": true,
+          "section_keys": [
+            "51-164f",
+            "51-164g"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-164f and 51-164g are repealed."
+            ],
+            "source": [
+              "(1959, P.A. 28, S. 35, 36; P.A. 74-183, S. 69, 70, 291; P.A. 76-436, S. 79, 681.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-164f and 51-164g are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5508,7 +6139,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 877, Sec. 51-95a ."
+            "text": "Transferred to Chapter 877, Sec. 51-95a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -5524,7 +6159,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -5539,7 +6178,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-142 to 51-146. Constitution of Court of Common Pleas; senior judges, terms, powers. Annual meeting of judges; meeting with judges of Superior Court. Special meetings of judges. Substitute judges. Clerks and clerical staff. Sections 51-142 to 51-146 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5554,7 +6196,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-142 to 51-146. Constitution of Court of Common Pleas; senior judges, terms, powers. Annual meeting of judges; meeting with judges of Superior Court. Special meetings of judges. Substitute judges. Clerks and clerical staff. Sections 51-142 to 51-146 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5569,7 +6214,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-147 to 51-152. Salaries and expenses of clerks and assistant clerks; full-time, part-time requirements. Prosecuting attorneys. Court accommodations in Windham, Middlesex and Tolland Counties. Criminal terms. Sections 51-147 to 51-152 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5584,7 +6232,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-147 to 51-152. Salaries and expenses of clerks and assistant clerks; full-time, part-time requirements. Prosecuting attorneys. Court accommodations in Windham, Middlesex and Tolland Counties. Criminal terms. Sections 51-147 to 51-152 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5599,7 +6250,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-154 to 51-156. Civil business at criminal terms. Civil terms: When and where held; at Bristol. Times and places of sessions to be determined by Chief Judge. Sections 51-154 to 51-156 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5614,7 +6268,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-154 to 51-156. Civil business at criminal terms. Civil terms: When and where held; at Bristol. Times and places of sessions to be determined by Chief Judge. Sections 51-154 to 51-156 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5629,7 +6286,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-156c to 51-157. Short calendar, small claims, night sessions; special sessions; construction and acquisition of new courthouses; office of Chief Family Relations Officer abolished. Notice of sessions; assignment of judges. Sections 51-156c to 51-157 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5644,7 +6304,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-156c to 51-157. Short calendar, small claims, night sessions; special sessions; construction and acquisition of new courthouses; office of Chief Family Relations Officer abolished. Notice of sessions; assignment of judges. Sections 51-156c to 51-157 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5659,7 +6322,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-157b to 51-160. Family relations matters transferred from Superior Court: Terms and sessions for hearing; power of court or judge. Adjournment of court. Rooms for special sessions. Place of trial need not be designated. Sections 51-157b to 51-160 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5674,7 +6340,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-157b to 51-160. Family relations matters transferred from Superior Court: Terms and sessions for hearing; power of court or judge. Adjournment of court. Rooms for special sessions. Place of trial need not be designated. Sections 51-157b to 51-160 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5689,7 +6358,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-162 to 51-164. Files and judgments of court held in Stamford to be recorded and preserved in Stamford. Transfer of hearings before judge. Records may be rewritten. Sections 51-162 to 51-164 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5704,7 +6376,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-162 to 51-164. Files and judgments of court held in Stamford to be recorded and preserved in Stamford. Transfer of hearings before judge. Records may be rewritten. Sections 51-162 to 51-164 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5719,7 +6394,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-164b and 51-164c. Prosecuting attorneys and associates not to practice criminal law. New trial; rehearing. Sections 51-164b and 51-164c are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5734,7 +6412,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-164b and 51-164c. Prosecuting attorneys and associates not to practice criminal law. New trial; rehearing. Sections 51-164b and 51-164c are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5749,7 +6430,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-164f and 51-164g. Instruction of jury; judgment notwithstanding verdict. Practice and procedure; orders and rules. Sections 51-164f and 51-164g are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5764,7 +6448,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-164f and 51-164g. Instruction of jury; judgment notwithstanding verdict. Practice and procedure; orders and rules. Sections 51-164f and 51-164g are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -5779,12 +6466,26 @@
           "section_key": "",
           "label": "Secs. 51-164j to 51-164 l . Common pleas judicial district of Ansonia-Milford.",
           "url": "https://www.cga.ct.gov/current/pub/chap_881a.htm#secs_51-164j_to_51-164l",
+          "grouped": true,
+          "section_keys": [
+            "51-164j",
+            "51-164k",
+            "51-164l"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-164j to 51-164 l , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 75-578, S. 9, 12, 15; P.A. 76-380, S. 1, 12; 76-436, S. 667, 672, 681; P.A. 77-576, S. 11, 65.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-164j to 51-164 l , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5799,7 +6500,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-164j to 51-164 l . Common pleas judicial district of Ansonia-Milford. Sections 51-164j to 51-164 l , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5814,7 +6518,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-164j to 51-164 l . Common pleas judicial district of Ansonia-Milford. Sections 51-164j to 51-164 l , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -5959,7 +6666,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-164q is repealed."
+            "text": "Section 51-164q is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6064,7 +6775,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-164u is repealed, effective October 1, 2002."
+            "text": "Section 51-164u is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6098,7 +6813,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-164w is repealed, effective October 1, 2002."
+            "text": "Section 51-164w is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6215,19 +6934,37 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 873, Sec. 51-51v ."
+            "text": "Transferred to Chapter 873, Sec. 51-51v .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-169 to 51-171. Salaries of clerks and assistant clerks; traveling expenses; full-time, part-time requirements. Clerks of Superior Court to be county and judicial district clerks; custody of records of former county courts. Certification re authority of notaries public who recorded commissions prior to July 1, 1982. Custody of files and judgments in Stamford.",
           "url": "https://www.cga.ct.gov/current/pub/chap_882.htm#secs_51-169_to_51-171",
+          "grouped": true,
+          "section_keys": [
+            "51-169",
+            "51-170",
+            "51-171"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-169 to 51-171 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3605, 3608, 7668; 1957, P.A. 445, S. 5, 6; September, 1957, P.A. 11, S. 36; March, 1958, P.A. 27, S. 57; 1972, P.A. 165, S. 4, 24; June, 1972, P.A. 1, S. 20; P.A. 73-635, S. 2; P.A. 81-34, S. 5, 9; P.A. 82-248, S. 163; P.A. 90-154, S. 21.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-169 to 51-171 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6241,19 +6978,37 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 873, Sec. 51-52b ."
+            "text": "Transferred to Chapter 873, Sec. 51-52b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-172 to 51-174. Records and files at Waterbury. Civil actions on appeals brought in Ansonia filed in Waterbury. Records and seal of court at Winchester.",
           "url": "https://www.cga.ct.gov/current/pub/chap_882.htm#secs_51-172_to_51-174",
+          "grouped": true,
+          "section_keys": [
+            "51-172",
+            "51-173",
+            "51-174"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-172 to 51-174 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 7669–7671; 1957, P.A. 603, S. 4; P.A. 76-436, S. 91, 681; P.A. 77-452, S. 44, 72; P.A. 78-280, S. 126, 127; 78-331, S. 54, 58.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-172 to 51-174 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6267,31 +7022,61 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 886, Sec. 51-278 ."
+            "text": "Transferred to Chapter 886, Sec. 51-278 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-175a and 51-175b.",
           "url": "https://www.cga.ct.gov/current/pub/chap_882.htm#secs_51-175a_and_51-175b",
+          "grouped": true,
+          "section_keys": [
+            "51-175a",
+            "51-175b"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 886, Secs. 51-287 and 51-288 , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 886, Secs. 51-287 and 51-288 , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-176 to 51-179. Special state's attorney. Circuit Court prosecutors not to be state's attorneys. Expenses of state's attorneys. Civil term.",
           "url": "https://www.cga.ct.gov/current/pub/chap_882.htm#secs_51-176_to_51-179",
+          "grouped": true,
+          "section_keys": [
+            "51-176",
+            "51-177",
+            "51-178",
+            "51-179"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-176 to 51-179 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3613, 7622, 7665, 7666; 1955, S. 3112d; 1957, P.A. 445, S. 1; 1961, P.A. 517, S. 34; 1963, P.A. 642, S. 51; February, 1965, P.A. 331, S. 20; 1969, P.A. 364, S. 1; 1972, P.A. 165, S. 14; June, 1972, P.A. 1, S. 20; P.A. 73-116, S. 11, 12; 73-122, S. 26, 27; 73-667, S. 1, 2; P.A. 77-576, S. 29, 65; P.A. 78-280, S. 4, 127; P.A. 82-248, S. 163.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-176 to 51-179 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6374,7 +7159,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-181a is repealed."
+            "text": "Section 51-181a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6431,7 +7220,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-181d is repealed, effective July 1, 2023."
+            "text": "Section 51-181d is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6502,12 +7295,25 @@
           "section_key": "",
           "label": "Secs. 51-182a and 51-182b. Family relations term. Family relations sessions.",
           "url": "https://www.cga.ct.gov/current/pub/chap_882.htm#secs_51-182a_and_51-182b",
+          "grouped": true,
+          "section_keys": [
+            "51-182a",
+            "51-182b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-182a and 51-182b are repealed."
+            ],
+            "source": [
+              "(1959, P.A. 531, S. 1, 2; February, 1965, P.A. 331, S. 23, 24; 1969, P.A. 365, S. 1, 2; 1972, P.A. 165, S. 17; June, 1972, P.A. 1, S. 20; P.A. 76-436, S. 503, 681; P.A. 77-576, S. 29, 65.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-182a and 51-182b are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6523,7 +7329,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 815, Sec. 46b-1 ."
+            "text": "Transferred to Chapter 815, Sec. 46b-1 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -6539,19 +7349,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-182d is repealed."
+            "text": "Section 51-182d is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-182e and 51-182f.*",
           "url": "https://www.cga.ct.gov/current/pub/chap_882.htm#secs_51-182e_and_51-182f",
+          "grouped": true,
+          "section_keys": [
+            "51-182e",
+            "51-182f"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 815, Secs. 46b-3 and 46b-4 , respectively."
+            ],
+            "source": [
+              "*Note: Originally renumbered as Secs. 51-332 and 51-333, respectively, in the 1977 Court Reorganization Supplement."
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 815, Secs. 46b-3 and 46b-4 , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -6565,7 +7392,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 889, Sec. 51-334 ."
+            "text": "Transferred to Chapter 889, Sec. 51-334 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -6581,19 +7412,37 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 815, Sec. 46b-11 ."
+            "text": "Transferred to Chapter 815, Sec. 46b-11 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-182i to 51-182k.*",
           "url": "https://www.cga.ct.gov/current/pub/chap_882.htm#secs_51-182i_to_51-182k",
+          "grouped": true,
+          "section_keys": [
+            "51-182i",
+            "51-182j",
+            "51-182k"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 815, Secs. 46b-5 to 46b-7 , inclusive."
+            ],
+            "source": [
+              "*Note: Originally renumbered as Secs. 51-336 to 51-338, inclusive, in the 1977 Court Reorganization Supplement."
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 815, Secs. 46b-5 to 46b-7 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -6609,7 +7458,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 815, Sec. 46b-10 ."
+            "text": "Transferred to Chapter 815, Sec. 46b-10 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -6625,19 +7478,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 815, Sec. 46b-9 ."
+            "text": "Transferred to Chapter 815, Sec. 46b-9 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-182n and 51-182o. Hearing of appeals from Juvenile Court. Sessions for appeals from Common Pleas Court.",
           "url": "https://www.cga.ct.gov/current/pub/chap_882.htm#secs_51-182n_and_51-182o",
+          "grouped": true,
+          "section_keys": [
+            "51-182n",
+            "51-182o"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-182n and 51-182o are repealed."
+            ],
+            "source": [
+              "(1959, P.A. 28, S. 31; 531, S. 16–18; 1971, P.A. 870, S. 6, 24; P.A. 73-616, S. 39; P.A. 74-183, S. 47, 291; P.A. 76-435, S. 34, 82; 76-436, S. 117, 657, 681.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-182n and 51-182o are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6653,7 +7523,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 815, Sec. 46b-8 ."
+            "text": "Transferred to Chapter 815, Sec. 46b-8 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -6856,7 +7730,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-183e is repealed, effective October 1, 2010."
+            "text": "Section 51-183e is repealed, effective October 1, 2010.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7003,7 +7881,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-185 is repealed, effective July 1, 2024."
+            "text": "Section 51-185 is repealed, effective July 1, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7037,19 +7919,34 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-187 is repealed."
+            "text": "Section 51-187 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-187a and 51-187b.",
           "url": "https://www.cga.ct.gov/current/pub/chap_882.htm#secs_51-187a_and_51-187b",
+          "grouped": true,
+          "section_keys": [
+            "51-187a",
+            "51-187b"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 871, Secs. 51-27c and 51-27d , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 871, Secs. 51-27c and 51-27d , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7063,7 +7960,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 871, Sec. 51-27f ."
+            "text": "Transferred to Chapter 871, Sec. 51-27f .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7100,7 +8001,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-190 is repealed."
+            "text": "Section 51-190 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7128,12 +8033,26 @@
           "section_key": "",
           "label": "Secs. 51-191 to 51-193. Cause affecting land; documents lodged in Superior Court. Clerk designated by judge to take papers. Records may be rewritten.",
           "url": "https://www.cga.ct.gov/current/pub/chap_882.htm#secs_51-191_to_51-193",
+          "grouped": true,
+          "section_keys": [
+            "51-191",
+            "51-192",
+            "51-193"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-191 to 51-193 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 7651, 7652, 7667; 1972, P.A. 165, S. 19; June, 1972, P.A. 1, S. 20; P.A. 78-280, S. 126, 127; 78-331, S. 54, 58.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-191 to 51-193 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7147,7 +8066,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 877, Sec. 51-95a ."
+            "text": "Transferred to Chapter 877, Sec. 51-95a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7210,12 +8133,28 @@
           "section_key": "",
           "label": "Secs. 51-193e to 51-193k.",
           "url": "https://www.cga.ct.gov/current/pub/chap_882.htm#secs_51-193e_to_51-193k",
+          "grouped": true,
+          "section_keys": [
+            "51-193e",
+            "51-193f",
+            "51-193g",
+            "51-193h",
+            "51-193i",
+            "51-193j",
+            "51-193k"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7245,12 +8184,28 @@
           "section_key": "",
           "label": "Secs. 51-193m to 51-193q. Prosecutions to be submitted to magistrate. Persons alleged to have committed motor vehicle infractions; payment of fine; plea of not guilty. Request for jury trial; hearing in Superior Court. Notification of magistrate by clerk of court; where hearing may be held. Hearing before magistrate; report; final judgment.",
           "url": "https://www.cga.ct.gov/current/pub/chap_882.htm#secs_51-193m_to_51-193q",
+          "grouped": true,
+          "section_keys": [
+            "51-193m",
+            "51-193n",
+            "51-193o",
+            "51-193p",
+            "51-193q"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-193m to 51-193q , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 81-462, S. 2–6, 13; P.A. 82-441, S. 13, 15, 17–19, 23; P.A. 85-464, S. 6.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-193m to 51-193q , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7284,7 +8239,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-193s is repealed."
+            "text": "Section 51-193s is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7612,7 +8571,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-197d is repealed."
+            "text": "Section 51-197d is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7706,7 +8669,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-172 to 51-174. Records and files at Waterbury. Civil actions on appeals brought in Ansonia filed in Waterbury. Records and seal of court at Winchester. Sections 51-172 to 51-174 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7721,7 +8687,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-172 to 51-174. Records and files at Waterbury. Civil actions on appeals brought in Ansonia filed in Waterbury. Records and seal of court at Winchester. Sections 51-172 to 51-174 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7736,7 +8705,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-176 to 51-179. Special state's attorney. Circuit Court prosecutors not to be state's attorneys. Expenses of state's attorneys. Civil term. Sections 51-176 to 51-179 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7751,7 +8723,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-176 to 51-179. Special state's attorney. Circuit Court prosecutors not to be state's attorneys. Expenses of state's attorneys. Civil term. Sections 51-176 to 51-179 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7766,7 +8741,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-182a and 51-182b. Family relations term. Family relations sessions. Sections 51-182a and 51-182b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7781,7 +8759,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-182a and 51-182b. Family relations term. Family relations sessions. Sections 51-182a and 51-182b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7796,7 +8777,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-182n and 51-182o. Hearing of appeals from Juvenile Court. Sessions for appeals from Common Pleas Court. Sections 51-182n and 51-182o are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7811,7 +8795,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-182n and 51-182o. Hearing of appeals from Juvenile Court. Sessions for appeals from Common Pleas Court. Sections 51-182n and 51-182o are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7826,7 +8813,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-191 to 51-193. Cause affecting land; documents lodged in Superior Court. Clerk designated by judge to take papers. Records may be rewritten. Sections 51-191 to 51-193 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7841,7 +8831,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-191 to 51-193. Cause affecting land; documents lodged in Superior Court. Clerk designated by judge to take papers. Records may be rewritten. Sections 51-191 to 51-193 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7920,7 +8913,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-198a is repealed."
+            "text": "Section 51-198a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7991,7 +8988,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-199a is repealed, effective June 3, 1999."
+            "text": "Section 51-199a is repealed, effective June 3, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8136,7 +9137,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-204 is repealed, effective October 1, 2010."
+            "text": "Section 51-204 is repealed, effective October 1, 2010.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8170,7 +9175,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-206 is repealed, effective October 1, 2010."
+            "text": "Section 51-206 is repealed, effective October 1, 2010.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8346,7 +9355,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-214 is repealed."
+            "text": "Section 51-214 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8404,7 +9417,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-215b is repealed, effective October 1, 2015."
+            "text": "Section 51-215b is repealed, effective October 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8616,12 +9633,25 @@
           "section_key": "",
           "label": "Secs. 51-218 and 51-219. Jury service for women. Exemption from jury service.",
           "url": "https://www.cga.ct.gov/current/pub/chap_884.htm#secs_51-218_and_51-219",
+          "grouped": true,
+          "section_keys": [
+            "51-218",
+            "51-219"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-218 and 51-219 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 7907, 7927; P.A. 73-47; P.A. 75-264, S. 1, 2; P.A. 76-52, S. 4, 8; P.A. 78-197; P.A. 79-386; P.A. 82-248, S. 121; June Sp. Sess. P.A. 83-5, S. 17, 18; P.A. 84-393, S. 18–20.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-218 and 51-219 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8766,12 +9796,25 @@
           "section_key": "",
           "label": "Secs. 51-221 and 51-222. Jury committees; selection of jurors. Towns failing to file lists of jurors.",
           "url": "https://www.cga.ct.gov/current/pub/chap_884.htm#secs_51-221_and_51-222",
+          "grouped": true,
+          "section_keys": [
+            "51-221",
+            "51-222"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-221 and 51-222 are repealed, effective October 1, 1997."
+            ],
+            "source": [
+              "(1949 Rev., S. 7909, 7910; 1951, S. 3161d; February, 1965, P.A. 620, S. 1; P.A. 76-52, S. 6, 8; P.A. 76-436, S. 110, 681; P.A. 82-11, S. 4, 5, 12; 82-307, S. 6, 8; June Sp. Sess. P.A. 83-5, S. 7, 8, 18; P.A. 84-393, S. 6, 7, 18, 20; P.A. 85-613, S. 77, 154; P.A. 86-278, S. 6, 12; P.A. 94-169, S. 8, 9, 20; P.A. 97-200, S. 10.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-221 and 51-222 are repealed, effective October 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8809,7 +9852,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-223 is repealed."
+            "text": "Section 51-223 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8834,12 +9881,27 @@
           "section_key": "",
           "label": "Secs. 51-225 to 51-228. Compensation of members of State Jury Commission. Designation of clerks. Preparation of slips with jurors' names and placement in jury boxes. Summoning of jurors for court in Tolland County from Manchester and in Middlesex County from Wallingford and Meriden. Jurors for the judicial district of Ansonia-Milford. List of jurors for court of common pleas for judicial district of Waterbury. List of jurors for Circuit Court; drawing of jurors. Transmission of lists of jurors for coroners inquests to town clerks.",
           "url": "https://www.cga.ct.gov/current/pub/chap_884.htm#secs_51-225_to_51-228",
+          "grouped": true,
+          "section_keys": [
+            "51-225",
+            "51-226",
+            "51-227",
+            "51-228"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-225 to 51-228 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3609, 7914, 7916, 7917; 1949, S. 3167d, 3172d; 1951, S. 1973d; 1955, S. 3167d; 1959, P.A. 28, S. 98, 208; 1963, P.A. 447, S. 1, 2; 1967, P.A. 256, S. 1, 2; 695, S. 3–5; 901, S. 10; 1971, P.A. 555, S. 2, 3; 1972, P.A. 165, S. 6, 7; June, 1972, P.A. 1, S. 19, 20; P.A. 74-183, S. 196, 280, 291; P.A. 75-26, S. 3, 8; 75-578, S. 17; P.A. 76-435, S. 6, 66, 82; 76-436, S. 469, 675, 681; P.A. 77-576, S. 13, 17, 65; P.A. 82-11, S. 8, 12; 82-248, S. 125; 82-298, S. 3; June Sp. Sess. P.A. 83-5, S. 17, 18; P.A. 84-393, S. 18–20.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-225 to 51-228 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8878,7 +9940,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-230 is repealed."
+            "text": "Section 51-230 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8894,7 +9960,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-231 is repealed, effective October 1, 1997."
+            "text": "Section 51-231 is repealed, effective October 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8910,7 +9980,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-231a is repealed."
+            "text": "Section 51-231a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9017,12 +10091,25 @@
           "section_key": "",
           "label": "Secs. 51-235 and 51-236. Summoning of justice jurors. Return of jury warrant; fine.",
           "url": "https://www.cga.ct.gov/current/pub/chap_884.htm#secs_51-235_and_51-236",
+          "grouped": true,
+          "section_keys": [
+            "51-235",
+            "51-236"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-235 and 51-236 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 7923, 7924, 7929; 1959, P.A. 28, S. 204; P.A. 82-11, S. 11, 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-235 and 51-236 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9154,7 +10241,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-239a is repealed."
+            "text": "Section 51-239a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9286,7 +10377,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 961, Sec. 54-82g ."
+            "text": "Transferred to Chapter 961, Sec. 54-82g .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9371,7 +10466,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-244 is repealed."
+            "text": "Section 51-244 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9541,7 +10640,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-218 and 51-219. Jury service for women. Exemption from jury service. Sections 51-218 and 51-219 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9556,7 +10658,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-218 and 51-219. Jury service for women. Exemption from jury service. Sections 51-218 and 51-219 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9571,7 +10676,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-221 and 51-222. Jury committees; selection of jurors. Towns failing to file lists of jurors. Sections 51-221 and 51-222 are repealed, effective October 1, 1997.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9586,7 +10694,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-221 and 51-222. Jury committees; selection of jurors. Towns failing to file lists of jurors. Sections 51-221 and 51-222 are repealed, effective October 1, 1997.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9631,7 +10742,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-235 and 51-236. Summoning of justice jurors. Return of jury warrant; fine. Sections 51-235 and 51-236 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9646,7 +10760,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-235 and 51-236. Summoning of justice jurors. Return of jury warrant; fine. Sections 51-235 and 51-236 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -9661,12 +10778,25 @@
           "section_key": "",
           "label": "Secs. 51-248 and 51-249. Number and appointment of judges. Annual and special meetings of judges.",
           "url": "https://www.cga.ct.gov/current/pub/chap_885.htm#secs_51-248_and_51-249",
+          "grouped": true,
+          "section_keys": [
+            "51-248",
+            "51-249"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-248 and 51-249 are repealed."
+            ],
+            "source": [
+              "(1959, P.A. 28, S. 1, 3; February, 1965, P.A. 331, S. 28; 1967, P.A. 26, S. 1; P.A. 73-87, S. 1, 2; P.A. 74-183, S. 280, 291.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-248 and 51-249 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9682,19 +10812,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-251 and 51-252.*",
           "url": "https://www.cga.ct.gov/current/pub/chap_885.htm#secs_51-251_and_51-252",
+          "grouped": true,
+          "section_keys": [
+            "51-251",
+            "51-252"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 871, Secs. 51-27a and 51-27b , respectively."
+            ],
+            "source": [
+              "*Note: Originally renumbered as Secs. 51-156a and 51-156b, respectively in the general statutes, revised to 1975."
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 871, Secs. 51-27a and 51-27b , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9710,7 +10857,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-253 is repealed."
+            "text": "Section 51-253 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9724,7 +10875,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 886, Sec. 51-282 ."
+            "text": "Transferred to Chapter 886, Sec. 51-282 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9740,7 +10895,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-255 is repealed."
+            "text": "Section 51-255 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9756,7 +10915,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 886, Sec. 51-286a ."
+            "text": "Transferred to Chapter 886, Sec. 51-286a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9770,7 +10933,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 881, Sec. 51-164b ."
+            "text": "Transferred to Chapter 881, Sec. 51-164b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9786,7 +10953,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-258 is repealed."
+            "text": "Section 51-258 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9800,19 +10971,36 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 881, Sec. 51-156c ."
+            "text": "Transferred to Chapter 881, Sec. 51-156c .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-260 and 51-261. Venue; transfers. Power of court generally.",
           "url": "https://www.cga.ct.gov/current/pub/chap_885.htm#secs_51-260_and_51-261",
+          "grouped": true,
+          "section_keys": [
+            "51-260",
+            "51-261"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-260 and 51-261 are repealed."
+            ],
+            "source": [
+              "(1959, P.A. 28, S. 23, 26; 1961, P.A. 284; P.A. 74-183, S. 280, 291.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-260 and 51-261 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9826,7 +11014,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 881, Sec. 51-164c ."
+            "text": "Transferred to Chapter 881, Sec. 51-164c .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9842,7 +11034,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-263 is repealed."
+            "text": "Section 51-263 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9858,7 +11054,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 882, Sec. 51-182o ."
+            "text": "Transferred to Chapter 882, Sec. 51-182o .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9872,7 +11072,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 895, Sec. 52-6a ."
+            "text": "Transferred to Chapter 895, Sec. 52-6a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9888,7 +11092,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 884, Sec. 51-239b ."
+            "text": "Transferred to Chapter 884, Sec. 51-239b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9904,31 +11112,59 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 884, Sec. 51-239a ."
+            "text": "Transferred to Chapter 884, Sec. 51-239a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-268 and 51-269.",
           "url": "https://www.cga.ct.gov/current/pub/chap_885.htm#secs_51-268_and_51-269",
+          "grouped": true,
+          "section_keys": [
+            "51-268",
+            "51-269"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 881, Secs. 51-164f and 51-164g , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 881, Secs. 51-164f and 51-164g , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-270 and 51-271. Transfers among judges. Reproduction of records.",
           "url": "https://www.cga.ct.gov/current/pub/chap_885.htm#secs_51-270_and_51-271",
+          "grouped": true,
+          "section_keys": [
+            "51-270",
+            "51-271"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-270 and 51-271 are repealed."
+            ],
+            "source": [
+              "(1959, P.A. 28, S. 41, 42; P.A. 74-183, S. 280, 291.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-270 and 51-271 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9944,7 +11180,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -9960,7 +11200,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 877, Sec. 51-95a ."
+            "text": "Transferred to Chapter 877, Sec. 51-95a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9998,7 +11242,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-248 and 51-249. Number and appointment of judges. Annual and special meetings of judges. Sections 51-248 and 51-249 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10013,7 +11260,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-248 and 51-249. Number and appointment of judges. Annual and special meetings of judges. Sections 51-248 and 51-249 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10028,7 +11278,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-260 and 51-261. Venue; transfers. Power of court generally. Sections 51-260 and 51-261 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10043,7 +11296,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-260 and 51-261. Venue; transfers. Power of court generally. Sections 51-260 and 51-261 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10058,7 +11314,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-270 and 51-271. Transfers among judges. Reproduction of records. Sections 51-270 and 51-271 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10073,7 +11332,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-270 and 51-271. Transfers among judges. Reproduction of records. Sections 51-270 and 51-271 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -10507,7 +11769,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-279d is repealed, effective October 1, 2017."
+            "text": "Section 51-279d is repealed, effective October 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10523,7 +11789,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-279e is repealed, effective July 1, 2017."
+            "text": "Section 51-279e is repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10593,12 +11863,26 @@
           "section_key": "",
           "label": "Secs. 51-282 to 51-284. Prosecuting attorneys; assistants. Term of office of prosecuting attorneys and assistant prosecuting attorneys. Prosecutors and assistants qualified to act in other counties and district.",
           "url": "https://www.cga.ct.gov/current/pub/chap_886.htm#secs_51-282_to_51-284",
+          "grouped": true,
+          "section_keys": [
+            "51-282",
+            "51-283",
+            "51-284"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 51-282 to 51-284 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1959, P.A. 28, S. 9; 1972, P.A. 281, S. 21; P.A. 73-122, S. 6, 7, 24, 27; P.A. 74-183, S. 51, 52, 169, 291; P.A. 76-436, S. 41, 571, 572, 681; P.A. 77-292, S. 2, 3.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 51-282 to 51-284 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10926,7 +12210,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11046,7 +12334,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-282 to 51-284. Prosecuting attorneys; assistants. Term of office of prosecuting attorneys and assistant prosecuting attorneys. Prosecutors and assistants qualified to act in other counties and district. Sections 51-282 to 51-284 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -11061,7 +12352,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 51-282 to 51-284. Prosecuting attorneys; assistants. Term of office of prosecuting attorneys and assistant prosecuting attorneys. Prosecutors and assistants qualified to act in other counties and district. Sections 51-282 to 51-284 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -11263,7 +12557,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-294 is repealed."
+            "text": "Section 51-294 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11514,12 +12812,50 @@
           "section_key": "",
           "label": "Secs. 51-301 to 51-329.",
           "url": "https://www.cga.ct.gov/current/pub/chap_888.htm#secs_51-301_to_51-329",
+          "grouped": true,
+          "section_keys": [
+            "51-301",
+            "51-302",
+            "51-303",
+            "51-304",
+            "51-305",
+            "51-306",
+            "51-307",
+            "51-308",
+            "51-309",
+            "51-310",
+            "51-311",
+            "51-312",
+            "51-313",
+            "51-314",
+            "51-315",
+            "51-316",
+            "51-317",
+            "51-318",
+            "51-319",
+            "51-320",
+            "51-321",
+            "51-322",
+            "51-323",
+            "51-324",
+            "51-325",
+            "51-326",
+            "51-327",
+            "51-328",
+            "51-329"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 815t, Secs. 46b-120 to 46b-148 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 815t, Secs. 46b-120 to 46b-148 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]
@@ -11534,12 +12870,25 @@
           "section_key": "",
           "label": "Secs. 51-330 to 51-333.",
           "url": "https://www.cga.ct.gov/current/pub/chap_889.htm#secs_51-330_to_51-333",
+          "grouped": true,
+          "section_keys": [
+            "51-330",
+            "51-331",
+            "51-332",
+            "51-333"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 815, Secs. 46b-1 to 46b-4 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 815, Secs. 46b-1 to 46b-4 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -11555,7 +12904,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-334 is repealed."
+            "text": "Section 51-334 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11569,19 +12922,35 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 815, Sec. 46b-11 ."
+            "text": "Transferred to Chapter 815, Sec. 46b-11 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 51-336 to 51-338.",
           "url": "https://www.cga.ct.gov/current/pub/chap_889.htm#secs_51-336_to_51-338",
+          "grouped": true,
+          "section_keys": [
+            "51-336",
+            "51-337",
+            "51-338"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 815, Secs. 46b-5 to 46b-7 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 815, Secs. 46b-5 to 46b-7 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -11595,7 +12964,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 815, Sec. 46b-10 ."
+            "text": "Transferred to Chapter 815, Sec. 46b-10 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -11609,7 +12982,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 815, Sec. 46b-9 ."
+            "text": "Transferred to Chapter 815, Sec. 46b-9 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -11623,7 +13000,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 815, Sec. 46b-8 ."
+            "text": "Transferred to Chapter 815, Sec. 46b-8 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]
@@ -11881,7 +13262,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-345a is repealed."
+            "text": "Section 51-345a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12186,7 +13571,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 51-349 is repealed, effective June 30, 2017."
+            "text": "Section 51-349 is repealed, effective June 30, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {

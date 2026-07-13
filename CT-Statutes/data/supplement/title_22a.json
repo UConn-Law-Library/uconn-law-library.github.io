@@ -179,6 +179,11 @@
           "section_key": "",
           "label": "Secs. 22a-27s and 22a-27t. Face of Connecticut Steering Committee: Membership, chairperson. Face of Connecticut account.",
           "url": "https://www.cga.ct.gov/2026/sup/chap_439.htm#secs_22a-27s_and_22a-27t",
+          "grouped": true,
+          "section_keys": [
+            "22a-27s",
+            "22a-27t"
+          ],
           "content": {
             "body_paragraphs": [
               "Sections 22a-27s and 22a-27t are repealed, effective July 8, 2025."
@@ -189,12 +194,11 @@
             "history": [],
             "annotations": [],
             "text": "Sections 22a-27s and 22a-27t are repealed, effective July 8, 2025.",
+            "statuses": [
+              "repealed"
+            ],
             "status": "repealed"
-          },
-          "section_keys": [
-            "22a-27s",
-            "22a-27t"
-          ]
+          }
         },
         {
           "section_key": "22a-27u",
@@ -1108,6 +1112,9 @@
             "history": [],
             "annotations": [],
             "text": "Section 22a-241 is repealed, effective July 8, 2025.",
+            "statuses": [
+              "repealed"
+            ],
             "status": "repealed"
           }
         },
@@ -1348,6 +1355,7 @@
           "section_key": "22-260e",
           "label": "Sec. 22-260e. South Meadows development district and Hartford Brainard Airport. Federal law and regulation. Effect.",
           "url": "https://www.cga.ct.gov/2026/sup/chap_446e.htm#sec_22-260e",
+          "identifier_warning": "section key 22-260e belongs to title 22 but appears in title 22a",
           "content": {
             "body_paragraphs": [
               "No power or action of the South Meadows development district, as established in section 22a-260d, shall be deemed to supersede or to authorize any conflict with federal law or with any federal aviation regulation concerning control of Hartford Brainard Airport."
@@ -1588,6 +1596,14 @@
           "section_key": "",
           "label": "Secs. 22a-449c to 22a-449g. Underground storage tank petroleum clean-up program; applications for payment or reimbursement. Payment and reimbursement from the program; guidelines for reasonable cost determinations; payment to registered contractors. Regulations; schedule for maximum or range of amounts to be paid from the program; use of seal. Application for reimbursement for claims resulting from release of petroleum. Appeals.",
           "url": "https://www.cga.ct.gov/2026/sup/chap_446k.htm#secs_22a-449c_to_22a-449g",
+          "grouped": true,
+          "section_keys": [
+            "22a-449c",
+            "22a-449d",
+            "22a-449e",
+            "22a-449f",
+            "22a-449g"
+          ],
           "content": {
             "body_paragraphs": [
               "Sections 22a-449c to 22a-449g, inclusive, are repealed, effective June 30, 2025."
@@ -1598,15 +1614,11 @@
             "history": [],
             "annotations": [],
             "text": "Sections 22a-449c to 22a-449g, inclusive, are repealed, effective June 30, 2025.",
+            "statuses": [
+              "repealed"
+            ],
             "status": "repealed"
-          },
-          "section_keys": [
-            "22a-449c",
-            "22a-449d",
-            "22a-449e",
-            "22a-449f",
-            "22a-449g"
-          ]
+          }
         },
         {
           "section_key": "22a-449k",
@@ -1707,6 +1719,9 @@
             "history": [],
             "annotations": [],
             "text": "Section 22a-449r is repealed, effective June 30, 2025.",
+            "statuses": [
+              "repealed"
+            ],
             "status": "repealed"
           }
         },
@@ -1724,6 +1739,9 @@
             "history": [],
             "annotations": [],
             "text": "Section 22a-449t is repealed, effective June 30, 2025.",
+            "statuses": [
+              "repealed"
+            ],
             "status": "repealed"
           }
         },

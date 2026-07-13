@@ -23,7 +23,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 24-1 is repealed."
+            "text": "Section 24-1 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -57,7 +61,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 24-2a is repealed."
+            "text": "Section 24-2a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -109,12 +117,27 @@
           "section_key": "",
           "label": "Secs. 24-5 to 24-8. Weather Control Board.",
           "url": "https://www.cga.ct.gov/current/pub/chap_463.htm#secs_24-5_to_24-8",
+          "grouped": true,
+          "section_keys": [
+            "24-5",
+            "24-6",
+            "24-7",
+            "24-8"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 24-5 to 24-8 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1959, P.A. 668, S. 1–4; 1961, P.A. 16; 1971, P.A. 872, S. 206; P.A. 77-614, S. 609, 610.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 24-5 to 24-8 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -129,7 +152,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 24-5 to 24-8. Weather Control Board. Sections 24-5 to 24-8 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -144,7 +170,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 24-5 to 24-8. Weather Control Board. Sections 24-5 to 24-8 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]

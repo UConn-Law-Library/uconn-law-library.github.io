@@ -14,12 +14,25 @@
           "section_key": "",
           "label": "Secs. 54-1 and 54-1a. Criminal jurisdiction of trial justices; of Court of Common Pleas.",
           "url": "https://www.cga.ct.gov/current/pub/chap_959.htm#secs_54-1_and_54-1a",
+          "grouped": true,
+          "section_keys": [
+            "54-1",
+            "54-1a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 54-1 and 54-1a are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 8721; 1955, S. 3319d; 1957, P.A. 522, S. 1; 1959, P.A. 28, S. 25, 204; 1961, P.A. 78; 352; 1963, P.A. 177; February, 1965, P.A. 331, S. 35; 1967, P.A. 152, S. 43; 549, S. 8; 630, S. 12; 1971, P.A. 72, S. 15; 870, S. 1; P.A., 74-183, S. 7, 291; P.A. 76-436, S. 515, 681.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 54-1 and 54-1a are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -139,7 +152,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-1e is repealed."
+            "text": "Section 54-1e is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -642,7 +659,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-2 is repealed."
+            "text": "Section 54-2 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -701,7 +722,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 960, Sec. 54-56a ."
+            "text": "Transferred to Chapter 960, Sec. 54-56a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -717,7 +742,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-2c is repealed."
+            "text": "Section 54-2c is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -757,12 +786,25 @@
           "section_key": "",
           "label": "Secs. 54-3 and 54-4. Issue of warrant after arrest. Trial justice may issue criminal process to be served anywhere in the state.",
           "url": "https://www.cga.ct.gov/current/pub/chap_959.htm#secs_54-3_and_54-4",
+          "grouped": true,
+          "section_keys": [
+            "54-3",
+            "54-4"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 54-3 and 54-4 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 8722, 8723; 1959, P.A. 28, S. 204.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 54-3 and 54-4 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -776,43 +818,89 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 960, Sec. 54-56f ."
+            "text": "Transferred to Chapter 960, Sec. 54-56f .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 54-6 to 54-12. Criminal jurisdiction of municipal courts. Limit of jurisdiction of municipal courts. Jurisdiction over violations concerning overweight commercial vehicles. Bonds on adjournment of hearing. Copies of files and records for Superior Court and state's attorneys on bindover; notice when proceeding pending on seized property. Appointment of court interpreters in municipal and trial justice court. Appeal from municipal court or trial justice.",
           "url": "https://www.cga.ct.gov/current/pub/chap_959.htm#secs_54-6_to_54-12",
+          "grouped": true,
+          "section_keys": [
+            "54-6",
+            "54-7",
+            "54-8",
+            "54-9",
+            "54-10",
+            "54-11",
+            "54-12"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 54-6 to 54-12 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 7579, 8726, 8730, 8731, 8733, 8741; 1953, S. 3096d; 1955, S. 3097d; June, 1955, S. 3096d; November, 1955, S. N229; 1959, P.A. 28, S. 138, 204; 1961, P.A. 179; 1963, P.A. 49; 1971, P.A. 321; P.A. 73-116, S. 16; 73-667, S. 1, 2; P.A. 74-183, S. 130, 291; P.A. 76-336, S. 1; 76-436, S. 521, 681.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 54-6 to 54-12 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 54-13 and 54-14.",
           "url": "https://www.cga.ct.gov/current/pub/chap_959.htm#secs_54-13_and_54-14",
+          "grouped": true,
+          "section_keys": [
+            "54-13",
+            "54-14"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 961, Secs. 54-96a and 54-96b , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 961, Secs. 54-96a and 54-96b , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 54-15 and 54-16. Binding over on probable cause. Jurisdiction of Common Pleas Court on appeals.",
           "url": "https://www.cga.ct.gov/current/pub/chap_959.htm#secs_54-15_and_54-16",
+          "grouped": true,
+          "section_keys": [
+            "54-15",
+            "54-16"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 54-15 and 54-16 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 8727, 8742; 1949, S. 3320d; November, 1955, S. N230; 1959, P.A. 28, S. 141, 204; 1963, P.A. 642, S. 61.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 54-15 and 54-16 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -826,7 +914,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 961, Sec. 54-95a ."
+            "text": "Transferred to Chapter 961, Sec. 54-95a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -863,43 +955,85 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 890, Sec. 51-353a ."
+            "text": "Transferred to Chapter 890, Sec. 51-353a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 54-18a to 54-21. Transfer of criminal cases between Superior and Common Pleas Court. Certain cases to be tried at first term. Search when cruelty is suspected. Search warrants in cases of cruelty to animals.",
           "url": "https://www.cga.ct.gov/current/pub/chap_959.htm#secs_54-18a_to_54-21",
+          "grouped": true,
+          "section_keys": [
+            "54-18a",
+            "54-21"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 54-18a to 54-21 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 8724, 8745, 8787; 1959, P.A. 28, S. 143; 1961, P.A. 517, S. 70; 1963, P.A. 642, S. 63; 652, S. 10; 1971, P.A. 590; P.A. 73-116, S. 19; 73-667, S. 1, 2; P.A. 74-183, S. 134, 291; P.A. 76-336, S. 10; 76-436, S. 525, 526, 681.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 54-18a to 54-21 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 54-22 to 54-24.",
           "url": "https://www.cga.ct.gov/current/pub/chap_959.htm#secs_54-22_to_54-24",
+          "grouped": true,
+          "section_keys": [
+            "54-22",
+            "54-23",
+            "54-24"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 961, Secs. 54-82i to 54-82k , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 961, Secs. 54-82i to 54-82k , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 54-25 and 54-26. Release on recognizance. Witnesses in courts of other states.",
           "url": "https://www.cga.ct.gov/current/pub/chap_959.htm#secs_54-25_and_54-26",
+          "grouped": true,
+          "section_keys": [
+            "54-25",
+            "54-26"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 54-25 and 54-26 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 8746, 8762; 1959, P.A. 28, S. 147; P.A. 76-336, S. 10; P.A. 80-313, S. 61.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 54-25 and 54-26 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -913,7 +1047,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 890, Sec. 51-348a ."
+            "text": "Transferred to Chapter 890, Sec. 51-348a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -927,19 +1065,37 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 890, Sec. 51-352b ."
+            "text": "Transferred to Chapter 890, Sec. 51-352b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 54-29 to 54-31. Seizure of obscene literature and gambling implements. Illegal articles and implements to be destroyed. Judges of city courts may act.",
           "url": "https://www.cga.ct.gov/current/pub/chap_959.htm#secs_54-29_to_54-31",
+          "grouped": true,
+          "section_keys": [
+            "54-29",
+            "54-30",
+            "54-31"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 54-29 to 54-31 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 8752–8754; 1959, P.A. 28, S. 148, 204; 1963, P.A. 652, S. 10.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 54-29 to 54-31 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -954,7 +1110,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 945, Sec. 53-243a .\n\n*Cited. 14 CA 356."
+            "text": "Transferred to Chapter 945, Sec. 53-243a .\n\n*Cited. 14 CA 356.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -970,7 +1130,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-33 is repealed."
+            "text": "Section 54-33 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1276,7 +1440,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-33h is repealed."
+            "text": "Section 54-33h is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1449,12 +1617,25 @@
           "section_key": "",
           "label": "Secs. 54-34 and 54-35. Search of person. Condemnation of gambling implements, notice.",
           "url": "https://www.cga.ct.gov/current/pub/chap_959.htm#secs_54-34_and_54-35",
+          "grouped": true,
+          "section_keys": [
+            "54-34",
+            "54-35"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 54-34 and 54-35 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 8757, 8758; 1961, P.A. 214; 255, S. 1; 1963, P.A. 652, S. 10.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 54-34 and 54-35 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1470,7 +1651,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-36 is repealed."
+            "text": "Section 54-36 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1733,12 +1918,26 @@
           "section_key": "",
           "label": "Secs. 54-36j to 54-36 l . Seizure and forfeiture of motor vehicle used in patronizing a prostitute. Innocent owner defense to forfeiture of motor vehicle used in patronizing a prostitute. Release of motor vehicle seized in connection with arrest for patronizing a prostitute; delivery or return of motor vehicle upon disposition of prosecution.",
           "url": "https://www.cga.ct.gov/current/pub/chap_959.htm#secs_54-36j_to_54-36l",
+          "grouped": true,
+          "section_keys": [
+            "54-36j",
+            "54-36k",
+            "54-36l"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 54-36j to 54-36 l , inclusive, are repealed, effective October 1, 1997."
+            ],
+            "source": [
+              "(P.A. 93-265, S. 3–5; 93-398, S. 1, 2; P.A. 96-180, S. 163, 166; P.A. 97-279, S. 3.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 54-36j to 54-36 l , inclusive, are repealed, effective October 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1754,7 +1953,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-36m is repealed, effective October 1, 2017."
+            "text": "Section 54-36m is repealed, effective October 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1834,12 +2037,26 @@
           "section_key": "",
           "label": "Secs. 54-37 to 54-39. Disposition of accused acquitted on ground of insanity. Release of persons confined under order prior to October 1, 1959. Petition for release. Disposition of insane person upon expiration of term.",
           "url": "https://www.cga.ct.gov/current/pub/chap_959.htm#secs_54-37_to_54-39",
+          "grouped": true,
+          "section_keys": [
+            "54-37",
+            "54-38",
+            "54-39"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 54-37 to 54-39 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 8749–8751; 1953, S. 3321d, 3322d; 1955, S. 3322d; 1959, P.A. 28, S. 150; 523, S. 1; 1963, P.A. 642, S. 65, 84; February, 1965, P.A. 435, S. 2; 557; 1967, P.A. 261, S. 2; 1971, P.A. 871, S. 129; P.A. 80-146.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 54-37 to 54-39 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1853,7 +2070,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 960, Sec. 54-56d ."
+            "text": "Transferred to Chapter 960, Sec. 54-56d .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1867,7 +2088,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 959, Sec. 54-1i ."
+            "text": "Transferred to Chapter 959, Sec. 54-1i .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1881,7 +2106,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 890, Sec. 51-352c ."
+            "text": "Transferred to Chapter 890, Sec. 51-352c .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1896,7 +2125,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-1 and 54-1a. Criminal jurisdiction of trial justices; of Court of Common Pleas. Sections 54-1 and 54-1a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1911,7 +2143,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-1 and 54-1a. Criminal jurisdiction of trial justices; of Court of Common Pleas. Sections 54-1 and 54-1a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1926,7 +2161,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-3 and 54-4. Issue of warrant after arrest. Trial justice may issue criminal process to be served anywhere in the state. Sections 54-3 and 54-4 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1941,7 +2179,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-3 and 54-4. Issue of warrant after arrest. Trial justice may issue criminal process to be served anywhere in the state. Sections 54-3 and 54-4 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1986,7 +2227,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-15 and 54-16. Binding over on probable cause. Jurisdiction of Common Pleas Court on appeals. Sections 54-15 and 54-16 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2001,7 +2245,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-15 and 54-16. Binding over on probable cause. Jurisdiction of Common Pleas Court on appeals. Sections 54-15 and 54-16 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2016,7 +2263,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-18a to 54-21. Transfer of criminal cases between Superior and Common Pleas Court. Certain cases to be tried at first term. Search when cruelty is suspected. Search warrants in cases of cruelty to animals. Sections 54-18a to 54-21 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2031,7 +2281,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-18a to 54-21. Transfer of criminal cases between Superior and Common Pleas Court. Certain cases to be tried at first term. Search when cruelty is suspected. Search warrants in cases of cruelty to animals. Sections 54-18a to 54-21 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2046,7 +2299,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-25 and 54-26. Release on recognizance. Witnesses in courts of other states. Sections 54-25 and 54-26 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2061,7 +2317,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-25 and 54-26. Release on recognizance. Witnesses in courts of other states. Sections 54-25 and 54-26 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2076,7 +2335,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-29 to 54-31. Seizure of obscene literature and gambling implements. Illegal articles and implements to be destroyed. Judges of city courts may act. Sections 54-29 to 54-31 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2091,7 +2353,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-29 to 54-31. Seizure of obscene literature and gambling implements. Illegal articles and implements to be destroyed. Judges of city courts may act. Sections 54-29 to 54-31 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2106,7 +2371,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-34 and 54-35. Search of person. Condemnation of gambling implements, notice. Sections 54-34 and 54-35 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2121,7 +2389,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-34 and 54-35. Search of person. Condemnation of gambling implements, notice. Sections 54-34 and 54-35 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2166,7 +2437,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-37 to 54-39. Disposition of accused acquitted on ground of insanity. Release of persons confined under order prior to October 1, 1959. Petition for release. Disposition of insane person upon expiration of term. Sections 54-37 to 54-39 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2181,7 +2455,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-37 to 54-39. Disposition of accused acquitted on ground of insanity. Release of persons confined under order prior to October 1, 1959. Petition for release. Disposition of insane person upon expiration of term. Sections 54-37 to 54-39 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -2744,12 +3021,26 @@
           "section_key": "",
           "label": "Secs. 54-42 to 54-44. Original information in Superior Court. Bench warrant; procedure on arrest; previous bond in Court of Common Pleas. Admissibility of confession. Informations in cases appealed to Superior Court.",
           "url": "https://www.cga.ct.gov/current/pub/chap_960.htm#secs_54-42_to_54-44",
+          "grouped": true,
+          "section_keys": [
+            "54-42",
+            "54-43",
+            "54-44"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 54-42 to 54-44 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 8764–8766; 1963, P.A. 126, S. 2, 3; 1967, P.A. 656, S. 60; 1969, P.A. 803, S. 1; P.A. 73-116, S. 23; 73-667, S. 1, 2; P.A. 76-106, S. 1; 76-436, S. 536, 681; P.A. 77-452, S. 38, 72; 77-576, S. 39, 65; P.A. 80-313, S. 61; 80-483, S. 136, 186.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 54-42 to 54-44 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2916,7 +3207,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-47 is repealed."
+            "text": "Section 54-47 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3241,12 +3536,38 @@
           "section_key": "",
           "label": "Secs. 54-47j to 54-47z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_960.htm#secs_54-47j_to_54-47z",
+          "grouped": true,
+          "section_keys": [
+            "54-47j",
+            "54-47k",
+            "54-47l",
+            "54-47m",
+            "54-47n",
+            "54-47o",
+            "54-47p",
+            "54-47q",
+            "54-47r",
+            "54-47s",
+            "54-47t",
+            "54-47u",
+            "54-47v",
+            "54-47w",
+            "54-47x",
+            "54-47y",
+            "54-47z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3371,7 +3692,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-51 is repealed, effective October 1, 2003."
+            "text": "Section 54-51 is repealed, effective October 1, 2003.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3462,12 +3787,25 @@
           "section_key": "",
           "label": "Secs. 54-54 and 54-55. Original information in Court of Common Pleas. Information in cases appealed to Court of Common Pleas.",
           "url": "https://www.cga.ct.gov/current/pub/chap_960.htm#secs_54-54_and_54-55",
+          "grouped": true,
+          "section_keys": [
+            "54-54",
+            "54-55"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 54-54 and 54-55 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 8767, 8768; 1961, P.A. 517, S. 71.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 54-54 and 54-55 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4566,7 +4904,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-64 is repealed."
+            "text": "Section 54-64 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4930,7 +5272,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-68 is repealed."
+            "text": "Section 54-68 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5019,7 +5365,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-70 is repealed."
+            "text": "Section 54-70 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5151,7 +5501,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-75 is repealed."
+            "text": "Section 54-75 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5165,7 +5519,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 886, Sec. 51-286c ."
+            "text": "Transferred to Chapter 886, Sec. 51-286c .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -5181,7 +5539,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-76a is repealed."
+            "text": "Section 54-76a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5196,7 +5558,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-42 to 54-44. Original information in Superior Court. Bench warrant; procedure on arrest; previous bond in Court of Common Pleas. Admissibility of confession. Informations in cases appealed to Superior Court. Sections 54-42 to 54-44 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5211,7 +5576,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-42 to 54-44. Original information in Superior Court. Bench warrant; procedure on arrest; previous bond in Court of Common Pleas. Admissibility of confession. Informations in cases appealed to Superior Court. Sections 54-42 to 54-44 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5226,7 +5594,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-54 and 54-55. Original information in Court of Common Pleas. Information in cases appealed to Court of Common Pleas. Sections 54-54 and 54-55 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5241,7 +5612,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-54 and 54-55. Original information in Court of Common Pleas. Information in cases appealed to Court of Common Pleas. Sections 54-54 and 54-55 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -5695,7 +6069,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 960, Sec. 54-56e ."
+            "text": "Transferred to Chapter 960, Sec. 54-56e .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -5733,7 +6111,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 890, Sec. 51-352 ."
+            "text": "Transferred to Chapter 890, Sec. 51-352 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -5749,7 +6131,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-77a is repealed."
+            "text": "Section 54-77a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5763,7 +6149,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 890, Sec. 51-352a ."
+            "text": "Transferred to Chapter 890, Sec. 51-352a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -5777,7 +6167,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 890, Sec. 51-353 ."
+            "text": "Transferred to Chapter 890, Sec. 51-353 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -5791,19 +6185,36 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 890, Sec. 51-353b ."
+            "text": "Transferred to Chapter 890, Sec. 51-353b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 54-80 to 54-81b. Public defenders. Assistant public defenders; office; assistance. Expenses. Appointment of special defender. Public defenders for Common Pleas Court. Representation of accused on bindover.",
           "url": "https://www.cga.ct.gov/current/pub/chap_961.htm#secs_54-80_to_54-81b",
+          "grouped": true,
+          "section_keys": [
+            "54-80",
+            "54-81b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 54-80 to 54-81b , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3615, 8796; 1959, P.A. 28, S. 13; 1961, P.A. 564, S. 1–3; 1963, P.A. 642, S. 69, 70; February, 1965, P.A. 178, S. 1, 2; 218; 1967, P.A. 34, S. 1; 189; 622, S. 8; 1969, P.A. 655, S. 2; 1971, P.A. 871, S. 121; 1972, P.A. 281, S. 22, 23; P.A. 73-116, S. 25, 26; 73-667, S. 1, 2; P.A. 74-183, S. 150, 151, 291; 74-317, S. 12, 14.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 54-80 to 54-81b , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5868,7 +6279,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-82a is repealed."
+            "text": "Section 54-82a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6297,12 +6712,24 @@
           "section_key": "",
           "label": "Secs. 54-82n to 54-82p.",
           "url": "https://www.cga.ct.gov/current/pub/chap_961.htm#secs_54-82n_to_54-82p",
+          "grouped": true,
+          "section_keys": [
+            "54-82n",
+            "54-82o",
+            "54-82p"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7246,7 +7673,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-87 is repealed."
+            "text": "Section 54-87 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7330,12 +7761,23 @@
           "section_key": "",
           "label": "Secs. 54-90 and 54-90a.",
           "url": "https://www.cga.ct.gov/current/pub/chap_961.htm#secs_54-90_and_54-90a",
+          "grouped": true,
+          "section_keys": [
+            "54-90",
+            "54-90a"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 961a, Secs. 54-142a and 54-142b , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 961a, Secs. 54-142a and 54-142b , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7351,7 +7793,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-91 is repealed."
+            "text": "Section 54-91 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7478,7 +7924,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-91d is repealed."
+            "text": "Section 54-91d is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7672,7 +8122,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-93 is repealed, effective October 1, 2002."
+            "text": "Section 54-93 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7706,7 +8160,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-94 is repealed."
+            "text": "Section 54-94 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8194,12 +8652,24 @@
           "section_key": "",
           "label": "Secs. 54-102d to 54-102f.",
           "url": "https://www.cga.ct.gov/current/pub/chap_961.htm#secs_54-102d_to_54-102f",
+          "grouped": true,
+          "section_keys": [
+            "54-102d",
+            "54-102e",
+            "54-102f"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8370,12 +8840,25 @@
           "section_key": "",
           "label": "Secs. 54-102n to 54-102q.",
           "url": "https://www.cga.ct.gov/current/pub/chap_961.htm#secs_54-102n_to_54-102q",
+          "grouped": true,
+          "section_keys": [
+            "54-102n",
+            "54-102o",
+            "54-102p",
+            "54-102q"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8391,7 +8874,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-102r is repealed, effective October 1, 1998."
+            "text": "Section 54-102r is repealed, effective October 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8405,19 +8892,39 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 969, Sec. 54-260 ."
+            "text": "Transferred to Chapter 969, Sec. 54-260 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 54-102t to 54-102z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_961.htm#secs_54-102t_to_54-102z",
+          "grouped": true,
+          "section_keys": [
+            "54-102t",
+            "54-102u",
+            "54-102v",
+            "54-102w",
+            "54-102x",
+            "54-102y",
+            "54-102z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8516,12 +9023,25 @@
           "section_key": "",
           "label": "Secs. 54-102ff to 54-102ii.",
           "url": "https://www.cga.ct.gov/current/pub/chap_961.htm#secs_54-102ff_to_54-102ii",
+          "grouped": true,
+          "section_keys": [
+            "54-102ff",
+            "54-102gg",
+            "54-102hh",
+            "54-102ii"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8587,12 +9107,63 @@
           "section_key": "",
           "label": "Secs. 54-102 ll to 54-102oo.",
           "url": "https://www.cga.ct.gov/current/pub/chap_961.htm#secs_54-102ll_to_54-102oo",
+          "grouped": true,
+          "section_keys": [
+            "54-102",
+            "54-102a",
+            "54-102b",
+            "54-102c",
+            "54-102d",
+            "54-102e",
+            "54-102f",
+            "54-102g",
+            "54-102h",
+            "54-102i",
+            "54-102j",
+            "54-102k",
+            "54-102l",
+            "54-102m",
+            "54-102n",
+            "54-102o",
+            "54-102p",
+            "54-102q",
+            "54-102r",
+            "54-102s",
+            "54-102t",
+            "54-102u",
+            "54-102v",
+            "54-102w",
+            "54-102x",
+            "54-102y",
+            "54-102z",
+            "54-102aa",
+            "54-102bb",
+            "54-102cc",
+            "54-102dd",
+            "54-102ee",
+            "54-102ff",
+            "54-102gg",
+            "54-102hh",
+            "54-102ii",
+            "54-102jj",
+            "54-102kk",
+            "54-102ll",
+            "54-102mm",
+            "54-102nn",
+            "54-102oo"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8608,19 +9179,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-102pp is repealed, effective October 1, 2014."
+            "text": "Section 54-102pp is repealed, effective October 1, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 54-102qq to 54-102tt.",
           "url": "https://www.cga.ct.gov/current/pub/chap_961.htm#secs_54-102qq_to_54-102tt",
+          "grouped": true,
+          "section_keys": [
+            "54-102qq",
+            "54-102rr",
+            "54-102ss",
+            "54-102tt"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8669,7 +9257,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-103 is repealed."
+            "text": "Section 54-103 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8685,7 +9277,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-103a is repealed, effective October 1, 2002."
+            "text": "Section 54-103a is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8724,7 +9320,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-104 is repealed, effective October 1, 2002."
+            "text": "Section 54-104 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8762,19 +9362,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-105a is repealed, effective October 1, 2022."
+            "text": "Section 54-105a is repealed, effective October 1, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 54-106 and 54-107. General Assembly to provide for expenses; central office; quarters. Appointment of probation officers.",
           "url": "https://www.cga.ct.gov/current/pub/chap_961.htm#secs_54-106_and_54-107",
+          "grouped": true,
+          "section_keys": [
+            "54-106",
+            "54-107"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 54-106 and 54-107 are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 8833; 1955, S. 3334d; 1955, June, 1955, S. 3335d; November, 1955, S. N231; P.A. 76-436, S. 556, 681; P.A. 77-562, S. 1, 2; 77-614, S. 281, 282, 610; P.A. 79-585, S. 13, 15; 79-631, S. 35, 111; P.A. 80-483, S. 138, 186; P.A. 87-496, S. 107, 110; P.A. 02-132, S. 45, 82.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 54-106 and 54-107 are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8823,7 +9440,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-108a is repealed, effective October 1, 2002."
+            "text": "Section 54-108a is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8944,24 +9565,56 @@
           "section_key": "",
           "label": "Secs. 54-109 and 54-109a.",
           "url": "https://www.cga.ct.gov/current/pub/chap_961.htm#secs_54-109_and_54-109a",
+          "grouped": true,
+          "section_keys": [
+            "54-109",
+            "54-109a"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Secs. 54-91a and 54-91b , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Secs. 54-91a and 54-91b , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 54-110 to 54-119. Report on person with prior conviction. Restitution investigation and report. Information to be included in report. Appointment of restitution specialists and other personnel. Optional treatment of person found guilty of crime. Probation or suspension of sentence, generally. Penalty for common law high crimes and misdemeanors. Punishment upon second and third conviction. Second and subsequent convictions of crimes while armed with firearm. Additional penalties for conviction of crimes while armed with firearm. Court may impose additional sentence.",
           "url": "https://www.cga.ct.gov/current/pub/chap_961.htm#secs_54-110_to_54-119",
+          "grouped": true,
+          "section_keys": [
+            "54-110",
+            "54-111",
+            "54-112",
+            "54-113",
+            "54-114",
+            "54-115",
+            "54-116",
+            "54-117",
+            "54-118",
+            "54-119"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 54-110 to 54-119 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 8819–8821, 8836, 8837; 1955, S. 3338d–3341d; 1957, P.A. 287, S. 1, 2; 580, S. 1; 639, S. 2; 1959, P.A. 28, S. 204; 615, S. 15; 1963, P.A. 170; 368; 1969, P.A. 605, S. 1, 2; 828, S. 214; 1971, P.A. 871, S. 129; P.A. 78-188, S. 1–3, 8; P.A. 80-313, S. 61; P.A. 82-298, S. 9.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 54-110 to 54-119 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8975,7 +9628,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 54-92a ."
+            "text": "Transferred to Sec. 54-92a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8991,7 +9648,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-121 is repealed."
+            "text": "Section 54-121 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9005,7 +9666,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 54-92b ."
+            "text": "Transferred to Sec. 54-92b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9021,7 +9686,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-123 is repealed."
+            "text": "Section 54-123 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9057,12 +9726,25 @@
           "section_key": "",
           "label": "Secs. 54-123b and 54-123c. Advisory committee concerning adult offenders. Advisory committee concerning juvenile offenders.",
           "url": "https://www.cga.ct.gov/current/pub/chap_961.htm#secs_54-123b_and_54-123c",
+          "grouped": true,
+          "section_keys": [
+            "54-123b",
+            "54-123c"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 54-123b and 54-123c are repealed, effective October 1, 2003."
+            ],
+            "source": [
+              "(P.A. 90-213, S. 2, 56; P.A. 95-225, S. 37, 38; P.A. 02-132, S. 47, 48; P.A. 03-202, S. 25.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 54-123b and 54-123c are repealed, effective October 1, 2003.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9097,7 +9779,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-124 is repealed."
+            "text": "Section 54-124 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9204,7 +9890,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-124d is repealed, effective June 14, 2004."
+            "text": "Section 54-124d is repealed, effective June 14, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9344,7 +10034,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-125b is repealed, effective July 1, 2008."
+            "text": "Section 54-125b is repealed, effective July 1, 2008.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9787,7 +10481,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-130 is repealed."
+            "text": "Section 54-130 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10119,12 +10817,24 @@
           "section_key": "",
           "label": "Secs. 54-131h to 54-131j.",
           "url": "https://www.cga.ct.gov/current/pub/chap_961.htm#secs_54-131h_to_54-131j",
+          "grouped": true,
+          "section_keys": [
+            "54-131h",
+            "54-131i",
+            "54-131j"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -10160,7 +10870,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-132 is repealed, effective June 19, 2002.*"
+            "text": "Section 54-132 is repealed, effective June 19, 2002.*",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10368,24 +11082,50 @@
           "section_key": "",
           "label": "Secs. 54-134 to 54-138b. Designation of “Compact Institutions”. Transfers to other correctional institutions. Incarceration in receiving state not to affect rights in sending state. Reimbursement for expenses. Ratification; regulations. Retaking of parolee. Unauthorized residency by parolee from another state; penalty.",
           "url": "https://www.cga.ct.gov/current/pub/chap_961.htm#secs_54-134_to_54-138b",
+          "grouped": true,
+          "section_keys": [
+            "54-134",
+            "54-138b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 54-134 to 54-138b , inclusive, are repealed, effective June 19, 2002.*"
+            ],
+            "source": [
+              "(1951, S. 3347d–3351d; 1963, P.A. 128; 1969, P.A. 297; P.A. 87-282, S. 21; P.A. 98-97; P.A. 00-185, S. 4, 5.)",
+              "*Note: P.A. 00-185 repealed these sections effective “July 1, 2001, or upon enactment of the Interstate Compact for Adult Offender Supervision by thirty-five jurisdictions, whichever is later”; Pennsylvania became the thirty-fifth enacting jurisdiction on June 19, 2002."
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 54-134 to 54-138b , inclusive, are repealed, effective June 19, 2002.*",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 54-139 to 54-141.",
           "url": "https://www.cga.ct.gov/current/pub/chap_961.htm#secs_54-139_to_54-141",
+          "grouped": true,
+          "section_keys": [
+            "54-139",
+            "54-140",
+            "54-141"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 961, Secs. 54-82c to 54-82e , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 961, Secs. 54-82c to 54-82e , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -10401,7 +11141,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-142 is repealed."
+            "text": "Section 54-142 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10416,7 +11160,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-80 to 54-81b. Public defenders. Assistant public defenders; office; assistance. Expenses. Appointment of special defender. Public defenders for Common Pleas Court. Representation of accused on bindover. Sections 54-80 to 54-81b , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10431,7 +11178,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-80 to 54-81b. Public defenders. Assistant public defenders; office; assistance. Expenses. Appointment of special defender. Public defenders for Common Pleas Court. Representation of accused on bindover. Sections 54-80 to 54-81b , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10446,7 +11196,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-106 and 54-107. General Assembly to provide for expenses; central office; quarters. Appointment of probation officers. Sections 54-106 and 54-107 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10461,7 +11214,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-106 and 54-107. General Assembly to provide for expenses; central office; quarters. Appointment of probation officers. Sections 54-106 and 54-107 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10506,7 +11262,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-123b and 54-123c. Advisory committee concerning adult offenders. Advisory committee concerning juvenile offenders. Sections 54-123b and 54-123c are repealed, effective October 1, 2003.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10521,7 +11280,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-123b and 54-123c. Advisory committee concerning adult offenders. Advisory committee concerning juvenile offenders. Sections 54-123b and 54-123c are repealed, effective October 1, 2003.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -11357,12 +12119,25 @@
           "section_key": "",
           "label": "Secs. 54-145 and 54-146. Refunds to clerk of municipal court or to town treasurer. Report to clerk or town treasurer.",
           "url": "https://www.cga.ct.gov/current/pub/chap_962.htm#secs_54-145_and_54-146",
+          "grouped": true,
+          "section_keys": [
+            "54-145",
+            "54-146"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 54-145 and 54-146 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 8844, 8845; 1959, P.A. 28, S. 204.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 54-145 and 54-146 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11415,7 +12190,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-149 is repealed."
+            "text": "Section 54-149 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11585,7 +12364,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-145 and 54-146. Refunds to clerk of municipal court or to town treasurer. Report to clerk or town treasurer. Sections 54-145 and 54-146 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -11600,7 +12382,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-145 and 54-146. Refunds to clerk of municipal court or to town treasurer. Report to clerk or town treasurer. Sections 54-145 and 54-146 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -12522,12 +13307,28 @@
           "section_key": "",
           "label": "Secs. 54-192a to 54-192g.",
           "url": "https://www.cga.ct.gov/current/pub/chap_965.htm#secs_54-192a_to_54-192g",
+          "grouped": true,
+          "section_keys": [
+            "54-192a",
+            "54-192b",
+            "54-192c",
+            "54-192d",
+            "54-192e",
+            "54-192f",
+            "54-192g"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12670,7 +13471,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-193a is repealed, effective October 1, 2019."
+            "text": "Section 54-193a is repealed, effective October 1, 2019.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12767,12 +13572,26 @@
           "section_key": "",
           "label": "Secs. 54-196 to 54-198. Accessories. Conspiracy. Attempt to commit statutory crime.",
           "url": "https://www.cga.ct.gov/current/pub/chap_967.htm#secs_54-196_to_54-198",
+          "grouped": true,
+          "section_keys": [
+            "54-196",
+            "54-197",
+            "54-198"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 54-196 to 54-198 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 8875–8877; 1955, S. 3352d; 1969, P.A. 828, S. 214.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 54-196 to 54-198 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12839,7 +13658,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-196 to 54-198. Accessories. Conspiracy. Attempt to commit statutory crime. Sections 54-196 to 54-198 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12854,7 +13676,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 54-196 to 54-198. Accessories. Conspiracy. Attempt to commit statutory crime. Sections 54-196 to 54-198 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -12924,7 +13749,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-202a is repealed, effective July 1, 1993."
+            "text": "Section 54-202a is repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13064,7 +13893,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-207 is repealed, effective July 1, 1993."
+            "text": "Section 54-207 is repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13252,7 +14085,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-214 is repealed, effective July 1, 1993."
+            "text": "Section 54-214 is repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13345,7 +14182,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-219 is repealed."
+            "text": "Section 54-219 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13399,7 +14240,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-221 is repealed, effective October 1, 2010."
+            "text": "Section 54-221 is repealed, effective October 1, 2010.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13487,7 +14332,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-225 is repealed, effective October 1, 2017."
+            "text": "Section 54-225 is repealed, effective October 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13539,7 +14388,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 886, Sec. 51-286g ."
+            "text": "Transferred to Chapter 886, Sec. 51-286g .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -13652,7 +14505,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-232 is repealed, effective July 1, 1993."
+            "text": "Section 54-232 is repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13668,7 +14525,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-233 is repealed, effective October 1, 2017."
+            "text": "Section 54-233 is repealed, effective October 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13734,12 +14595,25 @@
           "section_key": "",
           "label": "Secs. 54-236 to 54-239.",
           "url": "https://www.cga.ct.gov/current/pub/chap_968.htm#secs_54-236_to_54-239",
+          "grouped": true,
+          "section_keys": [
+            "54-236",
+            "54-237",
+            "54-238",
+            "54-239"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -14094,12 +14968,30 @@
           "section_key": "",
           "label": "Secs. 54-241 to 54-249.",
           "url": "https://www.cga.ct.gov/current/pub/chap_968a.htm#secs_54-241_to_54-249",
+          "grouped": true,
+          "section_keys": [
+            "54-241",
+            "54-242",
+            "54-243",
+            "54-244",
+            "54-245",
+            "54-246",
+            "54-247",
+            "54-248",
+            "54-249"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -14428,7 +15320,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-259 is repealed, effective October 1, 2002."
+            "text": "Section 54-259 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14444,7 +15340,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 54-259a is repealed, effective July 1, 2013."
+            "text": "Section 54-259a is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14563,12 +15463,39 @@
           "section_key": "",
           "label": "Secs. 54-262 to 54-279.",
           "url": "https://www.cga.ct.gov/current/pub/chap_969.htm#secs_54-262_to_54-279",
+          "grouped": true,
+          "section_keys": [
+            "54-262",
+            "54-263",
+            "54-264",
+            "54-265",
+            "54-266",
+            "54-267",
+            "54-268",
+            "54-269",
+            "54-270",
+            "54-271",
+            "54-272",
+            "54-273",
+            "54-274",
+            "54-275",
+            "54-276",
+            "54-277",
+            "54-278",
+            "54-279"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -14672,12 +15599,40 @@
           "section_key": "",
           "label": "Secs. 54-281 to 54-299.",
           "url": "https://www.cga.ct.gov/current/pub/chap_969a.htm#secs_54-281_to_54-299",
+          "grouped": true,
+          "section_keys": [
+            "54-281",
+            "54-282",
+            "54-283",
+            "54-284",
+            "54-285",
+            "54-286",
+            "54-287",
+            "54-288",
+            "54-289",
+            "54-290",
+            "54-291",
+            "54-292",
+            "54-293",
+            "54-294",
+            "54-295",
+            "54-296",
+            "54-297",
+            "54-298",
+            "54-299"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]

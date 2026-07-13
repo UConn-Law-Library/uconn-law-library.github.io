@@ -1,7 +1,7 @@
 {
   "source": {
     "titles_url": "https://www.cga.ct.gov/current/pub/titles.htm",
-    "generated_at_utc": "2026-07-12T18:07:00Z",
+    "generated_at_utc": "2026-07-13T13:33:18Z",
     "user_agent": "Mozilla/5.0 (compatible; CTStatutesIndexer/1.0; +https://www.cga.ct.gov/current/pub/titles.htm)"
   },
   "chapters": [
@@ -2490,6 +2490,90 @@
       "n": "Long-Term Care"
     },
     {
+      "t": "17b",
+      "c": "319aa",
+      "l": "Chapter 319aa",
+      "n": "Office of the Long-Term Care Ombudsman"
+    },
+    {
+      "t": "17b",
+      "c": "319bb",
+      "l": "Chapter 319bb",
+      "n": "Services for the Elderly"
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "l": "Chapter 319dd",
+      "n": "Protective Services for the Elderly"
+    },
+    {
+      "t": "17b",
+      "c": "319ff",
+      "l": "Chapter 319ff",
+      "n": "Prescription Drug Assistance"
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "l": "Chapter 319hh",
+      "n": "Management of Continuing Care Facilities"
+    },
+    {
+      "t": "17b",
+      "c": "319jj",
+      "l": "Chapter 319jj",
+      "n": "Medicare Assignment"
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "l": "Chapter 319mm",
+      "n": "Assistance to the Disabled"
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "l": "Chapter 319oo",
+      "n": "Employment and Training"
+    },
+    {
+      "t": "17b",
+      "c": "319pp",
+      "l": "Chapter 319pp",
+      "n": "Collective Bargaining and Workforce Development and Training for Family Child Care Providers and Personal Care Attendants"
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "l": "Chapter 319rr",
+      "n": "Child Care and Protection"
+    },
+    {
+      "t": "17b",
+      "c": "319tt",
+      "l": "Chapter 319tt",
+      "n": "Nutritional Assistance"
+    },
+    {
+      "t": "17b",
+      "c": "319uu",
+      "l": "Chapter 319uu",
+      "n": "Housing Assistance"
+    },
+    {
+      "t": "17b",
+      "c": "319ww",
+      "l": "Chapter 319ww",
+      "n": "Preventative Services to Families"
+    },
+    {
+      "t": "17b",
+      "c": "319yy",
+      "l": "Chapter 319yy",
+      "n": "Community Action Agencies"
+    },
+    {
       "t": "18",
       "c": "320",
       "l": "Chapter 320",
@@ -2698,6 +2782,42 @@
       "c": "368z",
       "l": "Chapter 368z",
       "n": "Health Systems Planning Unit"
+    },
+    {
+      "t": "19a",
+      "c": "368aa",
+      "l": "Chapter 368aa",
+      "n": "Health Care Accreditation"
+    },
+    {
+      "t": "19a",
+      "c": "368bb",
+      "l": "Chapter 368bb",
+      "n": "Managed Residential Communities"
+    },
+    {
+      "t": "19a",
+      "c": "368cc",
+      "l": "Chapter 368cc",
+      "n": "Health Care Cabinet"
+    },
+    {
+      "t": "19a",
+      "c": "368dd",
+      "l": "Chapter 368dd",
+      "n": "Office of Health Strategy"
+    },
+    {
+      "t": "19a",
+      "c": "368ee",
+      "l": "Chapter 368ee",
+      "n": "Health Information Technology"
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "l": "Chapter 368 ll",
+      "n": "Miscellaneous Provisions"
     },
     {
       "t": "20",
@@ -3931,6 +4051,12 @@
     },
     {
       "t": "25",
+      "c": "483aa",
+      "l": "Chapter 483aa",
+      "n": "Wild and Scenic Rivers"
+    },
+    {
+      "t": "25",
       "c": "484",
       "l": "Chapter 484",
       "n": "Protected Rivers"
@@ -4552,6 +4678,54 @@
       "c": "588z",
       "l": "Chapter 588z",
       "n": "Adriaen's Landing and Rentschler Field"
+    },
+    {
+      "t": "32",
+      "c": "588aa",
+      "l": "Chapter 588aa",
+      "n": "State Assistance for Economic Development"
+    },
+    {
+      "t": "32",
+      "c": "588bb",
+      "l": "Chapter 588bb",
+      "n": "Connecticut Rural Development Council"
+    },
+    {
+      "t": "32",
+      "c": "588cc",
+      "l": "Chapter 588cc",
+      "n": "Innovation Network for Economic Development"
+    },
+    {
+      "t": "32",
+      "c": "588dd",
+      "l": "Chapter 588dd",
+      "n": "Office of the Business Advocate. Office of the Permit Ombudsman"
+    },
+    {
+      "t": "32",
+      "c": "588ee",
+      "l": "Chapter 588ee",
+      "n": "Connecticut Competitiveness Council"
+    },
+    {
+      "t": "32",
+      "c": "588ff",
+      "l": "Chapter 588ff",
+      "n": "Regional Economic Development Districts"
+    },
+    {
+      "t": "32",
+      "c": "588gg",
+      "l": "Chapter 588gg",
+      "n": "Brownfield Remediation and Development"
+    },
+    {
+      "t": "32",
+      "c": "588hh",
+      "l": "Chapter 588hh",
+      "n": "Connecticut-Ireland Trade Commission"
     },
     {
       "t": "33",
@@ -5446,6 +5620,66 @@
       "c": "743u",
       "l": "Chapter 743u",
       "n": "Miscellaneous Consumer Cards"
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "l": "Chapter 743aa",
+      "n": "Consumer Leases"
+    },
+    {
+      "t": "42",
+      "c": "743bb",
+      "l": "Chapter 743bb",
+      "n": "Rental of Trucks for the Transportation of Personal Property"
+    },
+    {
+      "t": "42",
+      "c": "743cc",
+      "l": "Chapter 743cc",
+      "n": "Gift Certificates and Prepaid Cards"
+    },
+    {
+      "t": "42",
+      "c": "743dd",
+      "l": "Chapter 743dd",
+      "n": "Protection of Social Security Numbers and Personal Information"
+    },
+    {
+      "t": "42",
+      "c": "743ee",
+      "l": "Chapter 743ee",
+      "n": "Income Tax Refund Anticipation Loans"
+    },
+    {
+      "t": "42",
+      "c": "743ff",
+      "l": "Chapter 743ff",
+      "n": "Sales Representatives' Commissions"
+    },
+    {
+      "t": "42",
+      "c": "743gg",
+      "l": "Chapter 743gg",
+      "n": "Contracts Between Health Care Providers and Contracting Entities"
+    },
+    {
+      "t": "42",
+      "c": "743hh",
+      "l": "Chapter 743hh",
+      "n": "Commercial Leases: General Provisions"
+    },
+    {
+      "t": "42",
+      "c": "743ii",
+      "l": "Chapter 743ii",
+      "n": "Motor Fuel Industry Market Concentration"
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "l": "Chapter 743jj",
+      "n": "Data Privacy and Security"
     },
     {
       "t": "42",
@@ -29626,12 +29860,6 @@
     {
       "t": "08",
       "c": "133",
-      "s": "8-225",
-      "l": "8-225"
-    },
-    {
-      "t": "08",
-      "c": "133",
       "s": "8-226",
       "l": "Sec. 8-226. Use of prior bond proceeds for redevelopment and urban renewal."
     },
@@ -29700,6 +29928,12 @@
       "c": "133",
       "s": "8-224",
       "l": "8-224"
+    },
+    {
+      "t": "08",
+      "c": "133",
+      "s": "8-225",
+      "l": "8-225"
     },
     {
       "t": "08",
@@ -38962,12 +39196,6 @@
     {
       "t": "10",
       "c": "166",
-      "s": "10-153p",
-      "l": "10-153p"
-    },
-    {
-      "t": "10",
-      "c": "166",
       "s": "10-153s",
       "l": "Sec. 10-153s. Negotiation, arbitration and ratification of turnaround plans for commissioner's network schools."
     },
@@ -39234,6 +39462,12 @@
       "c": "166",
       "s": "10-151g",
       "l": "10-151g"
+    },
+    {
+      "t": "10",
+      "c": "166",
+      "s": "10-153p",
+      "l": "10-153p"
     },
     {
       "t": "10",
@@ -76654,6 +76888,12 @@
     {
       "t": "17a",
       "c": "319i",
+      "s": "17a-615",
+      "l": "Sec. 17a-615. (Formerly Sec. 17-258). Interstate Compact on Mental Health."
+    },
+    {
+      "t": "17a",
+      "c": "319i",
       "s": "17a-616",
       "l": "Sec. 17a-616. (Formerly Sec. 17-259). Compact administrators."
     },
@@ -76668,12 +76908,6 @@
       "c": "319i",
       "s": "17a-618",
       "l": "Sec. 17a-618. (Formerly Sec. 17-261). Payment of obligations."
-    },
-    {
-      "t": "17a",
-      "c": "319i",
-      "s": "17a-615",
-      "l": "17a-615"
     },
     {
       "t": "17a",
@@ -80532,6 +80766,1206 @@
       "c": "319y",
       "s": "17b-354c",
       "l": "17b-354c"
+    },
+    {
+      "t": "17b",
+      "c": "319bb",
+      "s": "17b-420",
+      "l": "Sec. 17b-420. Commission on Aging. Membership. Duties. Authority. Personnel. Agreements with state agencies."
+    },
+    {
+      "t": "17b",
+      "c": "319bb",
+      "s": "17b-420a",
+      "l": "Sec. 17b-420a. “Livable Communities” initiative. Internet portal. Report. Community recognition."
+    },
+    {
+      "t": "17b",
+      "c": "319bb",
+      "s": "17b-424",
+      "l": "Sec. 17b-424. Adult foster care program."
+    },
+    {
+      "t": "17b",
+      "c": "319bb",
+      "s": "17b-427a",
+      "l": "Sec. 17b-427a. Medicare consumers guide."
+    },
+    {
+      "t": "17b",
+      "c": "319bb",
+      "s": "17b-428",
+      "l": "Sec. 17b-428. Program of All-Inclusive Care for the Elderly (PACE)."
+    },
+    {
+      "t": "17b",
+      "c": "319bb",
+      "s": "17b-429",
+      "l": "Sec. 17b-429. Information on pharmaceutical drug programs for indigent persons."
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "s": "17b-450",
+      "l": "Sec. 17b-450. (Formerly Sec. 17a-430). Definitions."
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "s": "17b-451",
+      "l": "Sec. 17b-451. (Formerly Sec. 17a-431). Report of suspected abuse, neglect, exploitation or abandonment or need for protective services. Penalty for failure to report. Immunity and protection from retaliation. Training program."
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "s": "17b-452",
+      "l": "Sec. 17b-452. (Formerly Sec. 17a-432). Investigation of report. Findings, recommendations and disclosure of results. Registry. Confidentiality."
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "s": "17b-452a",
+      "l": "Sec. 17b-452a. Annual report re complaints of abuse or neglect of elderly persons."
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "s": "17b-453",
+      "l": "Sec. 17b-453. (Formerly Sec. 17a-433). Initiation of protective services. Injunction against interference by caregiver."
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "s": "17b-453a",
+      "l": "Sec. 17b-453a. Staff training re Alzheimer's disease and dementia."
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "s": "17b-454",
+      "l": "Sec. 17b-454. (Formerly Sec. 17a-434). Disclosure of protected health information and other information. Authority of commissioner."
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "s": "17b-455",
+      "l": "Sec. 17b-455. (Formerly Sec. 17a-435). Lack of consent or withdrawal of consent."
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "s": "17b-456",
+      "l": "Sec. 17b-456. (Formerly Sec. 17a-436). Appointment of conservator for elderly person lacking capacity to consent to protective services."
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "s": "17b-457",
+      "l": "Sec. 17b-457. (Formerly Sec. 17a-437). Assistance by public or private agencies."
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "s": "17b-458",
+      "l": "Sec. 17b-458. (Formerly Sec. 17a-438). Periodic review of cases in which protective services are provided. Consent to continuation of services."
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "s": "17b-459",
+      "l": "Sec. 17b-459. (Formerly Sec. 17a-439). Payment for protective services. Procedures when elderly person unable to pay."
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "s": "17b-459a",
+      "l": "Sec. 17b-459a. Strategic plan to incorporate national standards."
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "s": "17b-460",
+      "l": "Sec. 17b-460. (Formerly Sec. 17a-440). Referral for criminal investigation or proceedings."
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "s": "17b-461",
+      "l": "Sec. 17b-461. (Formerly Sec. 17a-441). Regulations."
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "s": "17b-462",
+      "l": "Sec. 17b-462. Cause of action by elderly victim. Civil attachment jurisdiction."
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "s": "17b-463",
+      "l": "Sec. 17b-463. Mandatory training for financial agents in detecting fraud, exploitation and financial abuse of elderly persons."
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "s": "17b-463a",
+      "l": "Sec. 17b-463a. Forum, clearing house and portal for training resources re best practices for detecting fraud, exploitation and financial abuse."
+    },
+    {
+      "t": "17b",
+      "c": "319dd",
+      "s": "17b-464",
+      "l": "Sec. 17b-464. Petition for order to enter premises of elderly person."
+    },
+    {
+      "t": "17b",
+      "c": "319ff",
+      "s": "17b-490",
+      "l": "Sec. 17b-490. (Formerly Sec. 17a-340). Definitions."
+    },
+    {
+      "t": "17b",
+      "c": "319ff",
+      "s": "17b-491",
+      "l": "Sec. 17b-491. (Formerly Sec. 17a-342). Pharmaceutical Assistance Program. Copayments. Reimbursement of prescriptions based on price paid by pharmacy and actual package size. Rebates and utilization review required for participating pharmaceutical manufacturers. Contracts for supplemental rebates."
+    },
+    {
+      "t": "17b",
+      "c": "319ff",
+      "s": "17b-491a",
+      "l": "Sec. 17b-491a. Prior authorization requirements for prescription drugs. Schedule for dispensing of maximum quantities of oral dosage units. Submission of schedule and revisions thereto to General Assembly."
+    },
+    {
+      "t": "17b",
+      "c": "319ff",
+      "s": "17b-491b",
+      "l": "Sec. 17b-491b. Reimbursement formula for drugs used to treat hemophilia A."
+    },
+    {
+      "t": "17b",
+      "c": "319ff",
+      "s": "17b-491c",
+      "l": "Sec. 17b-491c. Rebates for prescription drugs covered under state medical assistance program. Calculating of unit rebate amounts. Contracts for supplemental rebates. Pharmaceutical manufacturers' participation in program. Rebates for new drugs. Payment for medically necessary drugs."
+    },
+    {
+      "t": "17b",
+      "c": "319ff",
+      "s": "17b-492",
+      "l": "Sec. 17b-492. (Formerly Sec. 17a-343). Eligibility. Application period. Registration fee. ConnPACE program requirements. Payment for original and replacement prescriptions. Application prior to exhausting coverage. Regulations."
+    },
+    {
+      "t": "17b",
+      "c": "319ff",
+      "s": "17b-492a",
+      "l": "Sec. 17b-492a. Participating pharmacy. Requirements."
+    },
+    {
+      "t": "17b",
+      "c": "319ff",
+      "s": "17b-492b",
+      "l": "Sec. 17b-492b. Authority of Commissioner of Developmental Services with respect to the Medicare Part D program."
+    },
+    {
+      "t": "17b",
+      "c": "319ff",
+      "s": "17b-492c",
+      "l": "Sec. 17b-492c. Authority of Commissioner of Mental Health and Addiction Services with respect to the Medicare Part D program."
+    },
+    {
+      "t": "17b",
+      "c": "319ff",
+      "s": "17b-492d",
+      "l": "Sec. 17b-492d. Council to advise on implementation of Medicare Part D program. Duties. Membership. Annual report."
+    },
+    {
+      "t": "17b",
+      "c": "319ff",
+      "s": "17b-499",
+      "l": "Sec. 17b-499. Pharmacy outreach program: Definitions."
+    },
+    {
+      "t": "17b",
+      "c": "319ff",
+      "s": "17b-499a",
+      "l": "Sec. 17b-499a. Pharmacy outreach program. Established. Purpose. Duties. Report. Medicaid therapy management services pilot program."
+    },
+    {
+      "t": "17b",
+      "c": "319ff",
+      "s": "17b-493",
+      "l": "17b-493"
+    },
+    {
+      "t": "17b",
+      "c": "319ff",
+      "s": "17b-498",
+      "l": "17b-498"
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "s": "17b-520",
+      "l": "Sec. 17b-520. (Formerly Sec. 17a-360). Definitions."
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "s": "17b-521",
+      "l": "Sec. 17b-521. (Formerly Sec. 17a-361). Registration. Fee."
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "s": "17b-522",
+      "l": "Sec. 17b-522. (Formerly Sec. 17a-362). Disclosure statement."
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "s": "17b-523",
+      "l": "Sec. 17b-523. (Formerly Sec. 17a-363). Continuing-care contract requirements."
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "s": "17b-523a",
+      "l": "Sec. 17b-523a. Rights of resident of continuing-care retirement facility."
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "s": "17b-523b",
+      "l": "Sec. 17b-523b. Development of process for facilitating communication. Resident satisfaction survey."
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "s": "17b-523c",
+      "l": "Sec. 17b-523c. Resident health care rights and protections."
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "s": "17b-524",
+      "l": "Sec. 17b-524. (Formerly Sec. 17a-364). Entrance fee escrow account."
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "s": "17b-525",
+      "l": "Sec. 17b-525. (Formerly Sec. 17a-365). Reserve fund escrow account."
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "s": "17b-526",
+      "l": "Sec. 17b-526. (Formerly Sec. 17a-366). Preconstruction requirements."
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "s": "17b-527",
+      "l": "Sec. 17b-527. (Formerly Sec. 17a-367). Information to be made available to commissioner and residents. Facility in financial distress. Regulations. Remediation plan."
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "s": "17b-528",
+      "l": "Sec. 17b-528. (Formerly Sec. 17a-368). Documents required to be filed after first year of operation."
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "s": "17b-529",
+      "l": "Sec. 17b-529. (Formerly Sec. 17a-369). Liability for violation, misstatement or omission."
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "s": "17b-530",
+      "l": "Sec. 17b-530. (Formerly Sec. 17a-370). Penalty."
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "s": "17b-531",
+      "l": "Sec. 17b-531. (Formerly Sec. 17a-371). Investigations. Hearings. Injunctions. Action by Attorney General."
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "s": "17b-532",
+      "l": "Sec. 17b-532. (Formerly Sec. 17a-372). Appointment of receiver. Order to liquidate."
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "s": "17b-533",
+      "l": "Sec. 17b-533. (Formerly Sec. 17a-373). Regulations."
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "s": "17b-534",
+      "l": "Sec. 17b-534. (Formerly Sec. 17a-374). Exemption from reserve escrow provisions for certain providers."
+    },
+    {
+      "t": "17b",
+      "c": "319hh",
+      "s": "17b-535",
+      "l": "Sec. 17b-535. (Formerly Sec. 17a-375). Advisory committee."
+    },
+    {
+      "t": "17b",
+      "c": "319jj",
+      "s": "17b-550",
+      "l": "17b-550"
+    },
+    {
+      "t": "17b",
+      "c": "319jj",
+      "s": "17b-554",
+      "l": "17b-554"
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-597",
+      "l": "Sec. 17b-597. *(See end of section for amended version and effective date.) Working persons with disabilities program. Eligibility. Regulations."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-598",
+      "l": "Sec. 17b-598. Waiver for persons unable to maintain work effort for involuntary reasons."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-599",
+      "l": "Sec. 17b-599. Cooperation with Social Security Administration re work incentive demonstration projects."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-600",
+      "l": "Sec. 17b-600. (Formerly Sec. 17-109). Optional state supplementation program. Eligibility."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-600a",
+      "l": "Sec. 17b-600a. Additional financial assistance for persons with severe physical disabilities who require transfer assistance. Regulations."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-601",
+      "l": "Sec. 17b-601. (Formerly Sec. 17-109a). Program recipients residing in residential care homes or rated housing facilities. Regulations. Start date for benefit eligibility."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-602",
+      "l": "Sec. 17b-602. (Formerly Sec. 17-116). Eligibility of applicant having life care contract."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-602a",
+      "l": "Sec. 17b-602a. Waiver for community-based services program for persons with psychiatric disabilities. Report."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-603",
+      "l": "Sec. 17b-603. (Formerly Sec. 17-124). Incapable applicant."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-604",
+      "l": "Sec. 17b-604. (Formerly Sec. 17-134). Reciprocal agreements."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-605",
+      "l": "Sec. 17b-605. (Formerly Sec. 17-581). Personal care assistance program."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-605a",
+      "l": "Sec. 17b-605a. Personal care assistance program for persons eighteen years of age or older with disabilities and persons eligible for medical assistance. Transition upon attaining age of sixty-five."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-605b",
+      "l": "Sec. 17b-605b. Social Work In-Home Support program for persons with disabilities. Eligibility. Regulations."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-606",
+      "l": "Sec. 17b-606. (Formerly Sec. 17-606). Information on services for persons with disabilities."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-607",
+      "l": "Sec. 17b-607."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-610",
+      "l": "Sec. 17b-610. (Formerly Sec. 17-610). Assessment of needs of business community by Department of Social Services and Labor Department. Report."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-611",
+      "l": "Sec. 17b-611. (Formerly Sec. 17-616). Subsidized nongroup health insurance product for disabled persons."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-616",
+      "l": "Sec. 17b-616. (Formerly Sec. 17-582). Family support grant program."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-617",
+      "l": "Sec. 17b-617. Pilot program to provide home care services to disabled persons."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-650",
+      "l": "Sec. 17b-650."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-650a",
+      "l": "Sec. 17b-650a."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-650e",
+      "l": "Sec. 17b-650e."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-651",
+      "l": "Sec. 17b-651. (Formerly Sec. 17-661). Bureau of Rehabilitation Services. Disbursement of funds."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-651a",
+      "l": "Sec. 17b-651a."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-652",
+      "l": "Sec. 17b-652. Transfer of Bureau of Rehabilitation Services."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-664",
+      "l": "Sec. 17b-664. (Formerly Sec. 17-674). Bureau of Rehabilitation Services. Toll-free telephone service."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-665",
+      "l": "Sec. 17b-665. (Formerly Sec. 17-675). Department of Rehabilitation Services to submit data re vocational rehabilitation services program."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-666",
+      "l": "Sec. 17b-666."
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-608",
+      "l": "17b-608"
+    },
+    {
+      "t": "17b",
+      "c": "319mm",
+      "s": "17b-609",
+      "l": "17b-609"
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-688b",
+      "l": "Sec. 17b-688b. Interagency information and case management system established."
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-688c",
+      "l": "Sec. 17b-688c. Employment services program for recipients of TANF established. Regulations."
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-688g",
+      "l": "Sec. 17b-688g. Minor parent ineligible for temporary family assistance, when."
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-688h",
+      "l": "Sec. 17b-688h. (Formerly Sec. 17b-688d). Memorandum of understanding re employment services for TANF recipients. Pilot program."
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-688i",
+      "l": "Sec. 17b-688i. (Formerly Sec. 17b-688e). Administration of employment services program for TANF recipients."
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-688j",
+      "l": "Sec. 17b-688j. (Formerly Sec. 17b-688f). Reliable transportation pilot program."
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-689",
+      "l": "Sec. 17b-689."
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-689a",
+      "l": "Sec. 17b-689a. Labor Department grant program."
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-689b",
+      "l": "Sec. 17b-689b. Regulations."
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-689c",
+      "l": "Sec. 17b-689c. Employability plans for TFA recipients."
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-689d",
+      "l": "Sec. 17b-689d. Education courses for TFA recipients."
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-694",
+      "l": "Sec. 17b-694. Community Employment Incentive Program. Employment placement projects."
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-698",
+      "l": "Sec. 17b-698. Collection of data from job training and placement services."
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-698a",
+      "l": "Sec. 17b-698a. Evaluation of job training programs."
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-680",
+      "l": "17b-680"
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-688a",
+      "l": "17b-688a"
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-690",
+      "l": "17b-690"
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-693",
+      "l": "17b-693"
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-695",
+      "l": "17b-695"
+    },
+    {
+      "t": "17b",
+      "c": "319oo",
+      "s": "17b-697",
+      "l": "17b-697"
+    },
+    {
+      "t": "17b",
+      "c": "319pp",
+      "s": "17b-705",
+      "l": "Sec. 17b-705. Collective bargaining for family child care providers."
+    },
+    {
+      "t": "17b",
+      "c": "319pp",
+      "s": "17b-705a",
+      "l": "Sec. 17b-705a. Rights of family child care providers. Prohibitions. Procedure for negotiation and binding arbitration. Election and designation of exclusive bargaining agent."
+    },
+    {
+      "t": "17b",
+      "c": "319pp",
+      "s": "17b-705b",
+      "l": "Sec. 17b-705b. State immunity from liability."
+    },
+    {
+      "t": "17b",
+      "c": "319pp",
+      "s": "17b-706",
+      "l": "Sec. 17b-706. Collective bargaining for personal care attendants. Definition."
+    },
+    {
+      "t": "17b",
+      "c": "319pp",
+      "s": "17b-706a",
+      "l": "Sec. 17b-706a. Personal Care Attendant Workforce Council. Membership. Duties."
+    },
+    {
+      "t": "17b",
+      "c": "319pp",
+      "s": "17b-706b",
+      "l": "Sec. 17b-706b. Rights of personal care attendants. Prohibitions. Procedure for negotiation and binding arbitration. Election and designation of exclusive bargaining agent."
+    },
+    {
+      "t": "17b",
+      "c": "319pp",
+      "s": "17b-706c",
+      "l": "Sec. 17b-706c. Applications for waiver of federal law."
+    },
+    {
+      "t": "17b",
+      "c": "319pp",
+      "s": "17b-706d",
+      "l": "Sec. 17b-706d. State immunity from liability."
+    },
+    {
+      "t": "17b",
+      "c": "319pp",
+      "s": "17b-706e",
+      "l": "Sec. 17b-706e. Provision of training and related services to personal care attendants."
+    },
+    {
+      "t": "17b",
+      "c": "319pp",
+      "s": "17b-706f",
+      "l": "Sec. 17b-706f. Personal care attendants career pathways program. Development of training curricula. Report."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-730",
+      "l": "Sec. 17b-730. (Formerly Sec. 17-575). Child care services and economic opportunity acts."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-731",
+      "l": "Sec. 17b-731."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-732",
+      "l": "Sec. 17b-732. (Formerly Sec. 17-579). Papers for commitment of minors; uniform forms. Notice to Commissioner of Social Services or designee."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-733",
+      "l": "Sec. 17b-733. (Formerly Sec. 17-585(a)). Office of Early Childhood designated lead agency for child care services."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-737",
+      "l": "Sec. 17b-737. (Formerly Sec. 17-595). Grants program to encourage the use of school facilities for child care services. Regulations."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-738",
+      "l": "Sec. 17b-738. (Formerly Sec. 17-596). Loans to business firms for licensed child care centers, family child care homes or group child care homes."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-739",
+      "l": "Sec. 17b-739. (Formerly Sec. 17-597). Child care facilities in state buildings."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-743",
+      "l": "Sec. 17b-743. (Formerly Sec. 17-323a). Support order may direct payment to Commissioner of Administrative Services or local welfare department."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-744",
+      "l": "Sec. 17b-744. (Formerly Sec. 17-323b). Discontinuance of payments of support to commissioner pursuant to certain court orders."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-745",
+      "l": "Sec. 17b-745. (Formerly Sec. 17-324). Court order for support of persons supported by state. National Medical Support Notice. Income withholding orders. Enforcement and modification of support orders."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-746",
+      "l": "Sec. 17b-746. (Formerly Sec. 17-325). Appeals from support orders."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-747",
+      "l": "Sec. 17b-747. (Formerly Sec. 17-319). Apportionment of support cost."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-748",
+      "l": "Sec. 17b-748. (Formerly Sec. 19a-78). Child Day Care Council."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-749",
+      "l": "Sec. 17b-749. (Formerly Sec. 8-210b). Child care subsidy program. Eligibility and program standards. Child care providers. Federal regulations and policies and procedures. Quarterly reports."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-749a",
+      "l": "Sec. 17b-749a. (Note: This section is repealed, effective July 1, 2025.) Purchase of child care services. Grants to school readiness providers. Duties of Commissioner of Early Childhood concerning school readiness."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-749b",
+      "l": "Sec. 17b-749b. School readiness program requirements."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-749c",
+      "l": "Sec. 17b-749c. Supplemental quality enhancement grant program."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-749d",
+      "l": "Sec. 17b-749d. (Note: This section is repealed, effective July 1, 2025.) Sliding fee scale for use by licensed child care centers."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-749e",
+      "l": "Sec. 17b-749e. Regional accreditation projects."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-749f",
+      "l": "Sec. 17b-749f. Evaluation system for licensed child care centers. Longitudinal study. Report."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-749g",
+      "l": "Sec. 17b-749g. Child care facilities loan guarantee program. Regulations."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-749h",
+      "l": "Sec. 17b-749h. Child care facilities direct revolving loan program. Regulations."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-749i",
+      "l": "Sec. 17b-749i. Facilities operating child care programs financed through the Connecticut Health and Educational Facilities Authority."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-749j",
+      "l": "Sec. 17b-749j. Health and safety standards for child care subsidy program. Regulations."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-749k",
+      "l": "Sec. 17b-749k. Comprehensive background checks, National Sex Offender Public Website checks, child abuse registry checks and Connecticut Criminal History Request System checks for purposes of child care subsidy program. Refusal to provide payments."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-749l",
+      "l": "Sec. 17b-749 l . Child care subsidy program. Notice of program changes and intake closure."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-750",
+      "l": "Sec. 17b-750. National criminal history records checks of unlicensed child care providers."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-751",
+      "l": "Sec. 17b-751. (Formerly Sec. 17a-50). Children's Trust Fund. Regulations. Report."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-751a",
+      "l": "Sec. 17b-751a. (Formerly Sec. 17a-50a). Eligibility for grants under the Kinship Fund and Grandparents and Relatives Respite Fund. Transfer of grant funds by Probate Court Administrator to Probate Courts."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-751b",
+      "l": "Sec. 17b-751b. (Formerly Sec. 17a-56). Connecticut Home Visiting System."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-751c",
+      "l": "Sec. 17b-751c. (Formerly Sec. 17a-56a). Nurturing Families Network Advisory Commission."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-751d",
+      "l": "Sec. 17b-751d. Office of Early Childhood designated as state agency responsible for programs and activities to prevent child abuse and neglect."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-751e",
+      "l": "Sec. 17b-751e. Continuance of Children's Trust Fund Council's orders, regulations and contracts."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-751f",
+      "l": "Sec. 17b-751f. Terms “child care center”, “group child care home”, “family child care home”, “child care services” and “child care programs” substituted for former terms."
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-734",
+      "l": "17b-734"
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-736",
+      "l": "17b-736"
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-740",
+      "l": "17b-740"
+    },
+    {
+      "t": "17b",
+      "c": "319rr",
+      "s": "17b-742",
+      "l": "17b-742"
+    },
+    {
+      "t": "17b",
+      "c": "319tt",
+      "s": "17b-790",
+      "l": "Sec. 17b-790. (Formerly Sec. 17-12d). Social Services Department required to provide nutrition education program and to inform applicants and participants of their rights and responsibilities."
+    },
+    {
+      "t": "17b",
+      "c": "319tt",
+      "s": "17b-790a",
+      "l": "Sec. 17b-790a. Food assistance program for legal immigrants."
+    },
+    {
+      "t": "17b",
+      "c": "319tt",
+      "s": "17b-790b",
+      "l": "Sec. 17b-790b. Access to supplemental nutrition assistance programs."
+    },
+    {
+      "t": "17b",
+      "c": "319tt",
+      "s": "17b-790c",
+      "l": "Sec. 17b-790c. Food and nutrition policy analysts. Employment by Commission on Women, Children, Seniors, Equity and Opportunity. Definitions. Duties. Reporting requirements."
+    },
+    {
+      "t": "17b",
+      "c": "319tt",
+      "s": "17b-791",
+      "l": "Sec. 17b-791. (Formerly Sec. 17-598). Supplemental nutrition commodities assistance program."
+    },
+    {
+      "t": "17b",
+      "c": "319tt",
+      "s": "17b-792",
+      "l": "Sec. 17b-792."
+    },
+    {
+      "t": "17b",
+      "c": "319uu",
+      "s": "17b-801",
+      "l": "Sec. 17b-801. (Formerly Sec. 17-591). Fuel and weatherization assistance programs. Crime prevention and safety program."
+    },
+    {
+      "t": "17b",
+      "c": "319uu",
+      "s": "17b-802",
+      "l": "Sec. 17b-802."
+    },
+    {
+      "t": "17b",
+      "c": "319uu",
+      "s": "17b-803",
+      "l": "Sec. 17b-803."
+    },
+    {
+      "t": "17b",
+      "c": "319uu",
+      "s": "17b-806",
+      "l": "Sec. 17b-806."
+    },
+    {
+      "t": "17b",
+      "c": "319uu",
+      "s": "17b-807",
+      "l": "Sec. 17b-807. (Formerly Sec. 17-86d). Policy re provision of emergency shelter in hotels or motels."
+    },
+    {
+      "t": "17b",
+      "c": "319uu",
+      "s": "17b-808",
+      "l": "Sec. 17b-808. (Formerly Sec. 17-86e). Special needs benefit for emergency housing. Limitation."
+    },
+    {
+      "t": "17b",
+      "c": "319uu",
+      "s": "17b-809",
+      "l": "Sec. 17b-809. Plan for informing landlords of rules concerning direct vendor payment of rent."
+    },
+    {
+      "t": "17b",
+      "c": "319uu",
+      "s": "17b-810",
+      "l": "Sec. 17b-810. Direct payment of rent to landlord."
+    },
+    {
+      "t": "17b",
+      "c": "319uu",
+      "s": "17b-811",
+      "l": "Sec. 17b-811. (Formerly Sec. 17-2f). Direct payments to landlords."
+    },
+    {
+      "t": "17b",
+      "c": "319uu",
+      "s": "17b-811a",
+      "l": "Sec. 17b-811a."
+    },
+    {
+      "t": "17b",
+      "c": "319uu",
+      "s": "17b-812",
+      "l": "Sec. 17b-812."
+    },
+    {
+      "t": "17b",
+      "c": "319uu",
+      "s": "17b-812a",
+      "l": "Sec. 17b-812a."
+    },
+    {
+      "t": "17b",
+      "c": "319uu",
+      "s": "17b-813",
+      "l": "Sec. 17b-813."
+    },
+    {
+      "t": "17b",
+      "c": "319uu",
+      "s": "17b-814",
+      "l": "Sec. 17b-814."
+    },
+    {
+      "t": "17b",
+      "c": "319uu",
+      "s": "17b-815",
+      "l": "Sec. 17b-815."
+    },
+    {
+      "t": "17b",
+      "c": "319uu",
+      "s": "17b-816",
+      "l": "Sec. 17b-816. Provision of free menstrual products by domestic violence agencies that receive state funding."
+    },
+    {
+      "t": "17b",
+      "c": "319ww",
+      "s": "17b-850",
+      "l": "Sec. 17b-850. (Formerly Sec. 17-580). Program for shelter services for victims of household abuse."
+    },
+    {
+      "t": "17b",
+      "c": "319ww",
+      "s": "17b-851",
+      "l": "Sec. 17b-851. (Formerly Sec. 17-618). Families-in-training programs."
+    },
+    {
+      "t": "17b",
+      "c": "319ww",
+      "s": "17b-851a",
+      "l": "Sec. 17b-851a. Program for reduction of teenage pregnancies."
+    },
+    {
+      "t": "17b",
+      "c": "319ww",
+      "s": "17b-852",
+      "l": "Sec. 17b-852. (Formerly Sec. 8-221). Human resource development program."
+    },
+    {
+      "t": "17b",
+      "c": "319ww",
+      "s": "17b-853",
+      "l": "Sec. 17b-853. (Formerly Sec. 8-222). State grants-in-aid for human resource development programs. Submission of application and advisory opinion."
+    },
+    {
+      "t": "17b",
+      "c": "319ww",
+      "s": "17b-854",
+      "l": "Sec. 17b-854. (Formerly Sec. 8-222a). Limitation on state financial assistance to human resource development agencies."
+    },
+    {
+      "t": "17b",
+      "c": "319ww",
+      "s": "17b-855",
+      "l": "Sec. 17b-855. (Formerly Sec. 8-223). Research activity of commissioner."
+    },
+    {
+      "t": "17b",
+      "c": "319ww",
+      "s": "17b-856",
+      "l": "Sec. 17b-856. Grants to hospitals."
+    },
+    {
+      "t": "17b",
+      "c": "319ww",
+      "s": "17b-857",
+      "l": "Sec. 17b-857. Hispanic, communities of color organizations. Pilot grant program. Report."
+    },
+    {
+      "t": "17b",
+      "c": "319yy",
+      "s": "17b-885",
+      "l": "Sec. 17b-885. (Formerly Sec. 17-635). Definitions."
+    },
+    {
+      "t": "17b",
+      "c": "319yy",
+      "s": "17b-886",
+      "l": "Sec. 17b-886. (Formerly Sec. 17-636). Agency board."
+    },
+    {
+      "t": "17b",
+      "c": "319yy",
+      "s": "17b-887",
+      "l": "Sec. 17b-887. (Formerly Sec. 17-637). Agency functions."
+    },
+    {
+      "t": "17b",
+      "c": "319yy",
+      "s": "17b-888",
+      "l": "Sec. 17b-888. (Formerly Sec. 17-638). Agency funding. Transfer of funds; delegation of powers."
+    },
+    {
+      "t": "17b",
+      "c": "319yy",
+      "s": "17b-889",
+      "l": "Sec. 17b-889. (Formerly Sec. 17-639). Program; community participation; agency priorities."
+    },
+    {
+      "t": "17b",
+      "c": "319yy",
+      "s": "17b-890",
+      "l": "Sec. 17b-890. (Formerly Sec. 17-640). Program; participant objectives."
+    },
+    {
+      "t": "17b",
+      "c": "319yy",
+      "s": "17b-891",
+      "l": "Sec. 17b-891. (Formerly Sec. 17-641). Delegation of administration of component projects by agencies; area representation."
+    },
+    {
+      "t": "17b",
+      "c": "319yy",
+      "s": "17b-892",
+      "l": "Sec. 17b-892. (Formerly Sec. 17-642). Failure to comply with statutes; loss of designation to serve; assistance to establish new agency."
+    },
+    {
+      "t": "17b",
+      "c": "319yy",
+      "s": "17b-893",
+      "l": "Sec. 17b-893. (Formerly Sec. 17-643). Financial assistance."
+    },
+    {
+      "t": "17b",
+      "c": "319yy",
+      "s": "17b-894",
+      "l": "Sec. 17b-894. (Formerly Sec. 17-644). Representatives of community action agencies recognized as knowledgeable on issues affecting persons of low income, persons who are elderly and persons with disabilities. Compliance with civil rights laws."
+    },
+    {
+      "t": "17b",
+      "c": "319yy",
+      "s": "17b-895",
+      "l": "Sec. 17b-895. (Formerly Sec. 17-645). Regulations."
     },
     {
       "t": "18",
@@ -88570,20 +90004,8 @@
     {
       "t": "19a",
       "c": "368z",
-      "s": "19a-169b",
-      "l": "Secs. 19a-671 (Formerly Sec. 19a-169b) and 19a-671a. Calculation and determination of payments. Adjustment of overpayments for disproportionate share-medical emergency assistance by reducing Medicaid payments."
-    },
-    {
-      "t": "19a",
-      "c": "368z",
       "s": "19a-671b",
       "l": "Sec. 19a-671b. Provisions for waiver of certain penalties and interest assessed pertaining to liability for taxes owed under chapter 211a or 219."
-    },
-    {
-      "t": "19a",
-      "c": "368z",
-      "s": "19a-169c",
-      "l": "Secs. 19a-672 (Formerly Sec. 19a-169c) and 19a-672a. Use of medical assistance disproportionate share-emergency assistance account funds. Payments when short-term general hospital changes ownership during fiscal year."
     },
     {
       "t": "19a",
@@ -88764,6 +90186,426 @@
       "c": "368z",
       "s": "19a-675",
       "l": "19a-675"
+    },
+    {
+      "t": "19a",
+      "c": "368aa",
+      "s": "19a-690",
+      "l": "Sec. 19a-690. Magnetic resonance imaging accreditation."
+    },
+    {
+      "t": "19a",
+      "c": "368aa",
+      "s": "19a-691",
+      "l": "Sec. 19a-691. Anesthesia accreditation."
+    },
+    {
+      "t": "19a",
+      "c": "368aa",
+      "s": "19a-692",
+      "l": "Sec. 19a-692."
+    },
+    {
+      "t": "19a",
+      "c": "368bb",
+      "s": "19a-693",
+      "l": "Sec. 19a-693. Definitions."
+    },
+    {
+      "t": "19a",
+      "c": "368bb",
+      "s": "19a-694",
+      "l": "Sec. 19a-694. Managed residential communities. Operational requirements."
+    },
+    {
+      "t": "19a",
+      "c": "368bb",
+      "s": "19a-694a",
+      "l": "Sec. 19a-694a. Notification when petition for bankruptcy filed."
+    },
+    {
+      "t": "19a",
+      "c": "368bb",
+      "s": "19a-695",
+      "l": "Sec. 19a-695. Investigation of complaints."
+    },
+    {
+      "t": "19a",
+      "c": "368bb",
+      "s": "19a-696",
+      "l": "Sec. 19a-696. Biennial reviews. Written reports. Remedial orders. Enforcement of remedial orders."
+    },
+    {
+      "t": "19a",
+      "c": "368bb",
+      "s": "19a-697",
+      "l": "Sec. 19a-697. Resident's bill of rights."
+    },
+    {
+      "t": "19a",
+      "c": "368bb",
+      "s": "19a-698",
+      "l": "Sec. 19a-698. Residency agreements. Twenty-four-hour skilled nursing care."
+    },
+    {
+      "t": "19a",
+      "c": "368bb",
+      "s": "19a-699",
+      "l": "Sec. 19a-699. Individualized service plans. Assessment of resident who requires assisted living services."
+    },
+    {
+      "t": "19a",
+      "c": "368bb",
+      "s": "19a-700",
+      "l": "Sec. 19a-700. Written residency agreements. Required content."
+    },
+    {
+      "t": "19a",
+      "c": "368bb",
+      "s": "19a-701",
+      "l": "Sec. 19a-701. Compliance with applicable laws and regulations."
+    },
+    {
+      "t": "19a",
+      "c": "368cc",
+      "s": "19a-725",
+      "l": "Sec. 19a-725. Health Care Cabinet: Membership; terms; duties."
+    },
+    {
+      "t": "19a",
+      "c": "368cc",
+      "s": "19a-710",
+      "l": "19a-710"
+    },
+    {
+      "t": "19a",
+      "c": "368cc",
+      "s": "19a-723",
+      "l": "19a-723"
+    },
+    {
+      "t": "19a",
+      "c": "368cc",
+      "s": "19a-724",
+      "l": "19a-724"
+    },
+    {
+      "t": "19a",
+      "c": "368cc",
+      "s": "19a-724b",
+      "l": "19a-724b"
+    },
+    {
+      "t": "19a",
+      "c": "368dd",
+      "s": "19a-754a",
+      "l": "Sec. 19a-754a. Office of Health Strategy established."
+    },
+    {
+      "t": "19a",
+      "c": "368dd",
+      "s": "19a-754b",
+      "l": "Sec. 19a-754b. Notices to office re sponsor applications to the Food and Drug Administration. Studies of pharmaceutical manufacturers and outpatient prescription drugs. Penalty. Regulations."
+    },
+    {
+      "t": "19a",
+      "c": "368dd",
+      "s": "19a-754c",
+      "l": "Sec. 19a-754c. Covered Connecticut program. Waivers. Prior approval. Reports."
+    },
+    {
+      "t": "19a",
+      "c": "368dd",
+      "s": "19a-754d",
+      "l": "Sec. 19a-754d. Collection of demographic data re ancestry or ethnic origin, ethnicity, race or primary language. Inclusion in electronic health record systems."
+    },
+    {
+      "t": "19a",
+      "c": "368dd",
+      "s": "19a-754e",
+      "l": "Sec. 19a-754e. Health care expansion study. Report."
+    },
+    {
+      "t": "19a",
+      "c": "368dd",
+      "s": "19a-754f",
+      "l": "Sec. 19a-754f. Definitions."
+    },
+    {
+      "t": "19a",
+      "c": "368dd",
+      "s": "19a-754g",
+      "l": "Sec. 19a-754g. Development, publication and modification of health care cost growth benchmarks, primary care spending targets and health care quality benchmarks."
+    },
+    {
+      "t": "19a",
+      "c": "368dd",
+      "s": "19a-754h",
+      "l": "Sec. 19a-754h. Payer reporting requirements. Publication of reports."
+    },
+    {
+      "t": "19a",
+      "c": "368dd",
+      "s": "19a-754i",
+      "l": "Sec. 19a-754i. Meetings between payer or provider and Commissioner of Health Strategy. Criteria for identification of entities exceeding health care cost growth benchmark."
+    },
+    {
+      "t": "19a",
+      "c": "368dd",
+      "s": "19a-754j",
+      "l": "Sec. 19a-754j. Informational public hearings. Participation by significant contributors. Commissioner of Health Strategy's report."
+    },
+    {
+      "t": "19a",
+      "c": "368dd",
+      "s": "19a-754k",
+      "l": "Sec. 19a-754k. Health care cost growth and quality benchmarks and primary care spending targets: Regulations."
+    },
+    {
+      "t": "19a",
+      "c": "368dd",
+      "s": "19a-750",
+      "l": "19a-750"
+    },
+    {
+      "t": "19a",
+      "c": "368dd",
+      "s": "19a-754",
+      "l": "19a-754"
+    },
+    {
+      "t": "19a",
+      "c": "368ee",
+      "s": "19a-755",
+      "l": "Sec. 19a-755. Health Information Technology Officer."
+    },
+    {
+      "t": "19a",
+      "c": "368ee",
+      "s": "19a-755a",
+      "l": "Sec. 19a-755a. All-payer claims database program."
+    },
+    {
+      "t": "19a",
+      "c": "368ee",
+      "s": "19a-755b",
+      "l": "Sec. 19a-755b. Consumer health information Internet web site."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-900",
+      "l": "Sec. 19a-900. Use of cartridge injector by staff member of before or after school program, day camp or child care facility."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-900a",
+      "l": "Sec. 19a-900a. Administration of epinephrine by cartridge injector to certain children for purpose of emergency first aid."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-901",
+      "l": "Sec. 19a-901. Obstetrical ultrasound procedure."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-902",
+      "l": "Sec. 19a-902. Dual licensure program for providers of mental health services and substance abuse services. Drug testing at facilities licensed by Department of Public Health. Regulations."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-903",
+      "l": "Sec. 19a-903. Prohibited billing practices re hospital-acquired conditions."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-903a",
+      "l": "Sec. 19a-903a. Circulating nurses in hospitals and outpatient surgical facilities."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-903b",
+      "l": "Sec. 19a-903b. Hospital designation of health care providers and technologists to perform oxygen-related patient care activities. Training. Competency testing. Exception."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-903c",
+      "l": "Sec. 19a-903c. Medical spas."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-904",
+      "l": "Sec. 19a-904. Emergency service members and exposure to infectious diseases. Definitions. Designated officers. Duties of hospital. Request for notification. Immunity from liability."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-904a",
+      "l": "Sec. 19a-904a. Notice to patients re coverage by health insurance policy. Understandable language in documents submitted to patients or insureds. Collection from insured of money owed by health carrier."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-904b",
+      "l": "Sec. 19a-904b. Notice to health carrier when stopping acceptance of patients in insurance plan. Updates to health care provider directories."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-904c",
+      "l": "Sec. 19a-904c. Electronic health records systems; utilization by hospitals."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-904d",
+      "l": "Sec. 19a-904d. Health information blocking. Penalty."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-905",
+      "l": "Sec. 19a-905. Health care providers who provide direct patient care to wear badges."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-905a",
+      "l": "Sec. 19a-905a. Recording of developmental screenings by health care providers."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-906",
+      "l": "Sec. 19a-906. Telehealth services."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-906a",
+      "l": "Sec. 19a-906a. Issuance of order authorizing out-of-state telehealth providers to provide telehealth services to patients in this state."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-907",
+      "l": "Sec. 19a-907. Conversion therapy. Definitions."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-907a",
+      "l": "Sec. 19a-907a. Conversion therapy by healthcare provider. Prohibition."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-907b",
+      "l": "Sec. 19a-907b. Conversion therapy in conduct of trade or commerce. Prohibition. Unfair or deceptive trade practice."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-907c",
+      "l": "Sec. 19a-907c. Conversion therapy and the expenditure of public funds."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-908",
+      "l": "Sec. 19a-908. Initial contact lens prescriptions. Prohibition on use of remote refractive devices."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-909",
+      "l": "Sec. 19a-909. Access to and maintenance and administration of epinephrine cartridge injectors by authorized entities. Limitation on liability."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-910",
+      "l": "Sec. 19a-910. Development of communication aid for use during emergencies. Maintenance of communication aid in vehicle."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-910a",
+      "l": "Sec. 19a-910a. Maintenance of documents in police officer and emergency medical technician vehicles."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-911",
+      "l": "Sec. 19a-911. Council on Protecting Women's Health established. Membership. Report."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-911a",
+      "l": "Sec. 19a-911a. Accessing, continuing or completing assisted reproductive technology treatments or procedures or the performance of such treatments or procedures. Prohibition of or unreasonable limitation on prohibited."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-912",
+      "l": "Sec. 19a-912. Limited services pregnancy centers. Definitions."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-912a",
+      "l": "Sec. 19a-912a. Deceptive advertising by limited services pregnancy centers. Prohibited."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-912b",
+      "l": "Sec. 19a-912b. Deceptive advertising by limited services pregnancy centers. Injunctive relief. Civil penalty."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-913",
+      "l": "Sec. 19a-913. Establishment of guidelines by department for use of nonpharmaceutical therapies to treat chronic pain."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-914",
+      "l": "Sec. 19a-914. Pediatric mental health, behavioral health and substance use disorder screening tool for use by pediatricians and emergency departments."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-915",
+      "l": "Sec. 19a-915. Reciprocal licensure or endorsement for speech and language pathology and occupational therapy. Report."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-916",
+      "l": "Sec. 19a-916. Splash pad and spray park signage."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-917",
+      "l": "Sec. 19a-917. Educational material concerning gun safety practices to be provided by primary care providers to patients. Availability of educational materials."
+    },
+    {
+      "t": "19a",
+      "c": "368ll",
+      "s": "19a-918",
+      "l": "Sec. 19a-918. Performance of apheresis."
     },
     {
       "t": "20",
@@ -99742,12 +101584,6 @@
     {
       "t": "22",
       "c": "422a",
-      "s": "22-26ee",
-      "l": "22-26ee"
-    },
-    {
-      "t": "22",
-      "c": "422a",
       "s": "22-26gg",
       "l": "Sec. 22-26gg. Regulations."
     },
@@ -99810,6 +101646,12 @@
       "c": "422a",
       "s": "22-26qq",
       "l": "Sec. 22-26qq. Conservation or preservation restrictions on department lands."
+    },
+    {
+      "t": "22",
+      "c": "422a",
+      "s": "22-26ee",
+      "l": "22-26ee"
     },
     {
       "t": "22",
@@ -111393,12 +113235,6 @@
     },
     {
       "t": "25",
-      "c": "477b",
-      "s": "25-102u",
-      "l": "Sec. 25-102u to 25-102z."
-    },
-    {
-      "t": "25",
       "c": "477c",
       "s": "25-102aa",
       "l": "Sec. 25-102aa. Legislative finding."
@@ -111786,6 +113622,30 @@
       "c": "483c",
       "s": "25-177",
       "l": "25-177"
+    },
+    {
+      "t": "25",
+      "c": "483aa",
+      "s": "25-199",
+      "l": "Sec. 25-199. Designation of the Eightmile River within the national wild and scenic rivers system."
+    },
+    {
+      "t": "25",
+      "c": "483aa",
+      "s": "25-199a",
+      "l": "Sec. 25-199a. Designation of portion of Lower Farmington River and Salmon Brook within the national wild and scenic rivers system."
+    },
+    {
+      "t": "25",
+      "c": "483aa",
+      "s": "25-199b",
+      "l": "Sec. 25-199b. (Formerly Sec. 25-178). Designation of the Farmington River within the national wild and scenic rivers system."
+    },
+    {
+      "t": "25",
+      "c": "483aa",
+      "s": "25-199c",
+      "l": "Sec. 25-199c. Designation of the Housatonic River within the national wild and scenic rivers system. Administering agency. Authorized agricultural activities."
     },
     {
       "t": "25",
@@ -129516,6 +131376,216 @@
       "c": "588z",
       "s": "32-669",
       "l": "Sec. 32-669. Status report."
+    },
+    {
+      "t": "32",
+      "c": "588aa",
+      "s": "32-700",
+      "l": "Sec. 32-700. Definitions."
+    },
+    {
+      "t": "32",
+      "c": "588aa",
+      "s": "32-701",
+      "l": "Sec. 32-701. Required terms and conditions of agreement for state assistance. Repayment. Modification."
+    },
+    {
+      "t": "32",
+      "c": "588aa",
+      "s": "32-702",
+      "l": "Sec. 32-702. Procedure if noncompliance with agreement. Default. Penalty."
+    },
+    {
+      "t": "32",
+      "c": "588aa",
+      "s": "32-703",
+      "l": "Sec. 32-703. Lien on security. Exception."
+    },
+    {
+      "t": "32",
+      "c": "588aa",
+      "s": "32-704",
+      "l": "Sec. 32-704. Hospitality projects receiving state assistance. Labor peace agreements."
+    },
+    {
+      "t": "32",
+      "c": "588bb",
+      "s": "32-710",
+      "l": "Sec. 32-710. Connecticut Rural Development Council. Established. Duties."
+    },
+    {
+      "t": "32",
+      "c": "588cc",
+      "s": "32-716",
+      "l": "Sec. 32-716. Legislative finding."
+    },
+    {
+      "t": "32",
+      "c": "588cc",
+      "s": "32-718",
+      "l": "32-718"
+    },
+    {
+      "t": "32",
+      "c": "588cc",
+      "s": "32-717",
+      "l": "32-717"
+    },
+    {
+      "t": "32",
+      "c": "588dd",
+      "s": "32-725",
+      "l": "Sec. 32-725. Office of the Business Advocate."
+    },
+    {
+      "t": "32",
+      "c": "588dd",
+      "s": "32-726",
+      "l": "Sec. 32-726. Office of the permit ombudsman."
+    },
+    {
+      "t": "32",
+      "c": "588ee",
+      "s": "32-730",
+      "l": "Sec. 32-730. Connecticut Competitiveness Council."
+    },
+    {
+      "t": "32",
+      "c": "588ff",
+      "s": "32-741",
+      "l": "Sec. 32-741. Establishment of regional economic development districts. Board of directors. Boundaries."
+    },
+    {
+      "t": "32",
+      "c": "588ff",
+      "s": "32-742",
+      "l": "Sec. 32-742. Comprehensive economic development strategy."
+    },
+    {
+      "t": "32",
+      "c": "588ff",
+      "s": "32-743",
+      "l": "Sec. 32-743. Review and approval of comprehensive economic development strategy. Approval and designation of region as economic development district."
+    },
+    {
+      "t": "32",
+      "c": "588ff",
+      "s": "32-744",
+      "l": "Sec. 32-744. Priority regional grants to regional economic development districts."
+    },
+    {
+      "t": "32",
+      "c": "588ff",
+      "s": "32-745",
+      "l": "Sec. 32-745. Projects identified in comprehensive economic development strategies. Eligibility for funding."
+    },
+    {
+      "t": "32",
+      "c": "588gg",
+      "s": "32-760",
+      "l": "Sec. 32-760. Definitions."
+    },
+    {
+      "t": "32",
+      "c": "588gg",
+      "s": "32-761",
+      "l": "Sec. 32-761. (Formerly Sec. 32-9cc). Office of Brownfield Remediation and Development."
+    },
+    {
+      "t": "32",
+      "c": "588gg",
+      "s": "32-762",
+      "l": "Sec. 32-762. Brownfield remediation and development account."
+    },
+    {
+      "t": "32",
+      "c": "588gg",
+      "s": "32-763",
+      "l": "Sec. 32-763. (Formerly Sec. 32-9kk). Remedial action and redevelopment municipal grant program."
+    },
+    {
+      "t": "32",
+      "c": "588gg",
+      "s": "32-764",
+      "l": "Sec. 32-764. (Formerly Sec. 32-9ee). Liability for pre-existing or existing conditions. Transfer of remediated brownfields."
+    },
+    {
+      "t": "32",
+      "c": "588gg",
+      "s": "32-765",
+      "l": "Sec. 32-765. Targeted brownfield development loan program."
+    },
+    {
+      "t": "32",
+      "c": "588gg",
+      "s": "32-766",
+      "l": "Sec. 32-766. Terms and conditions of financial assistance."
+    },
+    {
+      "t": "32",
+      "c": "588gg",
+      "s": "32-767",
+      "l": "Sec. 32-767. Reimbursement for costs and expenses of assessment or remediation."
+    },
+    {
+      "t": "32",
+      "c": "588gg",
+      "s": "32-768",
+      "l": "Sec. 32-768. (Formerly Sec. 32-9 ll ). Abandoned brownfield cleanup program."
+    },
+    {
+      "t": "32",
+      "c": "588gg",
+      "s": "32-769",
+      "l": "Sec. 32-769. (Formerly Sec. 32-9mm). Brownfield remediation and revitalization program. Eligibility."
+    },
+    {
+      "t": "32",
+      "c": "588gg",
+      "s": "32-770",
+      "l": "Sec. 32-770. Working group to examine remediation and development of brownfields in this state. Duties. Membership. Report."
+    },
+    {
+      "t": "32",
+      "c": "588gg",
+      "s": "32-771",
+      "l": "Sec. 32-771. Connecticut brownfield land banks. Application for certification. Annual report. Decertification."
+    },
+    {
+      "t": "32",
+      "c": "588gg",
+      "s": "32-772",
+      "l": "Sec. 32-772. Board of directors."
+    },
+    {
+      "t": "32",
+      "c": "588gg",
+      "s": "32-773",
+      "l": "Sec. 32-773. Purposes. Powers."
+    },
+    {
+      "t": "32",
+      "c": "588gg",
+      "s": "32-774",
+      "l": "Sec. 32-774. Tax exemption."
+    },
+    {
+      "t": "32",
+      "c": "588gg",
+      "s": "32-775",
+      "l": "Sec. 32-775. Obligations re acquisition, ownership and transfer of real property."
+    },
+    {
+      "t": "32",
+      "c": "588gg",
+      "s": "32-776",
+      "l": "Sec. 32-776. 7/7 Program. Regulations."
+    },
+    {
+      "t": "32",
+      "c": "588hh",
+      "s": "32-780",
+      "l": "Sec. 32-780. Connecticut-Ireland Trade Commission. Membership. Powers and duties. Annual report."
     },
     {
       "t": "33",
@@ -151986,6 +154056,546 @@
       "c": "743u",
       "s": "42-371",
       "l": "Sec. 42-371. Consumer discount cards. Definitions. Notice. Prohibited and permitted uses of consumer information. Violations."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-390",
+      "l": "Sec. 42-390. Short title: Consumer Leases Act."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-391",
+      "l": "Sec. 42-391. Definitions."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-392",
+      "l": "Sec. 42-392. Time of consummation. Expiration. Termination."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-393",
+      "l": "Sec. 42-393. Scope. Exclusions. Sale incident to lease."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-394",
+      "l": "Sec. 42-394. Characterization of lease. Applicability by agreement."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-395",
+      "l": "Sec. 42-395. Supplemental provisions and principles of law applicable. Limitations. Restrictions."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-396",
+      "l": "Sec. 42-396. Waiver. Agreement to forego rights in settlement of claim."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-397",
+      "l": "Sec. 42-397. Limitation on choice of law and venue."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-398",
+      "l": "Sec. 42-398. Obligation of good faith."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-399",
+      "l": "Sec. 42-399. Unconscionability."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-400",
+      "l": "Sec. 42-400. Relation to Electronic Signatures in Global and National Commerce Act."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-401",
+      "l": "Sec. 42-401. Advertising."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-402",
+      "l": "Sec. 42-402. Availability of sample lease form."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-403",
+      "l": "Sec. 42-403. Disclosure. Form of consumer lease. Copy to lessee."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-404",
+      "l": "Sec. 42-404. Insurance. Insurance disclosures."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-405",
+      "l": "Sec. 42-405. Notice to guarantor."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-406",
+      "l": "Sec. 42-406. Information during term of lease. Computer equipment leases. Satisfaction of lease."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-407",
+      "l": "Sec. 42-407. Payment or trade-in pending approval of lease. Refund or return."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-408",
+      "l": "Sec. 42-408. Prohibited lease provisions."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-409",
+      "l": "Sec. 42-409. Security interest restricted. Security deposit."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-410",
+      "l": "Sec. 42-410. Late fees. Delinquency and default charges. Attorney's fees."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-411",
+      "l": "Sec. 42-411. Assignment of lease. Preservation of lessee's claims and defenses."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-412",
+      "l": "Sec. 42-412. Sublease."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-413",
+      "l": "Sec. 42-413. Open-end consumer lease."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-414",
+      "l": "Sec. 42-414. Limit on insurance charges. Termination or replacement of insurance."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-415",
+      "l": "Sec. 42-415. Rebate or discount for referrals."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-416",
+      "l": "Sec. 42-416. Limitation on supplier's disclaimer of implied warranty."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-417",
+      "l": "Sec. 42-417. Liability for gap amount on total loss of goods."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-418",
+      "l": "Sec. 42-418. Lessee's default. Right to cure."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-419",
+      "l": "Sec. 42-419. Repossession. Application of realized value. Electronic self help."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-420",
+      "l": "Sec. 42-420. Determining realized value."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-421",
+      "l": "Sec. 42-421. Early termination liability."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-422",
+      "l": "Sec. 42-422. Reporting early termination to consumer reporting agency."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-423",
+      "l": "Sec. 42-423. Excess wear and tear. Excess mileage."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-424",
+      "l": "Sec. 42-424. Private remedies."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-425",
+      "l": "Sec. 42-425. Reliance on lessee's representations."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-426",
+      "l": "Sec. 42-426. Statute of limitations."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-427",
+      "l": "Sec. 42-427. Limitations on private remedies."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-428",
+      "l": "Sec. 42-428. Civil liability of assignees."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-429",
+      "l": "Sec. 42-429. Effect of violation on rights of parties. Single recovery."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-430",
+      "l": "Sec. 42-430. Administrative enforcement."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-431",
+      "l": "Sec. 42-431. Administration."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-432",
+      "l": "Sec. 42-432. Severability."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-433",
+      "l": "Sec. 42-433. Transition."
+    },
+    {
+      "t": "42",
+      "c": "743aa",
+      "s": "42-434",
+      "l": "Sec. 42-434. Uniformity."
+    },
+    {
+      "t": "42",
+      "c": "743bb",
+      "s": "42-450",
+      "l": "Sec. 42-450. Definitions. Delivery of rental truck or alternative. Damages."
+    },
+    {
+      "t": "42",
+      "c": "743bb",
+      "s": "42-451",
+      "l": "Sec. 42-451. Rental company to post sign re failure to provide rental truck or alternative."
+    },
+    {
+      "t": "42",
+      "c": "743cc",
+      "s": "42-460",
+      "l": "Sec. 42-460. Gift certificate subject to expiration date prohibited. Honoring gift certificate reported as abandoned property."
+    },
+    {
+      "t": "42",
+      "c": "743cc",
+      "s": "42-460a",
+      "l": "Sec. 42-460a. General-use prepaid cards and linked prepaid cards. Restrictions re expiration date. Disclosures."
+    },
+    {
+      "t": "42",
+      "c": "743cc",
+      "s": "42-461",
+      "l": "Sec. 42-461. Gift cards."
+    },
+    {
+      "t": "42",
+      "c": "743dd",
+      "s": "42-470",
+      "l": "Sec. 42-470. Restriction on posting, display, transmission and use of Social Security numbers. Exceptions. Penalties."
+    },
+    {
+      "t": "42",
+      "c": "743dd",
+      "s": "42-471",
+      "l": "Sec. 42-471. Safeguarding of personal information. Social Security numbers. Privacy protection policy. Civil penalties. Unfair trade practice."
+    },
+    {
+      "t": "42",
+      "c": "743dd",
+      "s": "42-471a",
+      "l": "Sec. 42-471a. Employment applications to be obtained and retained in secure manner. Penalties."
+    },
+    {
+      "t": "42",
+      "c": "743dd",
+      "s": "42-472",
+      "l": "Sec. 42-472. Hearings. Court orders. Restraining orders."
+    },
+    {
+      "t": "42",
+      "c": "743dd",
+      "s": "42-472a",
+      "l": "Sec. 42-472a. Privacy protection guaranty and enforcement account."
+    },
+    {
+      "t": "42",
+      "c": "743dd",
+      "s": "42-472b",
+      "l": "Sec. 42-472b. Filing of notice, statement or other document which is false or untrue or contains material misstatement of fact. Fine."
+    },
+    {
+      "t": "42",
+      "c": "743dd",
+      "s": "42-472c",
+      "l": "Sec. 42-472c. Appeal of decision or order of Commissioner of Consumer Protection."
+    },
+    {
+      "t": "42",
+      "c": "743dd",
+      "s": "42-472d",
+      "l": "Sec. 42-472d. Regulations. Civil penalty."
+    },
+    {
+      "t": "42",
+      "c": "743ee",
+      "s": "42-480",
+      "l": "Sec. 42-480. Income tax refund anticipation loans."
+    },
+    {
+      "t": "42",
+      "c": "743ff",
+      "s": "42-481",
+      "l": "Sec. 42-481. Definitions."
+    },
+    {
+      "t": "42",
+      "c": "743ff",
+      "s": "42-482",
+      "l": "Sec. 42-482. Termination of contract between sales representative and principal. Payment of commissions due. Failure to pay. Civil action."
+    },
+    {
+      "t": "42",
+      "c": "743ff",
+      "s": "42-483",
+      "l": "Sec. 42-483. Acceptance of partial commission not deemed a release."
+    },
+    {
+      "t": "42",
+      "c": "743ff",
+      "s": "42-484",
+      "l": "Sec. 42-484. Waiver of provisions not allowed. Construction and applicability."
+    },
+    {
+      "t": "42",
+      "c": "743gg",
+      "s": "42-490",
+      "l": "Sec. 42-490. Definitions."
+    },
+    {
+      "t": "42",
+      "c": "743gg",
+      "s": "42-491",
+      "l": "Sec. 42-491. Contracting entity and covered entity requirements. Remittance advices. Member identification cards."
+    },
+    {
+      "t": "42",
+      "c": "743gg",
+      "s": "42-492",
+      "l": "Sec. 42-492. Exemptions."
+    },
+    {
+      "t": "42",
+      "c": "743gg",
+      "s": "42-493",
+      "l": "Sec. 42-493. Workers' compensation exempted."
+    },
+    {
+      "t": "42",
+      "c": "743gg",
+      "s": "42-494",
+      "l": "Sec. 42-494. Penalty. Regulations."
+    },
+    {
+      "t": "42",
+      "c": "743hh",
+      "s": "42-500",
+      "l": "Sec. 42-500. Insurance disclosures."
+    },
+    {
+      "t": "42",
+      "c": "743ii",
+      "s": "42-511",
+      "l": "Sec. 42-511. Motor fuel industry market concentration. Filing. Investigation. Penalty. Confidentiality."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-515",
+      "l": "Sec. 42-515. Definitions."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-516",
+      "l": "Sec. 42-516. Applicability."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-517",
+      "l": "Sec. 42-517. Exemptions."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-518",
+      "l": "Sec. 42-518. Consumers' rights. Compliance by Controllers. Appeals."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-519",
+      "l": "Sec. 42-519. Authorized agents and consumer opt-out."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-520",
+      "l": "Sec. 42-520. Controllers' duties. Sale of personal data to third parties. Notice and disclosure to consumers. Consumer opt-out."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-521",
+      "l": "Sec. 42-521. Processors' duties. Contracts between controllers and processors."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-522",
+      "l": "Sec. 42-522. Controllers' data protection assessments. Disclosure to Attorney General."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-523",
+      "l": "Sec. 42-523. De-identified and pseudonymous data. Controllers' duties. Exceptions. Applicability of consumers' rights. Disclosure and oversight."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-524",
+      "l": "Sec. 42-524. Construction of controllers', consumer health date controllers' and processors' duties."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-525",
+      "l": "Sec. 42-525. Enforcement by Attorney General. Notice of violation. Cure period. Report. Penalty."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-526",
+      "l": "Sec. 42-526. Consumer health data privacy. Disclosure, access and geofencing. Exemptions."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-527",
+      "l": "Sec. 42-527."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-528",
+      "l": "Sec. 42-528. Social media platforms and minors. Request to unpublish or delete minor's account. Enforcement. Penalty."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-529",
+      "l": "Sec. 42-529. Definitions."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-529a",
+      "l": "Sec. 42-529a. Controllers' duties. Consumer consent."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-529b",
+      "l": "Sec. 42-529b. Controllers' data protections assessments. Review, record keeping, confidentiality and disclosure. Risk mitigation plan."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-529c",
+      "l": "Sec. 42-529c. Processors' duties. Contracts between controllers and processors."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-529d",
+      "l": "Sec. 42-529d. Exemptions."
+    },
+    {
+      "t": "42",
+      "c": "743jj",
+      "s": "42-529e",
+      "l": "Sec. 42-529e. Enforcement by Attorney General. Notice of violation. Cure period. Report. Penalty."
     },
     {
       "t": "42",

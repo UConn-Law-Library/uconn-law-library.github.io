@@ -14,12 +14,31 @@
           "section_key": "",
           "label": "Secs. 34-1 to 34-8. Limited partnerships.",
           "url": "https://www.cga.ct.gov/current/pub/chap_609.htm#secs_34-1_to_34-8",
+          "grouped": true,
+          "section_keys": [
+            "34-1",
+            "34-2",
+            "34-3",
+            "34-4",
+            "34-5",
+            "34-6",
+            "34-7",
+            "34-8"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-1 to 34-8 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 6276–6284; 1951, S. 2853d, 2854d; 1961, P.A. 79, S. 31.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-1 to 34-8 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -34,7 +53,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-1 to 34-8. Limited partnerships. Sections 34-1 to 34-8 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -49,7 +71,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-1 to 34-8. Limited partnerships. Sections 34-1 to 34-8 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -258,7 +283,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 34-12 is repealed."
+            "text": "Section 34-12 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -773,12 +802,25 @@
           "section_key": "",
           "label": "Secs. 34-22 and 34-23. Priority among limited partners. Payment of compensation to limited partners.",
           "url": "https://www.cga.ct.gov/current/pub/chap_610.htm#secs_34-22_and_34-23",
+          "grouped": true,
+          "section_keys": [
+            "34-22",
+            "34-23"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-22 and 34-23 are repealed."
+            ],
+            "source": [
+              "(1961, P.A. 79, S. 14, 15; P.A. 79-440, S. 62.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-22 and 34-23 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1374,7 +1416,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 34-34 is repealed."
+            "text": "Section 34-34 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1555,12 +1601,24 @@
           "section_key": "",
           "label": "Secs. 34-38c to 34-38e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_610.htm#secs_34-38c_to_34-38e",
+          "grouped": true,
+          "section_keys": [
+            "34-38c",
+            "34-38d",
+            "34-38e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1883,7 +1941,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-22 and 34-23. Priority among limited partners. Payment of compensation to limited partners. Sections 34-22 and 34-23 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1898,7 +1959,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-22 and 34-23. Priority among limited partners. Payment of compensation to limited partners. Sections 34-22 and 34-23 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -1913,12 +1977,66 @@
           "section_key": "",
           "label": "Secs. 34-39 to 34-81. Uniform Partnership Act.",
           "url": "https://www.cga.ct.gov/current/pub/chap_611.htm#secs_34-39_to_34-81",
+          "grouped": true,
+          "section_keys": [
+            "34-39",
+            "34-40",
+            "34-41",
+            "34-42",
+            "34-43",
+            "34-44",
+            "34-45",
+            "34-46",
+            "34-47",
+            "34-48",
+            "34-49",
+            "34-50",
+            "34-51",
+            "34-52",
+            "34-53",
+            "34-54",
+            "34-55",
+            "34-56",
+            "34-57",
+            "34-58",
+            "34-59",
+            "34-60",
+            "34-61",
+            "34-62",
+            "34-63",
+            "34-64",
+            "34-65",
+            "34-66",
+            "34-67",
+            "34-68",
+            "34-69",
+            "34-70",
+            "34-71",
+            "34-72",
+            "34-73",
+            "34-74",
+            "34-75",
+            "34-76",
+            "34-77",
+            "34-78",
+            "34-79",
+            "34-80",
+            "34-81"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-39 to 34-81 , inclusive, are repealed, effective July 1, 1997."
+            ],
+            "source": [
+              "(1961, P.A. 158, S. 1–43; 1963, P.A. 642, S. 38; P.A. 94-218, S. 1–7, 28; P.A. 95-79, S. 129, 130, 189; 95-341, S. 57, 58; P.A. 96-254, S. 1, 10.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-39 to 34-81 , inclusive, are repealed, effective July 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1932,67 +2050,141 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 614, Part X, Sec. 34-400 ."
+            "text": "Transferred to Chapter 614, Part X, Sec. 34-400 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-81b to 34-81f.",
           "url": "https://www.cga.ct.gov/current/pub/chap_611.htm#secs_34-81b_to_34-81f",
+          "grouped": true,
+          "section_keys": [
+            "34-81b",
+            "34-81c",
+            "34-81d",
+            "34-81e",
+            "34-81f"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 614, Part XI, Secs. 34-419 to 34-423 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 614, Part XI, Secs. 34-419 to 34-423 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-81g to 34-81i.",
           "url": "https://www.cga.ct.gov/current/pub/chap_611.htm#secs_34-81g_to_34-81i",
+          "grouped": true,
+          "section_keys": [
+            "34-81g",
+            "34-81h",
+            "34-81i"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-81j to 34-81o.",
           "url": "https://www.cga.ct.gov/current/pub/chap_611.htm#secs_34-81j_to_34-81o",
+          "grouped": true,
+          "section_keys": [
+            "34-81j",
+            "34-81k",
+            "34-81l",
+            "34-81m",
+            "34-81n",
+            "34-81o"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 614, Part XI, Secs. 34-429 to 34-434 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 614, Part XI, Secs. 34-429 to 34-434 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-81p to 34-81r.",
           "url": "https://www.cga.ct.gov/current/pub/chap_611.htm#secs_34-81p_to_34-81r",
+          "grouped": true,
+          "section_keys": [
+            "34-81p",
+            "34-81q",
+            "34-81r"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-81s to 34-81z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_611.htm#secs_34-81s_to_34-81z",
+          "grouped": true,
+          "section_keys": [
+            "34-81s",
+            "34-81t",
+            "34-81u",
+            "34-81v",
+            "34-81w",
+            "34-81x",
+            "34-81y",
+            "34-81z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 614, Part XI, Secs. 34-406 to 34-413 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 614, Part XI, Secs. 34-406 to 34-413 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -2007,7 +2199,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-39 to 34-81. Uniform Partnership Act. Sections 34-39 to 34-81 , inclusive, are repealed, effective July 1, 1997.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2022,7 +2217,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-39 to 34-81. Uniform Partnership Act. Sections 34-39 to 34-81 , inclusive, are repealed, effective July 1, 1997.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -2060,12 +2258,38 @@
           "section_key": "",
           "label": "Secs. 34-83 to 34-99.",
           "url": "https://www.cga.ct.gov/current/pub/chap_612.htm#secs_34-83_to_34-99",
+          "grouped": true,
+          "section_keys": [
+            "34-83",
+            "34-84",
+            "34-85",
+            "34-86",
+            "34-87",
+            "34-88",
+            "34-89",
+            "34-90",
+            "34-91",
+            "34-92",
+            "34-93",
+            "34-94",
+            "34-95",
+            "34-96",
+            "34-97",
+            "34-98",
+            "34-99"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -2080,348 +2304,786 @@
           "section_key": "",
           "label": "Secs. 34-100 to 34-105. Short title: Connecticut Limited Liability Company Act. Definitions. Name. Reservation of name. Statutory agent for service. Service of process on statutory agent, member or manager.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-100_to_34-105",
+          "grouped": true,
+          "section_keys": [
+            "34-100",
+            "34-101",
+            "34-102",
+            "34-103",
+            "34-104",
+            "34-105"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-100 to 34-105 , inclusive, are repealed, effective July 1, 2017."
+            ],
+            "source": [
+              "(P.A. 93-267, S. 1–6; P.A. 94-123, S. 6; 94-217, S. 1, 2; P.A. 96-77, S. 14; 96-89, S. 1; 96-254, S. 5, 10; 96-256, S. 194, 209; 96-271, S. 184, 254; P.A. 97-70, S. 1, 2, 11; P.A. 98-137, S. 30, 62; 98-219, S. 33, 34; June Sp. Sess. P.A. 98-1, S. 26, 121; P.A. 99-25, S. 2; 99-102, S. 43; P.A. 01-157, S. 2; 01-188, S. 1; P.A. 03-18, S. 61; P.A. 04-175, S. 1; 04-240, S. 13, 14; 04-257, S. 55; P.A. 10-178, S. 1; P.A. 11-146, S. 9; P.A. 16-97, S. 110.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-100 to 34-105 , inclusive, are repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-106 to 34-113. Annual report; interim notice of change of manager or member. Failure to file report; incorrect report. Interrogatories by Secretary of the State. Execution of documents. Filing of documents. Forms for documents to be filed; mailings. Fees payable to Secretary of the State; sales tax not imposed. Taxation.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-106_to_34-113",
+          "grouped": true,
+          "section_keys": [
+            "34-106",
+            "34-107",
+            "34-108",
+            "34-109",
+            "34-110",
+            "34-111",
+            "34-112",
+            "34-113"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-106 to 34-113 , inclusive, are repealed, effective July 1, 2017."
+            ],
+            "source": [
+              "(P.A. 93-267, S. 7, 13, 14, 70, 71, 73; P.A. 94-123, S. 7; 94-217, S. 9, 24, 25, 31, 39, 40; P.A. 95-252, S. 33; P.A. 97-70, S. 3, 11; P.A. 01-188, S. 2, 8; P.A. 03-18, S. 62; P.A. 04-240, S. 15, 16; June Sp. Sess. P.A. 09-3, S. 373; P.A. 11-146, S. 10, 11; P.A. 14-154, S. 16; P.A. 16-97, S. 110.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-106 to 34-113 , inclusive, are repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-114 to 34-118.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-114_to_34-118",
+          "grouped": true,
+          "section_keys": [
+            "34-114",
+            "34-115",
+            "34-116",
+            "34-117",
+            "34-118"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-119 to 34-124. Restrictions on purposes and powers of limited liability companies. Formation. Articles of organization. Amendment and restatement of articles of organization. Effect of delivery of articles of organization for filing and endorsement. Powers of limited liability company.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-119_to_34-124",
+          "grouped": true,
+          "section_keys": [
+            "34-119",
+            "34-120",
+            "34-121",
+            "34-122",
+            "34-123",
+            "34-124"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-119 to 34-124 , inclusive, are repealed, effective July 1, 2017."
+            ],
+            "source": [
+              "(P.A. 93-267, S. 8–12, 15; P.A. 94-217, S. 3, 4, 7, 8, 40; P.A. 96-254, S. 6, 10; 96-271, S. 185, 254; P.A. 97-70, S. 4, 11; P.A. 98-28, S. 111, 117; P.A. 01-188, S. 6; P.A. 04-175, S. 2; P.A. 05-216, S. 3; P.A. 06-196, S. 267; P.A. 14-134, S. 42; 14-154, S. 17; P.A. 16-97, S. 110.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-119 to 34-124 , inclusive, are repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-125 to 34-129.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-125_to_34-129",
+          "grouped": true,
+          "section_keys": [
+            "34-125",
+            "34-126",
+            "34-127",
+            "34-128",
+            "34-129"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-130 to 34-134. Agency power of members and managers. Admissions and representations by members and managers. Limited liability company charged with notice to or knowledge of any member or manager. Liability of members and managers to third parties. Members and managers as parties to actions.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-130_to_34-134",
+          "grouped": true,
+          "section_keys": [
+            "34-130",
+            "34-131",
+            "34-132",
+            "34-133",
+            "34-134"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-130 to 30-134 , inclusive, are repealed, effective July 1, 2017."
+            ],
+            "source": [
+              "(P.A. 93-267, S. 16–20; P.A. 96-271, S. 186, 254; P.A. 16-97, S. 110.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-130 to 30-134 , inclusive, are repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-135 to 34-139.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-135_to_34-139",
+          "grouped": true,
+          "section_keys": [
+            "34-135",
+            "34-136",
+            "34-137",
+            "34-138",
+            "34-139"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-140 to 34-144. Management. Discharge of duties by members and managers. Voting. Liability and indemnification of members and managers. Records and information.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-140_to_34-144",
+          "grouped": true,
+          "section_keys": [
+            "34-140",
+            "34-141",
+            "34-142",
+            "34-143",
+            "34-144"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-140 to 34-144 , inclusive, are repealed, effective July 1, 2017."
+            ],
+            "source": [
+              "(P.A. 93-267, S. 21–25; P.A. 94-217, S. 10–13; P.A. 99-133; P.A. 16-97, S. 110.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-140 to 34-144 , inclusive, are repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-145 to 34-149.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-145_to_34-149",
+          "grouped": true,
+          "section_keys": [
+            "34-145",
+            "34-146",
+            "34-147",
+            "34-148",
+            "34-149"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-150 to 34-152. Contributions to capital. Liability for contribution. Sharing of profits and losses.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-150_to_34-152",
+          "grouped": true,
+          "section_keys": [
+            "34-150",
+            "34-151",
+            "34-152"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-150 to 34-152 , inclusive, are repealed, effective July 1, 2017."
+            ],
+            "source": [
+              "(P.A. 93-267, S. 26–28; P.A. 94-217, S. 14; P.A. 16-97, S. 110.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-150 to 34-152 , inclusive, are repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-153 to 34-157.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-153_to_34-157",
+          "grouped": true,
+          "section_keys": [
+            "34-153",
+            "34-154",
+            "34-155",
+            "34-156",
+            "34-157"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-158 to 34-161. Sharing of interim distributions. Distributions upon an event of dissociation. Distribution in kind. Right to distribution.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-158_to_34-161",
+          "grouped": true,
+          "section_keys": [
+            "34-158",
+            "34-159",
+            "34-160",
+            "34-161"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-158 to 34-161 , inclusive, are repealed, effective, July 1, 2017."
+            ],
+            "source": [
+              "(P.A. 93-267, S. 29–32; P.A. 94-217, S. 15, 16, 40; P.A. 97-70, S. 5, 11; P.A. 16-97, S. 110.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-158 to 34-161 , inclusive, are repealed, effective, July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-162 to 34-166.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-162_to_34-166",
+          "grouped": true,
+          "section_keys": [
+            "34-162",
+            "34-163",
+            "34-164",
+            "34-165",
+            "34-166"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-167 to 34-173. Ownership of limited liability company property. Transfer of property. Nature of membership interest. Assignment of membership interest. Rights of judgment creditor. Right of assignee to become a member. Powers of legal representative or successor of deceased, incompetent, dissolved or terminated member; right of legal representative or successor to become member.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-167_to_34-173",
+          "grouped": true,
+          "section_keys": [
+            "34-167",
+            "34-168",
+            "34-169",
+            "34-170",
+            "34-171",
+            "34-172",
+            "34-173"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-167 to 34-173 , inclusive, are repealed, effective July 1, 2017."
+            ],
+            "source": [
+              "(P.A. 93-267, S. 33–39; P.A. 94-217, S. 17, 40; P.A. 96-254, S. 7, 8, 10; P.A. 97-70, S. 6, 7, 11; P.A. 16-97, S. 110.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-167 to 34-173 , inclusive, are repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-174 to 34-178.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-174_to_34-178",
+          "grouped": true,
+          "section_keys": [
+            "34-174",
+            "34-175",
+            "34-176",
+            "34-177",
+            "34-178"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-179 and 34-180. Admission of members. Events of dissociation.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-179_and_34-180",
+          "grouped": true,
+          "section_keys": [
+            "34-179",
+            "34-180"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-179 and 34-180 are repealed, effective July 1, 2017."
+            ],
+            "source": [
+              "(P.A. 93-267, S. 40, 41; P.A. 94-217, S. 18, 19, 40; P.A. 96-254, S. 9, 10; P.A. 97-70, S. 8, 11; P.A. 16-97, S. 110.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-179 and 34-180 are repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-181 to 34-185.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-181_to_34-185",
+          "grouped": true,
+          "section_keys": [
+            "34-181",
+            "34-182",
+            "34-183",
+            "34-184",
+            "34-185"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-186 and 34-187. Suits by and against limited liability company. Authority to sue on behalf of limited liability company.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-186_and_34-187",
+          "grouped": true,
+          "section_keys": [
+            "34-186",
+            "34-187"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-186 and 34-187 are repealed, effective July 1, 2017."
+            ],
+            "source": [
+              "(P.A. 93-267, S. 62, 63; P.A. 94-217, S. 22; P.A. 16-97, S. 110.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-186 and 34-187 are repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-188 to 34-192.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-188_to_34-192",
+          "grouped": true,
+          "section_keys": [
+            "34-188",
+            "34-189",
+            "34-190",
+            "34-191",
+            "34-192"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-193 to 34-198. Merger or consolidation. Approval of merger or consolidation. Plan of merger or consolidation. Articles of merger or consolidation. Effect of merger or consolidation. Survivor to be governed by laws of jurisdiction other than this state.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-193_to_34-198",
+          "grouped": true,
+          "section_keys": [
+            "34-193",
+            "34-194",
+            "34-195",
+            "34-196",
+            "34-197",
+            "34-198"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-193 to 34-198 , inclusive, are repealed, effective July 1, 2017."
+            ],
+            "source": [
+              "(P.A. 93-267, S. 64–69; P.A. 94-217, S. 23; P.A. 03-18, S. 63–68; P.A. 04-99, S. 4; P.A. 11-241, S. 46–49; P.A. 12-32, S. 2; P.A. 16-97, S. 110.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-193 to 34-198 , inclusive, are repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-199 and 34-200. Conversion of domestic general or limited partnership to limited liability company. Effect of conversion.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-199_and_34-200",
+          "grouped": true,
+          "section_keys": [
+            "34-199",
+            "34-200"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-199 and 34-200 are repealed, effective January 1, 2014."
+            ],
+            "source": [
+              "(P.A. 94-217, S. 5, 6, 40; P.A. 96-77, S. 11, 17; P.A. 97-70, S. 9, 11; P.A. 06-57, S. 1; P.A. 11-241, S. 58.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-199 and 34-200 are repealed, effective January 1, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-201 to 34-205.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-201_to_34-205",
+          "grouped": true,
+          "section_keys": [
+            "34-201",
+            "34-202",
+            "34-203",
+            "34-204",
+            "34-205"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-206 to 34-211. Dissolution. Judicial dissolution. Winding up. Agency powers of managers or members after dissolution. Distribution of assets. Articles of dissolution.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-206_to_34-211",
+          "grouped": true,
+          "section_keys": [
+            "34-206",
+            "34-207",
+            "34-208",
+            "34-209",
+            "34-210",
+            "34-211"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-206 to 34-211 , inclusive, are repealed, effective July 1, 2017."
+            ],
+            "source": [
+              "(P.A. 93-267, S. 42–47; P.A. 96-89, S. 2; 96-180, S. 109, 166; P.A. 97-70, S. 10, 11; P.A. 16-97, S. 110.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-206 to 34-211 , inclusive, are repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-212 to 34-216. Known claims against dissolved limited liability company. Unknown claims against dissolved limited liability company. Recovery for claims not barred. Dissolution by forfeiture. Reinstatement after dissolution.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-212_to_34-216",
+          "grouped": true,
+          "section_keys": [
+            "34-212",
+            "34-213",
+            "34-214",
+            "34-215",
+            "34-216"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-212 to 34-216 , inclusive, are repealed, effective July 1, 2017."
+            ],
+            "source": [
+              "(P.A. 93-267, S. 48–50; P.A. 94-217, S. 26, 27, 40; P.A. 95-252, S. 17, 24; P.A. 14-154, S. 18; P.A. 15-48, S. 12; P.A. 16-97, S. 110, 111.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-212 to 34-216 , inclusive, are repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-217 to 34-221.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-217_to_34-221",
+          "grouped": true,
+          "section_keys": [
+            "34-217",
+            "34-218",
+            "34-219",
+            "34-220",
+            "34-221"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-222 to 34-229. Governing law. Registration with Secretary of the State. Appointment of agent for service of process. Service of process on statutory agent. Issuance of registration. Name. Amendment of application for registration. Annual report; interim notice of change of manager or member.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-222_to_34-229",
+          "grouped": true,
+          "section_keys": [
+            "34-222",
+            "34-223",
+            "34-224",
+            "34-225",
+            "34-226",
+            "34-227",
+            "34-228",
+            "34-229"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-222 to 34-229 , inclusive, are repealed, effective July 1, 2017."
+            ],
+            "source": [
+              "(P.A. 93-267, S. 51–57; P.A. 94-217, S. 20, 21, 28, 40; June Sp. Sess. P.A. 98-1, S. 27, 121; P.A. 01-188, S. 3, 5, 7; P.A. 04-240, S. 17, 18; P.A. 09-38, S. 4; P.A. 11-146, S. 12; P.A. 14-154, S. 19; P.A. 16-97, S. 110.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-222 to 34-229 , inclusive, are repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-230 to 34-236. Failure to file report; incorrect report. Cancellation of registration. Revocation of certificate of registration. Transaction of business without registration. Limited amnesty for foreign limited liability companies transacting business without registration. Activities not constituting transacting business in this state. Action by Attorney General.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-230_to_34-236",
+          "grouped": true,
+          "section_keys": [
+            "34-230",
+            "34-231",
+            "34-232",
+            "34-233",
+            "34-234",
+            "34-235",
+            "34-236"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-230 to 34-236 , inclusive, are repealed, effective July 1, 2017."
+            ],
+            "source": [
+              "(P.A. 93-267, S. 58–61; P.A. 94-186, S. 213; 94-217, S. 29, 30, 40; P.A. 95-252, S. 25, 34; P.A. 97-228, S. 5, 7; P.A. 98-137, S. 24, 62; 98-219, S. 33, 34; P.A. 01-81, S. 1, 3; 01-188, S. 4; P.A. 09-38, S. 5; 09-83, S. 4; P.A. 14-154, S. 20; P.A. 16-97, S. 110.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-230 to 34-236 , inclusive, are repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-237 to 34-240.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-237_to_34-240",
+          "grouped": true,
+          "section_keys": [
+            "34-237",
+            "34-238",
+            "34-239",
+            "34-240"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-241 and 34-242. Knowledge and notice. Rules of construction.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613.htm#secs_34-241_and_34-242",
+          "grouped": true,
+          "section_keys": [
+            "34-241",
+            "34-242"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-241 and 34-242 are repealed, effective July 1, 2017."
+            ],
+            "source": [
+              "(P.A. 93-267, S. 72, 74; May 25 Sp. Sess. P.A. 94-1, S. 100, 130; P.A. 16-97, S. 110.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-241 and 34-242 are repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2436,7 +3098,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-100 to 34-105. Short title: Connecticut Limited Liability Company Act. Definitions. Name. Reservation of name. Statutory agent for service. Service of process on statutory agent, member or manager. Sections 34-100 to 34-105 , inclusive, are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2451,7 +3116,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-100 to 34-105. Short title: Connecticut Limited Liability Company Act. Definitions. Name. Reservation of name. Statutory agent for service. Service of process on statutory agent, member or manager. Sections 34-100 to 34-105 , inclusive, are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2541,7 +3209,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-140 to 34-144. Management. Discharge of duties by members and managers. Voting. Liability and indemnification of members and managers. Records and information. Sections 34-140 to 34-144 , inclusive, are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2556,7 +3227,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-140 to 34-144. Management. Discharge of duties by members and managers. Voting. Liability and indemnification of members and managers. Records and information. Sections 34-140 to 34-144 , inclusive, are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2571,7 +3245,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-150 to 34-152. Contributions to capital. Liability for contribution. Sharing of profits and losses. Sections 34-150 to 34-152 , inclusive, are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2586,7 +3263,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-150 to 34-152. Contributions to capital. Liability for contribution. Sharing of profits and losses. Sections 34-150 to 34-152 , inclusive, are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2601,7 +3281,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-158 to 34-161. Sharing of interim distributions. Distributions upon an event of dissociation. Distribution in kind. Right to distribution. Sections 34-158 to 34-161 , inclusive, are repealed, effective, July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2616,7 +3299,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-158 to 34-161. Sharing of interim distributions. Distributions upon an event of dissociation. Distribution in kind. Right to distribution. Sections 34-158 to 34-161 , inclusive, are repealed, effective, July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2661,7 +3347,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-179 and 34-180. Admission of members. Events of dissociation. Sections 34-179 and 34-180 are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2676,7 +3365,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-179 and 34-180. Admission of members. Events of dissociation. Sections 34-179 and 34-180 are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2691,7 +3383,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-186 and 34-187. Suits by and against limited liability company. Authority to sue on behalf of limited liability company. Sections 34-186 and 34-187 are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2706,7 +3401,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-186 and 34-187. Suits by and against limited liability company. Authority to sue on behalf of limited liability company. Sections 34-186 and 34-187 are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2721,7 +3419,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-193 to 34-198. Merger or consolidation. Approval of merger or consolidation. Plan of merger or consolidation. Articles of merger or consolidation. Effect of merger or consolidation. Survivor to be governed by laws of jurisdiction other than this state. Sections 34-193 to 34-198 , inclusive, are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2736,7 +3437,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-193 to 34-198. Merger or consolidation. Approval of merger or consolidation. Plan of merger or consolidation. Articles of merger or consolidation. Effect of merger or consolidation. Survivor to be governed by laws of jurisdiction other than this state. Sections 34-193 to 34-198 , inclusive, are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2751,7 +3455,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-199 and 34-200. Conversion of domestic general or limited partnership to limited liability company. Effect of conversion. Sections 34-199 and 34-200 are repealed, effective January 1, 2014.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2766,7 +3473,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-199 and 34-200. Conversion of domestic general or limited partnership to limited liability company. Effect of conversion. Sections 34-199 and 34-200 are repealed, effective January 1, 2014.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2781,7 +3491,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-206 to 34-211. Dissolution. Judicial dissolution. Winding up. Agency powers of managers or members after dissolution. Distribution of assets. Articles of dissolution. Sections 34-206 to 34-211 , inclusive, are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2796,7 +3509,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-206 to 34-211. Dissolution. Judicial dissolution. Winding up. Agency powers of managers or members after dissolution. Distribution of assets. Articles of dissolution. Sections 34-206 to 34-211 , inclusive, are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2811,7 +3527,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-212 to 34-216. Known claims against dissolved limited liability company. Unknown claims against dissolved limited liability company. Recovery for claims not barred. Dissolution by forfeiture. Reinstatement after dissolution. Sections 34-212 to 34-216 , inclusive, are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2826,7 +3545,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-212 to 34-216. Known claims against dissolved limited liability company. Unknown claims against dissolved limited liability company. Recovery for claims not barred. Dissolution by forfeiture. Reinstatement after dissolution. Sections 34-212 to 34-216 , inclusive, are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2901,7 +3623,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-241 and 34-242. Knowledge and notice. Rules of construction. Sections 34-241 and 34-242 are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2916,7 +3641,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-241 and 34-242. Knowledge and notice. Rules of construction. Sections 34-241 and 34-242 are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3511,12 +4239,24 @@
           "section_key": "",
           "label": "Secs. 34-244 to 34-246.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613a.htm#secs_34-244_to_34-246",
+          "grouped": true,
+          "section_keys": [
+            "34-244",
+            "34-245",
+            "34-246"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3793,12 +4533,24 @@
           "section_key": "",
           "label": "Secs. 34-248 to 34-250.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613a.htm#secs_34-248_to_34-250",
+          "grouped": true,
+          "section_keys": [
+            "34-248",
+            "34-249",
+            "34-250"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3845,12 +4597,24 @@
           "section_key": "",
           "label": "Secs. 34-252 to 34-254.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613a.htm#secs_34-252_to_34-254",
+          "grouped": true,
+          "section_keys": [
+            "34-252",
+            "34-253",
+            "34-254"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4119,12 +4883,24 @@
           "section_key": "",
           "label": "Secs. 34-256 to 34-258.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613a.htm#secs_34-256_to_34-258",
+          "grouped": true,
+          "section_keys": [
+            "34-256",
+            "34-257",
+            "34-258"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4215,12 +4991,24 @@
           "section_key": "",
           "label": "Secs. 34-260 to 34-262.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613a.htm#secs_34-260_to_34-262",
+          "grouped": true,
+          "section_keys": [
+            "34-260",
+            "34-261",
+            "34-262"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4299,12 +5087,24 @@
           "section_key": "",
           "label": "Secs. 34-264 to 34-266.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613a.htm#secs_34-264_to_34-266",
+          "grouped": true,
+          "section_keys": [
+            "34-264",
+            "34-265",
+            "34-266"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4500,12 +5300,24 @@
           "section_key": "",
           "label": "Secs. 34-268 to 34-270.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613a.htm#secs_34-268_to_34-270",
+          "grouped": true,
+          "section_keys": [
+            "34-268",
+            "34-269",
+            "34-270"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4627,12 +5439,24 @@
           "section_key": "",
           "label": "Secs. 34-272 to 34-274.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613a.htm#secs_34-272_to_34-274",
+          "grouped": true,
+          "section_keys": [
+            "34-272",
+            "34-273",
+            "34-274"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4865,12 +5689,24 @@
           "section_key": "",
           "label": "Secs. 34-276 to 34-278.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613a.htm#secs_34-276_to_34-278",
+          "grouped": true,
+          "section_keys": [
+            "34-276",
+            "34-277",
+            "34-278"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5255,12 +6091,24 @@
           "section_key": "",
           "label": "Secs. 34-280 to 34-282.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613a.htm#secs_34-280_to_34-282",
+          "grouped": true,
+          "section_keys": [
+            "34-280",
+            "34-281",
+            "34-282"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5360,12 +6208,27 @@
           "section_key": "",
           "label": "Secs. 34-284 to 34-289.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613a.htm#secs_34-284_to_34-289",
+          "grouped": true,
+          "section_keys": [
+            "34-284",
+            "34-285",
+            "34-286",
+            "34-287",
+            "34-288",
+            "34-289"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5390,12 +6253,30 @@
           "section_key": "",
           "label": "Secs. 34-291 to 34-299.",
           "url": "https://www.cga.ct.gov/current/pub/chap_613a.htm#secs_34-291_to_34-299",
+          "grouped": true,
+          "section_keys": [
+            "34-291",
+            "34-292",
+            "34-293",
+            "34-294",
+            "34-295",
+            "34-296",
+            "34-297",
+            "34-298",
+            "34-299"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -5632,12 +6513,25 @@
           "section_key": "",
           "label": "Secs. 34-309 to 34-312.",
           "url": "https://www.cga.ct.gov/current/pub/chap_614.htm#secs_34-309_to_34-312",
+          "grouped": true,
+          "section_keys": [
+            "34-309",
+            "34-310",
+            "34-311",
+            "34-312"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5729,12 +6623,26 @@
           "section_key": "",
           "label": "Secs. 34-317 to 34-321.",
           "url": "https://www.cga.ct.gov/current/pub/chap_614.htm#secs_34-317_to_34-321",
+          "grouped": true,
+          "section_keys": [
+            "34-317",
+            "34-318",
+            "34-319",
+            "34-320",
+            "34-321"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5939,12 +6847,26 @@
           "section_key": "",
           "label": "Secs. 34-330 to 34-334.",
           "url": "https://www.cga.ct.gov/current/pub/chap_614.htm#secs_34-330_to_34-334",
+          "grouped": true,
+          "section_keys": [
+            "34-330",
+            "34-331",
+            "34-332",
+            "34-333",
+            "34-334"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6095,12 +7017,26 @@
           "section_key": "",
           "label": "Secs. 34-341 to 34-345.",
           "url": "https://www.cga.ct.gov/current/pub/chap_614.htm#secs_34-341_to_34-345",
+          "grouped": true,
+          "section_keys": [
+            "34-341",
+            "34-342",
+            "34-343",
+            "34-344",
+            "34-345"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6194,12 +7130,26 @@
           "section_key": "",
           "label": "Secs. 34-350 to 34-354.",
           "url": "https://www.cga.ct.gov/current/pub/chap_614.htm#secs_34-350_to_34-354",
+          "grouped": true,
+          "section_keys": [
+            "34-350",
+            "34-351",
+            "34-352",
+            "34-353",
+            "34-354"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6287,12 +7237,25 @@
           "section_key": "",
           "label": "Secs. 34-358 to 34-361.",
           "url": "https://www.cga.ct.gov/current/pub/chap_614.htm#secs_34-358_to_34-361",
+          "grouped": true,
+          "section_keys": [
+            "34-358",
+            "34-359",
+            "34-360",
+            "34-361"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6428,12 +7391,26 @@
           "section_key": "",
           "label": "Secs. 34-367 to 34-371.",
           "url": "https://www.cga.ct.gov/current/pub/chap_614.htm#secs_34-367_to_34-371",
+          "grouped": true,
+          "section_keys": [
+            "34-367",
+            "34-368",
+            "34-369",
+            "34-370",
+            "34-371"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6591,12 +7568,26 @@
           "section_key": "",
           "label": "Secs. 34-379 to 34-383.",
           "url": "https://www.cga.ct.gov/current/pub/chap_614.htm#secs_34-379_to_34-383",
+          "grouped": true,
+          "section_keys": [
+            "34-379",
+            "34-380",
+            "34-381",
+            "34-382",
+            "34-383"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6625,12 +7616,26 @@
           "section_key": "",
           "label": "Secs. 34-385 to 34-387. Conversion of partnership to limited partnership. Conversion of limited partnership to partnership. Effect of conversion.",
           "url": "https://www.cga.ct.gov/current/pub/chap_614.htm#secs_34-385_to_34-387",
+          "grouped": true,
+          "section_keys": [
+            "34-385",
+            "34-386",
+            "34-387"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 34-385 to 34-387 , inclusive, are repealed, effective January 1, 2014."
+            ],
+            "source": [
+              "(P.A. 95-341, S. 47–49, 58; P.A. 11-241, S. 58.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 34-385 to 34-387 , inclusive, are repealed, effective January 1, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6734,19 +7739,37 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 34-391 is repealed, effective January 1, 2014."
+            "text": "Section 34-391 is repealed, effective January 1, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 34-392 to 34-396.",
           "url": "https://www.cga.ct.gov/current/pub/chap_614.htm#secs_34-392_to_34-396",
+          "grouped": true,
+          "section_keys": [
+            "34-392",
+            "34-393",
+            "34-394",
+            "34-395",
+            "34-396"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6833,12 +7856,26 @@
           "section_key": "",
           "label": "Secs. 34-401 to 34-405.",
           "url": "https://www.cga.ct.gov/current/pub/chap_614.htm#secs_34-401_to_34-405",
+          "grouped": true,
+          "section_keys": [
+            "34-401",
+            "34-402",
+            "34-403",
+            "34-404",
+            "34-405"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7007,12 +8044,26 @@
           "section_key": "",
           "label": "Secs. 34-414 to 34-418.",
           "url": "https://www.cga.ct.gov/current/pub/chap_614.htm#secs_34-414_to_34-418",
+          "grouped": true,
+          "section_keys": [
+            "34-414",
+            "34-415",
+            "34-416",
+            "34-417",
+            "34-418"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7141,12 +8192,26 @@
           "section_key": "",
           "label": "Secs. 34-424 to 34-428.",
           "url": "https://www.cga.ct.gov/current/pub/chap_614.htm#secs_34-424_to_34-428",
+          "grouped": true,
+          "section_keys": [
+            "34-424",
+            "34-425",
+            "34-426",
+            "34-427",
+            "34-428"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7273,12 +8338,86 @@
           "section_key": "",
           "label": "Secs. 34-435 to 34-499.",
           "url": "https://www.cga.ct.gov/current/pub/chap_614.htm#secs_34-435_to_34-499",
+          "grouped": true,
+          "section_keys": [
+            "34-435",
+            "34-436",
+            "34-437",
+            "34-438",
+            "34-439",
+            "34-440",
+            "34-441",
+            "34-442",
+            "34-443",
+            "34-444",
+            "34-445",
+            "34-446",
+            "34-447",
+            "34-448",
+            "34-449",
+            "34-450",
+            "34-451",
+            "34-452",
+            "34-453",
+            "34-454",
+            "34-455",
+            "34-456",
+            "34-457",
+            "34-458",
+            "34-459",
+            "34-460",
+            "34-461",
+            "34-462",
+            "34-463",
+            "34-464",
+            "34-465",
+            "34-466",
+            "34-467",
+            "34-468",
+            "34-469",
+            "34-470",
+            "34-471",
+            "34-472",
+            "34-473",
+            "34-474",
+            "34-475",
+            "34-476",
+            "34-477",
+            "34-478",
+            "34-479",
+            "34-480",
+            "34-481",
+            "34-482",
+            "34-483",
+            "34-484",
+            "34-485",
+            "34-486",
+            "34-487",
+            "34-488",
+            "34-489",
+            "34-490",
+            "34-491",
+            "34-492",
+            "34-493",
+            "34-494",
+            "34-495",
+            "34-496",
+            "34-497",
+            "34-498",
+            "34-499"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7293,7 +8432,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-385 to 34-387. Conversion of partnership to limited partnership. Conversion of limited partnership to partnership. Effect of conversion. Sections 34-385 to 34-387 , inclusive, are repealed, effective January 1, 2014.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7308,7 +8450,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 34-385 to 34-387. Conversion of partnership to limited partnership. Conversion of limited partnership to partnership. Effect of conversion. Sections 34-385 to 34-387 , inclusive, are repealed, effective January 1, 2014.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -7621,12 +8766,24 @@
           "section_key": "",
           "label": "Secs. 34-512 to 34-514.",
           "url": "https://www.cga.ct.gov/current/pub/chap_615.htm#secs_34-512_to_34-514",
+          "grouped": true,
+          "section_keys": [
+            "34-512",
+            "34-513",
+            "34-514"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7856,12 +9013,26 @@
           "section_key": "",
           "label": "Secs. 34-525 to 34-529.",
           "url": "https://www.cga.ct.gov/current/pub/chap_615.htm#secs_34-525_to_34-529",
+          "grouped": true,
+          "section_keys": [
+            "34-525",
+            "34-526",
+            "34-527",
+            "34-528",
+            "34-529"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8105,12 +9276,24 @@
           "section_key": "",
           "label": "Secs. 34-542 to 34-544.",
           "url": "https://www.cga.ct.gov/current/pub/chap_615.htm#secs_34-542_to_34-544",
+          "grouped": true,
+          "section_keys": [
+            "34-542",
+            "34-543",
+            "34-544"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8172,12 +9355,73 @@
           "section_key": "",
           "label": "Secs. 34-548 to 34-599.",
           "url": "https://www.cga.ct.gov/current/pub/chap_615.htm#secs_34-548_to_34-599",
+          "grouped": true,
+          "section_keys": [
+            "34-548",
+            "34-549",
+            "34-550",
+            "34-551",
+            "34-552",
+            "34-553",
+            "34-554",
+            "34-555",
+            "34-556",
+            "34-557",
+            "34-558",
+            "34-559",
+            "34-560",
+            "34-561",
+            "34-562",
+            "34-563",
+            "34-564",
+            "34-565",
+            "34-566",
+            "34-567",
+            "34-568",
+            "34-569",
+            "34-570",
+            "34-571",
+            "34-572",
+            "34-573",
+            "34-574",
+            "34-575",
+            "34-576",
+            "34-577",
+            "34-578",
+            "34-579",
+            "34-580",
+            "34-581",
+            "34-582",
+            "34-583",
+            "34-584",
+            "34-585",
+            "34-586",
+            "34-587",
+            "34-588",
+            "34-589",
+            "34-590",
+            "34-591",
+            "34-592",
+            "34-593",
+            "34-594",
+            "34-595",
+            "34-596",
+            "34-597",
+            "34-598",
+            "34-599"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -8411,12 +9655,23 @@
           "section_key": "",
           "label": "Secs. 34-609 and 34-610.",
           "url": "https://www.cga.ct.gov/current/pub/chap_616.htm#secs_34-609_and_34-610",
+          "grouped": true,
+          "section_keys": [
+            "34-609",
+            "34-610"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8582,12 +9837,25 @@
           "section_key": "",
           "label": "Secs. 34-617 to 34-620.",
           "url": "https://www.cga.ct.gov/current/pub/chap_616.htm#secs_34-617_to_34-620",
+          "grouped": true,
+          "section_keys": [
+            "34-617",
+            "34-618",
+            "34-619",
+            "34-620"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8738,12 +10006,25 @@
           "section_key": "",
           "label": "Secs. 34-627 to 34-630.",
           "url": "https://www.cga.ct.gov/current/pub/chap_616.htm#secs_34-627_to_34-630",
+          "grouped": true,
+          "section_keys": [
+            "34-627",
+            "34-628",
+            "34-629",
+            "34-630"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8903,12 +10184,25 @@
           "section_key": "",
           "label": "Secs. 34-637 to 34-640.",
           "url": "https://www.cga.ct.gov/current/pub/chap_616.htm#secs_34-637_to_34-640",
+          "grouped": true,
+          "section_keys": [
+            "34-637",
+            "34-638",
+            "34-639",
+            "34-640"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {

@@ -119,7 +119,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-1e is repealed, effective July 1, 2013."
+            "text": "Section 10a-1e is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -227,7 +231,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-2 is repealed, effective July 1, 2011."
+            "text": "Section 10a-2 is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -274,15 +282,30 @@
           }
         },
         {
-          "section_key": "10-332c",
+          "section_key": "",
           "label": "Secs. 10a-4 to 10a-4b and 10a-5 (Formerly Sec. 10-332c). Executive committee of the advisory committee. Priority Higher Education Facility Project Review Committee. Review of implementation of priority higher education facility project procedures. Appointment of commissioner; Department of Higher Education, employment of personnel.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185.htm#secs_10a-4_to_10a-4b_and_10a-5",
+          "grouped": true,
+          "section_keys": [
+            "10a-4",
+            "10a-4a",
+            "10a-4b",
+            "10a-5"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-4 to 10a-4b , inclusive, and 10a-5 are repealed, effective July 1, 2011."
+            ],
+            "source": [
+              "(P.A. 77-573, S. 4, 30; P.A. 82-218, S. 4, 5, 46; P.A. 84-241, S. 2, 5; P.A. 87-256, S. 1; P.A. 88-136, S. 15, 16, 37; P.A. 91-230, S. 3, 6, 17; P.A. 93-201, S. 7, 24; P.A. 11-48, S. 304; 11-51, S. 90.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-4 to 10a-4b , inclusive, and 10a-5 are repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -319,12 +342,25 @@
           "section_key": "",
           "label": "Secs. 10a-6a and 10a-6b. Higher Education Coordinating Council; duties. Accountability measures; reports.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185.htm#secs_10a-6a_and_10a-6b",
+          "grouped": true,
+          "section_keys": [
+            "10a-6a",
+            "10a-6b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-6a and 10a-6b are repealed, effective June 23, 2021."
+            ],
+            "source": [
+              "(P.A. 92-126, S. 4, 48; P.A. 99-285, S. 1, 2, 12; P.A. 00-220, S. 24, 25, 38, 43; P.A. 01-173, S. 52, 67; P.A. 04-257, S. 14; P.A. 11-48, S. 228, 229; 11-61, S. 107; P.A. 13-240, S. 1; P.A. 14-225, S. 7; P.A. 15-75, S. 5; P.A. 16-15, S. 22; P.A. 17-156, S. 1; June Sp. Sess. P.A. 21-2, S. 493.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-6a and 10a-6b are repealed, effective June 23, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -396,7 +432,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-8a is repealed, effective July 1, 2011."
+            "text": "Section 10a-8a is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -476,12 +516,25 @@
           "section_key": "",
           "label": "Secs. 10a-9 and 10a-9a. Development of planning, budgeting and management information system. Task force to develop higher education management information and student information system.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185.htm#secs_10a-9_and_10a-9a",
+          "grouped": true,
+          "section_keys": [
+            "10a-9",
+            "10a-9a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-9 and 10a-9a are repealed, effective July 1, 2011."
+            ],
+            "source": [
+              "(P.A. 82-218, S. 28, 46; P.A. 84-241, S. 2, 5; P.A. 91-230, S. 11, 17; P.A. 92-126, S. 6, 48; P.A. 11-48, S. 304.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-9 and 10a-9a are repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -842,7 +895,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-12a is repealed, effective July 1, 2011."
+            "text": "Section 10a-12a is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -858,7 +915,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-12b is repealed, effective July 1, 2013."
+            "text": "Section 10a-12b is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -910,7 +971,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-15 is repealed, effective July 1, 2011."
+            "text": "Section 10a-15 is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -926,7 +991,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-16 is repealed, effective June 30, 2017."
+            "text": "Section 10a-16 is repealed, effective June 30, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -960,19 +1029,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-17a is repealed."
+            "text": "Section 10a-17a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 10a-17b and 10a-17c. Help and Opportunity to Pursue Education (HOPE) program. Acceptance of funds for HOPE program.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185.htm#secs_10a-17b_and_10a-17c",
+          "grouped": true,
+          "section_keys": [
+            "10a-17b",
+            "10a-17c"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-17b and 10a-17c are repealed, effective July 1, 2011."
+            ],
+            "source": [
+              "(May Sp. Sess. P.A. 94-6, S. 18, 19, 28; P.A. 11-48, S. 304.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-17b and 10a-17c are repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1012,15 +1098,29 @@
           }
         },
         {
-          "section_key": "10-327a",
+          "section_key": "",
           "label": "Secs. 10a-19 (Formerly Sec. 10-327a), 10a-19a and 10a-19b. Disputes between governing boards. Advisory Council on Student Transfer and Articulation. Articulation agreement plans; reports.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185.htm#secs_10a-19_10a-19a_and_10a-19b",
+          "grouped": true,
+          "section_keys": [
+            "10a-19",
+            "10a-19a",
+            "10a-19b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-19 , 10a-19a and 10a-19b are repealed, effective July 1, 2011."
+            ],
+            "source": [
+              "(P.A. 77-573, S. 19, 30; P.A. 82-218, S. 37, 46; P.A. 84-241, S. 2, 5; P.A. 91-174, S. 13, 16; P.A. 95-148, S. 1, 2; P.A. 01-165, S. 1, 3; P.A. 03-278, S. 25; P.A. 04-257, S. 15; P.A. 11-48, S. 304.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-19 , 10a-19a and 10a-19b are repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1067,12 +1167,25 @@
           "section_key": "",
           "label": "Secs. 10a-19e and 10a-19f. “Engineering Connecticut” loan reimbursement grant program. “You Belong” loan reimbursement grant program.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185.htm#secs_10a-19e_and_10a-19f",
+          "grouped": true,
+          "section_keys": [
+            "10a-19e",
+            "10a-19f"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-19e and 10a-19f are repealed, effective July 1, 2024."
+            ],
+            "source": [
+              "(P.A. 06-83, S. 15, 16; P.A. 11-48, S. 285; P.A. 16-15, S. 25, 26; P.A. 17-63, S. 2, 3; P.A. 24-81, S. 87.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-19e and 10a-19f are repealed, effective July 1, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1116,12 +1229,25 @@
           "section_key": "",
           "label": "Secs. 10a-19i and 10a-19j. Connecticut green technology, life science and health information technology loan reimbursement program. Multilingual learner educator incentive program.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185.htm#secs_10a-19i_and_10a-19j",
+          "grouped": true,
+          "section_keys": [
+            "10a-19i",
+            "10a-19j"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-19i and 10a-19j are repealed, effective July 1, 2024."
+            ],
+            "source": [
+              "(P.A. 10-75, S. 1, 3; P.A. 11-48, S. 285; 11-140, S. 1; P.A. 12-156, S. 56; June 12 Sp. Sess. P.A. 12-1, S. 222; June 12 Sp. Sess. P.A. 12-2, S. 55; P.A. 14-21, S. 1; P.A. 17-63, S. 4; P.A. 23-150, S. 35; P.A. 24-81, S. 87, 88.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-19i and 10a-19j are repealed, effective July 1, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1172,7 +1298,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-19 l is repealed, effective June 12, 2023."
+            "text": "Section 10a-19 l is repealed, effective June 12, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1785,7 +1915,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-22y is repealed, effective July 1, 2022."
+            "text": "Section 10a-22y is repealed, effective July 1, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1810,12 +1944,25 @@
           "section_key": "",
           "label": "Secs. 10a-23 and 10a-24. Transfer of functions, powers and duties. Meaning of term “Board of Higher Education”.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185.htm#secs_10a-23_and_10a-24",
+          "grouped": true,
+          "section_keys": [
+            "10a-23",
+            "10a-24"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-23 and 10a-24 are repealed, effective June 15, 2012."
+            ],
+            "source": [
+              "(P.A. 82-218, S. 36, 37, 46; P.A. 83-105, S. 1; 83-587, S. 17, 96; P.A. 84-241, S. 2, 5; P.A. 93-353, S. 23, 52; P.A. 95-212, S. 6, 7; P.A. 11-48, S. 285; P.A. 12-156, S. 63.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-23 and 10a-24 are repealed, effective June 15, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1831,7 +1978,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-25 is repealed."
+            "text": "Section 10a-25 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2019,24 +2170,50 @@
           "section_key": "",
           "label": "Secs. 10a-25k to 10a-25m.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185.htm#secs_10a-25k_to_10a-25m",
+          "grouped": true,
+          "section_keys": [
+            "10a-25k",
+            "10a-25l",
+            "10a-25m"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 10a-25n to 10a-25p. High technology doctoral fellowship program. Eligibility for fellowships. Regulations.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185.htm#secs_10a-25n_to_10a-25p",
+          "grouped": true,
+          "section_keys": [
+            "10a-25n",
+            "10a-25o",
+            "10a-25p"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-25n to 10a-25p , inclusive, are repealed, effective July 1, 2013."
+            ],
+            "source": [
+              "(P.A. 87-408, S. 1–3, 5; P.A. 88-360, S. 57, 63; P.A. 11-48, S. 285; P.A. 13-240, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-25n to 10a-25p , inclusive, are repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2512,24 +2689,59 @@
           "section_key": "",
           "label": "Secs. 10a-36 to 10a-42 (Formerly Secs. 10-331a, 10-331b and 10-331d to 10-331h) and 10a-42a. Declaration of policy re securing postsecondary education opportunities; duties of Office of Higher Education re independent colleges. Definitions. Administration of program. Calculation of annual appropriation. Grants; reports required from participating colleges or universities, content. Amount of aid to individual students. Making of payments to colleges. Eligibility of colleges or universities participating in program after June 30, 2011.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185.htm#secs_10a-36_to_10a-42_and_10a-42a",
+          "grouped": true,
+          "section_keys": [
+            "10a-36",
+            "10a-37",
+            "10a-38",
+            "10a-39",
+            "10a-40",
+            "10a-41",
+            "10a-42",
+            "10a-42a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-36 to 10a-42a , inclusive, are repealed, effective July 1, 2013."
+            ],
+            "source": [
+              "(1969, P.A. 627, S. 1, 2, 5, 6; 1972, S.A. 53, S. 16–22; P.A. 73-551, S. 1–4; P.A. 75-574, S. 1; P.A. 76-410, S. 1, 4; P.A. 77-573, S. 24, 30; P.A. 80-326; P.A. 82-218, S. 37, 46; 82-314, S. 58, 63; P.A. 83-197, S. 1–9; P.A. 84-241, S. 2, 5; 84-365, S. 8, 12; P.A. 85-477, S. 1–4; P.A. 87-450, S. 3–6, 17; P.A. 88-252, S. 4, 6; P.A. 90-147, S. 1, 2, 20; P.A. 91-208, S. 2, 11; 91-256, S. 49, 50, 69; P.A. 92-126, S. 11, 48; P.A. 94-180, S. 1–3, 17; P.A. 01-89, S. 1, 2; P.A. 05-245, S. 52; Nov. 24 Sp. Sess. P.A. 08-1, S. 6; P.A. 11-6, S. 65; 11-48, S. 260–264, 285; P.A. 12-156, S. 38, 56; June 12 Sp. Sess. P.A. 12-2, S. 56; P.A. 13-3, S. 97; 13-247, S. 389.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-36 to 10a-42a , inclusive, are repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 10a-42b to 10a-42f. Contracting with independent colleges for programs. Definitions. Requirements to be met prior to contracting. Duties of Board of Governors of Higher Education re contracting program. Contract students not to be counted for purpose of calculating independent colleges grant.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185.htm#secs_10a-42b_to_10a-42f",
+          "grouped": true,
+          "section_keys": [
+            "10a-42b",
+            "10a-42c",
+            "10a-42d",
+            "10a-42e",
+            "10a-42f"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-42b to 10a-42f , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 83-288, S. 1–5; P.A. 84-241, S. 2, 5; P.A. 87-450, S. 16, 17; P.A. 90-147, S. 18, 20.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-42b to 10a-42f , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2545,7 +2757,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-42g is repealed, effective July 1, 2013."
+            "text": "Section 10a-42g is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2579,7 +2795,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-43 is repealed, effective July 1, 2013."
+            "text": "Section 10a-43 is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2595,7 +2815,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-44 is repealed."
+            "text": "Section 10a-44 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2812,7 +3036,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-49 is repealed, effective July 1, 2013."
+            "text": "Section 10a-49 is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2865,7 +3093,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-52 is repealed, effective July 1, 1993."
+            "text": "Section 10a-52 is repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2881,7 +3113,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-53 is repealed, effective June 15, 2012."
+            "text": "Section 10a-53 is repealed, effective June 15, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3560,7 +3796,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3698,12 +3938,26 @@
           "section_key": "",
           "label": "Secs. 10a-57a to 10a-57c. Certificate programs: Definitions. Certificate programs: Submission, collection and compilation of data. Certificate programs: One-page fact sheet.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185.htm#secs_10a-57a_to_10a-57c",
+          "grouped": true,
+          "section_keys": [
+            "10a-57a",
+            "10a-57b",
+            "10a-57c"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-57a to 10a-57c , inclusive, are repealed, effective July 1, 2021."
+            ],
+            "source": [
+              "(P.A. 16-44, S. 2, 4, 5; June Sp. Sess. P.A. 21-2, S. 494.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-57a to 10a-57c , inclusive, are repealed, effective July 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3739,7 +3993,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-57e is repealed, effective July 1, 2021."
+            "text": "Section 10a-57e is repealed, effective July 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3805,12 +4063,24 @@
           "section_key": "",
           "label": "Secs. 10a-58 to 10a-60.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185.htm#secs_10a-58_to_10a-60",
+          "grouped": true,
+          "section_keys": [
+            "10a-58",
+            "10a-59",
+            "10a-60"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3870,7 +4140,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-6a and 10a-6b. Higher Education Coordinating Council; duties. Accountability measures; reports. Sections 10a-6a and 10a-6b are repealed, effective June 23, 2021.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3885,7 +4158,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-6a and 10a-6b. Higher Education Coordinating Council; duties. Accountability measures; reports. Sections 10a-6a and 10a-6b are repealed, effective June 23, 2021.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3900,7 +4176,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-9 and 10a-9a. Development of planning, budgeting and management information system. Task force to develop higher education management information and student information system. Sections 10a-9 and 10a-9a are repealed, effective July 1, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3915,7 +4194,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-9 and 10a-9a. Development of planning, budgeting and management information system. Task force to develop higher education management information and student information system. Sections 10a-9 and 10a-9a are repealed, effective July 1, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3930,7 +4212,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-17b and 10a-17c. Help and Opportunity to Pursue Education (HOPE) program. Acceptance of funds for HOPE program. Sections 10a-17b and 10a-17c are repealed, effective July 1, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3945,7 +4230,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-17b and 10a-17c. Help and Opportunity to Pursue Education (HOPE) program. Acceptance of funds for HOPE program. Sections 10a-17b and 10a-17c are repealed, effective July 1, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3960,7 +4248,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-19 (Formerly Sec. 10-327a), 10a-19a and 10a-19b. Disputes between governing boards. Advisory Council on Student Transfer and Articulation. Articulation agreement plans; reports. Sections 10a-19 , 10a-19a and 10a-19b are repealed, effective July 1, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3975,7 +4266,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-19 (Formerly Sec. 10-327a), 10a-19a and 10a-19b. Disputes between governing boards. Advisory Council on Student Transfer and Articulation. Articulation agreement plans; reports. Sections 10a-19 , 10a-19a and 10a-19b are repealed, effective July 1, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3990,7 +4284,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-19 (Formerly Sec. 10-327a), 10a-19a and 10a-19b. Disputes between governing boards. Advisory Council on Student Transfer and Articulation. Articulation agreement plans; reports. Sections 10a-19 , 10a-19a and 10a-19b are repealed, effective July 1, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4005,7 +4302,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-19e and 10a-19f. “Engineering Connecticut” loan reimbursement grant program. “You Belong” loan reimbursement grant program. Sections 10a-19e and 10a-19f are repealed, effective July 1, 2024.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4020,7 +4320,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-19e and 10a-19f. “Engineering Connecticut” loan reimbursement grant program. “You Belong” loan reimbursement grant program. Sections 10a-19e and 10a-19f are repealed, effective July 1, 2024.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4035,7 +4338,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-19i and 10a-19j. Connecticut green technology, life science and health information technology loan reimbursement program. Multilingual learner educator incentive program. Sections 10a-19i and 10a-19j are repealed, effective July 1, 2024.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4050,7 +4356,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-19i and 10a-19j. Connecticut green technology, life science and health information technology loan reimbursement program. Multilingual learner educator incentive program. Sections 10a-19i and 10a-19j are repealed, effective July 1, 2024.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4065,7 +4374,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-23 and 10a-24. Transfer of functions, powers and duties. Meaning of term “Board of Higher Education”. Sections 10a-23 and 10a-24 are repealed, effective June 15, 2012.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4080,7 +4392,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-23 and 10a-24. Transfer of functions, powers and duties. Meaning of term “Board of Higher Education”. Sections 10a-23 and 10a-24 are repealed, effective June 15, 2012.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4095,7 +4410,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-25n to 10a-25p. High technology doctoral fellowship program. Eligibility for fellowships. Regulations. Sections 10a-25n to 10a-25p , inclusive, are repealed, effective July 1, 2013.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4110,7 +4428,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-25n to 10a-25p. High technology doctoral fellowship program. Eligibility for fellowships. Regulations. Sections 10a-25n to 10a-25p , inclusive, are repealed, effective July 1, 2013.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4185,7 +4506,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-57a to 10a-57c. Certificate programs: Definitions. Certificate programs: Submission, collection and compilation of data. Certificate programs: One-page fact sheet. Sections 10a-57a to 10a-57c , inclusive, are repealed, effective July 1, 2021.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4200,7 +4524,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-57a to 10a-57c. Certificate programs: Definitions. Certificate programs: Submission, collection and compilation of data. Certificate programs: One-page fact sheet. Sections 10a-57a to 10a-57c , inclusive, are repealed, effective July 1, 2021.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -4362,12 +4689,24 @@
           "section_key": "",
           "label": "Secs. 10a-68 to 10a-70.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185a.htm#secs_10a-68_to_10a-70",
+          "grouped": true,
+          "section_keys": [
+            "10a-68",
+            "10a-69",
+            "10a-70"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -4459,7 +4798,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-72b is repealed."
+            "text": "Section 10a-72b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4652,12 +4995,25 @@
           "section_key": "",
           "label": "Secs. 10a-75 and 10a-76. (Formerly Secs. 10-38f and 10-38g). Regional Community College Auxiliary Services Fund; borrowing from General Fund. Regional Community College Educational Extension Fund.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185b.htm#secs_10a-75_and_10a-76",
+          "grouped": true,
+          "section_keys": [
+            "10a-75",
+            "10a-76"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-75 and 10a-76 are repealed."
+            ],
+            "source": [
+              "(February, 1965, P.A. 330, S. 26, 27; 1969, P.A. 451, S. 1, 2; 1972, P.A. 92, S. 1; P.A. 73-443, S. 1, 2; P.A. 75-582, S. 1, 2; P.A. 77-614, S. 19, 73, 610; P.A. 81-442, S. 1, 2, 9; P.A. 82-218, S. 9, 10, 46; 82-314, S. 18, 19, 63; P.A. 84-241, S. 2, 5; P.A. 86-37, S. 3, 4; P.A. 87-496, S. 52, 53, 110; 87-529, S. 6, 7; P.A. 88-136, S. 25, 26, 37; P.A. 89-260, S. 22, 23, 41; P.A. 91-256, S. 68, 69.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-75 and 10a-76 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4943,31 +5299,61 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-81 is repealed."
+            "text": "Section 10a-81 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 10a-81a to 10a-84. Disposition of surplus library material and library fines at regional technical colleges. Regional councils for regional technical colleges. Regional technical colleges: Tuition, fees and refunds; operating accounts; waivers; reimbursement of fund. Campus traffic and parking regulations at regional technical colleges.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185b.htm#secs_10a-81a_to_10a-84",
+          "grouped": true,
+          "section_keys": [
+            "10a-81a",
+            "10a-84"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-81a to 10a-84 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1967, P.A. 751, S. 5; 1969, P.A. 530, S. 6; June, 1971, P.A. 5, S. 124; P.A. 73-151, S. 3; 73-542, S. 2; P.A. 74-266, S. 2, 5; 74-282, S. 2; P.A. 75-484, S. 2, 5; P.A. 76-181, S. 2, 5; P.A. 77-573, S. 24, 30; P.A. 78-175, S. 2, 5; P.A. 81-252, S. 2, 5; 81-468, S. 9, 11; P.A. 82-218, S. 37, 46; 82-463, S. 2, 7; P.A. 83-450, S. 2, 5; 83-457, S. 2, 6; P.A. 84-241, S. 2, 5; 84-365, S. 3, 12; 84-438, S. 2, 5; P.A. 85-282, S. 2, 5; 85-553, S. 2, 5; P.A. 86-325, S. 2, 5; P.A. 87-450, S. 8, 17; P.A. 88-136, S. 21, 37; P.A. 89-260, S. 26–29, 41; 89-380, S. 3, 7; P.A. 90-147, S. 6, 7, 20; P.A. 91-174, S. 8, 16; 91-208, S. 6, 11; 91-256, S. 18–20, 69; 91-303, S. 7, 22; 91-407, S. 30, 42; June Sp. Sess. P.A. 91-7, S. 14, 17, 22; P.A. 92-126, S. 47, 48.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-81a to 10a-84 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 10a-85 and 10a-86. (Formerly Secs. 10-108e and 10-108f). Regional Technical College Auxiliary Services Fund; borrowing from General Fund. Regional Technical College Educational Extension Fund.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185b.htm#secs_10a-85_and_10a-86",
+          "grouped": true,
+          "section_keys": [
+            "10a-85",
+            "10a-86"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-85 and 10a-86 are repealed."
+            ],
+            "source": [
+              "(P.A. 75-604, S. 1–3; P.A. 77-614, S. 73, 610; P.A. 80-299, S. 1, 2; P.A. 81-442, S. 3, 4, 9; P.A. 82-218, S. 12, 13, 46; 82-314, S. 20, 21, 63; P.A. 84-241, S. 2, 5; P.A. 86-37, S. 5, 6; P.A. 87-496, S. 55, 56, 110; 87-529, S. 8, 9; P.A. 88-136, S. 27, 28, 37; P.A. 89-260, S. 30, 31, 41; P.A. 91-256, S. 68, 69.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-85 and 10a-86 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4983,7 +5369,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-86a is repealed."
+            "text": "Section 10a-86a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5147,7 +5537,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-89d is repealed, effective July 1, 2001."
+            "text": "Section 10a-89d is repealed, effective July 1, 2001.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5471,7 +5865,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-93 is repealed."
+            "text": "Section 10a-93 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5496,12 +5894,25 @@
           "section_key": "",
           "label": "Secs. 10a-95 and 10a-96. (Formerly Secs. 10-114 and 10-115). Connecticut State University Auxiliary Services Fund. Connecticut State University Educational Extension Fund.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185b.htm#secs_10a-95_and_10a-96",
+          "grouped": true,
+          "section_keys": [
+            "10a-95",
+            "10a-96"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-95 and 10a-96 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 1417, 1418; 1951, S. 935d, 936d; 1957, P.A. 302, S. 1; 303, S. 1; 1959, P.A. 411, S. 10, 11; February, 1965, P.A. 330, S. 36, 37; 1969, P.A. 451, S. 3, 4; P.A. 75-582, S. 3, 4; P.A. 77-614, S. 73, 610; P.A. 81-275, S. 2; 81-442, S. 5, 6, 9; 81-472, S. 122, 159; P.A. 82-218, S. 17, 18, 39, 46; 82-314, S. 22, 23, 63; P.A. 83-587, S. 20, 23, 96; P.A. 84-241, S. 2, 5; P.A. 86-37, S. 1, 2; P.A. 87-496, S. 60, 61, 110; 87-529, S. 10, 11; P.A. 88-136, S. 29, 30, 37; P.A. 91-256, S. 68, 69.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-95 and 10a-96 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5734,7 +6145,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-100 is repealed."
+            "text": "Section 10a-100 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5964,12 +6379,25 @@
           "section_key": "",
           "label": "Secs. 10a-106 and 10a-107. Submission of expenditure plan for tuition funds. Review of tuition funds.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185b.htm#secs_10a-106_and_10a-107",
+          "grouped": true,
+          "section_keys": [
+            "10a-106",
+            "10a-107"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-106 and 10a-107 are repealed."
+            ],
+            "source": [
+              "(P.A. 81-468, S. 5, 6, 11; P.A. 82-218, S. 37, 46; 82-314, S. 25, 26, 63; P.A. 84-365, S. 11, 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-106 and 10a-107 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6003,7 +6431,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-108a is repealed."
+            "text": "Section 10a-108a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6019,7 +6451,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-109 is repealed."
+            "text": "Section 10a-109 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6885,7 +7321,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-109ii is repealed, effective May 14, 2018."
+            "text": "Section 10a-109ii is repealed, effective May 14, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6910,12 +7350,25 @@
           "section_key": "",
           "label": "Secs. 10a-109kk and 10a-109 ll . Connecticut Institute for Nursing Excellence. Contribution of federal, private or other nonstate money; notification.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185b.htm#secs_10a-109kk_and_10a-109ll",
+          "grouped": true,
+          "section_keys": [
+            "10a-109kk",
+            "10a-109ll"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-109kk and 10a-109 ll are repealed, effective July 8, 2011."
+            ],
+            "source": [
+              "(P.A. 10-104, S. 12, 14; P.A. 11-75, S. 9.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-109kk and 10a-109 ll are repealed, effective July 8, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7124,12 +7577,26 @@
           "section_key": "",
           "label": "Secs. 10a-110h to 10a-110 l .",
           "url": "https://www.cga.ct.gov/current/pub/chap_185b.htm#secs_10a-110h_to_10a-110l",
+          "grouped": true,
+          "section_keys": [
+            "10a-110h",
+            "10a-110i",
+            "10a-110j",
+            "10a-110k",
+            "10a-110l"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7308,12 +7775,24 @@
           "section_key": "",
           "label": "Secs. 10a-112d to 10a-112f.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185b.htm#secs_10a-112d_to_10a-112f",
+          "grouped": true,
+          "section_keys": [
+            "10a-112d",
+            "10a-112e",
+            "10a-112f"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7339,12 +7818,26 @@
           "section_key": "",
           "label": "Secs. 10a-112h to 10a-112 l .",
           "url": "https://www.cga.ct.gov/current/pub/chap_185b.htm#secs_10a-112h_to_10a-112l",
+          "grouped": true,
+          "section_keys": [
+            "10a-112h",
+            "10a-112i",
+            "10a-112j",
+            "10a-112k",
+            "10a-112l"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7465,12 +7958,25 @@
           "section_key": "",
           "label": "Secs. 10a-117 and 10a-118. (Formerly Secs. 10-137 and 10-138). The University of Connecticut Auxiliary Services Fund. The University of Connecticut Educational Extension Fund.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185b.htm#secs_10a-117_and_10a-118",
+          "grouped": true,
+          "section_keys": [
+            "10a-117",
+            "10a-118"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-117 and 10a-118 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3292, 3293; 1957, P.A. 423, S. 1; 495, S. 1; P.A. 75-582, S. 5, 6; P.A. 77-614, S. 73, 610; P.A. 78-57; P.A. 81-275, S. 3; 81-442, S. 7–9; P.A. 82-218, S. 23, 24, 46; 82-314, S. 27, 28, 63; P.A. 84-241, S. 2, 5; P.A. 86-37, S. 7, 8; P.A. 87-496, S. 62, 63, 110; 87-529, S. 12, 13; P.A. 88-136, S. 31, 32, 37; P.A. 91-256, S. 68, 69.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-117 and 10a-118 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7511,12 +8017,24 @@
           "section_key": "",
           "label": "Secs. 10a-119b to 10a-119d.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185b.htm#secs_10a-119b_to_10a-119d",
+          "grouped": true,
+          "section_keys": [
+            "10a-119b",
+            "10a-119c",
+            "10a-119d"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7624,7 +8142,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-124 is repealed, effective July 1, 2013."
+            "text": "Section 10a-124 is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7754,7 +8276,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-129 is repealed."
+            "text": "Section 10a-129 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7845,7 +8371,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 368a, Sec. 19a-56a ."
+            "text": "Transferred to Chapter 368a, Sec. 19a-56a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7861,7 +8391,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-132c is repealed, effective July 1, 1997."
+            "text": "Section 10a-132c is repealed, effective July 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7875,7 +8409,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 368a, Sec. 19a-56b ."
+            "text": "Transferred to Chapter 368a, Sec. 19a-56b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7954,12 +8492,25 @@
           "section_key": "",
           "label": "Secs. 10a-134 and 10a-135. Pilot program concerning purchases by the health center. Pilot program concerning leasing procedures of the health center.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185b.htm#secs_10a-134_and_10a-135",
+          "grouped": true,
+          "section_keys": [
+            "10a-134",
+            "10a-135"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-134 and 10a-135 are repealed."
+            ],
+            "source": [
+              "(P.A. 81-374, S. 2–4; P.A. 82-314, S. 29, 30, 63; P.A. 87-496, S. 64, 110; P.A. 88-136, S. 36, 37.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-134 and 10a-135 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8050,12 +8601,25 @@
           "section_key": "",
           "label": "Secs. 10a-140 and 10a-141. (Formerly Secs. 10-144a and 10-144b). Lease of land to private developers for rental housing and commercial establishments; taxation. Lease of state-owned land by the university.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185b.htm#secs_10a-140_and_10a-141",
+          "grouped": true,
+          "section_keys": [
+            "10a-140",
+            "10a-141"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-140 and 10a-141 are repealed, effective July 1, 1997."
+            ],
+            "source": [
+              "(1967, P.A. 575, S. 1, 2; 1969, P.A. 564; P.A. 75-425, S. 31, 32, 57; P.A. 77-573, S. 24, 30; 77-614, S. 19, 73, 610; P.A. 82-218, S. 37, 46; 82-342, S. 2, 3; P.A. 84-241, S. 2, 5; P.A. 87-496, S. 65, 66, 110; P.A. 91-256, S. 32, 69; P.A. 92-261, S. 15, 17; P.A. 95-230, S. 29, 45; P.A. 97-247, S. 26, 27.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-140 and 10a-141 are repealed, effective July 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8069,19 +8633,37 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 10a-156b ."
+            "text": "Transferred to Sec. 10a-156b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 10a-142a to 10a-142e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185b.htm#secs_10a-142a_to_10a-142e",
+          "grouped": true,
+          "section_keys": [
+            "10a-142a",
+            "10a-142b",
+            "10a-142c",
+            "10a-142d",
+            "10a-142e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8097,7 +8679,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-142f is repealed."
+            "text": "Section 10a-142f is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8190,12 +8776,27 @@
           "section_key": "",
           "label": "Secs. 10a-145 to 10a-148. (Formerly Secs. 10-326b to 10-326e). Responsibility of participating units. Designation of a board of trustees to receive, expend and administer funds for a higher education center. Administrative councils. Advisory committees.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185b.htm#secs_10a-145_to_10a-148",
+          "grouped": true,
+          "section_keys": [
+            "10a-145",
+            "10a-146",
+            "10a-147",
+            "10a-148"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-145 to 10a-148 , inclusive, are repealed, effective July 1, 1993."
+            ],
+            "source": [
+              "(1969, P.A. 726, S. 3–6; P.A. 75-425, S. 34, 57; P.A. 77-573, S. 24, 30; P.A. 80-483, S. 46, 186; P.A. 82-218, S. 30–33, 39, 46; P.A. 84-241, S. 2, 5; P.A. 88-12, S. 1, 2; P.A. 89-260, S. 32, 41; P.A. 90-260, S. 2–6; P.A. 91-230, S. 16, 17; P.A. 93-293, S. 10, 11.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-145 to 10a-148 , inclusive, are repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8239,7 +8840,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-149a is repealed, effective October 30, 1997."
+            "text": "Section 10a-149a is repealed, effective October 30, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8320,12 +8925,27 @@
           "section_key": "",
           "label": "Secs. 10a-150a to 10a-150d. Grants from foreign sources; definitions. Disclosure required. Content of disclosure statement. Disclosure statement to be a public record.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185b.htm#secs_10a-150a_to_10a-150d",
+          "grouped": true,
+          "section_keys": [
+            "10a-150a",
+            "10a-150b",
+            "10a-150c",
+            "10a-150d"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-150a to 10a-150d , inclusive, are repealed, effective July 1, 2013."
+            ],
+            "source": [
+              "(P.A. 85-597, S. 1–4, 6; P.A. 11-48, S. 285; P.A. 12-156, S. 50; P.A. 13-240, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-150a to 10a-150d , inclusive, are repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8622,7 +9242,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-154 is repealed."
+            "text": "Section 10a-154 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8823,7 +9447,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-156 is repealed, effective July 1, 2000."
+            "text": "Section 10a-156 is repealed, effective July 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9008,12 +9636,23 @@
           "section_key": "",
           "label": "Secs. 10a-159 and 10a-160.",
           "url": "https://www.cga.ct.gov/current/pub/chap_185b.htm#secs_10a-159_and_10a-160",
+          "grouped": true,
+          "section_keys": [
+            "10a-159",
+            "10a-160"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -9028,7 +9667,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-75 and 10a-76. (Formerly Secs. 10-38f and 10-38g). Regional Community College Auxiliary Services Fund; borrowing from General Fund. Regional Community College Educational Extension Fund. Sections 10a-75 and 10a-76 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9043,7 +9685,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-75 and 10a-76. (Formerly Secs. 10-38f and 10-38g). Regional Community College Auxiliary Services Fund; borrowing from General Fund. Regional Community College Educational Extension Fund. Sections 10a-75 and 10a-76 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9088,7 +9733,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-85 and 10a-86. (Formerly Secs. 10-108e and 10-108f). Regional Technical College Auxiliary Services Fund; borrowing from General Fund. Regional Technical College Educational Extension Fund. Sections 10a-85 and 10a-86 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9103,7 +9751,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-85 and 10a-86. (Formerly Secs. 10-108e and 10-108f). Regional Technical College Auxiliary Services Fund; borrowing from General Fund. Regional Technical College Educational Extension Fund. Sections 10a-85 and 10a-86 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9118,7 +9769,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-95 and 10a-96. (Formerly Secs. 10-114 and 10-115). Connecticut State University Auxiliary Services Fund. Connecticut State University Educational Extension Fund. Sections 10a-95 and 10a-96 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9133,7 +9787,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-95 and 10a-96. (Formerly Secs. 10-114 and 10-115). Connecticut State University Auxiliary Services Fund. Connecticut State University Educational Extension Fund. Sections 10a-95 and 10a-96 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9148,7 +9805,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-106 and 10a-107. Submission of expenditure plan for tuition funds. Review of tuition funds. Sections 10a-106 and 10a-107 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9163,7 +9823,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-106 and 10a-107. Submission of expenditure plan for tuition funds. Review of tuition funds. Sections 10a-106 and 10a-107 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9178,7 +9841,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-109kk and 10a-109 ll . Connecticut Institute for Nursing Excellence. Contribution of federal, private or other nonstate money; notification. Sections 10a-109kk and 10a-109 ll are repealed, effective July 8, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9193,7 +9859,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-117 and 10a-118. (Formerly Secs. 10-137 and 10-138). The University of Connecticut Auxiliary Services Fund. The University of Connecticut Educational Extension Fund. Sections 10a-117 and 10a-118 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9208,7 +9877,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-117 and 10a-118. (Formerly Secs. 10-137 and 10-138). The University of Connecticut Auxiliary Services Fund. The University of Connecticut Educational Extension Fund. Sections 10a-117 and 10a-118 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9223,7 +9895,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-134 and 10a-135. Pilot program concerning purchases by the health center. Pilot program concerning leasing procedures of the health center. Sections 10a-134 and 10a-135 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9238,7 +9913,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-134 and 10a-135. Pilot program concerning purchases by the health center. Pilot program concerning leasing procedures of the health center. Sections 10a-134 and 10a-135 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9253,7 +9931,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-140 and 10a-141. (Formerly Secs. 10-144a and 10-144b). Lease of land to private developers for rental housing and commercial establishments; taxation. Lease of state-owned land by the university. Sections 10a-140 and 10a-141 are repealed, effective July 1, 1997.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9268,7 +9949,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-140 and 10a-141. (Formerly Secs. 10-144a and 10-144b). Lease of land to private developers for rental housing and commercial establishments; taxation. Lease of state-owned land by the university. Sections 10a-140 and 10a-141 are repealed, effective July 1, 1997.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9283,7 +9967,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-145 to 10a-148. (Formerly Secs. 10-326b to 10-326e). Responsibility of participating units. Designation of a board of trustees to receive, expend and administer funds for a higher education center. Administrative councils. Advisory committees. Sections 10a-145 to 10a-148 , inclusive, are repealed, effective July 1, 1993.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9298,7 +9985,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-145 to 10a-148. (Formerly Secs. 10-326b to 10-326e). Responsibility of participating units. Designation of a board of trustees to receive, expend and administer funds for a higher education center. Administrative councils. Advisory committees. Sections 10a-145 to 10a-148 , inclusive, are repealed, effective July 1, 1993.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9313,7 +10003,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-150a to 10a-150d. Grants from foreign sources; definitions. Disclosure required. Content of disclosure statement. Disclosure statement to be a public record. Sections 10a-150a to 10a-150d , inclusive, are repealed, effective July 1, 2013.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9328,7 +10021,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-150a to 10a-150d. Grants from foreign sources; definitions. Disclosure required. Content of disclosure statement. Disclosure statement to be a public record. Sections 10a-150a to 10a-150d , inclusive, are repealed, effective July 1, 2013.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -9388,7 +10084,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-161b is repealed, effective July 1, 2013."
+            "text": "Section 10a-161b is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9449,7 +10149,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-162 is repealed."
+            "text": "Section 10a-162 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9465,19 +10169,37 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-162a is repealed, effective July 1, 2024."
+            "text": "Section 10a-162a is repealed, effective July 1, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
-          "section_key": "10-116n",
+          "section_key": "",
           "label": "Secs. 10a-163 (Formerly Sec. 10-116n), 10a-163a and 10a-163b. Teacher incentive loan program for training in areas of teacher shortages; eligibility requirements; loan repayment and forgiveness provisions. Teacher incentive loan program and academic scholarship loan program funds. Loan servicing and administering.",
           "url": "https://www.cga.ct.gov/current/pub/chap_186.htm#secs_10a-163_10a-163a_and_10a-163b",
+          "grouped": true,
+          "section_keys": [
+            "10a-163",
+            "10a-163a",
+            "10a-163b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-163 to 10a-163b , inclusive, are repealed, effective July 1, 2013."
+            ],
+            "source": [
+              "(P.A. 77-530, S. 4, 11; P.A. 81-157, S. 5, 14; P.A. 82-218, S. 37, 46; P.A. 83-556, S. 1, 4, 5; P.A. 84-241, S. 2, 5; 84-376, S. 1, 3; P.A. 85-377, S. 4, 13; 85-479, S. 1, 6; May Sp. Sess. P.A. 86-1, S. 40, 41, 58; P.A. 87-416, S. 10, 24; P.A. 90-147, S. 14, 20; P.A. 92-262, S. 34, 42; P.A. 93-201, S. 16, 24; P.A. 94-180, S. 8, 17; P.A. 95-259, S. 25, 32; P.A. 98-252, S. 54, 80; P.A. 11-48, S. 266, 285; P.A. 12-156, S. 56, 61; P.A. 13-118, S. 18; 13-247, S. 389.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-163 to 10a-163b , inclusive, are repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9493,7 +10215,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-164 is repealed."
+            "text": "Section 10a-164 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9509,7 +10235,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-164a is repealed, effective July 1, 2013."
+            "text": "Section 10a-164a is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9525,7 +10255,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-164b is repealed, effective July 1, 2024."
+            "text": "Section 10a-164b is repealed, effective July 1, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9541,7 +10275,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-165 is repealed."
+            "text": "Section 10a-165 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9576,7 +10314,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-167 is repealed, effective July 1, 2024."
+            "text": "Section 10a-167 is repealed, effective July 1, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9653,7 +10395,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-169 is repealed, effective July 1, 2013."
+            "text": "Section 10a-169 is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9693,43 +10439,101 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-169b is repealed, effective July 1, 2024."
+            "text": "Section 10a-169b is repealed, effective July 1, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 10a-170 to 10a-170m. Administrative support for capitol scholarship grant program. High technology graduate assistantship program. Eligibility requirements for high technology graduate assistantships. Award of high technology assistantships, renewal, limitations, amounts. Selection of high technology assistantship recipients; regulations. Academic scholarship loan program. Eligibility requirements for high school students. Eligibility requirements for persons other than high school students. Selection of academic scholarship loan recipients, maintenance of eligibility; distribution of loan awards. Loan repayment; loan forgiveness provisions. Interest charge on loan; legal capacity of minors. Loan deferments; loan forgiveness upon death or disability of loan recipient. Servicing and administering of loans. Adoption of regulations.",
           "url": "https://www.cga.ct.gov/current/pub/chap_186.htm#secs_10a-170_to_10a-170m",
+          "grouped": true,
+          "section_keys": [
+            "10a-170",
+            "10a-170a",
+            "10a-170b",
+            "10a-170c",
+            "10a-170d",
+            "10a-170e",
+            "10a-170f",
+            "10a-170g",
+            "10a-170h",
+            "10a-170i",
+            "10a-170j",
+            "10a-170k",
+            "10a-170l",
+            "10a-170m"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-170 to 10a-170m , inclusive, are repealed, effective July 1, 2013."
+            ],
+            "source": [
+              "(P.A. 81-157, S. 11, 14; P.A. 82-218, S. 37, 46; June Sp. Sess. P.A. 83-6, S. 1–4, 6; P.A. 84-241, S. 2, 5; P.A. 84-513, S. 1–10; P.A. 85-479, S. 2, 3, 6; May Sp. Sess. P.A. 86-1, S. 42–44, 58; P.A. 87-416, S. 11, 24; P.A. 88-136, S. 35, 37; P.A. 90-147, S. 15, 20; P.A. 92-262, S. 35, 42; P.A. 93-201, S. 17–21, 24; P.A. 95-250, S. 1; P.A. 96-211, S. 1, 5, 6; P.A. 00-220, S. 26, 43; P.A. 03-170, S. 3; P.A. 09-159, S. 9; P.A. 11-48, S. 269, 285; P.A. 12-156, S. 56; P.A. 13-240, S. 10, 12; 13-247, S. 389.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-170 to 10a-170m , inclusive, are repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 10a-170n to 10a-170q.",
           "url": "https://www.cga.ct.gov/current/pub/chap_186.htm#secs_10a-170n_to_10a-170q",
+          "grouped": true,
+          "section_keys": [
+            "10a-170n",
+            "10a-170o",
+            "10a-170p",
+            "10a-170q"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 10a-170r to 10a-170v. Academic scholarship graduate student loan program; eligibility requirements. Selection of academic scholarship graduate student loan recipients, maintenance of eligibility; amount of loan awards. Loan repayment; loan forgiveness provisions; interest charges; loan deferments. Servicing and administering of loans. Academic Scholarship Graduate Student Loan Program Fund.",
           "url": "https://www.cga.ct.gov/current/pub/chap_186.htm#secs_10a-170r_to_10a-170v",
+          "grouped": true,
+          "section_keys": [
+            "10a-170r",
+            "10a-170s",
+            "10a-170t",
+            "10a-170u",
+            "10a-170v"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-170r to 10a-170v , inclusive, are repealed, effective July 1, 2013."
+            ],
+            "source": [
+              "(May Sp. Sess. P.A. 86-1, S. 35–39, 58; P.A. 92-262, S. 36, 42; P.A. 94-245, S. 14, 46; P.A. 11-48, S. 285; P.A. 13-247, S. 389.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-170r to 10a-170v , inclusive, are repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9782,7 +10586,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-172 is repealed, effective July 1, 2013."
+            "text": "Section 10a-172 is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9857,7 +10665,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-174a is repealed, effective July 1, 2023."
+            "text": "Section 10a-174a is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9871,7 +10683,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -10285,12 +11101,25 @@
           "section_key": "",
           "label": "Secs. 10a-186b and 10a-186c. Nursing home debt service assistance program established; Definitions; Powers of State Treasurer and authority. State Treasurer may advance funds re qualified nursing homes.",
           "url": "https://www.cga.ct.gov/current/pub/chap_187.htm#secs_10a-186b_and_10a-186c",
+          "grouped": true,
+          "section_keys": [
+            "10a-186b",
+            "10a-186c"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-186b and 10a-186c are repealed, effective July 1, 2023."
+            ],
+            "source": [
+              "(June 18 Sp. Sess. P.A. 97-11, S. 39–41, 65; P.A. 98-167, S. 2–4, 6, 60; P.A. 23-11, S. 4.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-186b and 10a-186c are repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10563,19 +11392,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-194e is repealed, effective July 1, 2005."
+            "text": "Section 10a-194e is repealed, effective July 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 10a-194f and 10a-194g. Captive Insurance Demonstration Program Grant Fund. Financing of costs of digitizing patient records.",
           "url": "https://www.cga.ct.gov/current/pub/chap_187.htm#secs_10a-194f_and_10a-194g",
+          "grouped": true,
+          "section_keys": [
+            "10a-194f",
+            "10a-194g"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-194f and 10a-194g are repealed, effective July 1, 2023."
+            ],
+            "source": [
+              "(May Sp. Sess. P.A. 04-1, S. 22, 23; P.A. 23-11, S. 4.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-194f and 10a-194g are repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10613,7 +11459,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-194i is repealed, effective July 1, 2023."
+            "text": "Section 10a-194i is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10715,12 +11565,23 @@
           "section_key": "",
           "label": "Secs. 10a-199 and 10a-200.",
           "url": "https://www.cga.ct.gov/current/pub/chap_187.htm#secs_10a-199_and_10a-200",
+          "grouped": true,
+          "section_keys": [
+            "10a-199",
+            "10a-200"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -10735,7 +11596,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-186b and 10a-186c. Nursing home debt service assistance program established; Definitions; Powers of State Treasurer and authority. State Treasurer may advance funds re qualified nursing homes. Sections 10a-186b and 10a-186c are repealed, effective July 1, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10750,7 +11614,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-186b and 10a-186c. Nursing home debt service assistance program established; Definitions; Powers of State Treasurer and authority. State Treasurer may advance funds re qualified nursing homes. Sections 10a-186b and 10a-186c are repealed, effective July 1, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10765,7 +11632,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-194f and 10a-194g. Captive Insurance Demonstration Program Grant Fund. Financing of costs of digitizing patient records. Sections 10a-194f and 10a-194g are repealed, effective July 1, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10780,7 +11650,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-194f and 10a-194g. Captive Insurance Demonstration Program Grant Fund. Financing of costs of digitizing patient records. Sections 10a-194f and 10a-194g are repealed, effective July 1, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -10847,7 +11720,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-203 is repealed, effective July 1, 2014."
+            "text": "Section 10a-203 is repealed, effective July 1, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10915,7 +11792,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 10a-204a is repealed, effective July 1, 2005."
+            "text": "Section 10a-204a is repealed, effective July 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11128,12 +12009,26 @@
           "section_key": "",
           "label": "Secs. 10a-213 to 10a-215. (Formerly Secs. 10-368b to 10-368d). Unrestricted and restricted funds. Bond issue. General obligation bonds.",
           "url": "https://www.cga.ct.gov/current/pub/chap_187a.htm#secs_10a-213_to_10a-215",
+          "grouped": true,
+          "section_keys": [
+            "10a-213",
+            "10a-214",
+            "10a-215"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 10a-213 to 10a-215 , inclusive, are repealed, effective July 1, 2005."
+            ],
+            "source": [
+              "(1967, P.A. 3, S. 15–17; P.A. 75-423, S. 1, 2; P.A. 77-614, S. 19, 610; P.A. 78-236, S. 5, 20; S.A. 79-95, S. 106, 109; S.A. 80-41, S. 62, 68; P.A. 90-129, S. 2–4; P.A. 94-245, S. 15, 46; P.A. 05-184, S. 9.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 10a-213 to 10a-215 , inclusive, are repealed, effective July 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11158,12 +12053,25 @@
           "section_key": "",
           "label": "Secs. 10a-217 to 10a-220.",
           "url": "https://www.cga.ct.gov/current/pub/chap_187a.htm#secs_10a-217_to_10a-220",
+          "grouped": true,
+          "section_keys": [
+            "10a-217",
+            "10a-218",
+            "10a-219",
+            "10a-220"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11190,7 +12098,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-213 to 10a-215. (Formerly Secs. 10-368b to 10-368d). Unrestricted and restricted funds. Bond issue. General obligation bonds. Sections 10a-213 to 10a-215 , inclusive, are repealed, effective July 1, 2005.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -11205,7 +12116,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 10a-213 to 10a-215. (Formerly Secs. 10-368b to 10-368d). Unrestricted and restricted funds. Bond issue. General obligation bonds. Sections 10a-213 to 10a-215 , inclusive, are repealed, effective July 1, 2005.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -11909,7 +12823,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]

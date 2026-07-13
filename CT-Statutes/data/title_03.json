@@ -138,7 +138,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-4 is repealed, effective October 1, 2002."
+            "text": "Section 3-4 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -345,7 +349,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-10a is repealed."
+            "text": "Section 3-10a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -414,7 +422,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 814b, Sec. 46a-41 ."
+            "text": "Transferred to Chapter 814b, Sec. 46a-41 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -663,7 +675,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-13f is repealed, effective November 12, 1993."
+            "text": "Section 3-13f is repealed, effective November 12, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -964,7 +980,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-17a is repealed, effective May 26, 2009."
+            "text": "Section 3-17a is repealed, effective May 26, 2009.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1439,12 +1459,42 @@
           "section_key": "",
           "label": "Secs. 3-21f to 3-21z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_032.htm#secs_3-21f_to_3-21z",
+          "grouped": true,
+          "section_keys": [
+            "3-21f",
+            "3-21g",
+            "3-21h",
+            "3-21i",
+            "3-21j",
+            "3-21k",
+            "3-21l",
+            "3-21m",
+            "3-21n",
+            "3-21o",
+            "3-21p",
+            "3-21q",
+            "3-21r",
+            "3-21s",
+            "3-21t",
+            "3-21u",
+            "3-21v",
+            "3-21w",
+            "3-21x",
+            "3-21y",
+            "3-21z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1460,7 +1510,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-21aa is repealed, effective July 1, 2023."
+            "text": "Section 3-21aa is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1476,7 +1530,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-22 is repealed."
+            "text": "Section 3-22 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1788,12 +1846,25 @@
           "section_key": "",
           "label": "Secs. 3-22q to 3-22t.",
           "url": "https://www.cga.ct.gov/current/pub/chap_032.htm#secs_3-22q_to_3-22t",
+          "grouped": true,
+          "section_keys": [
+            "3-22q",
+            "3-22r",
+            "3-22s",
+            "3-22t"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1874,12 +1945,31 @@
           "section_key": "",
           "label": "Secs. 3-24a to 3-24h. Tax-Exempt Proceeds Fund created. Deposit of money in Tax-Exempt Proceeds Fund. Investment in Tax-Exempt Proceeds Fund by other state funds. Sale of investments in Tax-Exempt Proceeds Fund to other state instrumentalities. Investment of Tax-Exempt Proceeds Fund by the Treasurer. Purchase of investments in Tax-Exempt Proceeds Fund by other state instrumentalities. Borrowing for purposes of the Tax-Exempt Proceeds Fund; issuance of notes. Borrowing from the Tax-Exempt Proceeds Fund for state capital projects.",
           "url": "https://www.cga.ct.gov/current/pub/chap_032.htm#secs_3-24a_to_3-24h",
+          "grouped": true,
+          "section_keys": [
+            "3-24a",
+            "3-24b",
+            "3-24c",
+            "3-24d",
+            "3-24e",
+            "3-24f",
+            "3-24g",
+            "3-24h"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 3-24a to 3-24h , inclusive, are repealed, effective July 1, 2024."
+            ],
+            "source": [
+              "(P.A. 88-258, S. 1–9; P.A. 94-8, S. 1–8; P.A. 04-216, S. 63; June 12 Sp. Sess. P.A. 12-1, S. 152; P.A. 14-94, S. 1; P.A. 23-170, S. 8; P.A. 24-62, S. 18.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 3-24a to 3-24h , inclusive, are repealed, effective July 1, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2015,7 +2105,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-27 is repealed."
+            "text": "Section 3-27 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2140,7 +2234,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-27g is repealed."
+            "text": "Section 3-27g is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2210,7 +2308,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-28 is repealed."
+            "text": "Section 3-28 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2238,12 +2340,26 @@
           "section_key": "",
           "label": "Secs. 3-29 to 3-31. Investment of surplus of General Fund. Investment of cash balance of Transportation Fund. Investment of excess cash in General Fund.",
           "url": "https://www.cga.ct.gov/current/pub/chap_032.htm#secs_3-29_to_3-31",
+          "grouped": true,
+          "section_keys": [
+            "3-29",
+            "3-30",
+            "3-31"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 3-29 to 3-31 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 116, 117; 1949, S. 37d, 38d; 1969, P.A. 563; 647; 768, S. 55; P.A. 73-675, S. 2, 44; P.A. 74-342, S. 11, 43; P.A. 75-568, S. 3, 44, 45; P.A. 77-614, S. 19, 610; P.A. 78-236, S. 19, 20.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 3-29 to 3-31 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2367,7 +2483,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-36 is repealed."
+            "text": "Section 3-36 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2543,7 +2663,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-36i is repealed, effective June 12, 2023."
+            "text": "Section 3-36i is repealed, effective June 12, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2599,7 +2723,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -2656,12 +2784,27 @@
           "section_key": "",
           "label": "Secs. 3-39d to 3-39i.",
           "url": "https://www.cga.ct.gov/current/pub/chap_032.htm#secs_3-39d_to_3-39i",
+          "grouped": true,
+          "section_keys": [
+            "3-39d",
+            "3-39e",
+            "3-39f",
+            "3-39g",
+            "3-39h",
+            "3-39i"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3123,12 +3266,29 @@
           "section_key": "",
           "label": "Secs. 3-55a to 3-55h.",
           "url": "https://www.cga.ct.gov/current/pub/chap_032.htm#secs_3-55a_to_3-55h",
+          "grouped": true,
+          "section_keys": [
+            "3-55a",
+            "3-55b",
+            "3-55c",
+            "3-55d",
+            "3-55e",
+            "3-55f",
+            "3-55g",
+            "3-55h"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3267,7 +3427,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-56 is repealed."
+            "text": "Section 3-56 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3323,7 +3487,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-57 is repealed."
+            "text": "Section 3-57 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3386,7 +3554,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-58 is repealed."
+            "text": "Section 3-58 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3421,7 +3593,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-59 is repealed."
+            "text": "Section 3-59 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3510,7 +3686,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-60 is repealed."
+            "text": "Section 3-60 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3582,7 +3762,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-60d is repealed, effective October 1, 2005."
+            "text": "Section 3-60d is repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3598,7 +3782,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-61 is repealed."
+            "text": "Section 3-61 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3632,7 +3820,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-62 is repealed."
+            "text": "Section 3-62 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3742,7 +3934,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-62f is repealed."
+            "text": "Section 3-62f is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3826,7 +4022,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-63 is repealed."
+            "text": "Section 3-63 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3860,7 +4060,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-64 is repealed."
+            "text": "Section 3-64 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3894,7 +4098,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-65 is repealed."
+            "text": "Section 3-65 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3979,7 +4187,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-66 is repealed."
+            "text": "Section 3-66 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4075,7 +4287,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-67 is repealed."
+            "text": "Section 3-67 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4113,7 +4329,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-68 is repealed."
+            "text": "Section 3-68 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4150,7 +4370,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-69 is repealed."
+            "text": "Section 3-69 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4192,7 +4416,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-70 is repealed."
+            "text": "Section 3-70 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4242,7 +4470,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-71 is repealed."
+            "text": "Section 3-71 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4267,12 +4499,26 @@
           "section_key": "",
           "label": "Secs. 3-72, 3-72a and 3-73. Funds to be paid to General Fund and special trust fund. Escheat proceedings. Claim; appeal; bond.",
           "url": "https://www.cga.ct.gov/current/pub/chap_032.htm#secs_3-72_3-72a_and_3-73",
+          "grouped": true,
+          "section_keys": [
+            "3-72",
+            "3-72a",
+            "3-73"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 3-72 , 3-72a and 3-73 are repealed."
+            ],
+            "source": [
+              "(1949, S. 52d, 53d; 1961, P.A. 540, S. 17, 31; 1963, P.A. 114, S. 4; P.A. 78-280, S. 6, 127; P.A. 82-336, S. 2, 3; P.A. 88-230, S. 1, 12; P.A. 89-358, S. 4; P.A. 90-98, S. 1, 2; P.A. 93-142, S. 4, 7, 8; P.A. 94-184, S. 3.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 3-72 , 3-72a and 3-73 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4328,7 +4574,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-74 is repealed."
+            "text": "Section 3-74 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4358,12 +4608,25 @@
           "section_key": "",
           "label": "Secs. 3-75 and 3-76. Record to be kept by Treasurer. Application of other statutes.",
           "url": "https://www.cga.ct.gov/current/pub/chap_032.htm#secs_3-75_and_3-76",
+          "grouped": true,
+          "section_keys": [
+            "3-75",
+            "3-76"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 3-75 and 3-76 are repealed."
+            ],
+            "source": [
+              "(1949, S. 55d, 56d; 1961, P.A. 540, S. 31.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 3-75 and 3-76 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4760,7 +5023,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-76t is repealed, effective July 1, 2024."
+            "text": "Section 3-76t is repealed, effective July 1, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4805,7 +5072,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 3-29 to 3-31. Investment of surplus of General Fund. Investment of cash balance of Transportation Fund. Investment of excess cash in General Fund. Sections 3-29 to 3-31 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4820,7 +5090,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 3-29 to 3-31. Investment of surplus of General Fund. Investment of cash balance of Transportation Fund. Investment of excess cash in General Fund. Sections 3-29 to 3-31 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4835,7 +5108,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 3-75 and 3-76. Record to be kept by Treasurer. Application of other statutes. Sections 3-75 and 3-76 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4850,7 +5126,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 3-72, 3-72a and 3-73. Funds to be paid to General Fund and special trust fund. Escheat proceedings. Claim; appeal; bond. Sections 3-72 , 3-72a and 3-73 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4865,7 +5144,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 3-72, 3-72a and 3-73. Funds to be paid to General Fund and special trust fund. Escheat proceedings. Claim; appeal; bond. Sections 3-72 , 3-72a and 3-73 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4880,7 +5162,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 3-72, 3-72a and 3-73. Funds to be paid to General Fund and special trust fund. Escheat proceedings. Claim; appeal; bond. Sections 3-72 , 3-72a and 3-73 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4895,7 +5180,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 3-75 and 3-76. Record to be kept by Treasurer. Application of other statutes. Sections 3-75 and 3-76 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -4982,7 +5270,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-80 is repealed."
+            "text": "Section 3-80 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5046,7 +5338,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-83 is repealed."
+            "text": "Section 3-83 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5062,7 +5358,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-84 is repealed, effective July 8, 2011."
+            "text": "Section 3-84 is repealed, effective July 8, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5126,12 +5426,25 @@
           "section_key": "",
           "label": "Secs. 3-88 and 3-89. Distribution of reports of state officers. Digest of compensation decisions.",
           "url": "https://www.cga.ct.gov/current/pub/chap_033.htm#secs_3-88_and_3-89",
+          "grouped": true,
+          "section_keys": [
+            "3-88",
+            "3-89"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 3-88 and 3-89 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 167, 168; February, 1965, P.A. 238; 334.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 3-88 and 3-89 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5157,12 +5470,27 @@
           "section_key": "",
           "label": "Secs. 3-91 to 3-94. Notaries public; appointment, term and qualifications; waiver of fees. Record of certificate and oath of notary. Notice of revocation of appointment. Change of name of notary.",
           "url": "https://www.cga.ct.gov/current/pub/chap_033.htm#secs_3-91_to_3-94",
+          "grouped": true,
+          "section_keys": [
+            "3-91",
+            "3-92",
+            "3-93",
+            "3-94"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 3-91 to 3-94 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 84–86; 1957, P.A. 63, S. 1, 2; 178, S. 1; 1959, P.A. 463, S. 1, 2; February, 1965, P.A. 93; 1972, P.A. 127, S. 2; P.A. 76-220; 76-436, S. 247, 681; P.A. 77-614, S. 486, 587, 610; P.A. 78-303, S. 85, 136; P.A. 80-195, S. 1, 2; P.A. 81-34, S. 2–4, 9; P.A. 86-32; P.A. 89-251, S. 61, 62, 203; P.A. 90-154, S. 21.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 3-91 to 3-94 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5743,7 +6071,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-99 is repealed."
+            "text": "Section 3-99 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5921,12 +6253,27 @@
           "section_key": "",
           "label": "Secs. 3-101 to 3-104. Division of Professional and Vocational Licensing. Professional and vocational licensing boards, generally.",
           "url": "https://www.cga.ct.gov/current/pub/chap_033.htm#secs_3-101_to_3-104",
+          "grouped": true,
+          "section_keys": [
+            "3-101",
+            "3-102",
+            "3-103",
+            "3-104"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 3-101 to 3-104 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 182–185; September, 1957, P.A. 11, S. 4; 1971, P.A. 410, S. 1; P.A. 75-268, S. 1; P.A. 76-86.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 3-101 to 3-104 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6495,7 +6842,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 3-88 and 3-89. Distribution of reports of state officers. Digest of compensation decisions. Sections 3-88 and 3-89 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6510,7 +6860,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 3-88 and 3-89. Distribution of reports of state officers. Digest of compensation decisions. Sections 3-88 and 3-89 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6525,7 +6878,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 3-91 to 3-94. Notaries public; appointment, term and qualifications; waiver of fees. Record of certificate and oath of notary. Notice of revocation of appointment. Change of name of notary. Sections 3-91 to 3-94 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6540,7 +6896,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 3-91 to 3-94. Notaries public; appointment, term and qualifications; waiver of fees. Record of certificate and oath of notary. Notice of revocation of appointment. Change of name of notary. Sections 3-91 to 3-94 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6555,7 +6914,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 3-101 to 3-104. Division of Professional and Vocational Licensing. Professional and vocational licensing boards, generally. Sections 3-101 to 3-104 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6570,7 +6932,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 3-101 to 3-104. Division of Professional and Vocational Licensing. Professional and vocational licensing boards, generally. Sections 3-101 to 3-104 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -6713,7 +7078,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-114a is repealed."
+            "text": "Section 3-114a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6855,7 +7224,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-114i is repealed, effective June 6, 2024."
+            "text": "Section 3-114i is repealed, effective June 6, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6889,7 +7262,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-114k is repealed, effective October 1, 2002."
+            "text": "Section 3-114k is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6966,15 +7343,29 @@
           }
         },
         {
-          "section_key": "17b-322",
+          "section_key": "",
           "label": "Secs. 3-114p, 3-114q (Formerly Sec. 17b-322) and 3-114r. Recording of hospitals tax revenue received at end of fiscal year. Recording of revenue from resident day user fee in nursing homes. Recording of revenue from resident day user fee in intermediate care facility.",
           "url": "https://www.cga.ct.gov/current/pub/chap_034.htm#secs_3-114p_3-114q_3-114r",
+          "grouped": true,
+          "section_keys": [
+            "3-114p",
+            "3-114q",
+            "3-114r"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 3-114p , 3-114q and 3-114r are repealed, effective June 6, 2024."
+            ],
+            "source": [
+              "(P.A. 05-251, S. 80; P.A. 11-6, S. 149, 153; P.A. 24-151, S. 109.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 3-114p , 3-114q and 3-114r are repealed, effective June 6, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7067,7 +7458,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-115c is repealed, effective October 1, 2002."
+            "text": "Section 3-115c is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7083,7 +7478,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-115d is repealed, effective June 23, 2015."
+            "text": "Section 3-115d is repealed, effective June 23, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7115,19 +7514,34 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 298b, Sec. 16a-118 ."
+            "text": "Transferred to Chapter 298b, Sec. 16a-118 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 3-116a and 3-116b.",
           "url": "https://www.cga.ct.gov/current/pub/chap_034.htm#secs_3-116a_and_3-116b",
+          "grouped": true,
+          "section_keys": [
+            "3-116a",
+            "3-116b"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 57, Secs. 4a-7 and 4a-6 , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 57, Secs. 4a-7 and 4a-6 , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7206,7 +7620,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-118 is repealed."
+            "text": "Section 3-118 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7284,7 +7702,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-120 is repealed."
+            "text": "Section 3-120 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7318,7 +7740,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-121a is repealed, effective May 4, 2011."
+            "text": "Section 3-121a is repealed, effective May 4, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7433,7 +7859,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-123c is repealed."
+            "text": "Section 3-123c is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7449,7 +7879,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-123d is repealed."
+            "text": "Section 3-123d is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7539,7 +7973,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-123i is repealed, effective July 1, 2023."
+            "text": "Section 3-123i is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7573,7 +8011,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 3-123k is repealed, effective July 1, 2023."
+            "text": "Section 3-123k is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7615,12 +8057,34 @@
           "section_key": "",
           "label": "Secs. 3-123n to 3-123z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_034.htm#secs_3-123n_to_3-123z",
+          "grouped": true,
+          "section_keys": [
+            "3-123n",
+            "3-123o",
+            "3-123p",
+            "3-123q",
+            "3-123r",
+            "3-123s",
+            "3-123t",
+            "3-123u",
+            "3-123v",
+            "3-123w",
+            "3-123x",
+            "3-123y",
+            "3-123z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7764,12 +8228,40 @@
           "section_key": "",
           "label": "Secs. 3-123hh to 3-123zz.",
           "url": "https://www.cga.ct.gov/current/pub/chap_034.htm#secs_3-123hh_to_3-123zz",
+          "grouped": true,
+          "section_keys": [
+            "3-123hh",
+            "3-123ii",
+            "3-123jj",
+            "3-123kk",
+            "3-123ll",
+            "3-123mm",
+            "3-123nn",
+            "3-123oo",
+            "3-123pp",
+            "3-123qq",
+            "3-123rr",
+            "3-123ss",
+            "3-123tt",
+            "3-123uu",
+            "3-123vv",
+            "3-123ww",
+            "3-123xx",
+            "3-123yy",
+            "3-123zz"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7976,12 +8468,30 @@
           "section_key": "",
           "label": "Secs. 3-123iii to 3-123qqq.",
           "url": "https://www.cga.ct.gov/current/pub/chap_034.htm#secs_3-123iii_to_3-123qqq",
+          "grouped": true,
+          "section_keys": [
+            "3-123iii",
+            "3-123jjj",
+            "3-123kkk",
+            "3-123lll",
+            "3-123mmm",
+            "3-123nnn",
+            "3-123ooo",
+            "3-123ppp",
+            "3-123qqq"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8167,7 +8677,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 3-114p, 3-114q (Formerly Sec. 17b-322) and 3-114r. Recording of hospitals tax revenue received at end of fiscal year. Recording of revenue from resident day user fee in nursing homes. Recording of revenue from resident day user fee in intermediate care facility. Sections 3-114p , 3-114q and 3-114r are repealed, effective June 6, 2024.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8182,7 +8695,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 3-114p, 3-114q (Formerly Sec. 17b-322) and 3-114r. Recording of hospitals tax revenue received at end of fiscal year. Recording of revenue from resident day user fee in nursing homes. Recording of revenue from resident day user fee in intermediate care facility. Sections 3-114p , 3-114q and 3-114r are repealed, effective June 6, 2024.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8197,7 +8713,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 3-114p, 3-114q (Formerly Sec. 17b-322) and 3-114r. Recording of hospitals tax revenue received at end of fiscal year. Recording of revenue from resident day user fee in nursing homes. Recording of revenue from resident day user fee in intermediate care facility. Sections 3-114p , 3-114q and 3-114r are repealed, effective June 6, 2024.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]

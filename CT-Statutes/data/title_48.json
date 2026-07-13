@@ -48,7 +48,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 48-2 is repealed."
+            "text": "Section 48-2 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -89,7 +93,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 48-4 is repealed."
+            "text": "Section 48-4 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -381,7 +389,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 48-16 is repealed."
+            "text": "Section 48-16 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -707,12 +719,23 @@
           "section_key": "",
           "label": "Secs. 48-28 and 48-29.",
           "url": "https://www.cga.ct.gov/current/pub/chap_835.htm#secs_48-28_and_48-29",
+          "grouped": true,
+          "section_keys": [
+            "48-28",
+            "48-29"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -738,24 +761,71 @@
           "section_key": "",
           "label": "Secs. 48-31 to 48-49.",
           "url": "https://www.cga.ct.gov/current/pub/chap_835.htm#secs_48-31_to_48-49",
+          "grouped": true,
+          "section_keys": [
+            "48-31",
+            "48-32",
+            "48-33",
+            "48-34",
+            "48-35",
+            "48-36",
+            "48-37",
+            "48-38",
+            "48-39",
+            "48-40",
+            "48-41",
+            "48-42",
+            "48-43",
+            "48-44",
+            "48-45",
+            "48-46",
+            "48-47",
+            "48-48",
+            "48-49"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 48-50 to 48-57. Office of Ombudsman for Property Rights established; duties. Ombudsman for Property Rights; appointment; qualifications. Requests to mediate eminent domain or relocation assistance disputes filed with Office of Ombudsman for Property Rights; regulations; motion in Superior Court to stay related action. Duties of public agencies re requests from Office of Ombudsman for Property Rights. Employment and compensation restrictions for employees of Office of Ombudsman for Property Rights. Ombudsman for Property Rights authorized to apply for and accept grants, gifts and bequests on behalf of office. Ombudsman for Property Rights account. Duties of public agency seeking to acquire property by eminent domain; Ombudsman for Property Rights to prescribe form of information.",
           "url": "https://www.cga.ct.gov/current/pub/chap_835.htm#secs_48-50_to_48-57",
+          "grouped": true,
+          "section_keys": [
+            "48-50",
+            "48-51",
+            "48-52",
+            "48-53",
+            "48-54",
+            "48-55",
+            "48-56",
+            "48-57"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 48-50 to 48-57 , inclusive, are repealed, effective October 5, 2009."
+            ],
+            "source": [
+              "(P.A. 06-187, S. 3–10; P.A. 07-141, S. 22; Sept. Sp. Sess. P.A. 09-7, S. 190.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 48-50 to 48-57 , inclusive, are repealed, effective October 5, 2009.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {

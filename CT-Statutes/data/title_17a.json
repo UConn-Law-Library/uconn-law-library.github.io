@@ -146,7 +146,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-3a is repealed, effective July 1, 2018."
+            "text": "Section 17a-3a is repealed, effective July 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -312,12 +316,25 @@
           "section_key": "",
           "label": "Secs. 17a-6b and 17a-6c. Connecticut Juvenile Training School advisory group; review; recommendations; report by commissioner. Adjudicated youths in care and custody of department; reports.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319.htm#secs_17a-6b_and_17a-6c",
+          "grouped": true,
+          "section_keys": [
+            "17a-6b",
+            "17a-6c"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 17a-6b and 17a-6c are repealed, effective July 1, 2018."
+            ],
+            "source": [
+              "(P.A. 03-251, S. 2, 3; P.A. 04-89, S. 1, 2; 04-257, S. 98, 99; P.A. 06-196, S. 105; P.A. 11-105, S. 2; P.A. 14-122, S. 22, 23; P.A. 16-28, S. 2, 3; P.A. 18-31, S. 43.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 17a-6b and 17a-6c are repealed, effective July 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -395,27 +412,53 @@
           }
         },
         {
-          "section_key": "17-415a",
+          "section_key": "",
           "label": "Secs. 17a-7 (Formerly Sec. 17-415a) and 17a-7a. Parole of delinquent child in commissioner's custody. Standard leave and release policies for delinquent children committed to department.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319.htm#secs_17a-7_and_17a-7a",
+          "grouped": true,
+          "section_keys": [
+            "17a-7",
+            "17a-7a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 17a-7 and 17a-7a are repealed, effective July 1, 2018."
+            ],
+            "source": [
+              "(P.A. 74-268, S. 1, 3; P.A. 75-524, S. 11, 30; P.A. 78-280, S. 28, 127; P.A. 79-581, S. 8; P.A. 93-91, S. 1, 2; P.A. 97-130; June Sp. Sess. P.A. 98-1, S. 78, 121; P.A. 11-156, S. 1; P.A. 14-187, S. 10, 11; P.A. 18-31, S. 43.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 17a-7 and 17a-7a are repealed, effective July 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
-          "section_key": "17-415b",
+          "section_key": "",
           "label": "Secs. 17a-8 (Formerly Sec. 17-415b) and 17a-8a. Custody of children and youths committed to commissioner as delinquent; term, escape, violation of parole, return to custody; vocational parole. Authorized leave for delinquent child committed to department.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319.htm#secs_17a-8_and_17a-8a",
+          "grouped": true,
+          "section_keys": [
+            "17a-8",
+            "17a-8a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 17a-8 and 17a-8a are repealed, effective July 1, 2018."
+            ],
+            "source": [
+              "(P.A. 74-268, S. 2, 3; P.A. 75-524, S. 12, 30; P.A. 76-436, S. 588, 681; P.A. 93-91, S. 1, 2; P.A. 98-70, S. 4; P.A. 00-99, S. 53, 154; 00-209, S. 1; P.A. 06-196, S. 106; P.A. 11-157, S. 5; P.A. 16-28, S. 17; P.A. 18-31, S. 43.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 17a-8 and 17a-8a are repealed, effective July 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -470,7 +513,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-10 is repealed, effective July 1, 2018."
+            "text": "Section 17a-10 is repealed, effective July 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -688,7 +735,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-13 is repealed, effective July 1, 2018."
+            "text": "Section 17a-13 is repealed, effective July 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1051,7 +1102,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-21 is repealed, effective July 1, 2009."
+            "text": "Section 17a-21 is repealed, effective July 1, 2009.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1184,7 +1239,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-22e is repealed, effective July 1, 2005."
+            "text": "Section 17a-22e is repealed, effective July 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1458,12 +1517,29 @@
           "section_key": "",
           "label": "Secs. 17a-22s to 17a-22z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319.htm#secs_17a-22s_to_17a-22z",
+          "grouped": true,
+          "section_keys": [
+            "17a-22s",
+            "17a-22t",
+            "17a-22u",
+            "17a-22v",
+            "17a-22w",
+            "17a-22x",
+            "17a-22y",
+            "17a-22z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1765,7 +1841,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-23 is repealed."
+            "text": "Section 17a-23 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1863,7 +1943,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-27a is repealed."
+            "text": "Section 17a-27a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1879,7 +1963,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-27b is repealed, effective July 1, 2018."
+            "text": "Section 17a-27b is repealed, effective July 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1895,7 +1983,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-27c is repealed, effective July 1, 2011."
+            "text": "Section 17a-27c is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1911,7 +2003,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-27d is repealed, effective July 1, 2018."
+            "text": "Section 17a-27d is repealed, effective July 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1927,7 +2023,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-27e is repealed, effective October 1, 2016."
+            "text": "Section 17a-27e is repealed, effective October 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1943,7 +2043,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-27f is repealed, effective July 1, 2011."
+            "text": "Section 17a-27f is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2207,12 +2311,25 @@
           "section_key": "",
           "label": "Secs. 17a-34 and 17a-35. (Formerly Secs. 17-435e and 17-435f). Transfer of Bryan Building at Norwich Hospital to Department of Public Works. Transfer of Ray Building at Norwich Hospital to Department of Mental Health.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319.htm#secs_17a-34_and_17a-35",
+          "grouped": true,
+          "section_keys": [
+            "17a-34",
+            "17a-35"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 17a-34 and 17a-35 are repealed."
+            ],
+            "source": [
+              "(P.A. 79-232; 79-628; P.A. 93-126, S. 1, 3; P.A. 87-496, S. 84, 110; P.A. 93-216, S. 8.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 17a-34 and 17a-35 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2276,12 +2393,24 @@
           "section_key": "",
           "label": "Secs. 17a-39 to 17a-41.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319.htm#secs_17a-39_to_17a-41",
+          "grouped": true,
+          "section_keys": [
+            "17a-39",
+            "17a-40",
+            "17a-41"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 164, Part I, Secs. 10-19m to 10-19p , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 164, Part I, Secs. 10-19m to 10-19p , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -2419,7 +2548,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-48 is repealed."
+            "text": "Section 17a-48 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2453,7 +2586,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 319rr, Sec. 17b-751 ."
+            "text": "Transferred to Chapter 319rr, Sec. 17b-751 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -2467,7 +2604,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 319rr, Sec. 17b-751a ."
+            "text": "Transferred to Chapter 319rr, Sec. 17b-751a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -2483,7 +2624,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-51 is repealed."
+            "text": "Section 17a-51 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2579,7 +2724,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-54a is repealed, effective July 1, 2013."
+            "text": "Section 17a-54a is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2630,7 +2779,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 319rr, Sec. 17b-751b ."
+            "text": "Transferred to Chapter 319rr, Sec. 17b-751b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -2644,7 +2797,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 319rr, Sec. 17b-751c ."
+            "text": "Transferred to Chapter 319rr, Sec. 17b-751c .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -2834,7 +2991,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-62 is repealed, effective July 1, 2019."
+            "text": "Section 17a-62 is repealed, effective July 1, 2019.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2892,7 +3053,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-63 is repealed, effective July 7, 2021."
+            "text": "Section 17a-63 is repealed, effective July 7, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2926,7 +3091,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-64 is repealed, effective July 1, 2018."
+            "text": "Section 17a-64 is repealed, effective July 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2956,12 +3125,30 @@
           "section_key": "",
           "label": "Secs. 17a-66 to 17a-74.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319.htm#secs_17a-66_to_17a-74",
+          "grouped": true,
+          "section_keys": [
+            "17a-66",
+            "17a-67",
+            "17a-68",
+            "17a-69",
+            "17a-70",
+            "17a-71",
+            "17a-72",
+            "17a-73",
+            "17a-74"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3150,12 +3337,27 @@
           "section_key": "",
           "label": "Secs. 17a-84 to 17a-89.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319.htm#secs_17a-84_to_17a-89",
+          "grouped": true,
+          "section_keys": [
+            "17a-84",
+            "17a-85",
+            "17a-86",
+            "17a-87",
+            "17a-88",
+            "17a-89"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3182,7 +3384,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-6b and 17a-6c. Connecticut Juvenile Training School advisory group; review; recommendations; report by commissioner. Adjudicated youths in care and custody of department; reports. Sections 17a-6b and 17a-6c are repealed, effective July 1, 2018.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3197,7 +3402,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-6b and 17a-6c. Connecticut Juvenile Training School advisory group; review; recommendations; report by commissioner. Adjudicated youths in care and custody of department; reports. Sections 17a-6b and 17a-6c are repealed, effective July 1, 2018.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3212,7 +3420,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-7 (Formerly Sec. 17-415a) and 17a-7a. Parole of delinquent child in commissioner's custody. Standard leave and release policies for delinquent children committed to department. Sections 17a-7 and 17a-7a are repealed, effective July 1, 2018.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3227,7 +3438,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-7 (Formerly Sec. 17-415a) and 17a-7a. Parole of delinquent child in commissioner's custody. Standard leave and release policies for delinquent children committed to department. Sections 17a-7 and 17a-7a are repealed, effective July 1, 2018.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3242,7 +3456,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-8 (Formerly Sec. 17-415b) and 17a-8a. Custody of children and youths committed to commissioner as delinquent; term, escape, violation of parole, return to custody; vocational parole. Authorized leave for delinquent child committed to department. Sections 17a-8 and 17a-8a are repealed, effective July 1, 2018.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3257,7 +3474,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-8 (Formerly Sec. 17-415b) and 17a-8a. Custody of children and youths committed to commissioner as delinquent; term, escape, violation of parole, return to custody; vocational parole. Authorized leave for delinquent child committed to department. Sections 17a-8 and 17a-8a are repealed, effective July 1, 2018.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3272,7 +3492,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-34 and 17a-35. (Formerly Secs. 17-435e and 17-435f). Transfer of Bryan Building at Norwich Hospital to Department of Public Works. Transfer of Ray Building at Norwich Hospital to Department of Mental Health. Sections 17a-34 and 17a-35 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3287,7 +3510,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-34 and 17a-35. (Formerly Secs. 17-435e and 17-435f). Transfer of Bryan Building at Norwich Hospital to Department of Public Works. Transfer of Ray Building at Norwich Hospital to Department of Mental Health. Sections 17a-34 and 17a-35 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3360,7 +3586,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-91 is repealed, effective July 1, 2011."
+            "text": "Section 17a-91 is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3376,7 +3606,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-91a is repealed, effective July 1, 2009."
+            "text": "Section 17a-91a is repealed, effective July 1, 2009.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3564,7 +3798,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-97 is repealed."
+            "text": "Section 17a-97 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4300,7 +4538,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-102 is repealed."
+            "text": "Section 17a-102 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4404,7 +4646,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-103c is repealed, effective July 1, 2019."
+            "text": "Section 17a-103c is repealed, effective July 1, 2019.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4592,7 +4838,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-106c is repealed, effective October 1, 2005."
+            "text": "Section 17a-106c is repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4717,7 +4967,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-107 is repealed, effective June 11, 2014."
+            "text": "Section 17a-107 is repealed, effective June 11, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5313,7 +5567,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-115a is repealed, effective July 1, 2024."
+            "text": "Section 17a-115a is repealed, effective July 1, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5372,7 +5630,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-116b is repealed, effective July 1, 2009."
+            "text": "Section 17a-116b is repealed, effective July 1, 2009.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5611,12 +5873,26 @@
           "section_key": "",
           "label": "Secs. 17a-122 to 17a-124. (Formerly Secs. 17-45, 17-46 and 17-47a). Military records of parents of state wards. Detention homes. Records confidential.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319a.htm#secs_17a-122_to_17a-124",
+          "grouped": true,
+          "section_keys": [
+            "17a-122",
+            "17a-123",
+            "17a-124"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 17a-122 to 17a-124 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2845, 2855; 1955, S. 1477d; February, 1965, P.A. 488, S. 3; P.A. 74-251, S. 9; P.A. 75-420, S. 4, 6; P.A. 77-246, S. 10; 77-614, S. 521, 587, 610; P.A. 78-303, S. 85, 136; P.A. 79-631, S. 69, 70, 111; P.A. 91-299, S. 2; P.A. 93-216, S. 8.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 17a-122 to 17a-124 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5632,7 +5908,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-125 is repealed, effective October 1, 2005."
+            "text": "Section 17a-125 is repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5795,12 +6075,33 @@
           "section_key": "",
           "label": "Secs. 17a-133 to 17a-144.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319a.htm#secs_17a-133_to_17a-144",
+          "grouped": true,
+          "section_keys": [
+            "17a-133",
+            "17a-134",
+            "17a-135",
+            "17a-136",
+            "17a-137",
+            "17a-138",
+            "17a-139",
+            "17a-140",
+            "17a-141",
+            "17a-142",
+            "17a-143",
+            "17a-144"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5977,12 +6278,47 @@
           "section_key": "",
           "label": "Secs. 17a-151a to 17a-151z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319a.htm#secs_17a-151a_to_17a-151z",
+          "grouped": true,
+          "section_keys": [
+            "17a-151a",
+            "17a-151b",
+            "17a-151c",
+            "17a-151d",
+            "17a-151e",
+            "17a-151f",
+            "17a-151g",
+            "17a-151h",
+            "17a-151i",
+            "17a-151j",
+            "17a-151k",
+            "17a-151l",
+            "17a-151m",
+            "17a-151n",
+            "17a-151o",
+            "17a-151p",
+            "17a-151q",
+            "17a-151r",
+            "17a-151s",
+            "17a-151t",
+            "17a-151u",
+            "17a-151v",
+            "17a-151w",
+            "17a-151x",
+            "17a-151y",
+            "17a-151z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6058,24 +6394,65 @@
           "section_key": "",
           "label": "Secs. 17a-154 and 17a-155. (Formerly Secs. 17-52a and 17-52b). “Permanent family residence”; definition; requirements. Regulations.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319a.htm#secs_17a-154_and_17a-155",
+          "grouped": true,
+          "section_keys": [
+            "17a-154",
+            "17a-155"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 17a-154 and 17a-155 are repealed, effective October 1, 2013."
+            ],
+            "source": [
+              "(P.A. 80-261, S. 1–7; P.A. 88-94, S. 1, 3; P.A. 93-91, S. 1, 2; 93-381, S. 9, 39; P.A. 95-257, S. 12, 21, 58; P.A. 11-8, S. 29; 11-51, S. 90; P.A. 13-40, S. 14; 13-247, S. 200.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 17a-154 and 17a-155 are repealed, effective October 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-156 to 17a-174.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319a.htm#secs_17a-156_to_17a-174",
+          "grouped": true,
+          "section_keys": [
+            "17a-156",
+            "17a-157",
+            "17a-158",
+            "17a-159",
+            "17a-160",
+            "17a-161",
+            "17a-162",
+            "17a-163",
+            "17a-164",
+            "17a-165",
+            "17a-166",
+            "17a-167",
+            "17a-168",
+            "17a-169",
+            "17a-170",
+            "17a-171",
+            "17a-172",
+            "17a-173",
+            "17a-174"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6292,12 +6669,23 @@
           "section_key": "",
           "label": "Secs. 17a-183 and 17a-184.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319a.htm#secs_17a-183_and_17a-184",
+          "grouped": true,
+          "section_keys": [
+            "17a-183",
+            "17a-184"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6323,24 +6711,60 @@
           "section_key": "",
           "label": "Secs. 17a-186 to 17a-194.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319a.htm#secs_17a-186_to_17a-194",
+          "grouped": true,
+          "section_keys": [
+            "17a-186",
+            "17a-187",
+            "17a-188",
+            "17a-189",
+            "17a-190",
+            "17a-191",
+            "17a-192",
+            "17a-193",
+            "17a-194"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-195 to 17a-201. Casey Child Welfare Unit.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319a.htm#secs_17a-195_to_17a-201",
+          "grouped": true,
+          "section_keys": [
+            "17a-195",
+            "17a-196",
+            "17a-197",
+            "17a-198",
+            "17a-199",
+            "17a-200",
+            "17a-201"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 17a-195 to 17a-201 , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 89-360, S. 1–7, 45; June Sp. Sess. P.A. 91-8, S. 62, 63.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 17a-195 to 17a-201 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6383,19 +6807,40 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-201b is repealed, effective July 1, 2018."
+            "text": "Section 17a-201b is repealed, effective July 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-202 to 17a-209.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319a.htm#secs_17a-202_to_17a-209",
+          "grouped": true,
+          "section_keys": [
+            "17a-202",
+            "17a-203",
+            "17a-204",
+            "17a-205",
+            "17a-206",
+            "17a-207",
+            "17a-208",
+            "17a-209"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6410,7 +6855,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-122 to 17a-124. (Formerly Secs. 17-45, 17-46 and 17-47a). Military records of parents of state wards. Detention homes. Records confidential. Sections 17a-122 to 17a-124 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6425,7 +6873,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-122 to 17a-124. (Formerly Secs. 17-45, 17-46 and 17-47a). Military records of parents of state wards. Detention homes. Records confidential. Sections 17a-122 to 17a-124 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6440,7 +6891,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-154 and 17a-155. (Formerly Secs. 17-52a and 17-52b). “Permanent family residence”; definition; requirements. Regulations. Sections 17a-154 and 17a-155 are repealed, effective October 1, 2013.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6455,7 +6909,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-154 and 17a-155. (Formerly Secs. 17-52a and 17-52b). “Permanent family residence”; definition; requirements. Regulations. Sections 17a-154 and 17a-155 are repealed, effective October 1, 2013.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6470,7 +6927,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-195 to 17a-201. Casey Child Welfare Unit. Sections 17a-195 to 17a-201 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6485,7 +6945,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-195 to 17a-201. Casey Child Welfare Unit. Sections 17a-195 to 17a-201 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -6601,7 +7064,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-210c is repealed, effective July 1, 2013."
+            "text": "Section 17a-210c is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6676,7 +7143,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-211a is repealed, effective October 1, 2007."
+            "text": "Section 17a-211a is repealed, effective October 1, 2007.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6710,7 +7181,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-211c is repealed, effective October 1, 2002."
+            "text": "Section 17a-211c is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6726,7 +7201,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-211d is repealed, effective October 1, 2007."
+            "text": "Section 17a-211d is repealed, effective October 1, 2007.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6845,7 +7324,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-213 is repealed, effective May 24, 2011."
+            "text": "Section 17a-213 is repealed, effective May 24, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6879,7 +7362,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-215 is repealed, effective June 12, 2023."
+            "text": "Section 17a-215 is repealed, effective June 12, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6895,7 +7382,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-215a is repealed, effective October 1, 2007."
+            "text": "Section 17a-215a is repealed, effective October 1, 2007.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6911,7 +7402,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-215b is repealed, effective May 9, 2011."
+            "text": "Section 17a-215b is repealed, effective May 9, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6950,7 +7445,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-215d is repealed, effective June 12, 2023."
+            "text": "Section 17a-215d is repealed, effective June 12, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6966,7 +7465,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-215e is repealed, effective June 6, 2024."
+            "text": "Section 17a-215e is repealed, effective June 6, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7131,7 +7634,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-216 is repealed, effective May 24, 2011."
+            "text": "Section 17a-216 is repealed, effective May 24, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7238,12 +7745,26 @@
           "section_key": "",
           "label": "Secs. 17a-219a to 17a-219c. Family support services: Definitions. Family support services: Department responsible for coordination. Family Support Council.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319b.htm#secs_17a-219a_to_17a-219c",
+          "grouped": true,
+          "section_keys": [
+            "17a-219a",
+            "17a-219b",
+            "17a-219c"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 17a-219a to 17a-219c , inclusive, are repealed, effective October 1, 2022."
+            ],
+            "source": [
+              "(P.A. 94-228, S. 1–4; P.A. 95-257, S. 12, 21, 58; P.A. 96-185, S. 12, 13, 16; 96-238, S. 14, 25; P.A. 98-100; P.A. 01-195, S. 79, 126, 127, 181; P.A. 07-73, S. 2(a), (b); Sept. Sp. Sess. P.A. 09-7, S. 137; P.A. 10-93, S. 9; June 12 Sp. Sess. P.A. 12-2, S. 123; May Sp. Sess. P.A. 16-3, S. 148; P.A. 17-96, S. 9; P.A. 19-117, S. 121; P.A. 22-140, S. 12)."
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 17a-219a to 17a-219c , inclusive, are repealed, effective October 1, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7793,12 +8314,26 @@
           "section_key": "",
           "label": "Secs. 17a-239 to 17a-241. (Formerly Secs. 19a-470 to 19a-472). Definitions. Establishment of Unified School District #3 in the Department of Developmental Services. Appointment and duties of school superintendent.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319b.htm#secs_17a-239_to_17a-241",
+          "grouped": true,
+          "section_keys": [
+            "17a-239",
+            "17a-240",
+            "17a-241"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 17a-239 to 17a-241 , inclusive, are repealed, effective October 1, 2014."
+            ],
+            "source": [
+              "(P.A. 77-587, S. 1–3, 9; P.A. 79-35, S. 2, 3; P.A. 81-282; P.A. 82-302, S. 1, 2; P.A. 83-169, S. 4, 5; P.A. 86-79, S. 1, 2; June Sp. Sess. P.A. 91-11, S. 2–4, 25; P.A. 01-195, S. 131, 181; P.A. 04-54, S. 4, 5; P.A. 05-256, S. 4; P.A. 07-73, S. 2(a), (b); P.A. 14-231, S. 72.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 17a-239 to 17a-241 , inclusive, are repealed, effective October 1, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7814,7 +8349,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-242 is repealed, effective October 1, 2007."
+            "text": "Section 17a-242 is repealed, effective October 1, 2007.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7830,7 +8369,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-243 is repealed."
+            "text": "Section 17a-243 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7846,7 +8389,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-244 is repealed, effective October 1, 2014."
+            "text": "Section 17a-244 is repealed, effective October 1, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7862,7 +8409,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-245 is repealed."
+            "text": "Section 17a-245 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8405,12 +8956,41 @@
           "section_key": "",
           "label": "Secs. 17a-250 to 17a-269.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319b.htm#secs_17a-250_to_17a-269",
+          "grouped": true,
+          "section_keys": [
+            "17a-250",
+            "17a-251",
+            "17a-252",
+            "17a-253",
+            "17a-254",
+            "17a-255",
+            "17a-256",
+            "17a-257",
+            "17a-258",
+            "17a-259",
+            "17a-260",
+            "17a-261",
+            "17a-262",
+            "17a-263",
+            "17a-264",
+            "17a-265",
+            "17a-266",
+            "17a-267",
+            "17a-268",
+            "17a-269"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8425,7 +9005,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-219a to 17a-219c. Family support services: Definitions. Family support services: Department responsible for coordination. Family Support Council. Sections 17a-219a to 17a-219c , inclusive, are repealed, effective October 1, 2022.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8440,7 +9023,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-219a to 17a-219c. Family support services: Definitions. Family support services: Department responsible for coordination. Family Support Council. Sections 17a-219a to 17a-219c , inclusive, are repealed, effective October 1, 2022.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8455,7 +9041,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-239 to 17a-241. (Formerly Secs. 19a-470 to 19a-472). Definitions. Establishment of Unified School District #3 in the Department of Developmental Services. Appointment and duties of school superintendent. Sections 17a-239 to 17a-241 , inclusive, are repealed, effective October 1, 2014.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8470,7 +9059,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-239 to 17a-241. (Formerly Secs. 19a-470 to 19a-472). Definitions. Establishment of Unified School District #3 in the Department of Developmental Services. Appointment and duties of school superintendent. Sections 17a-239 to 17a-241 , inclusive, are repealed, effective October 1, 2014.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -8676,12 +9268,26 @@
           "section_key": "",
           "label": "Secs. 17a-278 to 17a-280. (Formerly Secs. 19a-452 to 19a-454). Recall for examination. Return of placed-out or escaped persons. Recommitment and transfers of committed persons.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319c.htm#secs_17a-278_to_17a-280",
+          "grouped": true,
+          "section_keys": [
+            "17a-278",
+            "17a-279",
+            "17a-280"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 17a-278 to 17a-280 , inclusive, are repealed, effective May 24, 2011."
+            ],
+            "source": [
+              "(1949 Rev., S. 2847; 1955, S. 1589d, 1590d; March, 1958, P.A. 27, S. 42; 1961, P.A. 489, S. 5, 6, 8; 1967, P.A. 118, S. 4, 5, 249; P.A. 76-153, S. 7; P.A. 86-41, S. 6, 11; P.A. 91-278, S. 3; P.A. 08-7, S. 7; P.A. 11-16, S. 43.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 17a-278 to 17a-280 , inclusive, are repealed, effective May 24, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8733,7 +9339,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-283 is repealed, effective May 4, 2004."
+            "text": "Section 17a-283 is repealed, effective May 4, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8749,19 +9359,48 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-283a is repealed, effective May 24, 2011."
+            "text": "Section 17a-283a is repealed, effective May 24, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-284 to 17a-299.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319c.htm#secs_17a-284_to_17a-299",
+          "grouped": true,
+          "section_keys": [
+            "17a-284",
+            "17a-285",
+            "17a-286",
+            "17a-287",
+            "17a-288",
+            "17a-289",
+            "17a-290",
+            "17a-291",
+            "17a-292",
+            "17a-293",
+            "17a-294",
+            "17a-295",
+            "17a-296",
+            "17a-297",
+            "17a-298",
+            "17a-299"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8776,7 +9415,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-278 to 17a-280. (Formerly Secs. 19a-452 to 19a-454). Recall for examination. Return of placed-out or escaped persons. Recommitment and transfers of committed persons. Sections 17a-278 to 17a-280 , inclusive, are repealed, effective May 24, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8791,7 +9433,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-278 to 17a-280. (Formerly Secs. 19a-452 to 19a-454). Recall for examination. Return of placed-out or escaped persons. Recommitment and transfers of committed persons. Sections 17a-278 to 17a-280 , inclusive, are repealed, effective May 24, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -8806,12 +9451,25 @@
           "section_key": "",
           "label": "Secs. 17a-300 and 17a-301. (Formerly Secs. 17-136b and 17a-136d). Department on Aging. Duties of the commissioner.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319d.htm#secs_17a-300_and_17a-301",
+          "grouped": true,
+          "section_keys": [
+            "17a-300",
+            "17a-301"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 17a-300 and 17a-301 are repealed, effective July 1, 1993."
+            ],
+            "source": [
+              "(1969, P.A. 814, S. 6; P.A. 75-474, S. 3, 4, 10; P.A. 93-262, S. 86, 87.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 17a-300 and 17a-301 are repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8827,7 +9485,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-301a is repealed, effective October 31, 2017."
+            "text": "Section 17a-301a is repealed, effective October 31, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8843,19 +9505,34 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-301b is repealed, effective July 1, 2021."
+            "text": "Section 17a-301b is repealed, effective July 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-302 and 17a-302a.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319d.htm#secs_17a-302_and_17a-302a",
+          "grouped": true,
+          "section_keys": [
+            "17a-302",
+            "17a-302a"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 319 l , Part IV, Secs. 17a-852 and 17a-853 ."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 319 l , Part IV, Secs. 17a-852 and 17a-853 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8871,7 +9548,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-303 is repealed, effective July 1, 1993."
+            "text": "Section 17a-303 is repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8885,19 +9566,34 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 319 l , Part IV, Sec. 17a-859 ."
+            "text": "Transferred to Chapter 319 l , Part IV, Sec. 17a-859 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-304 and 17a-305.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319d.htm#secs_17a-304_and_17a-305",
+          "grouped": true,
+          "section_keys": [
+            "17a-304",
+            "17a-305"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 319 l , Part IV, Secs. 17a-850 and 17a-851 ."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 319 l , Part IV, Secs. 17a-850 and 17a-851 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8911,7 +9607,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 319 l , Part IV, Sec. 17a-854 ."
+            "text": "Transferred to Chapter 319 l , Part IV, Sec. 17a-854 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8927,7 +9627,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-306a is repealed, effective July 1, 1993."
+            "text": "Section 17a-306a is repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8941,19 +9645,36 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 319v, Sec. 17b-251 ."
+            "text": "Transferred to Chapter 319v, Sec. 17b-251 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-308 and 17a-309. (Formerly Secs. 17-137 and 17-137a). Duties of the department; personnel; single state agency for programs for elderly persons and the aged. Receipt of grants or gifts.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319d.htm#secs_17a-308_and_17a-309",
+          "grouped": true,
+          "section_keys": [
+            "17a-308",
+            "17a-309"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 17a-308 and 17a-309 are repealed, effective July 1, 1993."
+            ],
+            "source": [
+              "(1957, P.A. 634, S. 2; 1959, P.A. 364, S. 2; 1963, P.A. 280; 408; February, 1965, P.A. 472; 1969, P.A. 814, S. 10, 11; P.A. 74-297; P.A. 75-426, S. 1, 2; 75-474, S. 5, 10; P.A. 77-582, S. 8, 10; P.A. 80-12, S. 1, 2; P.A. 83-89, S. 1; P.A. 93-262, S. 86, 87.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 17a-308 and 17a-309 are repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8967,43 +9688,84 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 319 l , Part IV, Sec. 17a-855 ."
+            "text": "Transferred to Chapter 319 l , Part IV, Sec. 17a-855 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-311 and 17a-312. (Formerly Secs. 17-137d and 17-137e). Applications for grants. Amount of grant.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319d.htm#secs_17a-311_and_17a-312",
+          "grouped": true,
+          "section_keys": [
+            "17a-311",
+            "17a-312"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 17a-311 and 17a-312 are repealed."
+            ],
+            "source": [
+              "(1967, P.A. 883, S. 2–4; 1969, P.A. 814, S. 14, 15; P.A. 73-144; P.A. 75-134; 75-474, S. 6, 8, 10; P.A. 77-541, S. 1, 2; P.A. 82-327, S. 6; P.A. 90-89, S. 3; P.A. 92-230, S. 3.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 17a-311 and 17a-312 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-313 and 17a-314.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319d.htm#secs_17a-313_and_17a-314",
+          "grouped": true,
+          "section_keys": [
+            "17a-313",
+            "17a-314"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 319 l , Part IV, Secs. 17a-856 and 17a-857 ."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 319 l , Part IV, Secs. 17a-856 and 17a-857 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-315 and 17a-316. (Formerly Secs. 17-136 and 17-136a). Advisory Council on Aging; appointment of members. Duties of council.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319d.htm#secs_17a-315_and_17a-316",
+          "grouped": true,
+          "section_keys": [
+            "17a-315",
+            "17a-316"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 17a-315 and 17a-316 are repealed, effective July 1, 1993."
+            ],
+            "source": [
+              "(1957, P.A. 634, S. 1; 1959, P.A. 364, S. 1; 1969, P.A. 814, S. 8, 9; 1971, P.A. 485, S. 1; P.A. 75-474, S. 1, 2, 10; P.A. 76-94, S. 1, 2; P.A. 77-511, S. 1; P.A. 84-256, S. 10, 11, 17; P.A. 93-262, S. 86, 87.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 17a-315 and 17a-316 are repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9017,7 +9779,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 319 l , Part IV, Sec. 17a-858 ."
+            "text": "Transferred to Chapter 319 l , Part IV, Sec. 17a-858 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9031,19 +9797,54 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 17a-301a ."
+            "text": "Transferred to Sec. 17a-301a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-318 to 17a-339.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319d.htm#secs_17a-318_to_17a-339",
+          "grouped": true,
+          "section_keys": [
+            "17a-318",
+            "17a-319",
+            "17a-320",
+            "17a-321",
+            "17a-322",
+            "17a-323",
+            "17a-324",
+            "17a-325",
+            "17a-326",
+            "17a-327",
+            "17a-328",
+            "17a-329",
+            "17a-330",
+            "17a-331",
+            "17a-332",
+            "17a-333",
+            "17a-334",
+            "17a-335",
+            "17a-336",
+            "17a-337",
+            "17a-338",
+            "17a-339"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -9058,7 +9859,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-300 and 17a-301. (Formerly Secs. 17-136b and 17a-136d). Department on Aging. Duties of the commissioner. Sections 17a-300 and 17a-301 are repealed, effective July 1, 1993.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9073,7 +9877,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-300 and 17a-301. (Formerly Secs. 17-136b and 17a-136d). Department on Aging. Duties of the commissioner. Sections 17a-300 and 17a-301 are repealed, effective July 1, 1993.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9088,7 +9895,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-308 and 17a-309. (Formerly Secs. 17-137 and 17-137a). Duties of the department; personnel; single state agency for programs for elderly persons and the aged. Receipt of grants or gifts. Sections 17a-308 and 17a-309 are repealed, effective July 1, 1993.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9103,7 +9913,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-308 and 17a-309. (Formerly Secs. 17-137 and 17-137a). Duties of the department; personnel; single state agency for programs for elderly persons and the aged. Receipt of grants or gifts. Sections 17a-308 and 17a-309 are repealed, effective July 1, 1993.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9118,7 +9931,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-311 and 17a-312. (Formerly Secs. 17-137d and 17-137e). Applications for grants. Amount of grant. Sections 17a-311 and 17a-312 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9133,7 +9949,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-311 and 17a-312. (Formerly Secs. 17-137d and 17-137e). Applications for grants. Amount of grant. Sections 17a-311 and 17a-312 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9148,7 +9967,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-315 and 17a-316. (Formerly Secs. 17-136 and 17-136a). Advisory Council on Aging; appointment of members. Duties of council. Sections 17a-315 and 17a-316 are repealed, effective July 1, 1993.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9163,7 +9985,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-315 and 17a-316. (Formerly Secs. 17-136 and 17-136a). Advisory Council on Aging; appointment of members. Duties of council. Sections 17a-315 and 17a-316 are repealed, effective July 1, 1993.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -9185,7 +10010,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 319ff, Sec. 17b-490 ."
+            "text": "Transferred to Chapter 319ff, Sec. 17b-490 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9201,31 +10030,71 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-341 is repealed."
+            "text": "Section 17a-341 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-342 to 17a-349.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319e.htm#secs_17a-342_to_17a-349",
+          "grouped": true,
+          "section_keys": [
+            "17a-342",
+            "17a-343",
+            "17a-344",
+            "17a-345",
+            "17a-346",
+            "17a-347",
+            "17a-348",
+            "17a-349"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 319ff, Secs. 17b-491 to 17b-498 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 319ff, Secs. 17b-491 to 17b-498 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-350 to 17a-359.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319e.htm#secs_17a-350_to_17a-359",
+          "grouped": true,
+          "section_keys": [
+            "17a-350",
+            "17a-351",
+            "17a-352",
+            "17a-353",
+            "17a-354",
+            "17a-355",
+            "17a-356",
+            "17a-357",
+            "17a-358",
+            "17a-359"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -9240,24 +10109,72 @@
           "section_key": "",
           "label": "Secs. 17a-360 to 17a-375.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319f.htm#secs_17a-360_to_17a-375",
+          "grouped": true,
+          "section_keys": [
+            "17a-360",
+            "17a-361",
+            "17a-362",
+            "17a-363",
+            "17a-364",
+            "17a-365",
+            "17a-366",
+            "17a-367",
+            "17a-368",
+            "17a-369",
+            "17a-370",
+            "17a-371",
+            "17a-372",
+            "17a-373",
+            "17a-374",
+            "17a-375"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 319hh, Secs. 17b-520 to 17b-535 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 319hh, Secs. 17b-520 to 17b-535 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-376 to 17a-389.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319f.htm#secs_17a-376_to_17a-389",
+          "grouped": true,
+          "section_keys": [
+            "17a-376",
+            "17a-377",
+            "17a-378",
+            "17a-379",
+            "17a-380",
+            "17a-381",
+            "17a-382",
+            "17a-383",
+            "17a-384",
+            "17a-385",
+            "17a-386",
+            "17a-387",
+            "17a-388",
+            "17a-389"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -9272,24 +10189,57 @@
           "section_key": "",
           "label": "Secs. 17a-390 to 17a-394.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319g.htm#secs_17a-390_to_17a-394",
+          "grouped": true,
+          "section_keys": [
+            "17a-390",
+            "17a-391",
+            "17a-392",
+            "17a-393",
+            "17a-394"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 319jj, Secs. 17b-550 to 17b-554 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 319jj, Secs. 17b-550 to 17b-554 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-395 to 17a-404.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319g.htm#secs_17a-395_to_17a-404",
+          "grouped": true,
+          "section_keys": [
+            "17a-395",
+            "17a-396",
+            "17a-397",
+            "17a-398",
+            "17a-399",
+            "17a-400",
+            "17a-401",
+            "17a-402",
+            "17a-403",
+            "17a-404"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -9304,12 +10254,28 @@
           "section_key": "",
           "label": "Secs. 17a-405 to 17a-411.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319h.htm#secs_17a-405_to_17a-411",
+          "grouped": true,
+          "section_keys": [
+            "17a-405",
+            "17a-406",
+            "17a-407",
+            "17a-408",
+            "17a-409",
+            "17a-410",
+            "17a-411"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 319 l , Part V, Secs. 17a-870 to 17a-876 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 319 l , Part V, Secs. 17a-870 to 17a-876 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9369,12 +10335,30 @@
           "section_key": "",
           "label": "Secs. 17a-414 to 17a-422.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319h.htm#secs_17a-414_to_17a-422",
+          "grouped": true,
+          "section_keys": [
+            "17a-414",
+            "17a-415",
+            "17a-416",
+            "17a-417",
+            "17a-418",
+            "17a-419",
+            "17a-420",
+            "17a-421",
+            "17a-422"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 319 l , Part V, Secs. 17a-877 to 17a-885 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 319 l , Part V, Secs. 17a-877 to 17a-885 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9401,36 +10385,89 @@
           "section_key": "",
           "label": "Secs. 17a-424 to 17a-429.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319h.htm#secs_17a-424_to_17a-429",
+          "grouped": true,
+          "section_keys": [
+            "17a-424",
+            "17a-425",
+            "17a-426",
+            "17a-427",
+            "17a-428",
+            "17a-429"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-430 to 17a-441.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319h.htm#secs_17a-430_to_17a-441",
+          "grouped": true,
+          "section_keys": [
+            "17a-430",
+            "17a-431",
+            "17a-432",
+            "17a-433",
+            "17a-434",
+            "17a-435",
+            "17a-436",
+            "17a-437",
+            "17a-438",
+            "17a-439",
+            "17a-440",
+            "17a-441"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 319dd, Secs. 17b-450 to 17b-461 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 319dd, Secs. 17b-450 to 17b-461 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-442 to 17a-449.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319h.htm#secs_17a-442_to_17a-449",
+          "grouped": true,
+          "section_keys": [
+            "17a-442",
+            "17a-443",
+            "17a-444",
+            "17a-445",
+            "17a-446",
+            "17a-447",
+            "17a-448",
+            "17a-449"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -9607,7 +10644,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-451a is repealed, effective October 1, 2007."
+            "text": "Section 17a-451a is repealed, effective October 1, 2007.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9623,7 +10664,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-451b is repealed, effective June 4, 2018."
+            "text": "Section 17a-451b is repealed, effective June 4, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9639,7 +10684,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-451c is repealed, effective October 1, 2002."
+            "text": "Section 17a-451c is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9728,7 +10777,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-452 is repealed, effective October 1, 2015."
+            "text": "Section 17a-452 is repealed, effective October 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9753,12 +10806,25 @@
           "section_key": "",
           "label": "Secs. 17a-453a and 17a-453b. Operation of behavioral health managed care program for recipients of medical services under the state-administered general assistance program. Waiver from federal law sought for services provided under section 17a-453a.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319i.htm#secs_17a-453a_and_17a-453b",
+          "grouped": true,
+          "section_keys": [
+            "17a-453a",
+            "17a-453b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 17a-453a and 17a-453b are repealed, effective July 1, 2011."
+            ],
+            "source": [
+              "(P.A. 95-194, S. 18, 33; 95-257, S. 11, 58; P.A. 97-143, S. 3, 4; June 18 Sp. Sess. P.A. 97-8, S. 10, 55, 88; June 30 Sp. Sess. P.A. 03-3, S. 47; P.A. 11-44, S. 178; 11-215, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 17a-453a and 17a-453b are repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10077,12 +11143,26 @@
           "section_key": "",
           "label": "Secs. 17a-458b to 17a-458d. “Acute Care Division” defined. Effect of consolidation of operations at Connecticut Valley Hospital and Cedarcrest Hospital. Term “substance use disorders” substituted for “substance abuse disabilities”.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319i.htm#secs_17a-458b_to_17a-458d",
+          "grouped": true,
+          "section_keys": [
+            "17a-458b",
+            "17a-458c",
+            "17a-458d"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 17a-458b to 17a-458d , inclusive, are repealed, effective October 1, 2011."
+            ],
+            "source": [
+              "(P.A. 05-280, S. 80, 81; P.A. 07-148, S. 18; P.A. 11-215, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 17a-458b to 17a-458d , inclusive, are repealed, effective October 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10116,7 +11196,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-460 is repealed, effective June 27, 2023."
+            "text": "Section 17a-460 is repealed, effective June 27, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10265,7 +11349,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-462 is repealed, effective July 1, 1993."
+            "text": "Section 17a-462 is repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10281,7 +11369,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-463 is repealed, effective October 1, 2007."
+            "text": "Section 17a-463 is repealed, effective October 1, 2007.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10333,7 +11425,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-465a is repealed, effective October 1, 2009."
+            "text": "Section 17a-465a is repealed, effective October 1, 2009.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10521,12 +11617,25 @@
           "section_key": "",
           "label": "Secs. 17a-471b and 17a-471c. Fairfield Hills Hospital oversight committee. Norwich Hospital oversight committee.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319i.htm#secs_17a-471b_and_17a-471c",
+          "grouped": true,
+          "section_keys": [
+            "17a-471b",
+            "17a-471c"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 17a-471b and 17a-471c are repealed, effective October 1, 2007."
+            ],
+            "source": [
+              "(P.A. 95-250, S. 1; 95-257, S. 2, 3, 58; P.A. 96-211, S. 1, 5, 6; June 30 Sp. Sess. P.A. 03-6, S. 146(f); P.A. 04-189, S. 1; P.A. 07-148, S. 20.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 17a-471b and 17a-471c are repealed, effective October 1, 2007.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10682,7 +11791,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 319j, Sec. 17a-666 ."
+            "text": "Transferred to Chapter 319j, Sec. 17a-666 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -10758,7 +11871,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-481 is repealed, effective July 1, 1997."
+            "text": "Section 17a-481 is repealed, effective July 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10816,7 +11933,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-484 is repealed, effective May 24, 2022."
+            "text": "Section 17a-484 is repealed, effective May 24, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10987,12 +12108,26 @@
           "section_key": "",
           "label": "Secs. 17a-485 to 17a-485b. Community Mental Health Strategic Investment Fund. Community mental health strategic plan and financial assistance plan; information and expenditure recommendations to the Community Mental Health Strategy Board. Community Mental Health Strategy Board; duties; report; staff.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319i.htm#secs_17a-485_to_17a-485b",
+          "grouped": true,
+          "section_keys": [
+            "17a-485",
+            "17a-485a",
+            "17a-485b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 17a-485 to 17a-485b , inclusive, are repealed, effective October 1, 2011."
+            ],
+            "source": [
+              "(June Sp. Sess. P.A. 01-8, S. 1–3, 13; P.A. 06-196, S. 127; P.A. 10-30, S. 4; P.A. 11-215, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 17a-485 to 17a-485b , inclusive, are repealed, effective October 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11243,12 +12378,27 @@
           "section_key": "",
           "label": "Secs. 17a-489 to 17a-494.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319i.htm#secs_17a-489_to_17a-494",
+          "grouped": true,
+          "section_keys": [
+            "17a-489",
+            "17a-490",
+            "17a-491",
+            "17a-492",
+            "17a-493",
+            "17a-494"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12253,12 +13403,32 @@
           "section_key": "",
           "label": "Secs. 17a-529 to 17a-539.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319i.htm#secs_17a-529_to_17a-539",
+          "grouped": true,
+          "section_keys": [
+            "17a-529",
+            "17a-530",
+            "17a-531",
+            "17a-532",
+            "17a-533",
+            "17a-534",
+            "17a-535",
+            "17a-536",
+            "17a-537",
+            "17a-538",
+            "17a-539"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12738,12 +13908,30 @@
           "section_key": "",
           "label": "Secs. 17a-551 to 17a-559.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319i.htm#secs_17a-551_to_17a-559",
+          "grouped": true,
+          "section_keys": [
+            "17a-551",
+            "17a-552",
+            "17a-553",
+            "17a-554",
+            "17a-555",
+            "17a-556",
+            "17a-557",
+            "17a-558",
+            "17a-559"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12786,7 +13974,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-560a is repealed, effective June 4, 2018."
+            "text": "Section 17a-560a is repealed, effective June 4, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13215,19 +14407,35 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-576 is repealed, effective June 4, 2018."
+            "text": "Section 17a-576 is repealed, effective June 4, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-577 to 17a-579.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319i.htm#secs_17a-577_to_17a-579",
+          "grouped": true,
+          "section_keys": [
+            "17a-577",
+            "17a-578",
+            "17a-579"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -14063,18 +15271,40 @@
           "section_key": "",
           "label": "Secs. 17a-604 to 17a-614.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319i.htm#secs_17a-604_to_17a-614",
+          "grouped": true,
+          "section_keys": [
+            "17a-604",
+            "17a-605",
+            "17a-606",
+            "17a-607",
+            "17a-608",
+            "17a-609",
+            "17a-610",
+            "17a-611",
+            "17a-612",
+            "17a-613",
+            "17a-614"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
-          "section_key": "17a-175",
+          "section_key": "17a-615",
           "label": "Sec. 17a-615. (Formerly Sec. 17-258). Interstate Compact on Mental Health.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319i.htm#sec_17a-175",
+          "source_fragment_key": "17a-175",
+          "identifier_warning": "heading key 17a-615 disagrees with fragment key 17a-175; heading key used",
           "content": {
             "body_paragraphs": [
               "The Interstate Compact on Mental Health is hereby enacted into law and entered into by this state with all other states legally joining therein in the form substantially as follows:",
@@ -14208,24 +15438,23 @@
           "section_key": "",
           "label": "Secs. 17a-619 and 17a-620.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319i.htm#secs_17a-619_and_17a-620",
+          "grouped": true,
+          "section_keys": [
+            "17a-619",
+            "17a-620"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
-          }
-        },
-        {
-          "section_key": "17a-615",
-          "label": "17a-615",
-          "url": "https://www.cga.ct.gov/current/pub/chap_319i.htm#sec_17a-615",
-          "content": {
-            "body_paragraphs": [],
-            "source": [],
-            "history": [],
-            "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -14240,7 +15469,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-453a and 17a-453b. Operation of behavioral health managed care program for recipients of medical services under the state-administered general assistance program. Waiver from federal law sought for services provided under section 17a-453a. Sections 17a-453a and 17a-453b are repealed, effective July 1, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -14255,7 +15487,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-453a and 17a-453b. Operation of behavioral health managed care program for recipients of medical services under the state-administered general assistance program. Waiver from federal law sought for services provided under section 17a-453a. Sections 17a-453a and 17a-453b are repealed, effective July 1, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -14270,7 +15505,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-458b to 17a-458d. “Acute Care Division” defined. Effect of consolidation of operations at Connecticut Valley Hospital and Cedarcrest Hospital. Term “substance use disorders” substituted for “substance abuse disabilities”. Sections 17a-458b to 17a-458d , inclusive, are repealed, effective October 1, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -14285,7 +15523,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-458b to 17a-458d. “Acute Care Division” defined. Effect of consolidation of operations at Connecticut Valley Hospital and Cedarcrest Hospital. Term “substance use disorders” substituted for “substance abuse disabilities”. Sections 17a-458b to 17a-458d , inclusive, are repealed, effective October 1, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -14300,7 +15541,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-471b and 17a-471c. Fairfield Hills Hospital oversight committee. Norwich Hospital oversight committee. Sections 17a-471b and 17a-471c are repealed, effective October 1, 2007.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -14315,7 +15559,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 17a-471b and 17a-471c. Fairfield Hills Hospital oversight committee. Norwich Hospital oversight committee. Sections 17a-471b and 17a-471c are repealed, effective October 1, 2007.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -14367,7 +15614,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 368a, Sec. 19a-126 ."
+            "text": "Transferred to Chapter 368a, Sec. 19a-126 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -14381,31 +15632,68 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 368a, Sec. 19a-4e ."
+            "text": "Transferred to Chapter 368a, Sec. 19a-4e .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-623 to 17a-632.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319j.htm#secs_17a-623_to_17a-632",
+          "grouped": true,
+          "section_keys": [
+            "17a-623",
+            "17a-624",
+            "17a-625",
+            "17a-626",
+            "17a-627",
+            "17a-628",
+            "17a-629",
+            "17a-630",
+            "17a-631",
+            "17a-632"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 368a, Secs. 19a-126a to 19a-126j , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 368a, Secs. 19a-126a to 19a-126j , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-633 to 17a-639. (Formerly Secs. 17-155ee to 17-155ii, 17-155kk and 17-155mm). Application of sections 17a-621 to 17a-643, inclusive. State Alcohol and Drug Abuse Commission. Commission designated single state agency for alcohol and drug abuse; duties. Powers and duties of commission; report. Executive director; staff; duties. Transfer of employees. Transfer of authority for alcohol and drug services.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319j.htm#secs_17a-633_to_17a-639",
+          "grouped": true,
+          "section_keys": [
+            "17a-633",
+            "17a-634",
+            "17a-635",
+            "17a-636",
+            "17a-637",
+            "17a-638",
+            "17a-639"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Secs. 17a-633 to 17a-639. (Formerly Secs. 17-155ee to 17-155ii, 17-155kk and 17-155mm). Application of sections 17a-621 to 17a-643 , inclusive. State Alcohol and Drug Abuse Commission. Commission designated single state agency for alcohol and drug abuse; duties. Powers and duties of commission; report. Executive director; staff; duties. Transfer of employees. Transfer of authority for alcohol and drug services. Sections 17a-633 to 17a-639 , inclusive, are repealed, effective July 1, 1993."
+            ],
+            "source": [
+              "(P.A. 74-280, S. 21, 25; P.A. 77-544, S. 3–6, 15, 16; 77-614, S. 302, 323, 587, 610; P.A. 78-127, S. 1–3, 6; P.A. 78-303, S. 85, 86; 78-331, S. 29, 58; P.A. 80-11; 80-23; 80-92, S. 2–6; P.A. 81-96, S. 1, 2; 81-473, S. 4, 5, 36, 43; P.A. 82-346, S. 3, 7; 82-472, S. 170, 183; P.A. 83-160, S. 2, 3; P.A. 85-411, S. 1, 2; 85-579, S. 2, 4, 5; P.A. 86-39; 86-371, S. 12–14, 36, 45; P.A. 88-58; P.A. 89-200, S. 1, 2; P.A. 90-209, S. 12, 13; 90-227, S. 5–7; P.A. 91-266; June Sp. Sess. P.A. 91-12, S. 9, 55; P.A. 92-161, S. 1, 2; 92-216, S. 1, 3; May Sp. Sess. 92-16, S. 24, 89; P.A. 93-262, S. 54, 87; 93-381, S. 38, 39.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Secs. 17a-633 to 17a-639. (Formerly Secs. 17-155ee to 17-155ii, 17-155kk and 17-155mm). Application of sections 17a-621 to 17a-643 , inclusive. State Alcohol and Drug Abuse Commission. Commission designated single state agency for alcohol and drug abuse; duties. Powers and duties of commission; report. Executive director; staff; duties. Transfer of employees. Transfer of authority for alcohol and drug services. Sections 17a-633 to 17a-639 , inclusive, are repealed, effective July 1, 1993."
           }
         },
         {
@@ -14419,7 +15707,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 368a, Sec. 19a-5a ."
+            "text": "Transferred to Chapter 368a, Sec. 19a-5a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -14435,7 +15727,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-641 is repealed, effective July 1, 1993."
+            "text": "Section 17a-641 is repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14449,7 +15745,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 368a, Sec. 19a-5c ."
+            "text": "Transferred to Chapter 368a, Sec. 19a-5c .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -14465,7 +15765,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-643 is repealed, effective July 1, 1993."
+            "text": "Section 17a-643 is repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14479,7 +15783,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 368a, Sec. 19a-4f ."
+            "text": "Transferred to Chapter 368a, Sec. 19a-4f .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -14493,7 +15801,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 325, Part I, Sec. 18-81g ."
+            "text": "Transferred to Chapter 325, Part I, Sec. 18-81g .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -14507,7 +15819,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 368a, Sec. 19a-5b ."
+            "text": "Transferred to Chapter 368a, Sec. 19a-5b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -14521,19 +15837,43 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 368a, Sec. 19a-4a ."
+            "text": "Transferred to Chapter 368a, Sec. 19a-4a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-648 to 17a-658.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319j.htm#secs_17a-648_to_17a-658",
+          "grouped": true,
+          "section_keys": [
+            "17a-648",
+            "17a-649",
+            "17a-650",
+            "17a-651",
+            "17a-652",
+            "17a-653",
+            "17a-654",
+            "17a-655",
+            "17a-656",
+            "17a-657",
+            "17a-658"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 368a, Secs. 19a-127 to 19a-127j , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 368a, Secs. 19a-127 to 19a-127j , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -14547,7 +15887,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 368a, Sec. 19a-4g ."
+            "text": "Transferred to Chapter 368a, Sec. 19a-4g .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -14563,7 +15907,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-660 is repealed, effective July 1, 1993."
+            "text": "Section 17a-660 is repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14577,7 +15925,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 368v, Sec. 19a-509e ."
+            "text": "Transferred to Chapter 368v, Sec. 19a-509e .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -14591,7 +15943,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 368a, Sec. 19a-2d ."
+            "text": "Transferred to Chapter 368a, Sec. 19a-2d .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -14607,19 +15963,34 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-663 is repealed, effective July 1, 1993."
+            "text": "Section 17a-663 is repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-664 and 17a-665.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319j.htm#secs_17a-664_and_17a-665",
+          "grouped": true,
+          "section_keys": [
+            "17a-664",
+            "17a-665"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 368a, Secs. 19a-2e and 19a-2f ."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 368a, Secs. 19a-2e and 19a-2f .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -14633,7 +16004,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 368a, Sec. 19a-4h ."
+            "text": "Transferred to Chapter 368a, Sec. 19a-4h .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -14690,12 +16065,23 @@
           "section_key": "",
           "label": "Secs. 17a-668 and 17a-669.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319j.htm#secs_17a-668_and_17a-669",
+          "grouped": true,
+          "section_keys": [
+            "17a-668",
+            "17a-669"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -14730,7 +16116,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-671 is repealed, effective May 24, 2022."
+            "text": "Section 17a-671 is repealed, effective May 24, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -15170,7 +16560,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-677 is repealed, effective October 1, 1999."
+            "text": "Section 17a-677 is repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -15186,7 +16580,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-678 is repealed, effective October 1, 2010."
+            "text": "Section 17a-678 is repealed, effective October 1, 2010.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -15288,7 +16686,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 319i, Part I, Sec. 17a-486 ."
+            "text": "Transferred to Chapter 319i, Part I, Sec. 17a-486 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -15958,12 +17360,29 @@
           "section_key": "",
           "label": "Secs. 17a-702 to 17a-709.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319j.htm#secs_17a-702_to_17a-709",
+          "grouped": true,
+          "section_keys": [
+            "17a-702",
+            "17a-703",
+            "17a-704",
+            "17a-705",
+            "17a-706",
+            "17a-707",
+            "17a-708",
+            "17a-709"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -16008,7 +17427,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-711 is repealed, effective October 1, 2007."
+            "text": "Section 17a-711 is repealed, effective October 1, 2007.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -16064,7 +17487,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-714 is repealed, effective May 9, 2005."
+            "text": "Section 17a-714 is repealed, effective May 9, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -16102,7 +17529,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-715 is repealed, effective October 1, 2007."
+            "text": "Section 17a-715 is repealed, effective October 1, 2007.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -16186,12 +17617,51 @@
           "section_key": "",
           "label": "Secs. 17a-720 to 17a-749.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319j.htm#secs_17a-720_to_17a-749",
+          "grouped": true,
+          "section_keys": [
+            "17a-720",
+            "17a-721",
+            "17a-722",
+            "17a-723",
+            "17a-724",
+            "17a-725",
+            "17a-726",
+            "17a-727",
+            "17a-728",
+            "17a-729",
+            "17a-730",
+            "17a-731",
+            "17a-732",
+            "17a-733",
+            "17a-734",
+            "17a-735",
+            "17a-736",
+            "17a-737",
+            "17a-738",
+            "17a-739",
+            "17a-740",
+            "17a-741",
+            "17a-742",
+            "17a-743",
+            "17a-744",
+            "17a-745",
+            "17a-746",
+            "17a-747",
+            "17a-748",
+            "17a-749"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -16329,19 +17799,37 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 17a-754 is repealed, effective October 1, 2002."
+            "text": "Section 17a-754 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 17a-755 to 17a-759.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319k.htm#secs_17a-755_to_17a-759",
+          "grouped": true,
+          "section_keys": [
+            "17a-755",
+            "17a-756",
+            "17a-757",
+            "17a-758",
+            "17a-759"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -16813,12 +18301,31 @@
           "section_key": "",
           "label": "Secs. 17a-800 to 17a-809.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319l.htm#secs_17a-800_to_17a-809",
+          "grouped": true,
+          "section_keys": [
+            "17a-800",
+            "17a-801",
+            "17a-802",
+            "17a-803",
+            "17a-804",
+            "17a-805",
+            "17a-806",
+            "17a-807",
+            "17a-808",
+            "17a-809"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -17132,12 +18639,30 @@
           "section_key": "",
           "label": "Secs. 17a-826 to 17a-834.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319l.htm#secs_17a-826_to_17a-834",
+          "grouped": true,
+          "section_keys": [
+            "17a-826",
+            "17a-827",
+            "17a-828",
+            "17a-829",
+            "17a-830",
+            "17a-831",
+            "17a-832",
+            "17a-833",
+            "17a-834"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -17358,12 +18883,31 @@
           "section_key": "",
           "label": "Secs. 17a-840 to 17a-849.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319l.htm#secs_17a-840_to_17a-849",
+          "grouped": true,
+          "section_keys": [
+            "17a-840",
+            "17a-841",
+            "17a-842",
+            "17a-843",
+            "17a-844",
+            "17a-845",
+            "17a-846",
+            "17a-847",
+            "17a-848",
+            "17a-849"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -17660,12 +19204,28 @@
           "section_key": "",
           "label": "Secs. 17a-863 to 17a-869.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319l.htm#secs_17a-863_to_17a-869",
+          "grouped": true,
+          "section_keys": [
+            "17a-863",
+            "17a-864",
+            "17a-865",
+            "17a-866",
+            "17a-867",
+            "17a-868",
+            "17a-869"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -18091,12 +19651,34 @@
           "section_key": "",
           "label": "Secs. 17a-887 to 17a-899.",
           "url": "https://www.cga.ct.gov/current/pub/chap_319l.htm#secs_17a-887_to_17a-899",
+          "grouped": true,
+          "section_keys": [
+            "17a-887",
+            "17a-888",
+            "17a-889",
+            "17a-890",
+            "17a-891",
+            "17a-892",
+            "17a-893",
+            "17a-894",
+            "17a-895",
+            "17a-896",
+            "17a-897",
+            "17a-898",
+            "17a-899"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]

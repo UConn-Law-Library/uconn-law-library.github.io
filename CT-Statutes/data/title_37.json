@@ -92,7 +92,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 37-3 is repealed."
+            "text": "Section 37-3 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -389,7 +393,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 846, Sec. 49-2b ."
+            "text": "Transferred to Chapter 846, Sec. 49-2b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]

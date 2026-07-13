@@ -80,19 +80,37 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 28-1b is repealed, effective July 1, 2011."
+            "text": "Section 28-1b is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 28-1c to 28-1g.",
           "url": "https://www.cga.ct.gov/current/pub/chap_517.htm#secs_28-1c_to_28-1g",
+          "grouped": true,
+          "section_keys": [
+            "28-1c",
+            "28-1d",
+            "28-1e",
+            "28-1f",
+            "28-1g"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -208,7 +226,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 28-2 is repealed, effective January 1, 2005."
+            "text": "Section 28-2 is repealed, effective January 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -525,7 +547,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 28-10 is repealed."
+            "text": "Section 28-10 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -745,7 +771,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 28-19 is repealed."
+            "text": "Section 28-19 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -861,12 +891,23 @@
           "section_key": "",
           "label": "Secs. 28-22b and 28-22c.",
           "url": "https://www.cga.ct.gov/current/pub/chap_517a.htm#secs_28-22b_and_28-22c",
+          "grouped": true,
+          "section_keys": [
+            "28-22b",
+            "28-22c"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -962,7 +1003,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 28-23 is repealed, effective October 1, 2000."
+            "text": "Section 28-23 is repealed, effective October 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1486,7 +1531,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 28-30c is repealed, effective January 1, 2013."
+            "text": "Section 28-30c is repealed, effective January 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {

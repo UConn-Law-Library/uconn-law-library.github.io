@@ -146,7 +146,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 43-5 is repealed."
+            "text": "Section 43-5 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -203,7 +207,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 43-8 is repealed."
+            "text": "Section 43-8 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -257,12 +265,30 @@
           "section_key": "",
           "label": "Secs. 43-10 to 43-16. State licenses; town weighers.",
           "url": "https://www.cga.ct.gov/current/pub/chap_751.htm#secs_43-10_to_43-16",
+          "grouped": true,
+          "section_keys": [
+            "43-10",
+            "43-11",
+            "43-12",
+            "43-13",
+            "43-14",
+            "43-15",
+            "43-16"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 43-10 to 43-16 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 609–611, 6753–6756; 1955, S. 2877d; 1957, P.A. 13, S. 6; 1959, P.A. 377, S. 1; P.A. 76-223, S. 1, 2; P.A. 77-409, S. 20.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 43-10 to 43-16 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -590,7 +616,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 43-10 to 43-16. State licenses; town weighers. Sections 43-10 to 43-16 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -605,7 +634,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 43-10 to 43-16. State licenses; town weighers. Sections 43-10 to 43-16 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -665,7 +697,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 43-19 is repealed."
+            "text": "Section 43-19 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {

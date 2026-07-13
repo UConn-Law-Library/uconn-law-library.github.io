@@ -32,12 +32,25 @@
           "section_key": "",
           "label": "Secs. 22-1a and 22-1b. Commissioner, department and council, general terminology change.",
           "url": "https://www.cga.ct.gov/current/pub/chap_422.htm#secs_22-1a_and_22-1b",
+          "grouped": true,
+          "section_keys": [
+            "22-1a",
+            "22-1b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-1a and 22-1b are repealed."
+            ],
+            "source": [
+              "(1959, P.A. 637, S. 2–5; 1961, P.A. 39, S. 2; 67; 217; February, 1965, P.A. 24, S. 1; 1967, P.A. 94, S. 1; 1971, P.A. 872, S. 154.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-1a and 22-1b are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -71,7 +84,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-2 is repealed."
+            "text": "Section 22-2 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -209,7 +226,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-5 is repealed."
+            "text": "Section 22-5 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -755,12 +776,36 @@
           "section_key": "",
           "label": "Secs. 22-7a to 22-7o.",
           "url": "https://www.cga.ct.gov/current/pub/chap_422.htm#secs_22-7a_to_22-7o",
+          "grouped": true,
+          "section_keys": [
+            "22-7a",
+            "22-7b",
+            "22-7c",
+            "22-7d",
+            "22-7e",
+            "22-7f",
+            "22-7g",
+            "22-7h",
+            "22-7i",
+            "22-7j",
+            "22-7k",
+            "22-7l",
+            "22-7m",
+            "22-7n",
+            "22-7o"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 439, Secs. 22a-21 to 22a-35 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 439, Secs. 22a-21 to 22a-35 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -965,7 +1010,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-11e is repealed, effective May 23, 2022."
+            "text": "Section 22-11e is repealed, effective May 23, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1254,12 +1303,32 @@
           "section_key": "",
           "label": "Secs. 22-18 to 22-26. Farmers' loans, generally.",
           "url": "https://www.cga.ct.gov/current/pub/chap_422.htm#secs_22-18_to_22-26",
+          "grouped": true,
+          "section_keys": [
+            "22-18",
+            "22-19",
+            "22-20",
+            "22-21",
+            "22-22",
+            "22-23",
+            "22-24",
+            "22-25",
+            "22-26"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Obsolete."
+            ],
+            "source": [
+              "(September, 1957, P.A. 15, S. 1–9; March, 1958, P.A. 19, S. 1, 2; 1961, P.A. 23.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -1275,7 +1344,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-26a is repealed."
+            "text": "Section 22-26a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1291,7 +1364,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-26b is repealed, effective October 1, 1997."
+            "text": "Section 22-26b is repealed, effective October 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1418,7 +1495,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-26h is repealed, effective June 8, 2004."
+            "text": "Section 22-26h is repealed, effective June 8, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1502,12 +1583,35 @@
           "section_key": "",
           "label": "Secs. 22-26m to 22-26z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_422.htm#secs_22-26m_to_22-26z",
+          "grouped": true,
+          "section_keys": [
+            "22-26m",
+            "22-26n",
+            "22-26o",
+            "22-26p",
+            "22-26q",
+            "22-26r",
+            "22-26s",
+            "22-26t",
+            "22-26u",
+            "22-26v",
+            "22-26w",
+            "22-26x",
+            "22-26y",
+            "22-26z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1522,7 +1626,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-1a and 22-1b. Commissioner, department and council, general terminology change. Sections 22-1a and 22-1b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1537,7 +1644,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-1a and 22-1b. Commissioner, department and council, general terminology change. Sections 22-1a and 22-1b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -1654,17 +1764,27 @@
           }
         },
         {
-          "section_key": "22-26ee",
+          "section_key": "",
           "label": "Sec. 22-26ee and 22-26ff. Study of state responsibilities and opportunities for preserving and developing Connecticut's dairy industry. Commissioner to report on acquisition of development rights.",
           "url": "https://www.cga.ct.gov/current/pub/chap_422a.htm#sec_22-26ee_and_22-26ff",
+          "grouped": true,
+          "section_keys": [
+            "22-26ee",
+            "22-26ff"
+          ],
           "content": {
             "body_paragraphs": [
-              "Sec. 22-26ee and 22-26ff. Study of state responsibilities and opportunities for preserving and developing Connecticut's dairy industry. Commissioner to report on acquisition of development rights. Sections 22-26ee and 22-26ff are repealed, effective October 1, 1997."
+              "Sections 22-26ee and 22-26ff are repealed, effective October 1, 1997."
             ],
-            "source": [],
+            "source": [
+              "(P.A. 78-232, S. 5–7, 11; P.A. 89-204, S. 1, 2; P.A. 95-250, S. 1; P.A. 96-211, S. 1, 5, 6; P.A. 97-234, S. 11.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": "Sec. 22-26ee and 22-26ff. Study of state responsibilities and opportunities for preserving and developing Connecticut's dairy industry. Commissioner to report on acquisition of development rights. Sections 22-26ee and 22-26ff are repealed, effective October 1, 1997.",
+            "text": "Sections 22-26ee and 22-26ff are repealed, effective October 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
             "status": "repealed"
           }
         },
@@ -1898,7 +2018,10 @@
             "history": [],
             "annotations": [],
             "text": "Sec. 22-26ee and 22-26ff. Study of state responsibilities and opportunities for preserving and developing Connecticut's dairy industry. Commissioner to report on acquisition of development rights. Sections 22-26ee and 22-26ff are repealed, effective October 1, 1997.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1913,7 +2036,10 @@
             "history": [],
             "annotations": [],
             "text": "Sec. 22-26ee and 22-26ff. Study of state responsibilities and opportunities for preserving and developing Connecticut's dairy industry. Commissioner to report on acquisition of development rights. Sections 22-26ee and 22-26ff are repealed, effective October 1, 1997.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -2026,7 +2152,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-32 is repealed."
+            "text": "Section 22-32 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2117,7 +2247,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-37 is repealed, effective July 1, 2005."
+            "text": "Section 22-37 is repealed, effective July 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2133,7 +2267,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-37a is repealed, effective July 1, 1998."
+            "text": "Section 22-37a is repealed, effective July 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2190,7 +2328,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-38b is repealed, effective June 4, 2024."
+            "text": "Section 22-38b is repealed, effective June 4, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2533,7 +2675,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-46 is repealed."
+            "text": "Section 22-46 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2701,12 +2847,37 @@
           "section_key": "",
           "label": "Secs. 22-54a to 22-54n. Apple market orders in effect before July 1, 1989.",
           "url": "https://www.cga.ct.gov/current/pub/chap_423.htm#secs_22-54a_to_22-54n",
+          "grouped": true,
+          "section_keys": [
+            "22-54a",
+            "22-54b",
+            "22-54c",
+            "22-54d",
+            "22-54e",
+            "22-54f",
+            "22-54g",
+            "22-54h",
+            "22-54i",
+            "22-54j",
+            "22-54k",
+            "22-54l",
+            "22-54m",
+            "22-54n"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Obsolete."
+            ],
+            "source": [
+              "(P.A. 84-259, S. 1–15; P.A. 86-403, S. 97, 132; P.A. 89-226, S. 3.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -2872,12 +3043,25 @@
           "section_key": "",
           "label": "Secs. 22-55 to 22-61a. Definitions. Label requirements. Restrictions on sale and exposure and transportation for sale; registration; fee; regulations. Exemptions. Enforcement of provisions; duties and powers of commissioner. Seizure, condemnation. Penalty. Injunctions issued without bond.",
           "url": "https://www.cga.ct.gov/current/pub/chap_424.htm#secs_22-55_to_22-61a",
+          "grouped": true,
+          "section_keys": [
+            "22-55",
+            "22-61a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-55 to 22-61a , inclusive, are repealed, effective October 1, 2014."
+            ],
+            "source": [
+              "(1949 Rev., S. 3094–3100; 1949, S. 1713d, 1714d; 1957, P.A. 358, S. 1–4; 1959, P.A. 83; 637, S. 2; 1961, P.A. 67; 1963, P.A. 75, S. 1–6; 642, S. 30; 1971, P.A. 872, S. 446, 448; P.A. 74-136; P.A. 82-91, S. 8, 38; May Sp. Sess. P.A. 92-6, S. 44, 117; P.A. 95-79, S. 83, 189; June 30 Sp. Sess. P.A. 03-6, S. 146(e); P.A. 04-189, S. 1; June Sp. Sess. P.A. 09-3, S. 292; P.A. 14-223, S. 11.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-55 to 22-61a , inclusive, are repealed, effective October 1, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3500,12 +3684,26 @@
           "section_key": "",
           "label": "Secs. 22-62 to 22-64. Declaration of necessity. Marketing Authority; members. Executive director; appointment; duties. Duties of Marketing Authority; regulations.",
           "url": "https://www.cga.ct.gov/current/pub/chap_425.htm#secs_22-62_to_22-64",
+          "grouped": true,
+          "section_keys": [
+            "22-62",
+            "22-63",
+            "22-64"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-62 to 22-64 , inclusive, are repealed, effective July 12, 2021."
+            ],
+            "source": [
+              "(1949, S. 1715d; 1949 Rev., S. 3101, 3102, 3105; 1949, 1953, S. 1716d; 1949, 1953, 1955, S. 1717d; 1957, P.A. 268, S. 1; 1959, P.A. 637, S. 2; 1961, P.A. 67; February 1965, P.A. 537, S. 1; 1971, P.A. 152; 1971, P.A. 872, S. 446, 448; P.A. 75-425, S. 52, 57; P.A. 76-436, S. 447, 681; P.A. 77-614, S. 316, 610; P.A. 78-280, S. 5, 127; P.A. 83-487, S. 20, 24, 25, 33; P.A. 84-98, S. 2; P.A. 87-496, S. 89, 110; P.A. 88-230, S. 1, 12; P.A. 90-98, S. 1, 2; P.A. 92-147, S. 1, 2, 4; P.A. 93-142, S. 4, 7, 8; P.A. 95-220, S. 4–6; P.A. 95-250, S. 1; P.A. 96-211, S. 1, 5, 6; P.A. 97-155, S. 1; P.A. 03-170, S. 4; June 30 Sp. Sess. P.A. 03-6, S. 146(e), (f); P.A. 04-189, S. 1; P.A. 11-51, S. 90; P.A. 13-247, S. 200; P.A. 16-161, S. 1; P.A. 21-155, S. 13.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-62 to 22-64 , inclusive, are repealed, effective July 12, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3521,19 +3719,42 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-65 is repealed."
+            "text": "Section 22-65 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 22-66 to 22-73. Petition to Superior Court for taking of land. Conditions for issuance of bonds. Payment of bonds. Improvement bonds. Issuance of bonds; borrowing from state funds. Investment of proceeds. Bonds for construction of store units, office building. Bonds for future development of regional market.",
           "url": "https://www.cga.ct.gov/current/pub/chap_425.htm#secs_22-66_to_22-73",
+          "grouped": true,
+          "section_keys": [
+            "22-66",
+            "22-67",
+            "22-68",
+            "22-69",
+            "22-70",
+            "22-71",
+            "22-72",
+            "22-73"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-66 to 22-73 , inclusive, are repealed, effective July 12, 2021."
+            ],
+            "source": [
+              "(1949 Rev., S. 3103, 3108, 3109, 3110; 1949, S. 1720d, 1723d; 1951, 1955, S. 1721d; 1953, S. 1722d; 1957, P.A. 566, S. 1; September, 1957, P.A. 11, S. 39, 40, 42–45; March, 1958, P.A. 27, S. 71; 1959, P.A. 468, S. 1; 1963, P.A. 46, S. 1; February, 1965, P.A. 569; P.A. 78-280, S. 2, 127; S.A. 79-95, S. 107, 109; P.A. 82-369, S. 10, 11, 28; June Sp. Sess. P.A. 83-33, S. 4, 5, 17; P.A. 88-343, S. 11, 32; P.A. 90-297, S. 12, 24; May Sp. Sess. P.A. 92-7, S. 14, 36; May Sp. Sess. P.A. 94-2, S. 9, 203; P.A. 21-55, S. 13.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-66 to 22-73 , inclusive, are repealed, effective July 12, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3549,19 +3770,37 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-74 is repealed."
+            "text": "Section 22-74 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 22-75 to 22-77. Reserve fund. Lessee may construct building. Federal grants.",
           "url": "https://www.cga.ct.gov/current/pub/chap_425.htm#secs_22-75_to_22-77",
+          "grouped": true,
+          "section_keys": [
+            "22-75",
+            "22-76",
+            "22-77"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-75 to 22-77 , inclusive, are repealed, effective July 12, 2021."
+            ],
+            "source": [
+              "(1949 Rev., S. 3104; 1949, S. 1719d, 1728d; 1957, P.A. 568, S. 1; 1967, P.A. 68, S. 1; P.A. 77-614, S. 19, 610; P.A. 97-155, S. 2; P.A. 21-155, S. 13.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-75 to 22-77 , inclusive, are repealed, effective July 12, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3577,7 +3816,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -3593,7 +3836,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-78a is repealed, effective July 12, 2021."
+            "text": "Section 22-78a is repealed, effective July 12, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3608,7 +3855,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-62 to 22-64. Declaration of necessity. Marketing Authority; members. Executive director; appointment; duties. Duties of Marketing Authority; regulations. Sections 22-62 to 22-64 , inclusive, are repealed, effective July 12, 2021.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3623,7 +3873,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-62 to 22-64. Declaration of necessity. Marketing Authority; members. Executive director; appointment; duties. Duties of Marketing Authority; regulations. Sections 22-62 to 22-64 , inclusive, are repealed, effective July 12, 2021.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3668,7 +3921,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-75 to 22-77. Reserve fund. Lessee may construct building. Federal grants. Sections 22-75 to 22-77 , inclusive, are repealed, effective July 12, 2021.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3683,7 +3939,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-75 to 22-77. Reserve fund. Lessee may construct building. Federal grants. Sections 22-75 to 22-77 , inclusive, are repealed, effective July 12, 2021.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3901,12 +4160,26 @@
           "section_key": "",
           "label": "Secs. 22-85 to 22-87. European corn borer. White pine blister rust. European black currant plants.",
           "url": "https://www.cga.ct.gov/current/pub/chap_426.htm#secs_22-85_to_22-87",
+          "grouped": true,
+          "section_keys": [
+            "22-85",
+            "22-86",
+            "22-87"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-85 to 22-87 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3252–3254; 1961, P.A. 5; P.A. 83-487, S. 32, 33.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-85 to 22-87 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4012,7 +4285,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-91 is repealed."
+            "text": "Section 22-91 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4119,12 +4396,27 @@
           "section_key": "",
           "label": "Secs. 22-92 to 22-95. Emergency gypsy moth control. Agent for suppression of gypsy and brown-tail moths, etc.",
           "url": "https://www.cga.ct.gov/current/pub/chap_426.htm#secs_22-92_to_22-95",
+          "grouped": true,
+          "section_keys": [
+            "22-92",
+            "22-93",
+            "22-94",
+            "22-95"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-92 to 22-95 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3259–3261; 1955, S. 1776d; 1961, P.A. 3; 1963, P.A. 527, S. 12; 612, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-92 to 22-95 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4292,7 +4584,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-85 to 22-87. European corn borer. White pine blister rust. European black currant plants. Sections 22-85 to 22-87 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4307,7 +4602,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-85 to 22-87. European corn borer. White pine blister rust. European black currant plants. Sections 22-85 to 22-87 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4322,7 +4620,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-92 to 22-95. Emergency gypsy moth control. Agent for suppression of gypsy and brown-tail moths, etc. Sections 22-92 to 22-95 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4337,7 +4638,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-92 to 22-95. Emergency gypsy moth control. Agent for suppression of gypsy and brown-tail moths, etc. Sections 22-92 to 22-95 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -4352,12 +4656,30 @@
           "section_key": "",
           "label": "Secs. 22-105 to 22-111. Fertilizers.",
           "url": "https://www.cga.ct.gov/current/pub/chap_427.htm#secs_22-105_to_22-111",
+          "grouped": true,
+          "section_keys": [
+            "22-105",
+            "22-106",
+            "22-107",
+            "22-108",
+            "22-109",
+            "22-110",
+            "22-111"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-105 to 22-111 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 6733–6739; 1949, S. 2873d, 2875d; 1959, P.A. 138, S. 1; February, 1965, P.A. 198, S. 18.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-105 to 22-111 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4372,7 +4694,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-105 to 22-111. Fertilizers. Sections 22-105 to 22-111 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4387,7 +4712,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-105 to 22-111. Fertilizers. Sections 22-105 to 22-111 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -4631,7 +4959,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-111k is repealed, effective July 1, 2009."
+            "text": "Section 22-111k is repealed, effective July 1, 2009.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4881,12 +5213,23 @@
           "section_key": "",
           "label": "Secs. 22-111y and 22-111z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_427a.htm#secs_22-111y_and_22-111z",
+          "grouped": true,
+          "section_keys": [
+            "22-111y",
+            "22-111z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -5425,12 +5768,30 @@
           "section_key": "",
           "label": "Secs. 22-112 to 22-118. Commercial feeding stuffs.",
           "url": "https://www.cga.ct.gov/current/pub/chap_428.htm#secs_22-112_to_22-118",
+          "grouped": true,
+          "section_keys": [
+            "22-112",
+            "22-113",
+            "22-114",
+            "22-115",
+            "22-116",
+            "22-117",
+            "22-118"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-112 to 22-118 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 6740–6746; 1959, P.A. 358, S. 1; P.A. 412, S. 37; February, 1965, P.A. 296, S. 11.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-112 to 22-118 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5445,7 +5806,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-112 to 22-118. Commercial feeding stuffs. Sections 22-112 to 22-118 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5460,7 +5824,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-112 to 22-118. Commercial feeding stuffs. Sections 22-112 to 22-118 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -5475,12 +5842,33 @@
           "section_key": "",
           "label": "Secs. 22-118a to 22-118j. Commercial and customer-formula feeds, generally.",
           "url": "https://www.cga.ct.gov/current/pub/chap_428a.htm#secs_22-118a_to_22-118j",
+          "grouped": true,
+          "section_keys": [
+            "22-118a",
+            "22-118b",
+            "22-118c",
+            "22-118d",
+            "22-118e",
+            "22-118f",
+            "22-118g",
+            "22-118h",
+            "22-118i",
+            "22-118j"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-118a to 22-118j , inclusive, are repealed, effective July 1, 1998."
+            ],
+            "source": [
+              "(February, 1965, P.A. 296, S. 1–10; P.A. 73-278, S. 13–21; P.A. 76-436, S. 450, 681; P.A. 78-280, S. 5, 127; P.A. 82-91, S. 10, 38; P.A. 88-230, S. 1, 12; P.A. 90-98, S. 1, 2; May Sp. Sess. P.A. 92-6, S. 47, 117; P.A. 93-142, S. 4, 7, 8; P.A. 95-79, S. 85, 189; 95-220, S. 4–6; P.A. 98-69, S. 13, 14.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-118a to 22-118j , inclusive, are repealed, effective July 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5734,7 +6122,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-118v is repealed, effective April 29, 2008."
+            "text": "Section 22-118v is repealed, effective April 29, 2008.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5749,7 +6141,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-118a to 22-118j. Commercial and customer-formula feeds, generally. Sections 22-118a to 22-118j , inclusive, are repealed, effective July 1, 1998.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5764,7 +6159,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-118a to 22-118j. Commercial and customer-formula feeds, generally. Sections 22-118a to 22-118j , inclusive, are repealed, effective July 1, 1998.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -5779,12 +6177,25 @@
           "section_key": "",
           "label": "Secs. 22-119 and 22-120. Annual payments to incorporated agricultural societies. Statement of premiums.",
           "url": "https://www.cga.ct.gov/current/pub/chap_429.htm#secs_22-119_and_22-120",
+          "grouped": true,
+          "section_keys": [
+            "22-119",
+            "22-120"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-119 and 22-120 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3306, 3308; June, 1949, 1951, S. 1779d; 1959, P.A. 637, S. 2; 1961, P.A. 67; February, 1965, P.A. 33, S. 1; 1971, P.A. 872, S. 446, 448; P.A. 85-95; P.A. 91-307, S. 3.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-119 and 22-120 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5818,7 +6229,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-121 is repealed, effective October 1, 2002."
+            "text": "Section 22-121 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5834,19 +6249,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-122 is repealed."
+            "text": "Section 22-122 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 22-123 and 22-124. Gambling and immoral shows prohibited at or near agricultural fairs. Special police for fair grounds.",
           "url": "https://www.cga.ct.gov/current/pub/chap_429.htm#secs_22-123_and_22-124",
+          "grouped": true,
+          "section_keys": [
+            "22-123",
+            "22-124"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Section 22-123 and 22-124 are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 3311, 3312; 1961, P.A. 351, S. 2; P.A. 02-89, S. 90; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Section 22-123 and 22-124 are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5862,7 +6294,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-125 is repealed, effective October 1, 2012."
+            "text": "Section 22-125 is repealed, effective October 1, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5916,7 +6352,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-119 and 22-120. Annual payments to incorporated agricultural societies. Statement of premiums. Sections 22-119 and 22-120 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5931,7 +6370,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-119 and 22-120. Annual payments to incorporated agricultural societies. Statement of premiums. Sections 22-119 and 22-120 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5946,7 +6388,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-123 and 22-124. Gambling and immoral shows prohibited at or near agricultural fairs. Special police for fair grounds. Section 22-123 and 22-124 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5961,7 +6406,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-123 and 22-124. Gambling and immoral shows prohibited at or near agricultural fairs. Special police for fair grounds. Section 22-123 and 22-124 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -6160,7 +6608,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-131a is repealed."
+            "text": "Section 22-131a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6275,7 +6727,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-135 is repealed, effective July 1, 1998."
+            "text": "Section 22-135 is repealed, effective July 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6313,7 +6769,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-137 is repealed."
+            "text": "Section 22-137 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6440,12 +6900,26 @@
           "section_key": "",
           "label": "Secs. 22-142 to 22-144. Tests and samples. Division of sample at request of producer. Sampling and tests by commissioner; fees.",
           "url": "https://www.cga.ct.gov/current/pub/chap_430.htm#secs_22-142_to_22-144",
+          "grouped": true,
+          "section_keys": [
+            "22-142",
+            "22-143",
+            "22-144"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-142 to 22-144 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3183–3185; 1949, S. 1735d; 1951, 1953, S. 1736d; 1957, P.A. 425; 1961, P.A. 252, S. 2.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-142 to 22-144 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6461,7 +6935,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-144a is repealed, effective July 1, 1998."
+            "text": "Section 22-144a is repealed, effective July 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6477,7 +6955,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-145 is repealed."
+            "text": "Section 22-145 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6545,7 +7027,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-149 is repealed."
+            "text": "Section 22-149 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6561,7 +7047,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-150 is repealed, effective October 1, 2005."
+            "text": "Section 22-150 is repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6600,7 +7090,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-151 is repealed, effective October 1, 1997."
+            "text": "Section 22-151 is repealed, effective October 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6652,12 +7146,29 @@
           "section_key": "",
           "label": "Secs. 22-154 to 22-159. Evaporated milk; contents and labeling. Condensed milk. Sweetened condensed milk; sweetened condensed skimmed milk. Requirements for evaporated or condensed milk not otherwise regulated. Adulterated products. Skimmed milk or low fat milk.",
           "url": "https://www.cga.ct.gov/current/pub/chap_430.htm#secs_22-154_to_22-159",
+          "grouped": true,
+          "section_keys": [
+            "22-154",
+            "22-155",
+            "22-156",
+            "22-157",
+            "22-158",
+            "22-159"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-154 to 22-159 , inclusive, are repealed, effective October 1, 2005."
+            ],
+            "source": [
+              "(1949 Rev., S. 3195; 1951, S. 1740d–1744d; 1961, P.A. 518, S. 6; 1963, P.A. 173, S. 2; 1969, P.A. 56, S. 2; P.A. 77-214, S. 1, 2; P.A. 82-152, S. 1, 2; P.A. 91-312, S. 18; May 25 Sp. Sess. P.A. 94-1, S. 76, 130; P.A. 05-175, S. 25; June Sp. Sess. P.A. 05-3, S. 97.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-154 to 22-159 , inclusive, are repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6692,31 +7203,61 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-161 is repealed."
+            "text": "Section 22-161 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 22-162 and 22-162a. Standard quality of cream; civil penalty. Eggnog beverages; license for processing for sale.",
           "url": "https://www.cga.ct.gov/current/pub/chap_430.htm#secs_22-162_and_22-162a",
+          "grouped": true,
+          "section_keys": [
+            "22-162",
+            "22-162a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-162 and 22-162a are repealed, effective October 1, 2005."
+            ],
+            "source": [
+              "(1949 Rev., S. 3199; 1949, S. 1746d; 1957, P.A. 310; 521; 1961, P.A. 170; 1969, P.A. 56, S. 3; P.A. 84-34, S. 1; P.A. 85-119, S. 2; P.A. 87-45; P.A. 91-312, S. 19, 20; May 25 Sp. Sess. P.A. 94-1, S. 80, 130; June 30 Sp. Sess. P.A. 03-6, S. 146(e); P.A. 04-189, S. 1; P.A. 05-175, S. 25; June Sp. Sess. P.A. 05-3, S. 97.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-162 and 22-162a are repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 22-163 and 22-164. Milk or cream; containers. Printed notices.",
           "url": "https://www.cga.ct.gov/current/pub/chap_430.htm#secs_22-163_and_22-164",
+          "grouped": true,
+          "section_keys": [
+            "22-163",
+            "22-164"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-163 and 22-164 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3200, 3201; 1955, S. 1747d; 1961, P.A. 185; 518, S. 3; P.A. 91-312, S. 47.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-163 and 22-164 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6847,7 +7388,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-171 is repealed."
+            "text": "Section 22-171 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6884,7 +7429,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-173 is repealed, effective October 1, 2005."
+            "text": "Section 22-173 is repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6920,19 +7469,40 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-174 is repealed, effective July 1, 2001."
+            "text": "Section 22-174 is repealed, effective July 1, 2001.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 22-175 to 22-180. Inspection of dairy farms and milk plants. Milk shortage; temporary permits. Investigation of potential sources of supply. Approval of additional sources of supply; temporary permits to relieve hardship. Standards for approval of additional dairy farms. Discontinuance and resumption of shipments from approved farm or plant.",
           "url": "https://www.cga.ct.gov/current/pub/chap_430.htm#secs_22-175_to_22-180",
+          "grouped": true,
+          "section_keys": [
+            "22-175",
+            "22-176",
+            "22-177",
+            "22-178",
+            "22-179",
+            "22-180"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-175 to 22-180 , inclusive, are repealed, effective October 1, 2005."
+            ],
+            "source": [
+              "(1949 Rev., S. 3217–3222; 1949, S. 1760d; 1957, P.A. 316; 1961, P.A. 223; 225; 1963, P.A. 269; 270; 295; P.A. 78-52; P.A. 83-155, S. 1; P.A. 90-66, S. 2; P.A. 99-110, S. 3; P.A. 01-138, S. 5, 8; P.A. 05-175, S. 25; June Sp. Sess. P.A. 05-3, S. 97.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-175 to 22-180 , inclusive, are repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6966,7 +7536,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-182 is repealed, effective October 1, 2005."
+            "text": "Section 22-182 is repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7018,7 +7592,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-184 is repealed, effective October 1, 2005."
+            "text": "Section 22-184 is repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7034,7 +7612,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-184a is repealed, effective October 1, 1997."
+            "text": "Section 22-184a is repealed, effective October 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7050,7 +7632,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-185 is repealed, effective October 1, 2005."
+            "text": "Section 22-185 is repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7104,19 +7690,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-188 is repealed."
+            "text": "Section 22-188 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 22-189 and 22-190. Sanitary provisions. Milk rooms in dairies; sterilizing equipment in milk plants.",
           "url": "https://www.cga.ct.gov/current/pub/chap_430.htm#secs_22-189_and_22-190",
+          "grouped": true,
+          "section_keys": [
+            "22-189",
+            "22-190"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-189 and 22-190 are repealed, effective October 1, 2005."
+            ],
+            "source": [
+              "(1949 Rev., S. 3231, 3232; 1951, S. 1762d; 1961, P.A. 172; 174; 1967, P.A. 135; 1969, P.A. 38; P.A. 05-175, S. 25; June Sp. Sess. P.A. 05-3, S. 97.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-189 and 22-190 are repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7132,7 +7735,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-191 is repealed, effective October 1, 1997."
+            "text": "Section 22-191 is repealed, effective October 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7148,7 +7755,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-192 is repealed."
+            "text": "Section 22-192 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7221,7 +7832,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-195 is repealed, effective October 1, 2005."
+            "text": "Section 22-195 is repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7237,7 +7852,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-196 is repealed."
+            "text": "Section 22-196 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7253,7 +7872,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-197 is repealed, effective October 1, 2005."
+            "text": "Section 22-197 is repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7269,7 +7892,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-197a is repealed."
+            "text": "Section 22-197a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7294,24 +7921,52 @@
           "section_key": "",
           "label": "Secs. 22-198 to 22-201. Equipment of pasteurizing plant. Pasteurization plants; construction. Sanitary facilities. Additional requirements.",
           "url": "https://www.cga.ct.gov/current/pub/chap_430.htm#secs_22-198_to_22-201",
+          "grouped": true,
+          "section_keys": [
+            "22-198",
+            "22-199",
+            "22-200",
+            "22-201"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-198 to 22-201 , inclusive, are repealed, effective October 1, 2005."
+            ],
+            "source": [
+              "(1949 Rev., S. 3240–3243; 1953, S. 1769d, 1770d; 1955, S. 1770d, 1771d; 1961, P.A. 191; 1967, P.A. 79; P.A. 05-175, S. 25; June Sp. Sess. P.A. 05-3, S. 97.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-198 to 22-201 , inclusive, are repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 22-202 and 22-203. Health certificates for employees in pasteurization plants. Penalty.",
           "url": "https://www.cga.ct.gov/current/pub/chap_430.htm#secs_22-202_and_22-203",
+          "grouped": true,
+          "section_keys": [
+            "22-202",
+            "22-203"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-202 and 22-203 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3244, 3245; 1959, P.A. 637, S. 2; 1961, P.A. 67; 1971, P.A. 872, S. 446, 448; P.A. 77-614, S. 323, 610; P.A. 84-19, S. 2; P.A. 91-312, S. 47.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-202 and 22-203 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7469,12 +8124,39 @@
           "section_key": "",
           "label": "Secs. 22-203i to 22-203z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_430.htm#secs_22-203i_to_22-203z",
+          "grouped": true,
+          "section_keys": [
+            "22-203i",
+            "22-203j",
+            "22-203k",
+            "22-203l",
+            "22-203m",
+            "22-203n",
+            "22-203o",
+            "22-203p",
+            "22-203q",
+            "22-203r",
+            "22-203s",
+            "22-203t",
+            "22-203u",
+            "22-203v",
+            "22-203w",
+            "22-203x",
+            "22-203y",
+            "22-203z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7489,7 +8171,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-142 to 22-144. Tests and samples. Division of sample at request of producer. Sampling and tests by commissioner; fees. Sections 22-142 to 22-144 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7504,7 +8189,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-142 to 22-144. Tests and samples. Division of sample at request of producer. Sampling and tests by commissioner; fees. Sections 22-142 to 22-144 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7519,7 +8207,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-154 to 22-159. Evaporated milk; contents and labeling. Condensed milk. Sweetened condensed milk; sweetened condensed skimmed milk. Requirements for evaporated or condensed milk not otherwise regulated. Adulterated products. Skimmed milk or low fat milk. Sections 22-154 to 22-159 , inclusive, are repealed, effective October 1, 2005.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7534,7 +8225,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-154 to 22-159. Evaporated milk; contents and labeling. Condensed milk. Sweetened condensed milk; sweetened condensed skimmed milk. Requirements for evaporated or condensed milk not otherwise regulated. Adulterated products. Skimmed milk or low fat milk. Sections 22-154 to 22-159 , inclusive, are repealed, effective October 1, 2005.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7549,7 +8243,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-162 and 22-162a. Standard quality of cream; civil penalty. Eggnog beverages; license for processing for sale. Sections 22-162 and 22-162a are repealed, effective October 1, 2005.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7564,7 +8261,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-162 and 22-162a. Standard quality of cream; civil penalty. Eggnog beverages; license for processing for sale. Sections 22-162 and 22-162a are repealed, effective October 1, 2005.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7579,7 +8279,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-163 and 22-164. Milk or cream; containers. Printed notices. Sections 22-163 and 22-164 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7594,7 +8297,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-163 and 22-164. Milk or cream; containers. Printed notices. Sections 22-163 and 22-164 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7663,7 +8369,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-189 and 22-190. Sanitary provisions. Milk rooms in dairies; sterilizing equipment in milk plants. Sections 22-189 and 22-190 are repealed, effective October 1, 2005.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7678,7 +8387,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-189 and 22-190. Sanitary provisions. Milk rooms in dairies; sterilizing equipment in milk plants. Sections 22-189 and 22-190 are repealed, effective October 1, 2005.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7693,7 +8405,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-198 to 22-201. Equipment of pasteurizing plant. Pasteurization plants; construction. Sanitary facilities. Additional requirements. Sections 22-198 to 22-201 , inclusive, are repealed, effective October 1, 2005.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7708,7 +8423,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-198 to 22-201. Equipment of pasteurizing plant. Pasteurization plants; construction. Sanitary facilities. Additional requirements. Sections 22-198 to 22-201 , inclusive, are repealed, effective October 1, 2005.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7723,7 +8441,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-202 and 22-203. Health certificates for employees in pasteurization plants. Penalty. Sections 22-202 and 22-203 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7738,7 +8459,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-202 and 22-203. Health certificates for employees in pasteurization plants. Penalty. Sections 22-202 and 22-203 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -8034,12 +8758,26 @@
           "section_key": "",
           "label": "Secs. 22-209 to 22-211. Report to Governor. Regulations. Complaints and investigations.",
           "url": "https://www.cga.ct.gov/current/pub/chap_431.htm#secs_22-209_to_22-211",
+          "grouped": true,
+          "section_keys": [
+            "22-209",
+            "22-210",
+            "22-211"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-209 to 22-211 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3117, 3119, 3122; September, 1957, P.A. 11, S. 13; 1959, P.A. 116, S. 2, 7.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-209 to 22-211 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8073,7 +8811,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-211b is repealed."
+            "text": "Section 22-211b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8116,12 +8858,33 @@
           "section_key": "",
           "label": "Secs. 22-214 to 22-223. Transportation rates. Orders establishing producers' prices, generally. Production Incentive Fund.",
           "url": "https://www.cga.ct.gov/current/pub/chap_431.htm#secs_22-214_to_22-223",
+          "grouped": true,
+          "section_keys": [
+            "22-214",
+            "22-215",
+            "22-216",
+            "22-217",
+            "22-218",
+            "22-219",
+            "22-220",
+            "22-221",
+            "22-222",
+            "22-223"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-214 to 22-223 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3125–3134; 1959, P.A. 116, S. 7.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-214 to 22-223 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8155,7 +8918,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-225 is repealed."
+            "text": "Section 22-225 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8368,7 +9135,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-235 is repealed."
+            "text": "Section 22-235 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8626,7 +9397,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-246 is repealed."
+            "text": "Section 22-246 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8696,12 +9471,27 @@
           "section_key": "",
           "label": "Secs. 22-250 to 22-253. Appeal petition. Appeal to be privileged case. Record; certification. Scope of review.",
           "url": "https://www.cga.ct.gov/current/pub/chap_431.htm#secs_22-250_to_22-253",
+          "grouped": true,
+          "section_keys": [
+            "22-250",
+            "22-251",
+            "22-252",
+            "22-253"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-250 to 22-253 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3160–3163; P.A. 77-603, S. 96, 125.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-250 to 22-253 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8828,19 +9618,39 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-259a is repealed."
+            "text": "Section 22-259a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 22-260 to 22-264. Connecticut Wholesale Milk Producers' Council.",
           "url": "https://www.cga.ct.gov/current/pub/chap_431.htm#secs_22-260_to_22-264",
+          "grouped": true,
+          "section_keys": [
+            "22-260",
+            "22-261",
+            "22-262",
+            "22-263",
+            "22-264"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-260 to 22-264 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3170–3174; 1951, S. 1730d; P.A. 78-48, S. 3.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-260 to 22-264 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8856,7 +9666,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-265 is repealed."
+            "text": "Section 22-265 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8913,7 +9727,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-209 to 22-211. Report to Governor. Regulations. Complaints and investigations. Sections 22-209 to 22-211 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8928,7 +9745,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-209 to 22-211. Report to Governor. Regulations. Complaints and investigations. Sections 22-209 to 22-211 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8943,7 +9763,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-214 to 22-223. Transportation rates. Orders establishing producers' prices, generally. Production Incentive Fund. Sections 22-214 to 22-223 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8958,7 +9781,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-214 to 22-223. Transportation rates. Orders establishing producers' prices, generally. Production Incentive Fund. Sections 22-214 to 22-223 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8973,7 +9799,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-250 to 22-253. Appeal petition. Appeal to be privileged case. Record; certification. Scope of review. Sections 22-250 to 22-253 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8988,7 +9817,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-250 to 22-253. Appeal petition. Appeal to be privileged case. Record; certification. Scope of review. Sections 22-250 to 22-253 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9003,7 +9835,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-260 to 22-264. Connecticut Wholesale Milk Producers' Council. Sections 22-260 to 22-264 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9018,7 +9853,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-260 to 22-264. Connecticut Wholesale Milk Producers' Council. Sections 22-260 to 22-264 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -9033,12 +9871,30 @@
           "section_key": "",
           "label": "Secs. 22-266 to 22-272. Regulation of slaughterhouses and meat inspection, generally.",
           "url": "https://www.cga.ct.gov/current/pub/chap_432.htm#secs_22-266_to_22-272",
+          "grouped": true,
+          "section_keys": [
+            "22-266",
+            "22-267",
+            "22-268",
+            "22-269",
+            "22-270",
+            "22-271",
+            "22-272"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-266 to 22-272 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3332–3336, 3338, 3339; 1957, P.A. 13, S. 81, 82; 1959, P.A. 412, S. 21–23, 26; 505, S. 1, 2; 1967, P.A. 823; 1969, P.A. 626, S. 20.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-266 to 22-272 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9089,12 +9945,27 @@
           "section_key": "",
           "label": "Secs. 22-273 to 22-276. Diseased or unstamped meat not to be sold or transported for human consumption; transportation of meat for human consumption. Commissioner may appoint assistants. Slaughter of equine animals; inspection of meat. Penalty.",
           "url": "https://www.cga.ct.gov/current/pub/chap_432.htm#secs_22-273_to_22-276",
+          "grouped": true,
+          "section_keys": [
+            "22-273",
+            "22-274",
+            "22-275",
+            "22-276"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-273 to 22-276 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3337, 3340, 3341, 3343; 1949, S. 1799d–1803d; 1953, S. 1798d; 1957, P.A. 636, S. 1; 1959, P.A. 412, S. 24, 25, 27; 1969, P.A. 626, S. 20.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-273 to 22-276 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9151,7 +10022,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-266 to 22-272. Regulation of slaughterhouses and meat inspection, generally. Sections 22-266 to 22-272 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9166,7 +10040,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-266 to 22-272. Regulation of slaughterhouses and meat inspection, generally. Sections 22-266 to 22-272 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9181,7 +10058,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-273 to 22-276. Diseased or unstamped meat not to be sold or transported for human consumption; transportation of meat for human consumption. Commissioner may appoint assistants. Slaughter of equine animals; inspection of meat. Penalty. Sections 22-273 to 22-276 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9196,7 +10076,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-273 to 22-276. Diseased or unstamped meat not to be sold or transported for human consumption; transportation of meat for human consumption. Commissioner may appoint assistants. Slaughter of equine animals; inspection of meat. Penalty. Sections 22-273 to 22-276 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -9320,12 +10203,26 @@
           "section_key": "",
           "label": "Secs. 22-281 to 22-283. Glanders or farcy. Inspection of animals; quarantine. Disposal of infected animal.",
           "url": "https://www.cga.ct.gov/current/pub/chap_433.htm#secs_22-281_to_22-283",
+          "grouped": true,
+          "section_keys": [
+            "22-281",
+            "22-282",
+            "22-283"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-281 to 22-283 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3315–3317; P.A. 80-159.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-281 to 22-283 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9341,7 +10238,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-284 is repealed, effective June 28, 2023 ."
+            "text": "Section 22-284 is repealed, effective June 28, 2023 .",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9357,7 +10258,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-284a is repealed."
+            "text": "Section 22-284a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9505,12 +10410,26 @@
           "section_key": "",
           "label": "Secs. 22-291 to 22-293. Tuberculosis-free accredited herd defined. Additions to an officially tested herd. Additions or sales to be reported.",
           "url": "https://www.cga.ct.gov/current/pub/chap_433.htm#secs_22-291_to_22-293",
+          "grouped": true,
+          "section_keys": [
+            "22-291",
+            "22-292",
+            "22-293"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-291 to 22-293 , inclusive, are repealed, effective June 28, 2023."
+            ],
+            "source": [
+              "(1949 Rev., S. 3348, 3349, 3354; 1959, P.A. 637, S. 2; 1961, P.A. 67; 1971, P.A. 872, S. 446, 448; P.A. 96-180, S. 75, 166; June 30 Sp. Sess. P.A. 03-6, S. 146(e); P.A. 04-189, S. 1; P.A. 23-187, S. 29.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-291 to 22-293 , inclusive, are repealed, effective June 28, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9581,7 +10500,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-297 is repealed, effective October 1, 1997."
+            "text": "Section 22-297 is repealed, effective October 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9619,7 +10542,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-299 is repealed."
+            "text": "Section 22-299 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9653,7 +10580,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-300 is repealed."
+            "text": "Section 22-300 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9688,7 +10619,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-302 is repealed."
+            "text": "Section 22-302 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9725,7 +10660,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-304 is repealed, effective June 28, 2023 ."
+            "text": "Section 22-304 is repealed, effective June 28, 2023 .",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9956,12 +10895,27 @@
           "section_key": "",
           "label": "Secs. 22-310 to 22-313. Importation of dairy and breeding cattle and goats. Report of arrival. Requirements concerning dairy cattle and goats. Cattle for slaughter.",
           "url": "https://www.cga.ct.gov/current/pub/chap_433.htm#secs_22-310_to_22-313",
+          "grouped": true,
+          "section_keys": [
+            "22-310",
+            "22-311",
+            "22-312",
+            "22-313"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-310 to 22-313 , inclusive, are repealed, effective June 28, 2023."
+            ],
+            "source": [
+              "(1949 Rev., S. 3361–3364; 1959, P.A. 412, S. 28; 637, S. 2; 1961, P.A. 67; 1971, P.A. 872, S. 446, 448; P.A. 77-267, S. 6–8; June 30 Sp. Sess. P.A. 03-6, S. 146(c), (e); P.A. 04-189, S. 1; P.A. 23-187, S. 29.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-310 to 22-313 , inclusive, are repealed, effective June 28, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9993,7 +10947,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-315 is repealed, effective October 1, 1997."
+            "text": "Section 22-315 is repealed, effective October 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10043,7 +11001,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-318 is repealed, effective June 28, 2023."
+            "text": "Section 22-318 is repealed, effective June 28, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10077,7 +11039,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-318b is repealed, effective June 28, 2023."
+            "text": "Section 22-318b is repealed, effective June 28, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10093,7 +11059,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-319 is repealed, effective October 1, 2012."
+            "text": "Section 22-319 is repealed, effective October 1, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10147,7 +11117,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-320 is repealed."
+            "text": "Section 22-320 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10319,7 +11293,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-281 to 22-283. Glanders or farcy. Inspection of animals; quarantine. Disposal of infected animal. Sections 22-281 to 22-283 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10334,7 +11311,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-281 to 22-283. Glanders or farcy. Inspection of animals; quarantine. Disposal of infected animal. Sections 22-281 to 22-283 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10349,7 +11329,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-291 to 22-293. Tuberculosis-free accredited herd defined. Additions to an officially tested herd. Additions or sales to be reported. Sections 22-291 to 22-293 , inclusive, are repealed, effective June 28, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10364,7 +11347,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-291 to 22-293. Tuberculosis-free accredited herd defined. Additions to an officially tested herd. Additions or sales to be reported. Sections 22-291 to 22-293 , inclusive, are repealed, effective June 28, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10379,7 +11365,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-310 to 22-313. Importation of dairy and breeding cattle and goats. Report of arrival. Requirements concerning dairy cattle and goats. Cattle for slaughter. Sections 22-310 to 22-313 , inclusive, are repealed, effective June 28, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10394,7 +11383,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-310 to 22-313. Importation of dairy and breeding cattle and goats. Report of arrival. Requirements concerning dairy cattle and goats. Cattle for slaughter. Sections 22-310 to 22-313 , inclusive, are repealed, effective June 28, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -10602,7 +11594,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-326b is repealed, effective July 1, 2002."
+            "text": "Section 22-326b is repealed, effective July 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10703,12 +11699,32 @@
           "section_key": "",
           "label": "Secs. 22-326h to 22-326r.",
           "url": "https://www.cga.ct.gov/current/pub/chap_434.htm#secs_22-326h_to_22-326r",
+          "grouped": true,
+          "section_keys": [
+            "22-326h",
+            "22-326i",
+            "22-326j",
+            "22-326k",
+            "22-326l",
+            "22-326m",
+            "22-326n",
+            "22-326o",
+            "22-326p",
+            "22-326q",
+            "22-326r"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11595,7 +12611,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-344c is repealed, effective June 7, 2023."
+            "text": "Section 22-344c is repealed, effective June 7, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11678,12 +12698,23 @@
           "section_key": "",
           "label": "Secs. 22-345a and 22-345b.",
           "url": "https://www.cga.ct.gov/current/pub/chap_435.htm#secs_22-345a_and_22-345b",
+          "grouped": true,
+          "section_keys": [
+            "22-345a",
+            "22-345b"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 814b, Secs. 46a-42 and 46a-43 ."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 814b, Secs. 46a-42 and 46a-43 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -11699,7 +12730,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-346 is repealed."
+            "text": "Section 22-346 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11713,7 +12748,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 814b, Sec. 46a-44 ."
+            "text": "Transferred to Chapter 814b, Sec. 46a-44 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -11747,7 +12786,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-348 is repealed, effective June 7, 2023 ."
+            "text": "Section 22-348 is repealed, effective June 7, 2023 .",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11899,7 +12942,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-353 is repealed, effective October 1, 1997."
+            "text": "Section 22-353 is repealed, effective October 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12164,12 +13211,25 @@
           "section_key": "",
           "label": "Secs. 22-359c and 22-359d. Certificate of rabies vaccination. Licensing and vaccination of cats not required.",
           "url": "https://www.cga.ct.gov/current/pub/chap_435.htm#secs_22-359c_and_22-359d",
+          "grouped": true,
+          "section_keys": [
+            "22-359c",
+            "22-359d"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-359c and 22-359d are repealed."
+            ],
+            "source": [
+              "(P.A. 85-167, S. 7, 8; P.A. 91-46, S. 11, 12; 91-59, S. 19.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-359c and 22-359d are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12210,12 +13270,25 @@
           "section_key": "",
           "label": "Secs. 22-360 and 22-361. Pasteur treatment. Examination of dog for rabies.",
           "url": "https://www.cga.ct.gov/current/pub/chap_435.htm#secs_22-360_and_22-361",
+          "grouped": true,
+          "section_keys": [
+            "22-360",
+            "22-361"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-360 and 22-361 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3408, 3409; 1953, S. 1846d, 1847d; 1963, P.A. 613, S. 30, 34; P.A. 85-145, S. 2.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-360 and 22-361 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12422,7 +13495,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-359c and 22-359d. Certificate of rabies vaccination. Licensing and vaccination of cats not required. Sections 22-359c and 22-359d are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12437,7 +13513,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-359c and 22-359d. Certificate of rabies vaccination. Licensing and vaccination of cats not required. Sections 22-359c and 22-359d are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12452,7 +13531,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-360 and 22-361. Pasteur treatment. Examination of dog for rabies. Sections 22-360 and 22-361 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12467,7 +13549,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-360 and 22-361. Pasteur treatment. Examination of dog for rabies. Sections 22-360 and 22-361 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -12482,12 +13567,36 @@
           "section_key": "",
           "label": "Secs. 22-368 to 22-380. Impounding of animals; notice. Unknown owners; notice. Replevy; disposal of animals. Description filed with town clerk; avails of sales. Tender of damages and costs. Escape from pound. Animals at large; impounding; notice. Unknown owner; notice of sale; proceeds of sale. Owner may redeem. Trespasser's act; proceedings; penalty. Assessment of damages. Rescue; breach; penalty. Rescue of roaming animals; penalty.",
           "url": "https://www.cga.ct.gov/current/pub/chap_436.htm#secs_22-368_to_22-380",
+          "grouped": true,
+          "section_keys": [
+            "22-368",
+            "22-369",
+            "22-370",
+            "22-371",
+            "22-372",
+            "22-373",
+            "22-374",
+            "22-375",
+            "22-376",
+            "22-377",
+            "22-378",
+            "22-379",
+            "22-380"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-368 to 22-380 , inclusive, are repealed, effective October 1, 2000."
+            ],
+            "source": [
+              "(1949 Rev., S. 3415–3427; 1961, P.A. 517, S. 65; P.A. 74-183, S. 249, 291; P.A. 76-436, S. 213, 681; P.A. 84-146, S. 12, 14; P.A. 87-62; P.A. 00-92, S. 16.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-368 to 22-380 , inclusive, are repealed, effective October 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12532,12 +13641,27 @@
           "section_key": "",
           "label": "Secs. 22-380a to 22-380d. Spaying and neutering clinics established; fees. Procedure for spaying and neutering. Receipt and disposition of funds; program termination. Report to General Assembly.",
           "url": "https://www.cga.ct.gov/current/pub/chap_436a.htm#secs_22-380a_to_22-380d",
+          "grouped": true,
+          "section_keys": [
+            "22-380a",
+            "22-380b",
+            "22-380c",
+            "22-380d"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-380a to 20-380d , inclusive, are repealed, effective October 1, 1997."
+            ],
+            "source": [
+              "(P.A. 75-466, S. 1–5; P.A. 76-63, S. 1; P.A. 77-307, S. 1–3; P.A. 86-312, S. 7, 21; P.A. 97-234, S. 11.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-380a to 20-380d , inclusive, are repealed, effective October 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12741,7 +13865,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-380a to 22-380d. Spaying and neutering clinics established; fees. Procedure for spaying and neutering. Receipt and disposition of funds; program termination. Report to General Assembly. Sections 22-380a to 20-380d , inclusive, are repealed, effective October 1, 1997.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -12975,12 +14102,41 @@
           "section_key": "",
           "label": "Secs. 22-392 to 22-409. Connecticut Meat and Poultry Products Inspection Act.",
           "url": "https://www.cga.ct.gov/current/pub/chap_438.htm#secs_22-392_to_22-409",
+          "grouped": true,
+          "section_keys": [
+            "22-392",
+            "22-393",
+            "22-394",
+            "22-395",
+            "22-396",
+            "22-397",
+            "22-398",
+            "22-399",
+            "22-400",
+            "22-401",
+            "22-402",
+            "22-403",
+            "22-404",
+            "22-405",
+            "22-406",
+            "22-407",
+            "22-408",
+            "22-409"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-392 to 22-409 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1969, P.A. 626, S. 1–19; 1971, P.A. 145; 500, S. 1; 870, S. 118; P.A. 73-478, S. 2, 3; P.A. 76-436, S. 460, 681; P.A. 77-603, S. 102, 125; P.A. 78-280, S. 6, 127; P.A. 88-230, S. 1, 12; P.A. 90-98, S. 1, 2; P.A. 93-142, S. 4, 7, 8; P.A. 96-259, S. 17.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-392 to 22-409 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12995,7 +14151,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-392 to 22-409. Connecticut Meat and Poultry Products Inspection Act. Sections 22-392 to 22-409 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -13010,7 +14169,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-392 to 22-409. Connecticut Meat and Poultry Products Inspection Act. Sections 22-392 to 22-409 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -13349,24 +14511,77 @@
           "section_key": "",
           "label": "Secs. 22-417 and 22-418. Commission established; membership. Commission's duties.",
           "url": "https://www.cga.ct.gov/current/pub/chap_438b.htm#secs_22-417_and_22-418",
+          "grouped": true,
+          "section_keys": [
+            "22-417",
+            "22-418"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 22-417 and 22-418 are repealed, effective October 1, 1997."
+            ],
+            "source": [
+              "(June Sp. Sess. P.A. 83-36, S. 2, 3, 7; P.A. 93-381, S. 9, 39; P.A. 95-250, S. 1; 95-257, S. 12, 21, 58; P.A. 96-211, S. 1, 5, 6; P.A. 97-234, S. 11.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 22-417 and 22-418 are repealed, effective October 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 22-419 to 22-449.",
           "url": "https://www.cga.ct.gov/current/pub/chap_438b.htm#secs_22-419_to_22-449",
+          "grouped": true,
+          "section_keys": [
+            "22-419",
+            "22-420",
+            "22-421",
+            "22-422",
+            "22-423",
+            "22-424",
+            "22-425",
+            "22-426",
+            "22-427",
+            "22-428",
+            "22-429",
+            "22-430",
+            "22-431",
+            "22-432",
+            "22-433",
+            "22-434",
+            "22-435",
+            "22-436",
+            "22-437",
+            "22-438",
+            "22-439",
+            "22-440",
+            "22-441",
+            "22-442",
+            "22-443",
+            "22-444",
+            "22-445",
+            "22-446",
+            "22-447",
+            "22-448",
+            "22-449"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -13381,7 +14596,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-417 and 22-418. Commission established; membership. Commission's duties. Sections 22-417 and 22-418 are repealed, effective October 1, 1997.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -13396,7 +14614,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 22-417 and 22-418. Commission established; membership. Commission's duties. Sections 22-417 and 22-418 are repealed, effective October 1, 1997.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -13457,19 +14678,34 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-452 is repealed, effective July 1, 1998."
+            "text": "Section 22-452 is repealed, effective July 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 22-453 and 22-454.",
           "url": "https://www.cga.ct.gov/current/pub/chap_438c.htm#secs_22-453_and_22-454",
+          "grouped": true,
+          "section_keys": [
+            "22-453",
+            "22-454"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -13534,7 +14770,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 22-457 is repealed, effective June 4, 2024."
+            "text": "Section 22-457 is repealed, effective June 4, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]

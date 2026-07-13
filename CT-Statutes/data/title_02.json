@@ -215,7 +215,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-1h is repealed, effective May 26, 2006."
+            "text": "Section 2-1h is repealed, effective May 26, 2006.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -426,19 +430,49 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-8a is repealed."
+            "text": "Section 2-8a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 2-8b to 2-8p. General Assembly pension system.",
           "url": "https://www.cga.ct.gov/current/pub/chap_016.htm#secs_2-8b_to_2-8p",
+          "grouped": true,
+          "section_keys": [
+            "2-8b",
+            "2-8c",
+            "2-8d",
+            "2-8e",
+            "2-8f",
+            "2-8g",
+            "2-8h",
+            "2-8i",
+            "2-8j",
+            "2-8k",
+            "2-8l",
+            "2-8m",
+            "2-8n",
+            "2-8o",
+            "2-8p"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 2-8b to 2-8p , inclusive, are repealed."
+            ],
+            "source": [
+              "(1972, P.A. 281, S. 4–18; P.A. 75-37; 75-628, S. 2–5; P.A. 76-238; 76-407, S. 1–3; P.A. 77-238; P.A. 79-106, S. 1–3; 79-631, S. 42, 111; P.A. 81-343, S. 1, 7; 81-456, S. 1, 2, 6–8; P.A. 84-546, S. 6, 173; P.A. 85-502, S. 8, 9.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 2-8b to 2-8p , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -516,7 +550,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-9a is repealed, effective July 1, 2022."
+            "text": "Section 2-9a is repealed, effective July 1, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -532,7 +570,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-9b is repealed."
+            "text": "Section 2-9b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -832,7 +874,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-19 is repealed."
+            "text": "Section 2-19 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -885,7 +931,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-21 is repealed."
+            "text": "Section 2-21 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1012,7 +1062,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-25 is repealed."
+            "text": "Section 2-25 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1102,7 +1156,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-28 is repealed."
+            "text": "Section 2-28 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1553,7 +1611,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-36a is repealed, effective October 1, 2019."
+            "text": "Section 2-36a is repealed, effective October 1, 2019.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1716,7 +1778,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-41 is repealed."
+            "text": "Section 2-41 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1805,7 +1871,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-45 is repealed."
+            "text": "Section 2-45 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1915,7 +1985,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-50 is repealed."
+            "text": "Section 2-50 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1990,24 +2064,56 @@
           "section_key": "",
           "label": "Secs. 2-53a to 2-53c. Legislative Commission on Human Rights and Opportunities.",
           "url": "https://www.cga.ct.gov/current/pub/chap_016.htm#secs_2-53a_to_2-53c",
+          "grouped": true,
+          "section_keys": [
+            "2-53a",
+            "2-53b",
+            "2-53c"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 2-53a to 2-53c , inclusive, are repealed."
+            ],
+            "source": [
+              "(1967, P.A. 636, S. 1–3; P.A. 78-3; 78-280, S. 2, 127.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 2-53a to 2-53c , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 2-53d to 2-53j. “Program review” and “investigation” defined. Legislative Program Review and Investigations Committee. Meetings of committee. Duties; confidentiality of information. Corrective action by agency officials; report to General Assembly. Studies by committee. Reports.",
           "url": "https://www.cga.ct.gov/current/pub/chap_016.htm#secs_2-53d_to_2-53j",
+          "grouped": true,
+          "section_keys": [
+            "2-53d",
+            "2-53e",
+            "2-53f",
+            "2-53g",
+            "2-53h",
+            "2-53i",
+            "2-53j"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 2-53d to 2-53j , inclusive, are repealed, effective July 1, 2017."
+            ],
+            "source": [
+              "(1972, P.A. 90, S. 1–7; P.A. 75-388, S. 1–7; P.A. 79-31, S. 10, 17; P.A. 82-314, S. 3, 63; P.A. 82-472, S. 2, 183; P.A. 85-559, S. 7; P.A. 89-142, S. 1; P.A. 93-250, S. 1, 5; P.A. 11-150, S. 7–9; June 12 Sp. Sess. P.A. 12-2, S. 36; P.A. 17-60, S. 16.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 2-53d to 2-53j , inclusive, are repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2023,7 +2129,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-53k is repealed, effective October 1, 2002."
+            "text": "Section 2-53k is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2096,7 +2206,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 2-8b to 2-8p. General Assembly pension system. Sections 2-8b to 2-8p , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2111,7 +2224,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 2-8b to 2-8p. General Assembly pension system. Sections 2-8b to 2-8p , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2198,7 +2314,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 2-53a to 2-53c. Legislative Commission on Human Rights and Opportunities. Sections 2-53a to 2-53c , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2213,7 +2332,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 2-53a to 2-53c. Legislative Commission on Human Rights and Opportunities. Sections 2-53a to 2-53c , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2322,7 +2444,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-55a is repealed."
+            "text": "Section 2-55a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2774,12 +2900,32 @@
           "section_key": "",
           "label": "Secs. 2-63 to 2-71. Legislative Council.",
           "url": "https://www.cga.ct.gov/current/pub/chap_018.htm#secs_2-63_to_2-71",
+          "grouped": true,
+          "section_keys": [
+            "2-63",
+            "2-64",
+            "2-65",
+            "2-66",
+            "2-67",
+            "2-68",
+            "2-69",
+            "2-70",
+            "2-71"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 2-63 to 2-71 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 54–62; 1953, 1955, S. 1963d; 1955, S. 19d; 1957, P.A. 493, S. 1; 655, S. 1; 1959, P.A. 561, S. 1; 1967, P.A. 152, S. 6; 705, S. 1; 1969, P.A. 749, S. 20.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 2-63 to 2-71 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2794,7 +2940,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 2-63 to 2-71. Legislative Council. Sections 2-63 to 2-71 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2809,7 +2958,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 2-63 to 2-71. Legislative Council. Sections 2-63 to 2-71 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -2995,12 +3147,25 @@
           "section_key": "",
           "label": "Secs. 2-71j and 2-71k. Transfer of Legislative Council employees. Appropriation.",
           "url": "https://www.cga.ct.gov/current/pub/chap_018a.htm#secs_2-71j_and_2-71k",
+          "grouped": true,
+          "section_keys": [
+            "2-71j",
+            "2-71k"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Obsolete."
+            ],
+            "source": [
+              "(1969, P.A. 749, S. 17, 19.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -3035,7 +3200,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-71m is repealed."
+            "text": "Section 2-71m is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3249,7 +3418,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-71w is repealed, effective July 1, 2001."
+            "text": "Section 2-71w is repealed, effective July 1, 2001.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3320,12 +3493,30 @@
           "section_key": "",
           "label": "Secs. 2-72 to 2-78. Senate and House committee; compensation. Governor's Committee on Intergovernmental Cooperation. Duties and terms of committees. Connecticut Commission. Duties of commission. Delegations, committees and advisory boards of commission. Report.",
           "url": "https://www.cga.ct.gov/current/pub/chap_019.htm#secs_2-72_to_2-78",
+          "grouped": true,
+          "section_keys": [
+            "2-72",
+            "2-73",
+            "2-74",
+            "2-75",
+            "2-76",
+            "2-77",
+            "2-78"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 2-72 to 2-78 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 63–69; 1955, S. 20d; 1957, P.A. 460, S. 1–4; 1961, P.A. 39, S. 1; February, 1965, P.A. 521; 1967, P.A. 704, S. 1; P.A. 73-679, S. 5, 43; P.A. 75-537, S. 15, 55; P.A. 77-563, S. 4, 5; 77-614, S. 19, 610; P.A. 88-248, S. 7.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 2-72 to 2-78 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3356,7 +3547,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 2-72 to 2-78. Senate and House committee; compensation. Governor's Committee on Intergovernmental Cooperation. Duties and terms of committees. Connecticut Commission. Duties of commission. Delegations, committees and advisory boards of commission. Report. Sections 2-72 to 2-78 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3371,7 +3565,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 2-72 to 2-78. Senate and House committee; compensation. Governor's Committee on Intergovernmental Cooperation. Duties and terms of committees. Connecticut Commission. Duties of commission. Delegations, committees and advisory boards of commission. Report. Sections 2-72 to 2-78 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3411,12 +3608,24 @@
           "section_key": "",
           "label": "Secs. 2-79b to 2-79d.",
           "url": "https://www.cga.ct.gov/current/pub/chap_019a.htm#secs_2-79b_to_2-79d",
+          "grouped": true,
+          "section_keys": [
+            "2-79b",
+            "2-79c",
+            "2-79d"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -3455,12 +3664,25 @@
           "section_key": "",
           "label": "Secs. 2-79f to 2-79i.",
           "url": "https://www.cga.ct.gov/current/pub/chap_019b.htm#secs_2-79f_to_2-79i",
+          "grouped": true,
+          "section_keys": [
+            "2-79f",
+            "2-79g",
+            "2-79h",
+            "2-79i"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -3582,12 +3804,27 @@
           "section_key": "",
           "label": "Secs. 2-85 to 2-88. Law Revision Commission established in Legislative Department. Members of the commission. Duties of the commission. Public and private assistance.",
           "url": "https://www.cga.ct.gov/current/pub/chap_022.htm#secs_2-85_to_2-88",
+          "grouped": true,
+          "section_keys": [
+            "2-85",
+            "2-86",
+            "2-87",
+            "2-88"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 2-85 to 2-88 , inclusive, are repealed, effective July 1, 2023."
+            ],
+            "source": [
+              "(P.A. 74-132, S. 1–6; 74-338, S. 87, 94; P.A. 77-229; 77-557, S. 1, 3; P.A. 78-131, S. 1, 2; P.A. 81-459, S. 2, 3; P.A. 87-293, S. 1, 2; May 9 Sp. Sess. P.A. 02-7, S. 63; P.A. 23-204, S. 444.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 2-85 to 2-88 , inclusive, are repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3602,7 +3839,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 2-85 to 2-88. Law Revision Commission established in Legislative Department. Members of the commission. Duties of the commission. Public and private assistance. Sections 2-85 to 2-88 , inclusive, are repealed, effective July 1, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3617,7 +3857,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 2-85 to 2-88. Law Revision Commission established in Legislative Department. Members of the commission. Duties of the commission. Public and private assistance. Sections 2-85 to 2-88 , inclusive, are repealed, effective July 1, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3705,7 +3948,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-90b is repealed, effective October 1, 2021."
+            "text": "Section 2-90b is repealed, effective October 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3815,12 +4062,28 @@
           "section_key": "",
           "label": "Secs. 2-93 to 2-99.",
           "url": "https://www.cga.ct.gov/current/pub/chap_023.htm#secs_2-93_to_2-99",
+          "grouped": true,
+          "section_keys": [
+            "2-93",
+            "2-94",
+            "2-95",
+            "2-96",
+            "2-97",
+            "2-98",
+            "2-99"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -3844,7 +4107,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-100 is repealed."
+            "text": "Section 2-100 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -3859,12 +4126,27 @@
           "section_key": "",
           "label": "Secs. 2-101 to 2-104. Office of the Inspector General.",
           "url": "https://www.cga.ct.gov/current/pub/chap_023b.htm#secs_2-101_to_2-104",
+          "grouped": true,
+          "section_keys": [
+            "2-101",
+            "2-102",
+            "2-103",
+            "2-104"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 2-101 to 2-104 , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 85-559, S. 1–4; P.A. 87-442, S. 7, 8.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 2-101 to 2-104 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3880,19 +4162,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-105 is repealed, effective October 1, 2002."
+            "text": "Section 2-105 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 2-106 to 2-109.",
           "url": "https://www.cga.ct.gov/current/pub/chap_023b.htm#secs_2-106_to_2-109",
+          "grouped": true,
+          "section_keys": [
+            "2-106",
+            "2-107",
+            "2-108",
+            "2-109"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3907,7 +4206,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 2-101 to 2-104. Office of the Inspector General. Sections 2-101 to 2-104 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3922,7 +4224,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 2-101 to 2-104. Office of the Inspector General. Sections 2-101 to 2-104 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3946,7 +4251,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-110 is repealed, effective July 1, 2013."
+            "text": "Section 2-110 is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3962,19 +4271,39 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-111 is repealed, effective July 1, 2023."
+            "text": "Section 2-111 is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 2-112 to 2-118.",
           "url": "https://www.cga.ct.gov/current/pub/chap_023c.htm#secs_2-112_to_2-118",
+          "grouped": true,
+          "section_keys": [
+            "2-112",
+            "2-113",
+            "2-114",
+            "2-115",
+            "2-116",
+            "2-117",
+            "2-118"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4045,7 +4374,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-120 is repealed, effective July 1, 2016."
+            "text": "Section 2-120 is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -4069,7 +4402,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-121 is repealed, effective July 1, 2016."
+            "text": "Section 2-121 is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -4093,7 +4430,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-122 is repealed, effective July 1, 2016."
+            "text": "Section 2-122 is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -4108,24 +4449,48 @@
           "section_key": "",
           "label": "Secs. 2-123 to 2-124a. Connecticut Competitiveness Council; membership; vacancies; duties; annual report. Commission on Economic Competitiveness; membership; vacancies; duties; annual report. Health data collaborative working group; duties; membership; annual report.",
           "url": "https://www.cga.ct.gov/current/pub/chap_023g.htm#secs_2-123_to_2-124a",
+          "grouped": true,
+          "section_keys": [
+            "2-123",
+            "2-124a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 2-123 to 2-124a , inclusive, are repealed, effective July 1, 2023."
+            ],
+            "source": [
+              "(P.A. 15-212, S. 1; June Sp. Sess. P.A. 15-5, S. 498; May Sp. Sess. P.A. 16-3, S. 21; P.A. 17-85, S. 1; 17-105, S. 4; P.A. 18-91, S. 13; P.A. 23-204, S. 444.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 2-123 to 2-124a , inclusive, are repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 2-125 and 2-126.",
           "url": "https://www.cga.ct.gov/current/pub/chap_023g.htm#secs_2-125_and_2-126",
+          "grouped": true,
+          "section_keys": [
+            "2-125",
+            "2-126"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4140,7 +4505,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 2-123 to 2-124a. Connecticut Competitiveness Council; membership; vacancies; duties; annual report. Commission on Economic Competitiveness; membership; vacancies; duties; annual report. Health data collaborative working group; duties; membership; annual report. Sections 2-123 to 2-124a , inclusive, are repealed, effective July 1, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4155,7 +4523,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 2-123 to 2-124a. Connecticut Competitiveness Council; membership; vacancies; duties; annual report. Commission on Economic Competitiveness; membership; vacancies; duties; annual report. Health data collaborative working group; duties; membership; annual report. Sections 2-123 to 2-124a , inclusive, are repealed, effective July 1, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -4288,12 +4659,26 @@
           "section_key": "",
           "label": "Secs. 2-130 to 2-134.",
           "url": "https://www.cga.ct.gov/current/pub/chap_023h.htm#secs_2-130_to_2-134",
+          "grouped": true,
+          "section_keys": [
+            "2-130",
+            "2-131",
+            "2-132",
+            "2-133",
+            "2-134"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -4317,7 +4702,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-135 is repealed, effective July 1, 2019."
+            "text": "Section 2-135 is repealed, effective July 1, 2019.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4333,7 +4722,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 2-136 is repealed, effective July 1, 2019."
+            "text": "Section 2-136 is repealed, effective July 1, 2019.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]

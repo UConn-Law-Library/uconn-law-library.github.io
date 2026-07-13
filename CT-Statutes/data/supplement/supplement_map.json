@@ -3,7 +3,7 @@
     "kind": "supplement",
     "supplement_year": 2026,
     "titles_url": "https://www.cga.ct.gov/2026/sup/titles.htm",
-    "generated_at_utc": "2026-07-12T18:21:15Z",
+    "generated_at_utc": "2026-07-13T13:47:01Z",
     "user_agent": "Mozilla/5.0 (compatible; CTStatutesIndexer/1.0; +https://www.cga.ct.gov/current/pub/titles.htm)"
   },
   "titles": [
@@ -521,6 +521,12 @@
     "319y": {
       "t": "17b"
     },
+    "319rr": {
+      "t": "17b"
+    },
+    "319uu": {
+      "t": "17b"
+    },
     "325": {
       "t": "18"
     },
@@ -549,6 +555,12 @@
       "t": "19a"
     },
     "368z": {
+      "t": "19a"
+    },
+    "368dd": {
+      "t": "19a"
+    },
+    "368ll": {
       "t": "19a"
     },
     "370": {
@@ -860,6 +872,12 @@
     "588x": {
       "t": "32"
     },
+    "588gg": {
+      "t": "32"
+    },
+    "588hh": {
+      "t": "32"
+    },
     "613a": {
       "t": "34"
     },
@@ -954,6 +972,18 @@
       "t": "42"
     },
     "743n": {
+      "t": "42"
+    },
+    "743dd": {
+      "t": "42"
+    },
+    "743ff": {
+      "t": "42"
+    },
+    "743jj": {
+      "t": "42"
+    },
+    "743kk": {
       "t": "42"
     },
     "art_001": {
@@ -6921,6 +6951,18 @@
       "l": "Sec. 17b-354. Moratorium on requests for additional nursing home beds. Exceptions. Continuing care facility. Medicaid nursing facility bed relocation. Construction. Financing. Regulations.",
       "f": "title_17b.json"
     },
+    "17b-749": {
+      "t": "17b",
+      "c": "319rr",
+      "l": "Sec. 17b-749. (Formerly Sec. 8-210b). Child care subsidy program. Eligibility and program standards. Child care providers. Federal regulations and policies and procedures. Quarterly reports.",
+      "f": "title_17b.json"
+    },
+    "17b-801": {
+      "t": "17b",
+      "c": "319uu",
+      "l": "Sec. 17b-801. (Formerly Sec. 17-591). Fuel and weatherization assistance programs. Crime prevention and safety program.",
+      "f": "title_17b.json"
+    },
     "18-80a": {
       "t": "18",
       "c": "325",
@@ -7448,6 +7490,66 @@
       "t": "19a",
       "c": "368z",
       "l": "Sec. 19a-639g. Emergency certificate of need application process for transfers of ownership involving hospitals that have filed for bankruptcy protection.",
+      "f": "title_19a.json"
+    },
+    "19a-754a": {
+      "t": "19a",
+      "c": "368dd",
+      "l": "Sec. 19a-754a. Office of Health Strategy established.",
+      "f": "title_19a.json"
+    },
+    "19a-754e": {
+      "t": "19a",
+      "c": "368dd",
+      "l": "Sec. 19a-754e. Health care expansion study. Report.",
+      "f": "title_19a.json"
+    },
+    "19a-754g": {
+      "t": "19a",
+      "c": "368dd",
+      "l": "Sec. 19a-754g. Development, publication and modification of health care cost growth benchmarks, primary care spending targets and health care quality benchmarks.",
+      "f": "title_19a.json"
+    },
+    "19a-900": {
+      "t": "19a",
+      "c": "368ll",
+      "l": "Sec. 19a-900. Use of epinephrine by staff member of before or after school program, day camp or child care facility.",
+      "f": "title_19a.json"
+    },
+    "19a-900a": {
+      "t": "19a",
+      "c": "368ll",
+      "l": "Sec. 19a-900a. Administration of epinephrine to certain children for purpose of emergency first aid.",
+      "f": "title_19a.json"
+    },
+    "19a-903b": {
+      "t": "19a",
+      "c": "368ll",
+      "l": "Sec. 19a-903b. Hospital designation of health care providers and technologists to perform oxygen-related patient care activities. Training. Competency testing. Exception.",
+      "f": "title_19a.json"
+    },
+    "19a-906": {
+      "t": "19a",
+      "c": "368ll",
+      "l": "Sec. 19a-906. Telehealth services.",
+      "f": "title_19a.json"
+    },
+    "19a-909": {
+      "t": "19a",
+      "c": "368ll",
+      "l": "Sec. 19a-909. Access to and maintenance and administration of epinephrine by authorized entities. Limitation on liability.",
+      "f": "title_19a.json"
+    },
+    "19a-919": {
+      "t": "19a",
+      "c": "368ll",
+      "l": "Sec. 19a-919. Consent by a minor for services, examination or treatment related to pregnancy and pregnancy prevention. Confidentiality and liability for costs.",
+      "f": "title_19a.json"
+    },
+    "19a-920": {
+      "t": "19a",
+      "c": "368ll",
+      "l": "Sec. 19a-920. Provision of bank account information, credit card or debit card number or any other form of electronic payment as prerequisite to seeing patient or providing health care service to a patient. Prohibited.",
       "f": "title_19a.json"
     },
     "20-11b": {
@@ -10033,6 +10135,30 @@
       "l": "Sec. 32-615. Bond authorization for the downtown higher education center project.",
       "f": "title_32.json"
     },
+    "32-762": {
+      "t": "32",
+      "c": "588gg",
+      "l": "Sec. 32-762. Brownfield remediation and development account.",
+      "f": "title_32.json"
+    },
+    "32-763": {
+      "t": "32",
+      "c": "588gg",
+      "l": "Sec. 32-763. (Formerly Sec. 32-9kk). Remedial action and redevelopment municipal grant program.",
+      "f": "title_32.json"
+    },
+    "32-765": {
+      "t": "32",
+      "c": "588gg",
+      "l": "Sec. 32-765. Targeted brownfield development loan program.",
+      "f": "title_32.json"
+    },
+    "32-781": {
+      "t": "32",
+      "c": "588hh",
+      "l": "Sec. 32-781. Connecticut-Puerto Rico Trade Commission. Membership. Powers and duties. Annual Report.",
+      "f": "title_32.json"
+    },
     "34-243r": {
       "t": "34",
       "c": "613a",
@@ -10799,6 +10925,126 @@
       "t": "42",
       "c": "743n",
       "l": "Sec. 42-301. Sweepstakes or promotional drawing. Restrictions. Exceptions. Violations. Penalties.",
+      "f": "title_42.json"
+    },
+    "42-472a": {
+      "t": "42",
+      "c": "743dd",
+      "l": "Sec. 42-472a. Privacy protection guaranty and enforcement account.",
+      "f": "title_42.json"
+    },
+    "42-481": {
+      "t": "42",
+      "c": "743ff",
+      "l": "Sec. 42-481. Definitions.",
+      "f": "title_42.json"
+    },
+    "42-515": {
+      "t": "42",
+      "c": "743jj",
+      "l": "Sec. 42-515. *(See end of section for amended version and effective date.) Definitions.",
+      "f": "title_42.json"
+    },
+    "42-516": {
+      "t": "42",
+      "c": "743jj",
+      "l": "Sec. 42-516. *(See end of section for amended version and effective date.) Applicability.",
+      "f": "title_42.json"
+    },
+    "42-517": {
+      "t": "42",
+      "c": "743jj",
+      "l": "Sec. 42-517. *(See end of section for amended versions of subsections (a) and (b) and effective date.) Exemptions.",
+      "f": "title_42.json"
+    },
+    "42-518": {
+      "t": "42",
+      "c": "743jj",
+      "l": "Sec. 42-518. *(See end of section for amended version and effective date.) Consumers' rights. Compliance by Controllers. Appeals.",
+      "f": "title_42.json"
+    },
+    "42-520": {
+      "t": "42",
+      "c": "743jj",
+      "l": "Sec. 42-520. *(See end of section for amended version and effective date.) Controllers' duties. Sale of personal data to third parties. Notice and disclosure to consumers. Consumer opt-out.",
+      "f": "title_42.json"
+    },
+    "42-521": {
+      "t": "42",
+      "c": "743jj",
+      "l": "Sec. 42-521. *(See end of section for amended version and effective date.) Processors' duties. Contracts between controllers and processors.",
+      "f": "title_42.json"
+    },
+    "42-522": {
+      "t": "42",
+      "c": "743jj",
+      "l": "Sec. 42-522. *(See end of section for amended version and effective date.) Controllers' data protection assessments. Disclosure to Attorney General.",
+      "f": "title_42.json"
+    },
+    "42-524": {
+      "t": "42",
+      "c": "743jj",
+      "l": "Sec. 42-524. *(See end of section for amended versions of subsections (a) to (d) and effective date.) Construction of controllers', consumer health date controllers' and processors' duties.",
+      "f": "title_42.json"
+    },
+    "42-528": {
+      "t": "42",
+      "c": "743jj",
+      "l": "Sec. 42-528. *(See end of section for amended versions of subsections (a) and (b) and effective date.) Social media platforms and minors. Request to unpublish or delete minor's account. Enforcement. Penalty.",
+      "f": "title_42.json"
+    },
+    "42-529": {
+      "t": "42",
+      "c": "743jj",
+      "l": "Sec. 42-529. *(See end of section for amended version and effective date.) Definitions.",
+      "f": "title_42.json"
+    },
+    "42-529a": {
+      "t": "42",
+      "c": "743jj",
+      "l": "Sec. 42-529a. *(See end of section for amended version and effective date.) Controllers' duties. Consumer consent.",
+      "f": "title_42.json"
+    },
+    "42-529b": {
+      "t": "42",
+      "c": "743jj",
+      "l": "Sec. 42-529b. *(See end of section for amended version and effective date.) Controllers' data protections assessments. Review, record keeping, confidentiality and disclosure. Risk mitigation plan.",
+      "f": "title_42.json"
+    },
+    "42-529c": {
+      "t": "42",
+      "c": "743jj",
+      "l": "Sec. 42-529c. *(See end of section for amended version of subsection (a) and effective date.) Processors' duties. Contracts between controllers and processors.",
+      "f": "title_42.json"
+    },
+    "42-529d": {
+      "t": "42",
+      "c": "743jj",
+      "l": "Sec. 42-529d. *(See end of section for amended version of subsection (d) and effective date.) Exemptions.",
+      "f": "title_42.json"
+    },
+    "42-530": {
+      "t": "42",
+      "c": "743jj",
+      "l": "Sec. 42-530. (Note: This section is effective July 1, 2026.) Social media platform to incorporate online safety center and establish cyberbullying policy.",
+      "f": "title_42.json"
+    },
+    "42-531": {
+      "t": "42",
+      "c": "743jj",
+      "l": "Sec. 42-531. (Note: This section is effective July 1, 2026.) Connected devices. Requirements. Exceptions. Unfair or deceptive trade practice.",
+      "f": "title_42.json"
+    },
+    "42-531a": {
+      "t": "42",
+      "c": "743jj",
+      "l": "Sec. 42-531a. (Note: This section is effective July 1, 2026.) Connected vehicle services. Requirements re survivors and covered providers. Immunity from civil liability.",
+      "f": "title_42.json"
+    },
+    "42-536": {
+      "t": "42",
+      "c": "743kk",
+      "l": "Sec. 42-536. (Note: This section is effective July 1, 2026.) Price transparency for goods and services. Requirements. Exceptions. Unfair or deceptive trade practice.",
       "f": "title_42.json"
     },
     "42a-1-201": {

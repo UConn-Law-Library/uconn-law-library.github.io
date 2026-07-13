@@ -100,7 +100,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 814c, Sec. 46a-64a ."
+            "text": "Transferred to Chapter 814c, Sec. 46a-64a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -646,7 +650,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 47a-8 is repealed, effective July 1, 1994."
+            "text": "Section 47a-8 is repealed, effective July 1, 1994.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1579,12 +1587,24 @@
           "section_key": "",
           "label": "Secs. 47a-20b to 47a-20d.",
           "url": "https://www.cga.ct.gov/current/pub/chap_830.htm#secs_47a-20b_to_47a-20d",
+          "grouped": true,
+          "section_keys": [
+            "47a-20b",
+            "47a-20c",
+            "47a-20d"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1735,7 +1755,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 47a-22 is repealed."
+            "text": "Section 47a-22 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1960,7 +1984,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -3228,12 +3256,24 @@
           "section_key": "",
           "label": "Secs. 47a-47 to 47a-49.",
           "url": "https://www.cga.ct.gov/current/pub/chap_833.htm#secs_47a-47_to_47a-49",
+          "grouped": true,
+          "section_keys": [
+            "47a-47",
+            "47a-48",
+            "47a-49"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -3976,12 +4016,27 @@
           "section_key": "",
           "label": "Secs. 47a-62 to 47a-67.",
           "url": "https://www.cga.ct.gov/current/pub/chap_833a.htm#secs_47a-62_to_47a-67",
+          "grouped": true,
+          "section_keys": [
+            "47a-62",
+            "47a-63",
+            "47a-64",
+            "47a-65",
+            "47a-66",
+            "47a-67"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -4110,7 +4165,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 47a-71 is repealed."
+            "text": "Section 47a-71 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {

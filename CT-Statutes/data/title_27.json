@@ -136,7 +136,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 27-6 is repealed."
+            "text": "Section 27-6 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -400,7 +404,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 27-19a is repealed, effective October 1, 2013."
+            "text": "Section 27-19a is repealed, effective October 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -663,7 +671,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 27-30 is repealed."
+            "text": "Section 27-30 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -874,12 +886,26 @@
           "section_key": "",
           "label": "Secs. 27-38a to 27-38e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_504.htm#secs_27-38a_to_27-38e",
+          "grouped": true,
+          "section_keys": [
+            "27-38a",
+            "27-38b",
+            "27-38c",
+            "27-38d",
+            "27-38e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -989,7 +1015,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 27-42 is repealed."
+            "text": "Section 27-42 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1076,7 +1106,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 27-46a is repealed and any balance remaining in the fund created under said section on July 1, 1975 shall be transferred to the General Fund."
+            "text": "Section 27-46a is repealed and any balance remaining in the fund created under said section on July 1, 1975 shall be transferred to the General Fund.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1126,7 +1160,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 27-48 is repealed."
+            "text": "Section 27-48 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1280,7 +1318,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 27-56 is repealed, effective June 7, 2016."
+            "text": "Section 27-56 is repealed, effective June 7, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1519,7 +1561,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 27-67a is repealed, effective October 1, 2013."
+            "text": "Section 27-67a is repealed, effective October 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1535,19 +1581,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 27-68 is repealed, effective July 1, 2005."
+            "text": "Section 27-68 is repealed, effective July 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 27-69 and 27-69a. Death benefits. Death benefits for deaths between September 11, 2001, and June 30, 2006.",
           "url": "https://www.cga.ct.gov/current/pub/chap_504.htm#secs_27-69_and_27-69a",
+          "grouped": true,
+          "section_keys": [
+            "27-69",
+            "27-69a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 27-69 and 27-69a are repealed, effective October 1, 2013."
+            ],
+            "source": [
+              "(1949 Rev., S. 1275; 1949, S. 863d; P.A. 77-549, S. 1; June Sp. Sess. P.A. 05-3, S. 8; P.A. 13-25, S. 7.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 27-69 and 27-69a are repealed, effective October 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2044,12 +2107,37 @@
           "section_key": "",
           "label": "Secs. 27-87 to 27-100. Discipline.",
           "url": "https://www.cga.ct.gov/current/pub/chap_504.htm#secs_27-87_to_27-100",
+          "grouped": true,
+          "section_keys": [
+            "27-87",
+            "27-88",
+            "27-89",
+            "27-90",
+            "27-91",
+            "27-92",
+            "27-93",
+            "27-94",
+            "27-95",
+            "27-96",
+            "27-97",
+            "27-98",
+            "27-99",
+            "27-100"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 27-87 to 27-100 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 1264, 1286, 1288–1295, 1297, 1318; 1949, S. 868d; 1953, S. 872d; 1957, P.A. 365, S. 47–54, 56–58, 60, 61; 1959, P.A. 367, S. 1; 1967, P.A. 717, S. 136.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 27-87 to 27-100 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2207,7 +2295,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 27-69 and 27-69a. Death benefits. Death benefits for deaths between September 11, 2001, and June 30, 2006. Sections 27-69 and 27-69a are repealed, effective October 1, 2013.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2222,7 +2313,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 27-69 and 27-69a. Death benefits. Death benefits for deaths between September 11, 2001, and June 30, 2006. Sections 27-69 and 27-69a are repealed, effective October 1, 2013.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2237,7 +2331,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 27-87 to 27-100. Discipline. Sections 27-87 to 27-100 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2252,7 +2349,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 27-87 to 27-100. Discipline. Sections 27-87 to 27-100 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -2345,12 +2445,30 @@
           "section_key": "",
           "label": "Secs. 27-102c to 27-102k.",
           "url": "https://www.cga.ct.gov/current/pub/chap_505a.htm#secs_27-102c_to_27-102k",
+          "grouped": true,
+          "section_keys": [
+            "27-102c",
+            "27-102d",
+            "27-102e",
+            "27-102f",
+            "27-102g",
+            "27-102h",
+            "27-102i",
+            "27-102j",
+            "27-102k"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -2559,12 +2677,26 @@
           "section_key": "",
           "label": "Secs. 27-104, 27-104a and 27-105. Veterans' Home and Hospital Commission. Civil actions, claims and demands against commission members or employees; immunity; indemnification; representation by Attorney General. Officers; treasurer.",
           "url": "https://www.cga.ct.gov/current/pub/chap_506.htm#secs_27-104_27-104a_and_27-105",
+          "grouped": true,
+          "section_keys": [
+            "27-104",
+            "27-104a",
+            "27-105"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 27-104 , 27-104a and 27-105 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2926, 2927; 1955, S. 1636d; September, 1957, P.A. 11, S. 13; P.A. 73-643, S. 2; 76-371, S. 4, 5; P.A. 77-614, S. 339, 610; P.A. 79-560, S. 37, 39; P.A. 81-473, S. 34, 43; P.A. 88-285, S. 34, 35.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 27-104 , 27-104a and 27-105 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2721,12 +2853,28 @@
           "section_key": "",
           "label": "Secs. 27-111 to 27-115. Fees for commitment. Care elsewhere than in Veterans' Home and Hospital. Treatment of dipsomaniacs. Commission to investigate complaints. Support of dependents.",
           "url": "https://www.cga.ct.gov/current/pub/chap_506.htm#secs_27-111_to_27-115",
+          "grouped": true,
+          "section_keys": [
+            "27-111",
+            "27-112",
+            "27-113",
+            "27-114",
+            "27-115"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 27-111 to 27-115 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2932–2936; 1949, S. 1638d; 1951, S. 1640d; June, 1955, S. 1639d; 1963, P.A. 622; 1967, P.A. 843, S. 1; P.A. 74-321, S. 17; P.A. 86-394, S. 1, 3; P.A. 88-285, S. 10, 11, 34, 35; P.A. 90-230, S. 37, 101; June Sp. Sess. P.A. 91-9, S. 9, 10; June Sp. Sess. P.A. 91-12, S. 54, 55; June Sp. Sess. P.A. 91-14, S. 28, 30.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 27-111 to 27-115 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2742,7 +2890,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -2776,7 +2928,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 27-116 is repealed, effective October 1, 2002."
+            "text": "Section 27-116 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2921,7 +3077,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 27-122 is repealed."
+            "text": "Section 27-122 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3071,7 +3231,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 27-127 is repealed."
+            "text": "Section 27-127 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3152,12 +3316,25 @@
           "section_key": "",
           "label": "Secs. 27-132 and 27-133. Roster of Connecticut men and women in armed forces during the First World War. Distribution and sale of World War I roster.",
           "url": "https://www.cga.ct.gov/current/pub/chap_506.htm#secs_27-132_and_27-133",
+          "grouped": true,
+          "section_keys": [
+            "27-132",
+            "27-133"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 27-132 and 27-133 are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 1314, 1315; 1961, P.A. 261, S. 2; 275; P.A. 77-614, S. 521, 610; P.A. 88-285, S. 23, 35; P.A. 93-262, S. 1, 87; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 27-132 and 27-133 are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3341,7 +3518,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 27-138d is repealed, effective July 1, 2014."
+            "text": "Section 27-138d is repealed, effective July 1, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3433,7 +3614,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 27-139 is repealed."
+            "text": "Section 27-139 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3458,12 +3643,36 @@
           "section_key": "",
           "label": "Secs. 27-140a to 27-140m. Bonus for Veterans of Vietnam Era, generally.",
           "url": "https://www.cga.ct.gov/current/pub/chap_506.htm#secs_27-140a_to_27-140m",
+          "grouped": true,
+          "section_keys": [
+            "27-140a",
+            "27-140b",
+            "27-140c",
+            "27-140d",
+            "27-140e",
+            "27-140f",
+            "27-140g",
+            "27-140h",
+            "27-140i",
+            "27-140j",
+            "27-140k",
+            "27-140l",
+            "27-140m"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 27-140a to 27-140m , inclusive, are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1967, P.A. 422, S. 1–13; 1969, P.A. 352, S. 1; 1971, P.A. 179, S. 20; 1972, P.A. 225, S. 5; P.A. 73-525; P.A. 75-483, S. 7–10; P.A. 76-436, S. 607, 681; S.A. 80-41, S. 65, 68; P.A. 98-259, S. 13, 17; P.A. 02-89, S. 90; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 27-140a to 27-140m , inclusive, are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3479,19 +3688,45 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 27-140n is repealed, effective October 1, 2002."
+            "text": "Section 27-140n is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 27-140o to 27-140y. Definitions. Bonus amount. Duties and powers of State Treasurer. Payment of expenses. Application on behalf of incapable veteran. Compensation prohibited, when. Right or payment not subject to claims or deemed assets under public assistance programs. Payment to surviving spouse. Appeals; procedure. False statement, penalty. Bonds.",
           "url": "https://www.cga.ct.gov/current/pub/chap_506.htm#secs_27-140o_to_27-140y",
+          "grouped": true,
+          "section_keys": [
+            "27-140o",
+            "27-140p",
+            "27-140q",
+            "27-140r",
+            "27-140s",
+            "27-140t",
+            "27-140u",
+            "27-140v",
+            "27-140w",
+            "27-140x",
+            "27-140y"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 27-140o to 27-140y , inclusive, are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(P.A. 74-340, S. 1–12; P.A. 75-398, S. 1, 2; 75-483, S. 1, 10; P.A. 76-436, S. 608, 681; P.A. 77-424, S. 1; P.A. 98-259, S. 14, 17; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 27-140o to 27-140y , inclusive, are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3506,7 +3741,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use.\n\n*See Sec. 52-577b re limitation of actions for damages caused by contact with or exposure to phenoxy herbicides in Indo-China."
+            "text": "Reserved for future use.\n\n*See Sec. 52-577b re limitation of actions for damages caused by contact with or exposure to phenoxy herbicides in Indo-China.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3617,12 +3856,26 @@
           "section_key": "",
           "label": "Secs. 27-140ff to 27-140hh. Definitions. Commission established; membership; vacancies. Duties of commission; reports.",
           "url": "https://www.cga.ct.gov/current/pub/chap_506.htm#secs_27-140ff_to_27-140hh",
+          "grouped": true,
+          "section_keys": [
+            "27-140ff",
+            "27-140gg",
+            "27-140hh"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 27-140ff to 27-140hh , inclusive, are repealed, effective June 1, 2004."
+            ],
+            "source": [
+              "(P.A. 97-144, S. 1–3, 5; P.A. 04-169, S. 21.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 27-140ff to 27-140hh , inclusive, are repealed, effective June 1, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3661,7 +3914,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 27-104, 27-104a and 27-105. Veterans' Home and Hospital Commission. Civil actions, claims and demands against commission members or employees; immunity; indemnification; representation by Attorney General. Officers; treasurer. Sections 27-104 , 27-104a and 27-105 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3676,7 +3932,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 27-104, 27-104a and 27-105. Veterans' Home and Hospital Commission. Civil actions, claims and demands against commission members or employees; immunity; indemnification; representation by Attorney General. Officers; treasurer. Sections 27-104 , 27-104a and 27-105 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3691,7 +3950,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 27-104, 27-104a and 27-105. Veterans' Home and Hospital Commission. Civil actions, claims and demands against commission members or employees; immunity; indemnification; representation by Attorney General. Officers; treasurer. Sections 27-104 , 27-104a and 27-105 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3706,7 +3968,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 27-111 to 27-115. Fees for commitment. Care elsewhere than in Veterans' Home and Hospital. Treatment of dipsomaniacs. Commission to investigate complaints. Support of dependents. Sections 27-111 to 27-115 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3721,7 +3986,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 27-111 to 27-115. Fees for commitment. Care elsewhere than in Veterans' Home and Hospital. Treatment of dipsomaniacs. Commission to investigate complaints. Support of dependents. Sections 27-111 to 27-115 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3736,7 +4004,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 27-132 and 27-133. Roster of Connecticut men and women in armed forces during the First World War. Distribution and sale of World War I roster. Sections 27-132 and 27-133 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3751,7 +4022,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 27-132 and 27-133. Roster of Connecticut men and women in armed forces during the First World War. Distribution and sale of World War I roster. Sections 27-132 and 27-133 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3766,7 +4040,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 27-140a to 27-140m. Bonus for Veterans of Vietnam Era, generally. Sections 27-140a to 27-140m , inclusive, are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3781,7 +4058,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 27-140a to 27-140m. Bonus for Veterans of Vietnam Era, generally. Sections 27-140a to 27-140m , inclusive, are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3826,7 +4106,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 27-140ff to 27-140hh. Definitions. Commission established; membership; vacancies. Duties of commission; reports. Sections 27-140ff to 27-140hh , inclusive, are repealed, effective June 1, 2004.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3841,7 +4124,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 27-140ff to 27-140hh. Definitions. Commission established; membership; vacancies. Duties of commission; reports. Sections 27-140ff to 27-140hh , inclusive, are repealed, effective June 1, 2004.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]

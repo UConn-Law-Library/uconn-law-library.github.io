@@ -4,7 +4,7 @@
   "title": "Mail-In Violations and Infractions Schedule (Chart A)",
   "publisher": "State of Connecticut Judicial Branch",
   "effective": "October 1, 2025",
-  "generated": "2026-07-12"
+  "generated": "2026-07-13"
  },
  "entries": [
   {
@@ -28815,7 +28815,10 @@
    "category": "BUSINESS, SELLING, TRADING AND COLLECTION PRACTICES",
    "subsequent": false,
    "page": 41,
-   "ref": null
+   "ref": {
+    "title_key": "42",
+    "chapter_key": "743dd"
+   }
   },
   {
    "stat_no": "42-470*",
@@ -28829,7 +28832,10 @@
    "category": "BUSINESS, SELLING, TRADING AND COLLECTION PRACTICES",
    "subsequent": true,
    "page": 41,
-   "ref": null
+   "ref": {
+    "title_key": "42",
+    "chapter_key": "743dd"
+   }
   },
   {
    "stat_no": "45a-283",
@@ -31353,7 +31359,10 @@
    "category": "MISCELLANEOUS",
    "subsequent": false,
    "page": 45,
-   "ref": null
+   "ref": {
+    "title_key": "42",
+    "chapter_key": "743ee"
+   }
   },
   {
    "stat_no": "43-16q(a)",

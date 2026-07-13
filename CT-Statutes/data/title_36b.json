@@ -1046,12 +1046,26 @@
           "section_key": "",
           "label": "Secs. 36b-35 to 36b-39.",
           "url": "https://www.cga.ct.gov/current/pub/chap_672a.htm#secs_36b-35_to_36b-39",
+          "grouped": true,
+          "section_keys": [
+            "36b-35",
+            "36b-36",
+            "36b-37",
+            "36b-38",
+            "36b-39"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -1325,12 +1339,28 @@
           "section_key": "",
           "label": "Secs. 36b-53 to 36b-59.",
           "url": "https://www.cga.ct.gov/current/pub/chap_672b.htm#secs_36b-53_to_36b-59",
+          "grouped": true,
+          "section_keys": [
+            "36b-53",
+            "36b-54",
+            "36b-55",
+            "36b-56",
+            "36b-57",
+            "36b-58",
+            "36b-59"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]

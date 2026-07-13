@@ -668,7 +668,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21a-13 is repealed, effective July 1, 2016."
+            "text": "Section 21a-13 is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -757,7 +761,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21a-18 is repealed."
+            "text": "Section 21a-18 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -845,7 +853,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21a-23 is repealed, effective October 1, 2002."
+            "text": "Section 21a-23 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -950,12 +962,27 @@
           "section_key": "",
           "label": "Secs. 21a-27 to 21a-30 (Formerly Secs. 19a-183a to 19a-183d). Definitions. Standards of identity, quality and fill of container for flour, bread, rolls, corn meal, grits, rice or macaroni. Analyses, examinations and investigations. Regulations. Penalty.",
           "url": "https://www.cga.ct.gov/current/pub/chap_417.htm#secs_21a-27_to_21a-30",
+          "grouped": true,
+          "section_keys": [
+            "21a-27",
+            "21a-28",
+            "21a-29",
+            "21a-30"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 21a-27 to 21a-30 , inclusive, are repealed, effective June 6, 2024."
+            ],
+            "source": [
+              "(1972, P.A. 72, S. 1–7; June, 1972, P.A. 1, S. 2; P.A. 73-377, S. 1–7; P.A. 74-338, S. 22, 94; P.A. 80-31; P.A. 81-472, S. 48, 159; P.A. 84-546, S. 63, 64, 173; June 30 Sp. Sess. P.A. 03-6, S. 146(c); P.A. 04-189, S. 1; P.A. 16-172, S. 1; P.A. 24-142, S. 91.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 21a-27 to 21a-30 , inclusive, are repealed, effective June 6, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -971,7 +998,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21a-31 is repealed, effective October 1, 2002."
+            "text": "Section 21a-31 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1548,7 +1579,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21a-60 is repealed, effective October 1, 1999."
+            "text": "Section 21a-60 is repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2318,7 +2353,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21a-78 is repealed, effective October 1, 1999."
+            "text": "Section 21a-78 is repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2332,7 +2371,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 743h, Sec. 42-230 ."
+            "text": "Transferred to Chapter 743h, Sec. 42-230 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -2348,7 +2391,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21a-78b is repealed, effective October 1, 1999."
+            "text": "Section 21a-78b is repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2436,12 +2483,25 @@
           "section_key": "",
           "label": "Secs. 21a-80 and 21a-81. (Formerly Secs. 19-210k and 19-210 l ). Natural or organically grown foods; requirements. Misbranding of natural or organically grown foods.",
           "url": "https://www.cga.ct.gov/current/pub/chap_417.htm#secs_21a-80_and_21a-81",
+          "grouped": true,
+          "section_keys": [
+            "21a-80",
+            "21a-81"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 21a-80 and 21a-81 are repealed, effective July 1, 1998."
+            ],
+            "source": [
+              "(P.A. 79-379, S. 2, 3; P.A. 80-483, S. 80, 186; P.A. 81-472, S. 49, 159; P.A. 98-73, S. 3, 4.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 21a-80 and 21a-81 are repealed, effective July 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2702,12 +2762,24 @@
           "section_key": "",
           "label": "Secs. 21a-87 to 21a-89.",
           "url": "https://www.cga.ct.gov/current/pub/chap_417.htm#secs_21a-87_to_21a-89",
+          "grouped": true,
+          "section_keys": [
+            "21a-87",
+            "21a-88",
+            "21a-89"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2753,7 +2825,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 21a-27 to 21a-30 (Formerly Secs. 19a-183a to 19a-183d). Definitions. Standards of identity, quality and fill of container for flour, bread, rolls, corn meal, grits, rice or macaroni. Analyses, examinations and investigations. Regulations. Penalty. Sections 21a-27 to 21a-30 , inclusive, are repealed, effective June 6, 2024.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2768,7 +2843,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 21a-27 to 21a-30 (Formerly Secs. 19a-183a to 19a-183d). Definitions. Standards of identity, quality and fill of container for flour, bread, rolls, corn meal, grits, rice or macaroni. Analyses, examinations and investigations. Regulations. Penalty. Sections 21a-27 to 21a-30 , inclusive, are repealed, effective June 6, 2024.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2783,7 +2861,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 21a-80 and 21a-81. (Formerly Secs. 19-210k and 19-210 l ). Natural or organically grown foods; requirements. Misbranding of natural or organically grown foods. Sections 21a-80 and 21a-81 are repealed, effective July 1, 1998.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2798,7 +2879,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 21a-80 and 21a-81. (Formerly Secs. 19-210k and 19-210 l ). Natural or organically grown foods; requirements. Misbranding of natural or organically grown foods. Sections 21a-80 and 21a-81 are repealed, effective July 1, 1998.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3429,7 +3513,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part III, Sec. 20-618 ."
+            "text": "Transferred to Chapter 400j, Part III, Sec. 20-618 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3728,12 +3816,26 @@
           "section_key": "",
           "label": "Secs. 21a-121 to 21a-125.",
           "url": "https://www.cga.ct.gov/current/pub/chap_418.htm#secs_21a-121_to_21a-125",
+          "grouped": true,
+          "section_keys": [
+            "21a-121",
+            "21a-122",
+            "21a-123",
+            "21a-124",
+            "21a-125"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -3827,12 +3929,27 @@
           "section_key": "",
           "label": "Secs. 21a-129 to 21a-134.",
           "url": "https://www.cga.ct.gov/current/pub/chap_419.htm#secs_21a-129_to_21a-134",
+          "grouped": true,
+          "section_keys": [
+            "21a-129",
+            "21a-130",
+            "21a-131",
+            "21a-132",
+            "21a-133",
+            "21a-134"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -4110,7 +4227,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4419,7 +4540,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21a-153 is repealed, effective July 1, 2012."
+            "text": "Section 21a-153 is repealed, effective July 1, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4547,19 +4672,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21a-160 is repealed, effective May 24, 2022."
+            "text": "Section 21a-160 is repealed, effective May 24, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 21a-161 to 21a-164.",
           "url": "https://www.cga.ct.gov/current/pub/chap_419b.htm#secs_21a-161_to_21a-164",
+          "grouped": true,
+          "section_keys": [
+            "21a-161",
+            "21a-162",
+            "21a-163",
+            "21a-164"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -4619,12 +4761,29 @@
           "section_key": "",
           "label": "Secs. 21a-167 to 21a-174.",
           "url": "https://www.cga.ct.gov/current/pub/chap_419c.htm#secs_21a-167_to_21a-174",
+          "grouped": true,
+          "section_keys": [
+            "21a-167",
+            "21a-168",
+            "21a-169",
+            "21a-170",
+            "21a-171",
+            "21a-172",
+            "21a-173",
+            "21a-174"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -4657,12 +4816,38 @@
           "section_key": "",
           "label": "Secs. 21a-176 to 21a-190. (Formerly Secs. 19-323 l to 19-323z). Solicitation of charitable funds.",
           "url": "https://www.cga.ct.gov/current/pub/chap_419d.htm#secs_21a-176_to_21a-190",
+          "grouped": true,
+          "section_keys": [
+            "21a-176",
+            "21a-177",
+            "21a-178",
+            "21a-179",
+            "21a-180",
+            "21a-181",
+            "21a-182",
+            "21a-183",
+            "21a-184",
+            "21a-185",
+            "21a-186",
+            "21a-187",
+            "21a-188",
+            "21a-189",
+            "21a-190"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 21a-176 to 21a-190 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1963, P.A. 551, S. 2–14; February, 1965, P.A. 419; 518; 1967, P.A. 690, S. 1–6; P.A. 73-568, S. 1–4; P.A. 74-183, S. 210, 291; P.A. 75-458, S. 1–3; 75-567, S. 21, 80; P.A. 76-406, S. 1–10; 76-436, S. 180, 681; P.A. 77-452, S. 6, 54, 72; 77-604, S. 8, 84; P.A. 78-205, S. 1, 2; 78-280, S. 5, 127; P.A. 81-75, S. 1–3; P.A. 82-472, S. 66, 183; P.A. 86-369, S. 13.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 21a-176 to 21a-190 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4895,7 +5080,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21a-190j is repealed, effective October 1, 2002."
+            "text": "Section 21a-190j is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4939,12 +5128,25 @@
           "section_key": "",
           "label": "Secs. 21a-191 to 21a-194.",
           "url": "https://www.cga.ct.gov/current/pub/chap_419d.htm#secs_21a-191_to_21a-194",
+          "grouped": true,
+          "section_keys": [
+            "21a-191",
+            "21a-192",
+            "21a-193",
+            "21a-194"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4959,7 +5161,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 21a-176 to 21a-190. (Formerly Secs. 19-323 l to 19-323z). Solicitation of charitable funds. Sections 21a-176 to 21a-190 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4974,7 +5179,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 21a-176 to 21a-190. (Formerly Secs. 19-323 l to 19-323z). Solicitation of charitable funds. Sections 21a-176 to 21a-190 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -4998,31 +5206,59 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21a-195 is repealed."
+            "text": "Section 21a-195 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 21a-195a to 21a-211.",
           "url": "https://www.cga.ct.gov/current/pub/chap_419e.htm#secs_21a-195a_to_21a-211",
+          "grouped": true,
+          "section_keys": [
+            "21a-195a",
+            "21a-211"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 532a, Secs. 29-143i to 29-143z , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 532a, Secs. 29-143i to 29-143z , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 21a-212 to 21a-215.",
           "url": "https://www.cga.ct.gov/current/pub/chap_419e.htm#secs_21a-212_to_21a-215",
+          "grouped": true,
+          "section_keys": [
+            "21a-212",
+            "21a-213",
+            "21a-214",
+            "21a-215"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -5310,12 +5546,24 @@
           "section_key": "",
           "label": "Secs. 21a-228 to 21a-230.",
           "url": "https://www.cga.ct.gov/current/pub/chap_420.htm#secs_21a-228_to_21a-230",
+          "grouped": true,
+          "section_keys": [
+            "21a-228",
+            "21a-229",
+            "21a-230"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -5486,12 +5734,24 @@
           "section_key": "",
           "label": "Secs. 21a-237 to 21a-239.",
           "url": "https://www.cga.ct.gov/current/pub/chap_420a.htm#secs_21a-237_to_21a-239",
+          "grouped": true,
+          "section_keys": [
+            "21a-237",
+            "21a-238",
+            "21a-239"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -5672,7 +5932,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21a-242 is repealed."
+            "text": "Section 21a-242 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6007,7 +6271,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 417, Sec. 21a-70a ."
+            "text": "Transferred to Chapter 417, Sec. 21a-70a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7413,12 +7681,25 @@
           "section_key": "",
           "label": "Secs. 21a-284 and 21a-285. (Formerly Secs. 19-484 and 19-485). Suspension of prosecution for treatment for drug dependence; dismissal of charges. Order for treatment in addition to penalties on conviction; penalty for unauthorized departure from hospital.",
           "url": "https://www.cga.ct.gov/current/pub/chap_420b.htm#secs_21a-284_and_21a-285",
+          "grouped": true,
+          "section_keys": [
+            "21a-284",
+            "21a-285"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 21a-284 and 21a-285 are repealed."
+            ],
+            "source": [
+              "(1967, P.A. 555, S. 40, 41; 1969, P.A. 753, S. 21–24; 1971, P.A. 871, S. 94; P.A. 79-585, S. 2, 3, 15; P.A. 86-371, S. 32, 33, 45; P.A. 89-390, S. 36, 37.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 21a-284 and 21a-285 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7460,24 +7741,63 @@
           "section_key": "",
           "label": "Secs. 21a-287 to 21a-300.",
           "url": "https://www.cga.ct.gov/current/pub/chap_420b.htm#secs_21a-287_to_21a-300",
+          "grouped": true,
+          "section_keys": [
+            "21a-287",
+            "21a-288",
+            "21a-289",
+            "21a-290",
+            "21a-291",
+            "21a-292",
+            "21a-293",
+            "21a-294",
+            "21a-295",
+            "21a-296",
+            "21a-297",
+            "21a-298",
+            "21a-299",
+            "21a-300"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 21a-301 to 21a-305. (Formerly Secs. 19-504a, 19-504c to 19-504e, 19-504g). Definitions. Regulations. Inspections of: Institutional pharmacies, pharmacist's drug rooms and dispensing outpatient facilities; correctional and juvenile training institutions and care-giving institutions. Reports by care-giving, correctional and juvenile training institutions.",
           "url": "https://www.cga.ct.gov/current/pub/chap_420b.htm#secs_21a-301_to_21a-305",
+          "grouped": true,
+          "section_keys": [
+            "21a-301",
+            "21a-302",
+            "21a-303",
+            "21a-304",
+            "21a-305"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 21a-301 to 21a-305 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1969, P.A. 593, S. 1, 3–5, 7; P.A. 73-681, S. 19–21, 29; P.A. 77-614, S. 323, 587, 610; P.A. 78-303, S. 85, 136; P.A. 79-379, S. 5; P.A. 86-403, S. 47, 132; P.A. 93-381, S. 9, 39; P.A. 95-264, S. 70.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 21a-301 to 21a-305 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7491,7 +7811,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part I, Sec. 20-578 ."
+            "text": "Transferred to Chapter 400j, Part I, Sec. 20-578 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7507,7 +7831,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21a-307 is repealed."
+            "text": "Section 21a-307 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7521,19 +7849,39 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part III, Sec. 20-613 ."
+            "text": "Transferred to Chapter 400j, Part III, Sec. 20-613 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 21a-309 to 21a-315.",
           "url": "https://www.cga.ct.gov/current/pub/chap_420b.htm#secs_21a-309_to_21a-315",
+          "grouped": true,
+          "section_keys": [
+            "21a-309",
+            "21a-310",
+            "21a-311",
+            "21a-312",
+            "21a-313",
+            "21a-314",
+            "21a-315"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7548,7 +7896,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 21a-284 and 21a-285. (Formerly Secs. 19-484 and 19-485). Suspension of prosecution for treatment for drug dependence; dismissal of charges. Order for treatment in addition to penalties on conviction; penalty for unauthorized departure from hospital. Sections 21a-284 and 21a-285 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7563,7 +7914,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 21a-284 and 21a-285. (Formerly Secs. 19-484 and 19-485). Suspension of prosecution for treatment for drug dependence; dismissal of charges. Order for treatment in addition to penalties on conviction; penalty for unauthorized departure from hospital. Sections 21a-284 and 21a-285 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7857,12 +8211,27 @@
           "section_key": "",
           "label": "Secs. 21a-329 to 21a-334.",
           "url": "https://www.cga.ct.gov/current/pub/chap_420c.htm#secs_21a-329_to_21a-334",
+          "grouped": true,
+          "section_keys": [
+            "21a-329",
+            "21a-330",
+            "21a-331",
+            "21a-332",
+            "21a-333",
+            "21a-334"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -8033,7 +8402,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21a-341 is repealed."
+            "text": "Section 21a-341 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8210,12 +8583,46 @@
           "section_key": "",
           "label": "Secs. 21a-351 to 21a-375.",
           "url": "https://www.cga.ct.gov/current/pub/chap_420d.htm#secs_21a-351_to_21a-375",
+          "grouped": true,
+          "section_keys": [
+            "21a-351",
+            "21a-352",
+            "21a-353",
+            "21a-354",
+            "21a-355",
+            "21a-356",
+            "21a-357",
+            "21a-358",
+            "21a-359",
+            "21a-360",
+            "21a-361",
+            "21a-362",
+            "21a-363",
+            "21a-364",
+            "21a-365",
+            "21a-366",
+            "21a-367",
+            "21a-368",
+            "21a-369",
+            "21a-370",
+            "21a-371",
+            "21a-372",
+            "21a-373",
+            "21a-374",
+            "21a-375"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8242,12 +8649,44 @@
           "section_key": "",
           "label": "Secs. 21a-377 to 21a-399.",
           "url": "https://www.cga.ct.gov/current/pub/chap_420d.htm#secs_21a-377_to_21a-399",
+          "grouped": true,
+          "section_keys": [
+            "21a-377",
+            "21a-378",
+            "21a-379",
+            "21a-380",
+            "21a-381",
+            "21a-382",
+            "21a-383",
+            "21a-384",
+            "21a-385",
+            "21a-386",
+            "21a-387",
+            "21a-388",
+            "21a-389",
+            "21a-390",
+            "21a-391",
+            "21a-392",
+            "21a-393",
+            "21a-394",
+            "21a-395",
+            "21a-396",
+            "21a-397",
+            "21a-398",
+            "21a-399"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -8381,12 +8820,23 @@
           "section_key": "",
           "label": "Secs. 21a-406 and 21a-407.",
           "url": "https://www.cga.ct.gov/current/pub/chap_420e.htm#secs_21a-406_and_21a-407",
+          "grouped": true,
+          "section_keys": [
+            "21a-406",
+            "21a-407"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -8752,7 +9202,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21a-408n is repealed, effective July 1, 2021."
+            "text": "Section 21a-408n is repealed, effective July 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8818,7 +9272,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21a-408q is repealed, effective July 1, 2015."
+            "text": "Section 21a-408q is repealed, effective July 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9014,12 +9472,25 @@
           "section_key": "",
           "label": "Secs. 21a-411 to 21a-414.",
           "url": "https://www.cga.ct.gov/current/pub/chap_420f.htm#secs_21a-411_to_21a-414",
+          "grouped": true,
+          "section_keys": [
+            "21a-411",
+            "21a-412",
+            "21a-413",
+            "21a-414"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -9183,7 +9654,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -9638,7 +10113,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -10735,12 +11214,41 @@
           "section_key": "",
           "label": "Secs. 21a-421gg to 21a-421zz.",
           "url": "https://www.cga.ct.gov/current/pub/chap_420h.htm#secs_21a-421gg_to_21a-421zz",
+          "grouped": true,
+          "section_keys": [
+            "21a-421gg",
+            "21a-421hh",
+            "21a-421ii",
+            "21a-421jj",
+            "21a-421kk",
+            "21a-421ll",
+            "21a-421mm",
+            "21a-421nn",
+            "21a-421oo",
+            "21a-421pp",
+            "21a-421qq",
+            "21a-421rr",
+            "21a-421ss",
+            "21a-421tt",
+            "21a-421uu",
+            "21a-421vv",
+            "21a-421ww",
+            "21a-421xx",
+            "21a-421yy",
+            "21a-421zz"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -10979,7 +11487,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11048,12 +11560,23 @@
           "section_key": "",
           "label": "Secs. 21a-422h and 21a-422i.",
           "url": "https://www.cga.ct.gov/current/pub/chap_420h.htm#secs_21a-422h_and_21a-422i",
+          "grouped": true,
+          "section_keys": [
+            "21a-422h",
+            "21a-422i"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11317,12 +11840,23 @@
           "section_key": "",
           "label": "Secs. 21a-423 and 21a-424.",
           "url": "https://www.cga.ct.gov/current/pub/chap_420h.htm#secs_21a-423_and_21a-424",
+          "grouped": true,
+          "section_keys": [
+            "21a-423",
+            "21a-424"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -11571,12 +12105,25 @@
           "section_key": "",
           "label": "Secs. 21a-427 to 21a-429.",
           "url": "https://www.cga.ct.gov/current/pub/chap_420j.htm#secs_21a-427_to_21a-429",
+          "grouped": true,
+          "section_keys": [
+            "21a-427",
+            "21a-428",
+            "21a-429"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use.",
+              "Note: Chapter 420k is also reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.\n\nNote: Chapter 420k is also reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -11814,12 +12361,26 @@
           "section_key": "",
           "label": "Secs. 21a-441 to 21a-445.",
           "url": "https://www.cga.ct.gov/current/pub/chap_420l.htm#secs_21a-441_to_21a-445",
+          "grouped": true,
+          "section_keys": [
+            "21a-441",
+            "21a-442",
+            "21a-443",
+            "21a-444",
+            "21a-445"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {

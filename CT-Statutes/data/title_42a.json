@@ -159,7 +159,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 42a-1-107 is repealed, effective October 1, 2005."
+            "text": "Section 42a-1-107 is repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -427,12 +431,25 @@
           "section_key": "",
           "label": "Secs. 42a-1-207 and 42a-1-208. Performance or acceptance under reservation of rights. Option to accelerate at will.",
           "url": "https://www.cga.ct.gov/current/pub/art_001.htm#secs_42a-1-207_and_42a-1-208",
+          "grouped": true,
+          "section_keys": [
+            "42a-1-207",
+            "42a-1-208"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 42a-1-207 and 42a-1-208 are repealed, effective October 1, 2005."
+            ],
+            "source": [
+              "(1959, P.A. 133, S. 1-207, 1-208; P.A. 91-304, S. 111; May Sp. Sess. P.A. 92-11, S. 12, 70; P.A. 05-109, S. 56.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 42a-1-207 and 42a-1-208 are repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -660,7 +677,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 42a-1-207 and 42a-1-208. Performance or acceptance under reservation of rights. Option to accelerate at will. Sections 42a-1-207 and 42a-1-208 are repealed, effective October 1, 2005.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -675,7 +695,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 42a-1-207 and 42a-1-208. Performance or acceptance under reservation of rights. Option to accelerate at will. Sections 42a-1-207 and 42a-1-208 are repealed, effective October 1, 2005.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -1072,7 +1095,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 42a-2-208 is repealed, effective October 1, 2005."
+            "text": "Section 42a-2-208 is repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3769,7 +3796,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 42a-2A-301 is repealed, effective October 1, 2005."
+            "text": "Section 42a-2A-301 is repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5808,12 +5839,26 @@
           "section_key": "",
           "label": "Secs. 42a-3-120 to 42a-3-122. Instruments “payable through” bank. Instruments payable at bank. Accrual of cause of action.",
           "url": "https://www.cga.ct.gov/current/pub/art_003.htm#secs_42a-3-120_to_42a-3-122",
+          "grouped": true,
+          "section_keys": [
+            "42a-3-120",
+            "42a-3-121",
+            "42a-3-122"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 42a-3-120 to 42a-3-122 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1959, P.A. 133, S. 3-120–3-122; 1961, P.A. 116, S. 3; P.A. 91-304, S. 112.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 42a-3-120 to 42a-3-122 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6026,7 +6071,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 42a-3-208 is repealed."
+            "text": "Section 42a-3-208 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7152,12 +7201,29 @@
           "section_key": "",
           "label": "Secs. 42a-3-506 to 42a-3-511. Time allowed for acceptance or payment. Dishonor; holder's right of recourse; term allowing representment. Notice of dishonor. Protest; noting for protest. Evidence of dishonor and notice of dishonor. Waved or excused presentment, protest or notice of dishonor or delay therein.",
           "url": "https://www.cga.ct.gov/current/pub/art_003.htm#secs_42a-3-506_to_42a-3-511",
+          "grouped": true,
+          "section_keys": [
+            "42a-3-506",
+            "42a-3-507",
+            "42a-3-508",
+            "42a-3-509",
+            "42a-3-510",
+            "42a-3-511"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 42a-3-506 to 42a-3-511 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1959, P.A. 133, S. 3-506–3-510; P.A. 91-304, S. 112.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 42a-3-506 to 42a-3-511 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7324,7 +7390,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 42a-3-606 is repealed."
+            "text": "Section 42a-3-606 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7340,19 +7410,39 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 42a-3-701 is repealed."
+            "text": "Section 42a-3-701 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 42a-3-801 to 42a-3-805. Drafts in a set. Effect of instrument on obligation for which it is given. Notice to third party. Lost, destroyed or stolen instruments. Instruments not payable to order or to bearer.",
           "url": "https://www.cga.ct.gov/current/pub/art_003.htm#secs_42a-3-801_to_42a-3-805",
+          "grouped": true,
+          "section_keys": [
+            "42a-3-801",
+            "42a-3-802",
+            "42a-3-803",
+            "42a-3-804",
+            "42a-3-805"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 42a-3-801 to 42a-3-805 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1959, P.A. 133, S. 3-801–3-805; P.A. 91-304, S. 112.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 42a-3-801 to 42a-3-805 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7367,7 +7457,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 42a-3-120 to 42a-3-122. Instruments “payable through” bank. Instruments payable at bank. Accrual of cause of action. Sections 42a-3-120 to 42a-3-122 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7382,7 +7475,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 42a-3-120 to 42a-3-122. Instruments “payable through” bank. Instruments payable at bank. Accrual of cause of action. Sections 42a-3-120 to 42a-3-122 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7427,7 +7523,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 42a-3-801 to 42a-3-805. Drafts in a set. Effect of instrument on obligation for which it is given. Notice to third party. Lost, destroyed or stolen instruments. Instruments not payable to order or to bearer. Sections 42a-3-801 to 42a-3-805 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7442,7 +7541,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 42a-3-801 to 42a-3-805. Drafts in a set. Effect of instrument on obligation for which it is given. Notice to third party. Lost, destroyed or stolen instruments. Instruments not payable to order or to bearer. Sections 42a-3-801 to 42a-3-805 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -9751,12 +9853,25 @@
           "section_key": "",
           "label": "Secs. 42a-6-101 to 42a-6-110a. Uniform Commercial Code–Bulk Transfers.",
           "url": "https://www.cga.ct.gov/current/pub/art_006.htm#secs_42a-6-101_to_42a-6-110a",
+          "grouped": true,
+          "section_keys": [
+            "42a-6-101",
+            "42a-6-110a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 42a-6-101 to 42a-6-110a , inclusive, are repealed."
+            ],
+            "source": [
+              "(1959, P.A. 133, S. 6-101–6-110; 1961, P.A. 116, S. 5, 6; 1963, P.A. 526, S. 10–13; February, 1965, P.A. 377, S. 4; 1967, P.A. 898; 1969, P.A. 554; 1971, P.A. 207, S. 1; May Sp. Sess. P.A. 92-6, S. 108, 109, 117; P.A. 93-107, S. 4.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 42a-6-101 to 42a-6-110a , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9792,7 +9907,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 42a-6-101 to 42a-6-110a. Uniform Commercial Code–Bulk Transfers. Sections 42a-6-101 to 42a-6-110a , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9807,7 +9925,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 42a-6-101 to 42a-6-110a. Uniform Commercial Code–Bulk Transfers. Sections 42a-6-101 to 42a-6-110a , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -10761,12 +10882,23 @@
           "section_key": "",
           "label": "Secs. 42a-7-701 and 42a-7-702.",
           "url": "https://www.cga.ct.gov/current/pub/art_007.htm#secs_42a-7-701_and_42a-7-702",
+          "grouped": true,
+          "section_keys": [
+            "42a-7-701",
+            "42a-7-702"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11641,12 +11773,37 @@
           "section_key": "",
           "label": "Secs. 42a-8-308 to 42a-8-321. Endorsements; instructions. Effect of endorsement without delivery. Endorsement of certificated security in bearer form. Effect of unauthorized endorsement or instruction. Effect of guaranteeing signature, endorsement or instruction. When transfer to purchaser occurs: Financial intermediary as bona fide purchaser; “financial intermediary”. Duty to transfer, when completed. Action against transferee based upon wrongful transfer. Purchaser's right to requisites for registration of transfer, pledge or release on books. Creditors' rights. No conversion by good faith conduct. Statute of frauds. Transfer or pledge within central depository system. Enforceability, attachment, perfection and termination of security interests.",
           "url": "https://www.cga.ct.gov/current/pub/art_008.htm#secs_42a-8-308_to_42a-8-321",
+          "grouped": true,
+          "section_keys": [
+            "42a-8-308",
+            "42a-8-309",
+            "42a-8-310",
+            "42a-8-311",
+            "42a-8-312",
+            "42a-8-313",
+            "42a-8-314",
+            "42a-8-315",
+            "42a-8-316",
+            "42a-8-317",
+            "42a-8-318",
+            "42a-8-319",
+            "42a-8-320",
+            "42a-8-321"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 42a-8-308 to 42a-8-321 , inclusive, are repealed, effective October 1, 1997."
+            ],
+            "source": [
+              "(1959, P.A. 133, S. 8-308–8-319; 1963, P.A. 526, S. 18–20; P.A. 79-435, S. 23–36; P.A. 97-182, S. 68.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 42a-8-308 to 42a-8-321 , inclusive, are repealed, effective October 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11833,7 +11990,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 42a-8-408 is repealed, effective October 1, 1997."
+            "text": "Section 42a-8-408 is repealed, effective October 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12419,7 +12580,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 42a-9-103 is repealed."
+            "text": "Section 42a-9-103 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12710,19 +12875,39 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 42a-9-111 is repealed."
+            "text": "Section 42a-9-111 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 42a-9-112 to 42a-9-116. Where collateral is not owned by debtor. Security interests arising under article 2 on sales. Consignment. Investment property. Security interest arising in purchase or delivery of financial asset.",
           "url": "https://www.cga.ct.gov/current/pub/art_009.htm#secs_42a-9-112_to_42a-9-116",
+          "grouped": true,
+          "section_keys": [
+            "42a-9-112",
+            "42a-9-113",
+            "42a-9-114",
+            "42a-9-115",
+            "42a-9-116"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 42a-9-112 to 42a-9-116 , inclusive, are repealed, effective October 1, 2001."
+            ],
+            "source": [
+              "(1959, P.A. 133, S. 9-112, 9-113; P.A. 76-369, S. 13; P.A. 93-314, S. 1; P.A. 97-182, S. 55, 56; P.A. 98-93, S. 13, 15; P.A. 01-132, S. 183.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 42a-9-112 to 42a-9-116 , inclusive, are repealed, effective October 1, 2001.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14467,7 +14652,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 42a-9-408a is repealed, effective October 1, 2001."
+            "text": "Section 42a-9-408a is repealed, effective October 1, 2001.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -16128,7 +16317,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -16318,7 +16511,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -16517,7 +16714,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 42a-9-112 to 42a-9-116. Where collateral is not owned by debtor. Security interests arising under article 2 on sales. Consignment. Investment property. Security interest arising in purchase or delivery of financial asset. Sections 42a-9-112 to 42a-9-116 , inclusive, are repealed, effective October 1, 2001.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -16532,7 +16732,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 42a-9-112 to 42a-9-116. Where collateral is not owned by debtor. Security interests arising under article 2 on sales. Consignment. Investment property. Security interest arising in purchase or delivery of financial asset. Sections 42a-9-112 to 42a-9-116 , inclusive, are repealed, effective October 1, 2001.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -16596,7 +16799,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 42a-10-104 is repealed, effective October 1, 2004."
+            "text": "Section 42a-10-104 is repealed, effective October 1, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -16652,7 +16859,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 42a-10-107 is repealed, effective October 1, 2001."
+            "text": "Section 42a-10-107 is repealed, effective October 1, 2001.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {

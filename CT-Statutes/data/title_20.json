@@ -37,12 +37,29 @@
           "section_key": "",
           "label": "Secs. 20-2 to 20-7. Examining boards, generally.",
           "url": "https://www.cga.ct.gov/current/pub/chap_369.htm#secs_20-2_to_20-7",
+          "grouped": true,
+          "section_keys": [
+            "20-2",
+            "20-3",
+            "20-4",
+            "20-5",
+            "20-6",
+            "20-7"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-2 to 20-7 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949, Rev., S. 4351, 4353–4356; 1949, S. 2186d; 1955, S. 2187d; 1957, P.A. 197; September, 1957, P.A. 11, S. 13; 1971, P.A. 870, S. 54; P.A. 73-616, S. 19; P.A. 75-268, S. 5.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-2 to 20-7 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -249,7 +266,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-2 to 20-7. Examining boards, generally. Sections 20-2 to 20-7 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -264,7 +284,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-2 to 20-7. Examining boards, generally. Sections 20-2 to 20-7 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -288,7 +311,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-8 is repealed, effective October 1, 2013."
+            "text": "Section 20-8 is repealed, effective October 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1068,12 +1095,23 @@
           "section_key": "",
           "label": "Secs. 20-12 l and 20-12m",
           "url": "https://www.cga.ct.gov/current/pub/chap_370.htm#secs_20-12l_and_20-12m",
+          "grouped": true,
+          "section_keys": [
+            "20-12l",
+            "20-12m"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1277,12 +1315,26 @@
           "section_key": "",
           "label": "Secs. 20-13f to 20-13h. Decision and order; notice; surrender of certificate; appeal. Rescission or modification of disciplinary action. Immunity from civil liability; admissibility of evidence.",
           "url": "https://www.cga.ct.gov/current/pub/chap_370.htm#secs_20-13f_to_20-13h",
+          "grouped": true,
+          "section_keys": [
+            "20-13f",
+            "20-13g",
+            "20-13h"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-13f to 20-13h , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 76-276, S. 6–8, 22; P.A. 77-614, S. 357, 587, 609, 610; P.A. 78-303, S. 85, 136; P.A. 80-484, S. 175, 176.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-13f to 20-13h , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1298,7 +1350,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-13i is repealed, effective October 1, 2008."
+            "text": "Section 20-13i is repealed, effective October 1, 2008.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1847,7 +1903,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-13f to 20-13h. Decision and order; notice; surrender of certificate; appeal. Rescission or modification of disciplinary action. Immunity from civil liability; admissibility of evidence. Sections 20-13f to 20-13h , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1862,7 +1921,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-13f to 20-13h. Decision and order; notice; surrender of certificate; appeal. Rescission or modification of disciplinary action. Immunity from civil liability; admissibility of evidence. Sections 20-13f to 20-13h , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -1886,7 +1948,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-15 is repealed, effective October 1, 1999."
+            "text": "Section 20-15 is repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1902,19 +1968,41 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-16 is repealed."
+            "text": "Section 20-16 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 20-17 to 20-23. Licensure; qualifications for examination. Examination; qualifications to practice without examination. Permit for participation in intern or resident osteopathic physician program. Professional liability insurance required, when; amount of insurance; reporting requirements. List of approved colleges, schools and institutions. Grounds for disciplinary action. Osteopathy defined; osteopath authorized to practice medicine and surgery. Reports and certificates pertaining to public health. Penalty.",
           "url": "https://www.cga.ct.gov/current/pub/chap_371.htm#secs_20-17_to_20-23",
+          "grouped": true,
+          "section_keys": [
+            "20-17",
+            "20-18",
+            "20-19",
+            "20-20",
+            "20-21",
+            "20-22",
+            "20-23"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-17 to 20-23 , inclusive, are repealed, effective October 1, 1999."
+            ],
+            "source": [
+              "(1949 Rev., S. 4371–4377; 1955, S. 2194d; 1959, P.A. 616, S. 6, 7; 1961, P.A. 151; 1969, P.A. 125, S. 1, 2; June, 1971, P.A. 8, S. 42; 1972, P.A. 127, S. 38; 294, S. 23; P.A. 73-148; P.A. 75-268, S. 2; P.A. 76-113, S. 2, 3; P.A. 77-614, S. 360, 361, 610; P.A. 80-484, S. 18–20, 174, 176; P.A. 84-526, S. 2; P.A. 88-230, S. 1, 12; 88-362, S. 3–5; P.A. 89-251, S. 74, 203; P.A. 90-98, S. 1, 2; May Sp. Sess. P.A. 92-6, S. 19, 117; P.A. 93-142, S. 4, 7, 8; 93-381, S. 9, 39; P.A. 94-71, S. 2, 8; P.A. 95-220, S. 4–6; 95-257, S. 12, 21, 58; 95-271, S. 9–12, 40; P.A. 96-180, S. 65, 66, 166; P.A. 99-102, S. 51.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-17 to 20-23 , inclusive, are repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2019,7 +2107,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-26 is repealed."
+            "text": "Section 20-26 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2147,12 +2239,26 @@
           "section_key": "",
           "label": "Secs. 20-29a to 20-31a. Reinstatement of lapsed registration. Renewal certificates; fee. Board to account to State Treasurer. Fees to be credited to General Fund.",
           "url": "https://www.cga.ct.gov/current/pub/chap_372.htm#secs_20-29a_to_20-31a",
+          "grouped": true,
+          "section_keys": [
+            "20-29a",
+            "20-30a",
+            "20-31a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-29a to 20-31a , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4383, 4384; 1959, P.A. 616, S. 9–11; 1961, P.A. 467, S. 3; February, 1965, P.A. 85, S. 1; P.A. 80-484, S. 175, 176.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-29a to 20-31a , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2214,7 +2320,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-29a to 20-31a. Reinstatement of lapsed registration. Renewal certificates; fee. Board to account to State Treasurer. Fees to be credited to General Fund. Sections 20-29a to 20-31a , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2229,7 +2338,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-29a to 20-31a. Reinstatement of lapsed registration. Renewal certificates; fee. Board to account to State Treasurer. Fees to be credited to General Fund. Sections 20-29a to 20-31a , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -2306,7 +2418,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-36 is repealed."
+            "text": "Section 20-36 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2391,7 +2507,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-38 is repealed."
+            "text": "Section 20-38 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2467,7 +2587,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-41 is repealed."
+            "text": "Section 20-41 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2551,12 +2675,25 @@
           "section_key": "",
           "label": "Secs. 20-43 and 20-44. Appointment and removal of members of examining boards. Obtaining certificate by fraud; fraudulent acts; penalty.",
           "url": "https://www.cga.ct.gov/current/pub/chap_374.htm#secs_20-43_and_20-44",
+          "grouped": true,
+          "section_keys": [
+            "20-43",
+            "20-44"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-43 and 20-44 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4357, 4362; 1953, S. 2188d; 1959, P.A. 393, S. 2; P.A. 77-614, S. 371, 610; P.A. 80-484, S. 175, 176.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-43 and 20-44 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2593,12 +2730,27 @@
           "section_key": "",
           "label": "Secs. 20-46 to 20-49. Hearing of charges; revocation; return of certificate or license. Appeal. Restoration of license. Rescission or modification of revocation or suspension of certificate of registration by Medical Examining Board. Registration of retired practitioners.",
           "url": "https://www.cga.ct.gov/current/pub/chap_374.htm#secs_20-46_to_20-49",
+          "grouped": true,
+          "section_keys": [
+            "20-46",
+            "20-47",
+            "20-48",
+            "20-49"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-46 to 20-49 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4359–4361, 4367; 1949, S. 2189d; 1953, S. 2190d; 1961, P.A. 291; 1963, P.A. 321; February, 1965, P.A. 542, S. 2; 1971, P.A. 870, S. 55; 1972, P.A. 294, S. 37; P.A. 76-276, S. 20, 22; 76-436, S. 417, 681; P.A. 77-603, S. 60, 125; 77-614, S. 323, 373, 374, 587, 610; P.A. 78-280, S. 33, 127; 78-303, S. 85, 88, 136; P.A. 80-484, S. 175, 176.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-46 to 20-49 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2613,7 +2765,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-43 and 20-44. Appointment and removal of members of examining boards. Obtaining certificate by fraud; fraudulent acts; penalty. Sections 20-43 and 20-44 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2628,7 +2783,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-43 and 20-44. Appointment and removal of members of examining boards. Obtaining certificate by fraud; fraudulent acts; penalty. Sections 20-43 and 20-44 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2750,12 +2908,25 @@
           "section_key": "",
           "label": "Secs. 20-52 and 20-53. Removals from examining board. Organization and rules.",
           "url": "https://www.cga.ct.gov/current/pub/chap_375.htm#secs_20-52_and_20-53",
+          "grouped": true,
+          "section_keys": [
+            "20-52",
+            "20-53"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-52 and 20-53 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4554, 4555; 1959, P.A. 616, S. 16; P.A. 77-510; 77-614, S. 376, 609, 610; P.A 80-484, S. 175, 176.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-52 and 20-53 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2890,7 +3061,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-58 is repealed."
+            "text": "Section 20-58 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2943,12 +3118,26 @@
           "section_key": "",
           "label": "Secs. 20-60 to 20-62. Jurisdiction of charges against practitioner; hearing; revocation or suspension of license. Appeal. Restoration of right to practice upon reversal of conviction.",
           "url": "https://www.cga.ct.gov/current/pub/chap_375.htm#secs_20-60_to_20-62",
+          "grouped": true,
+          "section_keys": [
+            "20-60",
+            "20-61",
+            "20-62"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-60 to 20-62 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4560–4562; 1971, P.A. 101; 870, S. 56; P.A. 76-436, S. 418, 681; P.A. 77-603, S. 61, 125; 77-614, S. 323, 380, 381, 610; P.A. 80-484, S. 175, 176.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-60 to 20-62 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2987,7 +3176,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-64 is repealed."
+            "text": "Section 20-64 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3017,12 +3210,26 @@
           "section_key": "",
           "label": "Secs. 20-65a to 20-65e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_375.htm#secs_20-65a_to_20-65e",
+          "grouped": true,
+          "section_keys": [
+            "20-65a",
+            "20-65b",
+            "20-65c",
+            "20-65d",
+            "20-65e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3037,7 +3244,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-52 and 20-53. Removals from examining board. Organization and rules. Sections 20-52 and 20-53 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3052,7 +3262,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-52 and 20-53. Removals from examining board. Organization and rules. Sections 20-52 and 20-53 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3067,7 +3280,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-60 to 20-62. Jurisdiction of charges against practitioner; hearing; revocation or suspension of license. Appeal. Restoration of right to practice upon reversal of conviction. Sections 20-60 to 20-62 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3082,7 +3298,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-60 to 20-62. Jurisdiction of charges against practitioner; hearing; revocation or suspension of license. Appeal. Restoration of right to practice upon reversal of conviction. Sections 20-60 to 20-62 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3335,7 +3554,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-69 is repealed."
+            "text": "Section 20-69 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3414,7 +3637,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-72 is repealed."
+            "text": "Section 20-72 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3990,12 +4217,26 @@
           "section_key": "",
           "label": "Secs. 20-74j to 20-74n.",
           "url": "https://www.cga.ct.gov/current/pub/chap_376a.htm#secs_20-74j_to_20-74n",
+          "grouped": true,
+          "section_keys": [
+            "20-74j",
+            "20-74k",
+            "20-74l",
+            "20-74m",
+            "20-74n"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -4010,12 +4251,27 @@
           "section_key": "",
           "label": "Secs. 20-74o to 20-74r. Substance abuse counselors, generally.",
           "url": "https://www.cga.ct.gov/current/pub/chap_376b.htm#secs_20-74o_to_20-74r",
+          "grouped": true,
+          "section_keys": [
+            "20-74o",
+            "20-74p",
+            "20-74q",
+            "20-74r"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-74o to 20-74r , inclusive, are repealed, effective October 1, 1998."
+            ],
+            "source": [
+              "(P.A. 83-557, S. 1–3, 5; P.A. 84-256, S. 15, 17; P.A. 87-136, S. 1–3; P.A. 89-285, S. 1, 2; P.A. 93-381, S. 9, 39; P.A. 95-257, S. 5, 58; P.A. 96-180, S. 71, 72, 166; P.A. 98-247, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-74o to 20-74r , inclusive, are repealed, effective October 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4093,12 +4349,27 @@
           "section_key": "",
           "label": "Secs. 20-74u to 20-74z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_376b.htm#secs_20-74u_to_20-74z",
+          "grouped": true,
+          "section_keys": [
+            "20-74u",
+            "20-74v",
+            "20-74w",
+            "20-74x",
+            "20-74y",
+            "20-74z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4113,7 +4384,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-74o to 20-74r. Substance abuse counselors, generally. Sections 20-74o to 20-74r , inclusive, are repealed, effective October 1, 1998.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4128,7 +4402,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-74o to 20-74r. Substance abuse counselors, generally. Sections 20-74o to 20-74r , inclusive, are repealed, effective October 1, 1998.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -4279,12 +4556,27 @@
           "section_key": "",
           "label": "Secs. 20-74gg to 20-74 ll .",
           "url": "https://www.cga.ct.gov/current/pub/chap_376c.htm#secs_20-74gg_to_20-74ll",
+          "grouped": true,
+          "section_keys": [
+            "20-74gg",
+            "20-74hh",
+            "20-74ii",
+            "20-74jj",
+            "20-74kk",
+            "20-74ll"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4489,12 +4781,35 @@
           "section_key": "",
           "label": "Secs. 20-75 to 20-86. Practice defined. Examination, registration and regulation of midwives.",
           "url": "https://www.cga.ct.gov/current/pub/chap_377.htm#secs_20-75_to_20-86",
+          "grouped": true,
+          "section_keys": [
+            "20-75",
+            "20-76",
+            "20-77",
+            "20-78",
+            "20-79",
+            "20-80",
+            "20-81",
+            "20-82",
+            "20-83",
+            "20-84",
+            "20-85",
+            "20-86"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-75 to 20-86 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4410–4422; 1959, P.A. 616, S. 23, 24; 1967, P.A. 656, S. 19; 1969, P.A. 119, S. 1, 2; 1971, P.A. 410, S. 2–8; P.A. 74-97, S. 1–5; 74-338, S. 46, 94; P.A. 77-614, S. 323, 610; P.A. 83-441, S. 9, 10.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-75 to 20-86 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4566,7 +4881,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-86d is repealed, effective October 1, 2016."
+            "text": "Section 20-86d is repealed, effective October 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4671,7 +4990,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-75 to 20-86. Practice defined. Examination, registration and regulation of midwives. Sections 20-75 to 20-86 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4686,7 +5008,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-75 to 20-86. Practice defined. Examination, registration and regulation of midwives. Sections 20-75 to 20-86 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -4779,7 +5104,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-87 is repealed."
+            "text": "Section 20-87 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4846,7 +5175,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-89 is repealed."
+            "text": "Section 20-89 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4909,7 +5242,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-91 is repealed."
+            "text": "Section 20-91 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5501,7 +5838,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-100 is repealed."
+            "text": "Section 20-100 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5638,12 +5979,46 @@
           "section_key": "",
           "label": "Secs. 20-102b to 20-102z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_378.htm#secs_20-102b_to_20-102z",
+          "grouped": true,
+          "section_keys": [
+            "20-102b",
+            "20-102c",
+            "20-102d",
+            "20-102e",
+            "20-102f",
+            "20-102g",
+            "20-102h",
+            "20-102i",
+            "20-102j",
+            "20-102k",
+            "20-102l",
+            "20-102m",
+            "20-102n",
+            "20-102o",
+            "20-102p",
+            "20-102q",
+            "20-102r",
+            "20-102s",
+            "20-102t",
+            "20-102u",
+            "20-102v",
+            "20-102w",
+            "20-102x",
+            "20-102y",
+            "20-102z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -5794,7 +6169,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-103 is repealed."
+            "text": "Section 20-103 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5824,12 +6203,25 @@
           "section_key": "",
           "label": "Secs. 20-104 and 20-105. Qualifications and duties; regulations. Compensation; counsel.",
           "url": "https://www.cga.ct.gov/current/pub/chap_379.htm#secs_20-104_and_20-105",
+          "grouped": true,
+          "section_keys": [
+            "20-104",
+            "20-105"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-104 and 20-105 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4440, 4441; 1953, S. 2229d; 1957, P.A. 253, S. 1; September, 1957, P.A. 11, S. 13; 1959, P.A. 91; 616, S. 30, 31, 78; February, 1965, P.A. 160; 1967, P.A. 766; P.A. 77-169, S. 2, 3; 77-614, S. 396, 610; P.A. 78-303, S. 119, 136.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-104 and 20-105 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5949,12 +6341,28 @@
           "section_key": "",
           "label": "Secs. 20-111 to 20-111c and 20-112. Dental hygienists; definitions; scope of practice; continuing education. Application for license; requirements; fee. Examination of applicants. Licensure without examination; fee. Unlicensed registered assistants.",
           "url": "https://www.cga.ct.gov/current/pub/chap_379.htm#secs_20-111_to_20-111c_and_20-112",
+          "grouped": true,
+          "section_keys": [
+            "20-111",
+            "20-111a",
+            "20-111b",
+            "20-111c",
+            "20-112"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-111 to 20-111c , inclusive, and 20-112 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4455, 4456; 1957, P.A. 236; 1959, P.A. 616, S. 35, 36; 1963, P.A. 220; 642, S. 23; 1967, P.A. 240; 1969, P.A. 248; 1971, P.A. 15; June, 1971, P.A. 8, S. 55; 1972, P.A. 223, S. 5; June, 1972, P.A. 1, S. 10; P.A. 73-399, S. 2; P.A. 77-614, S. 323, 399, 610; P.A. 79-86; P.A. 80-484, S. 151, 174, 176; P.A. 85-178; P.A. 86-148; P.A. 87-139, S. 1; P.A. 89-251, S. 89, 203; P.A. 92-35, S. 1–4; P.A. 93-381, S. 9, 39; 93-435, S. 7, 8, 95; P.A. 94-149, S. 25.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-111 to 20-111c , inclusive, and 20-112 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6078,12 +6486,26 @@
           "section_key": "",
           "label": "Secs. 20-115 to 20-117. Complaints against dentists or dental hygienists. Grievance committee. Restoration of licenses.",
           "url": "https://www.cga.ct.gov/current/pub/chap_379.htm#secs_20-115_to_20-117",
+          "grouped": true,
+          "section_keys": [
+            "20-115",
+            "20-116",
+            "20-117"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-115 to 20-117 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4451, 4452; 1953, S. 2234d; 1957, P.A. 182, S. 1; 192, S. 1; 1959, P.A. 616, S. 39, 40; 1963, P.A. 642, S. 26; 1967, P.A. 239; P.A. 77-614, S. 401, 402, 610; P.A. 80-484, S. 175, 176.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-115 to 20-117 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6117,7 +6539,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-119 is repealed."
+            "text": "Section 20-119 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6158,7 +6584,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-121 is repealed."
+            "text": "Section 20-121 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6552,12 +6982,23 @@
           "section_key": "",
           "label": "Secs. 20-126f and 20-126g.",
           "url": "https://www.cga.ct.gov/current/pub/chap_379.htm#secs_20-126f_and_20-126g",
+          "grouped": true,
+          "section_keys": [
+            "20-126f",
+            "20-126g"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6572,7 +7013,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-104 and 20-105. Qualifications and duties; regulations. Compensation; counsel. Sections 20-104 and 20-105 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6587,7 +7031,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-104 and 20-105. Qualifications and duties; regulations. Compensation; counsel. Sections 20-104 and 20-105 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6602,7 +7049,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-111 to 20-111c and 20-112. Dental hygienists; definitions; scope of practice; continuing education. Application for license; requirements; fee. Examination of applicants. Licensure without examination; fee. Unlicensed registered assistants. Sections 20-111 to 20-111c , inclusive, and 20-112 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6617,7 +7067,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-111 to 20-111c and 20-112. Dental hygienists; definitions; scope of practice; continuing education. Application for license; requirements; fee. Examination of applicants. Licensure without examination; fee. Unlicensed registered assistants. Sections 20-111 to 20-111c , inclusive, and 20-112 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6632,7 +7085,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-111 to 20-111c and 20-112. Dental hygienists; definitions; scope of practice; continuing education. Application for license; requirements; fee. Examination of applicants. Licensure without examination; fee. Unlicensed registered assistants. Sections 20-111 to 20-111c , inclusive, and 20-112 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6647,7 +7103,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-115 to 20-117. Complaints against dentists or dental hygienists. Grievance committee. Restoration of licenses. Sections 20-115 to 20-117 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6662,7 +7121,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-115 to 20-117. Complaints against dentists or dental hygienists. Grievance committee. Restoration of licenses. Sections 20-115 to 20-117 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -6947,7 +7409,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 379, Sec. 20-126b ."
+            "text": "Transferred to Chapter 379, Sec. 20-126b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7083,7 +7549,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-128 is repealed."
+            "text": "Section 20-128 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7159,12 +7629,25 @@
           "section_key": "",
           "label": "Secs. 20-131 and 20-132. License; fee for; display of. Regulations concerning license; duplicate licenses.",
           "url": "https://www.cga.ct.gov/current/pub/chap_380.htm#secs_20-131_and_20-132",
+          "grouped": true,
+          "section_keys": [
+            "20-131",
+            "20-132"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-131 and 20-132 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4492, 4493; 1959, P.A. 616, S. 47; P.A. 77-614, S. 411, 610; P.A. 80-484, S. 175, 176.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-131 and 20-132 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7280,12 +7763,25 @@
           "section_key": "",
           "label": "Secs. 20-134 and 20-135. Hearing on suspension or revocation of license. Appeal.",
           "url": "https://www.cga.ct.gov/current/pub/chap_380.htm#secs_20-134_and_20-135",
+          "grouped": true,
+          "section_keys": [
+            "20-134",
+            "20-135"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-134 and 20-135 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4495, 4496; 1971, P.A. 179, S. 11; 870, S. 59; P.A. 76-436, S. 423, 681; P.A. 77-603, S. 64, 125; 77-614, S. 413, 414, 610; P.A. 78-280, S. 37, 38, 127; P.A. 80-484, S. 175, 176.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-134 and 20-135 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7340,7 +7836,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-138 is repealed."
+            "text": "Section 20-138 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7431,7 +7931,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-131 and 20-132. License; fee for; display of. Regulations concerning license; duplicate licenses. Sections 20-131 and 20-132 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7446,7 +7949,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-131 and 20-132. License; fee for; display of. Regulations concerning license; duplicate licenses. Sections 20-131 and 20-132 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7461,7 +7967,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-134 and 20-135. Hearing on suspension or revocation of license. Appeal. Sections 20-134 and 20-135 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7476,7 +7985,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-134 and 20-135. Hearing on suspension or revocation of license. Appeal. Sections 20-134 and 20-135 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -7550,7 +8062,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-140 is repealed."
+            "text": "Section 20-140 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7608,7 +8124,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-142 is repealed."
+            "text": "Section 20-142 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7642,7 +8162,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-144 is repealed."
+            "text": "Section 20-144 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7758,7 +8282,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-148 is repealed."
+            "text": "Section 20-148 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7859,7 +8387,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-152 is repealed."
+            "text": "Section 20-152 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7941,7 +8473,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-155 is repealed."
+            "text": "Section 20-155 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8085,12 +8621,34 @@
           "section_key": "",
           "label": "Secs. 20-162a to 20-162m.",
           "url": "https://www.cga.ct.gov/current/pub/chap_381.htm#secs_20-162a_to_20-162m",
+          "grouped": true,
+          "section_keys": [
+            "20-162a",
+            "20-162b",
+            "20-162c",
+            "20-162d",
+            "20-162e",
+            "20-162f",
+            "20-162g",
+            "20-162h",
+            "20-162i",
+            "20-162j",
+            "20-162k",
+            "20-162l",
+            "20-162m"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -8215,12 +8773,29 @@
           "section_key": "",
           "label": "Secs. 20-162s to 20-162z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_381a.htm#secs_20-162s_to_20-162z",
+          "grouped": true,
+          "section_keys": [
+            "20-162s",
+            "20-162t",
+            "20-162u",
+            "20-162v",
+            "20-162w",
+            "20-162x",
+            "20-162y",
+            "20-162z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -8323,7 +8898,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part I, Sec. 20-572 ."
+            "text": "Transferred to Chapter 400j, Part I, Sec. 20-572 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8337,7 +8916,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part I, Sec. 20-576 ."
+            "text": "Transferred to Chapter 400j, Part I, Sec. 20-576 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8351,7 +8934,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part I, Sec. 20-574 ."
+            "text": "Transferred to Chapter 400j, Part I, Sec. 20-574 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8367,7 +8954,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -8381,7 +8972,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part I, Sec. 20-573 ."
+            "text": "Transferred to Chapter 400j, Part I, Sec. 20-573 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8395,7 +8990,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part III, Sec. 20-610 ."
+            "text": "Transferred to Chapter 400j, Part III, Sec. 20-610 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8409,19 +9008,34 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part I, Sec. 20-580 ."
+            "text": "Transferred to Chapter 400j, Part I, Sec. 20-580 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 20-168 to 20-169.",
           "url": "https://www.cga.ct.gov/current/pub/chap_382.htm#secs_20-168_to_20-169",
+          "grouped": true,
+          "section_keys": [
+            "20-168",
+            "20-169"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 400j, Part II, Secs. 20-594 to 20-597 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 400j, Part II, Secs. 20-594 to 20-597 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8435,7 +9049,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part II, Sec. 20-590 ."
+            "text": "Transferred to Chapter 400j, Part II, Sec. 20-590 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8451,7 +9069,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-171 is repealed."
+            "text": "Section 20-171 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8465,31 +9087,57 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part II, Sec. 20-593 ."
+            "text": "Transferred to Chapter 400j, Part II, Sec. 20-593 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 20-173 and 20-174.",
           "url": "https://www.cga.ct.gov/current/pub/chap_382.htm#secs_20-173_and_20-174",
+          "grouped": true,
+          "section_keys": [
+            "20-173",
+            "20-174"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 400j, Part III, Secs. 20-607 and 20-608 ."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 400j, Part III, Secs. 20-607 and 20-608 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 20-174a and 20-174b.",
           "url": "https://www.cga.ct.gov/current/pub/chap_382.htm#secs_20-174a_and_20-174b",
+          "grouped": true,
+          "section_keys": [
+            "20-174a",
+            "20-174b"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 400j, Part II, Secs. 20-599 and 20-600 ."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 400j, Part II, Secs. 20-599 and 20-600 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8503,7 +9151,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part I, Sec. 20-579 ."
+            "text": "Transferred to Chapter 400j, Part I, Sec. 20-579 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8519,7 +9171,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-175a is repealed."
+            "text": "Section 20-175a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8533,7 +9189,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part III, Sec. 20-611 ."
+            "text": "Transferred to Chapter 400j, Part III, Sec. 20-611 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8547,7 +9207,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part I, Sec. 20-582 ."
+            "text": "Transferred to Chapter 400j, Part I, Sec. 20-582 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8561,7 +9225,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part II, Sec. 20-598 ."
+            "text": "Transferred to Chapter 400j, Part II, Sec. 20-598 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8575,7 +9243,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part III, Sec. 20-606 ."
+            "text": "Transferred to Chapter 400j, Part III, Sec. 20-606 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8589,7 +9261,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part I, Sec. 20-577 ."
+            "text": "Transferred to Chapter 400j, Part I, Sec. 20-577 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8605,7 +9281,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-180 is repealed."
+            "text": "Section 20-180 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8619,19 +9299,37 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part III, Sec. 20-622 ."
+            "text": "Transferred to Chapter 400j, Part III, Sec. 20-622 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 20-181 to 20-183. Sale of poisons. Certain drugs to be marked “poison”; penalty. Sale of antitoxin; powers of Department of Public Health and Addiction Services.",
           "url": "https://www.cga.ct.gov/current/pub/chap_382.htm#secs_20-181_to_20-183",
+          "grouped": true,
+          "section_keys": [
+            "20-181",
+            "20-182",
+            "20-183"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-181 to 20-183 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4482–4484; 1967, P.A. 109, S. 6, 7; P.A. 77-614, S. 323, 610; P.A. 93-381, S. 9, 39; P.A. 95-264, S. 70.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-181 to 20-183 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8645,7 +9343,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part III, Sec. 20-609 ."
+            "text": "Transferred to Chapter 400j, Part III, Sec. 20-609 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8659,19 +9361,36 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part I, Sec. 20-571 ."
+            "text": "Transferred to Chapter 400j, Part I, Sec. 20-571 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 20-184b to 20-184e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_382.htm#secs_20-184b_to_20-184e",
+          "grouped": true,
+          "section_keys": [
+            "20-184b",
+            "20-184c",
+            "20-184d",
+            "20-184e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 400j, Part III, Secs. 20-614 to 20-617 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 400j, Part III, Secs. 20-614 to 20-617 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8685,7 +9404,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part I, Sec. 20-581 ."
+            "text": "Transferred to Chapter 400j, Part I, Sec. 20-581 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8699,31 +9422,62 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 400j, Part III, Sec. 20-619 ."
+            "text": "Transferred to Chapter 400j, Part III, Sec. 20-619 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 20-185b to 20-185f. Pharmacist may substitute generic drugs and form of prescribed drugs; pharmacist to post sign. When pharmacist may substitute; container to be labeled, exception. Substitution of drugs does not constitute the practice of medicine. Prohibited defenses. Regulations.",
           "url": "https://www.cga.ct.gov/current/pub/chap_382.htm#secs_20-185b_to_20-185f",
+          "grouped": true,
+          "section_keys": [
+            "20-185b",
+            "20-185c",
+            "20-185d",
+            "20-185e",
+            "20-185f"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-185b to 20-185f , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 76-166, S. 2–4, 6–8; P.A. 77-614, S. 207, 610; P.A. 89-111, S. 2; P.A. 94-32, S. 2; P.A. 95-264, S. 70.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-185b to 20-185f , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 20-185g and 20-185h.",
           "url": "https://www.cga.ct.gov/current/pub/chap_382.htm#secs_20-185g_and_20-185h",
+          "grouped": true,
+          "section_keys": [
+            "20-185g",
+            "20-185h"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 400j, Part III, Secs. 20-620 and 20-621 ."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 400j, Part III, Secs. 20-620 and 20-621 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8738,7 +9492,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-181 to 20-183. Sale of poisons. Certain drugs to be marked “poison”; penalty. Sale of antitoxin; powers of Department of Public Health and Addiction Services. Sections 20-181 to 20-183 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8753,7 +9510,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-181 to 20-183. Sale of poisons. Certain drugs to be marked “poison”; penalty. Sale of antitoxin; powers of Department of Public Health and Addiction Services. Sections 20-181 to 20-183 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8896,12 +9656,25 @@
           "section_key": "",
           "label": "Secs. 20-185n to 20-185q.",
           "url": "https://www.cga.ct.gov/current/pub/chap_382a.htm#secs_20-185n_to_20-185q",
+          "grouped": true,
+          "section_keys": [
+            "20-185n",
+            "20-185o",
+            "20-185p",
+            "20-185q"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -8944,12 +9717,24 @@
           "section_key": "",
           "label": "Secs. 20-185s to 20-185u.",
           "url": "https://www.cga.ct.gov/current/pub/chap_382b.htm#secs_20-185s_to_20-185u",
+          "grouped": true,
+          "section_keys": [
+            "20-185s",
+            "20-185t",
+            "20-185u"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -9003,12 +9788,24 @@
           "section_key": "",
           "label": "Secs. 20-185x to 20-185z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_382c.htm#secs_20-185x_to_20-185z",
+          "grouped": true,
+          "section_keys": [
+            "20-185x",
+            "20-185y",
+            "20-185z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -9056,12 +9853,24 @@
           "section_key": "",
           "label": "Secs. 20-185bb to 20-185dd.",
           "url": "https://www.cga.ct.gov/current/pub/chap_382d.htm#secs_20-185bb_to_20-185dd",
+          "grouped": true,
+          "section_keys": [
+            "20-185bb",
+            "20-185cc",
+            "20-185dd"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -9123,7 +9932,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-187 is repealed."
+            "text": "Section 20-187 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9544,7 +10357,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-191 is repealed."
+            "text": "Section 20-191 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9578,7 +10395,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-191b is repealed, effective June 7, 1995."
+            "text": "Section 20-191b is repealed, effective June 7, 1995.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9816,7 +10637,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-195e is repealed."
+            "text": "Section 20-195e is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9842,12 +10667,27 @@
           "section_key": "",
           "label": "Secs. 20-195g to 20-195 l .",
           "url": "https://www.cga.ct.gov/current/pub/chap_383a.htm#secs_20-195g_to_20-195l",
+          "grouped": true,
+          "section_keys": [
+            "20-195g",
+            "20-195h",
+            "20-195i",
+            "20-195j",
+            "20-195k",
+            "20-195l"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -10435,12 +11275,23 @@
           "section_key": "",
           "label": "Secs. 20-195y and 20-195z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_383b.htm#secs_20-195y_and_20-195z",
+          "grouped": true,
+          "section_keys": [
+            "20-195y",
+            "20-195z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -10925,12 +11776,27 @@
           "section_key": "",
           "label": "Secs. 20-195jj to 20-195oo.",
           "url": "https://www.cga.ct.gov/current/pub/chap_383c.htm#secs_20-195jj_to_20-195oo",
+          "grouped": true,
+          "section_keys": [
+            "20-195jj",
+            "20-195kk",
+            "20-195ll",
+            "20-195mm",
+            "20-195nn",
+            "20-195oo"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -11048,12 +11914,26 @@
           "section_key": "",
           "label": "Secs. 20-195vv to 20-195zz.",
           "url": "https://www.cga.ct.gov/current/pub/chap_383d.htm#secs_20-195vv_to_20-195zz",
+          "grouped": true,
+          "section_keys": [
+            "20-195vv",
+            "20-195ww",
+            "20-195xx",
+            "20-195yy",
+            "20-195zz"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -11092,12 +11972,26 @@
           "section_key": "",
           "label": "Secs. 20-195bbb to 20-195fff.",
           "url": "https://www.cga.ct.gov/current/pub/chap_383e.htm#secs_20-195bbb_to_20-195fff",
+          "grouped": true,
+          "section_keys": [
+            "20-195bbb",
+            "20-195ccc",
+            "20-195ddd",
+            "20-195eee",
+            "20-195fff"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -11211,7 +12105,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -11331,7 +12229,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -11405,12 +12307,26 @@
           "section_key": "",
           "label": "Secs. 20-195uuu to 20-195yyy.",
           "url": "https://www.cga.ct.gov/current/pub/chap_383h.htm#secs_20-195uuu_to_20-195yyy",
+          "grouped": true,
+          "section_keys": [
+            "20-195uuu",
+            "20-195vvv",
+            "20-195www",
+            "20-195xxx",
+            "20-195yyy"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -11456,7 +12372,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-196a is repealed."
+            "text": "Section 20-196a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11495,7 +12415,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-196c is repealed."
+            "text": "Section 20-196c is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11691,7 +12615,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-204 is repealed."
+            "text": "Section 20-204 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12008,12 +12936,24 @@
           "section_key": "",
           "label": "Secs. 20-206j to 20-206 l .",
           "url": "https://www.cga.ct.gov/current/pub/chap_384a.htm#secs_20-206j_to_20-206l",
+          "grouped": true,
+          "section_keys": [
+            "20-206j",
+            "20-206k",
+            "20-206l"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -12180,12 +13120,27 @@
           "section_key": "",
           "label": "Secs. 20-206u to 20-206z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_384b.htm#secs_20-206u_to_20-206z",
+          "grouped": true,
+          "section_keys": [
+            "20-206u",
+            "20-206v",
+            "20-206w",
+            "20-206x",
+            "20-206y",
+            "20-206z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -12275,12 +13230,27 @@
           "section_key": "",
           "label": "Secs. 20-206dd to 20-206ii.",
           "url": "https://www.cga.ct.gov/current/pub/chap_384c.htm#secs_20-206dd_to_20-206ii",
+          "grouped": true,
+          "section_keys": [
+            "20-206dd",
+            "20-206ee",
+            "20-206ff",
+            "20-206gg",
+            "20-206hh",
+            "20-206ii"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -12499,7 +13469,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-209 is repealed."
+            "text": "Section 20-209 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12531,7 +13505,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-210 is repealed."
+            "text": "Section 20-210 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12717,7 +13695,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-219 is repealed."
+            "text": "Section 20-219 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12921,7 +13903,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-225 is repealed."
+            "text": "Section 20-225 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12937,7 +13923,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-226 is repealed, effective July 6, 2021."
+            "text": "Section 20-226 is repealed, effective July 6, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13231,7 +14221,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-235 is repealed."
+            "text": "Section 20-235 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13294,7 +14288,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-237 is repealed."
+            "text": "Section 20-237 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13348,7 +14346,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-240 is repealed."
+            "text": "Section 20-240 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13425,12 +14427,25 @@
           "section_key": "",
           "label": "Secs. 20-245 and 20-246. Barber schools and colleges; licenses. Sundays and legal holidays; hours of opening and closing.",
           "url": "https://www.cga.ct.gov/current/pub/chap_386.htm#secs_20-245_and_20-246",
+          "grouped": true,
+          "section_keys": [
+            "20-245",
+            "20-246"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-245 and 20-246 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4579, 4580; 1949, 1955, S. 2286d, 2287d; P.A. 73-363, S. 2, 3; P.A. 76-113, S. 10; P.A. 77-614, S. 447, 448, 610; P.A. 80-484, S. 108, 175, 176; P.A. 81-471, S. 70, 71.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-245 and 20-246 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13509,7 +14524,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-245 and 20-246. Barber schools and colleges; licenses. Sundays and legal holidays; hours of opening and closing. Sections 20-245 and 20-246 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -13524,7 +14542,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-245 and 20-246. Barber schools and colleges; licenses. Sundays and legal holidays; hours of opening and closing. Sections 20-245 and 20-246 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -13577,7 +14598,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-251 is repealed."
+            "text": "Section 20-251 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13618,7 +14643,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-252a is repealed, effective October 1, 2004."
+            "text": "Section 20-252a is repealed, effective October 1, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13676,7 +14705,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-255 is repealed."
+            "text": "Section 20-255 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13811,7 +14844,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-261 is repealed."
+            "text": "Section 20-261 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13876,7 +14913,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-264 is repealed."
+            "text": "Section 20-264 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14128,31 +15169,68 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-266 is repealed."
+            "text": "Section 20-266 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 20-266a to 20-266f. Nail technicians, generally.",
           "url": "https://www.cga.ct.gov/current/pub/chap_387.htm#secs_20-266a_to_20-266f",
+          "grouped": true,
+          "section_keys": [
+            "20-266a",
+            "20-266b",
+            "20-266c",
+            "20-266d",
+            "20-266e",
+            "20-266f"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-266a to 20-266f , inclusive, are repealed, effective July 1, 2001."
+            ],
+            "source": [
+              "(June Sp. Sess. P.A. 99-2, S. 54–59, 72; June Sp. Sess. P.A. 01-4, S. 56, 58.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-266a to 20-266f , inclusive, are repealed, effective July 1, 2001.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 20-266g to 20-266m.",
           "url": "https://www.cga.ct.gov/current/pub/chap_387.htm#secs_20-266g_to_20-266m",
+          "grouped": true,
+          "section_keys": [
+            "20-266g",
+            "20-266h",
+            "20-266i",
+            "20-266j",
+            "20-266k",
+            "20-266l",
+            "20-266m"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -14167,7 +15245,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-266a to 20-266f. Nail technicians, generally. Sections 20-266a to 20-266f , inclusive, are repealed, effective July 1, 2001.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -14182,7 +15263,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-266a to 20-266f. Nail technicians, generally. Sections 20-266a to 20-266f , inclusive, are repealed, effective July 1, 2001.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -14463,7 +15547,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-274 is repealed."
+            "text": "Section 20-274 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14552,19 +15640,38 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-278a is repealed."
+            "text": "Section 20-278a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 20-278b to 20-278g.",
           "url": "https://www.cga.ct.gov/current/pub/chap_388.htm#secs_20-278b_to_20-278g",
+          "grouped": true,
+          "section_keys": [
+            "20-278b",
+            "20-278c",
+            "20-278d",
+            "20-278e",
+            "20-278f",
+            "20-278g"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -14613,12 +15720,25 @@
           "section_key": "",
           "label": "Secs. 20-279 and 20-279a. Board of Accountancy. Definitions.",
           "url": "https://www.cga.ct.gov/current/pub/chap_389.htm#secs_20-279_and_20-279a",
+          "grouped": true,
+          "section_keys": [
+            "20-279",
+            "20-279a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-279 and 20-279a are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4609; 1955, S. 2292d; P.A. 77-614, S. 209, 610; Nov. Sp. Sess. P.A. 81-11, S. 7, 19; P.A. 82-419, S. 4, 47; P.A. 83-487, S. 9, 33; P.A. 85-504, S. 1, 2, 15; P.A. 92-212, S. 21.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-279 and 20-279a are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14714,7 +15834,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-280a is repealed."
+            "text": "Section 20-280a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14769,7 +15893,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-280d is repealed."
+            "text": "Section 20-280d is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -15151,12 +16279,29 @@
           "section_key": "",
           "label": "Secs. 20-282 to 20-287. Certified public accountants; examination and fees; reciprocity. Limited permits; regulations. Authority for veterans to practice as public accountants; qualifications; time limit for issuance. Licenses, renewal; fee. Practice of accountancy by professional corporations. Use of titles restricted. Regulations re revocation or suspension of certificate, authority, license or permit; reissuance; appeal. Excepted persons.",
           "url": "https://www.cga.ct.gov/current/pub/chap_389.htm#secs_20-282_to_20-287",
+          "grouped": true,
+          "section_keys": [
+            "20-282",
+            "20-283",
+            "20-284",
+            "20-285",
+            "20-286",
+            "20-287"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-282 to 20-287 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4611–4614; 1955, S. 2296d–2302d; 1959, P.A. 615, S. 25, 26; 616, S. 70; 1971, P.A. 870, S. 67; June, 1971, P.A. 8, S. 84, 85; 1972, P.A. 127, S. 49, 50; 223, S. 26; P.A. 73-504; P.A. 74-183, S. 239, 291; P.A. 76-113, S. 12, 13; 76-435, S. 26, 82; 76-436, S. 208, 681; P.A. 77-259, S. 1, 2; 77-475, S. 1–3; 77-603, S. 79, 125; 77-614, S. 211, 212, 610; P.A. 78-255, S. 1, 2, 4–7, 9, 10; 78-280, S. 5, 127; P.A. 81-203, S. 3, 4; 81-361, S. 6–9, 39; P.A. 82-417, S. 2, 3; 82-419, S. 6–10, 47; P.A. 83-22, S. 1; 83-487, S. 12, 13, 33; P.A. 84-546, S. 58, 173; P.A. 85-504, S. 7–11, 15; P.A. 88-230, S. 1, 12; P.A. 89-251, S. 114–116, 203; P.A. 90-98, S. 1, 2; 90-170, S. 2, 3; P.A. 92-212, S. 21.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-282 to 20-287 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -15171,7 +16316,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-279 and 20-279a. Board of Accountancy. Definitions. Sections 20-279 and 20-279a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -15186,7 +16334,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-279 and 20-279a. Board of Accountancy. Definitions. Sections 20-279 and 20-279a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -15297,7 +16448,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-289a is repealed."
+            "text": "Section 20-289a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -15440,12 +16595,25 @@
           "section_key": "",
           "label": "Secs. 20-295 and 20-295a. Authority to prepare plans and supervise construction. Architectural designers.",
           "url": "https://www.cga.ct.gov/current/pub/chap_390.htm#secs_20-295_and_20-295a",
+          "grouped": true,
+          "section_keys": [
+            "20-295",
+            "20-295a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-295 and 20-295a are repealed."
+            ],
+            "source": [
+              "(1957, P.A. 552, S. 2, 5; February, 1965, P.A. 584; 1969, P.A. 385, S. 2.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-295 and 20-295a are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -15625,7 +16793,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-295 and 20-295a. Authority to prepare plans and supervise construction. Architectural designers. Sections 20-295 and 20-295a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -15640,7 +16811,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-295 and 20-295a. Authority to prepare plans and supervise construction. Architectural designers. Sections 20-295 and 20-295a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -15735,7 +16909,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-300a is repealed."
+            "text": "Section 20-300a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -16225,7 +17403,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-311c is repealed."
+            "text": "Section 20-311c is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -16520,7 +17702,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-314c is repealed, effective January 1, 2018."
+            "text": "Section 20-314c is repealed, effective January 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -16596,7 +17782,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-315 is repealed."
+            "text": "Section 20-315 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -17115,7 +18305,11 @@
                 "text": "Cited. 192 C. 439."
               }
             ],
-            "text": "Section 20-324j is repealed, effective April 1, 2024."
+            "text": "Section 20-324j is repealed, effective April 1, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -17625,7 +18819,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-327 is repealed."
+            "text": "Section 20-327 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -18238,7 +19436,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-329i is repealed, effective April 1, 2024."
+            "text": "Section 20-329i is repealed, effective April 1, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -18694,7 +19896,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-329gg is repealed."
+            "text": "Section 20-329gg is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -19402,7 +20608,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-339 is repealed."
+            "text": "Section 20-339 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -19536,7 +20746,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-340e is repealed, effective January 1, 2018."
+            "text": "Section 20-340e is repealed, effective January 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -19630,12 +20844,25 @@
           "section_key": "",
           "label": "Secs. 20-341b and 20-341c. State Board of Subsurface Sewage Disposal System Examiners; duties of Commissioner of Health Services re board. Powers and duties of board, seal, records, annual report, roster of licensees to town clerks.",
           "url": "https://www.cga.ct.gov/current/pub/chap_393a.htm#secs_20-341b_and_20-341c",
+          "grouped": true,
+          "section_keys": [
+            "20-341b",
+            "20-341c"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-341b and 20-341c are repealed."
+            ],
+            "source": [
+              "(P.A. 74-341, S. 2, 3, 16; P.A. 77-614, S. 460, 610; P.A. 81-473, S. 42, 43.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-341b and 20-341c are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -19822,12 +21049,26 @@
           "section_key": "",
           "label": "Secs. 20-341n to 20-341r.",
           "url": "https://www.cga.ct.gov/current/pub/chap_393a.htm#secs_20-341n_to_20-341r",
+          "grouped": true,
+          "section_keys": [
+            "20-341n",
+            "20-341o",
+            "20-341p",
+            "20-341q",
+            "20-341r"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -19842,7 +21083,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-341b and 20-341c. State Board of Subsurface Sewage Disposal System Examiners; duties of Commissioner of Health Services re board. Powers and duties of board, seal, records, annual report, roster of licensees to town clerks. Sections 20-341b and 20-341c are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -19857,7 +21101,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-341b and 20-341c. State Board of Subsurface Sewage Disposal System Examiners; duties of Commissioner of Health Services re board. Powers and duties of board, seal, records, annual report, roster of licensees to town clerks. Sections 20-341b and 20-341c are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -20073,12 +21320,25 @@
           "section_key": "",
           "label": "Secs. 20-341cc to 20-341ff.",
           "url": "https://www.cga.ct.gov/current/pub/chap_393b.htm#secs_20-341cc_to_20-341ff",
+          "grouped": true,
+          "section_keys": [
+            "20-341cc",
+            "20-341dd",
+            "20-341ee",
+            "20-341ff"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -20163,7 +21423,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-343 is repealed, effective October 1, 1999."
+            "text": "Section 20-343 is repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -20198,7 +21462,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-345 is repealed, effective October 1, 1998."
+            "text": "Section 20-345 is repealed, effective October 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -20250,7 +21518,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-348 is repealed."
+            "text": "Section 20-348 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -20324,7 +21596,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -20439,19 +21715,43 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-357a is repealed, effective October 1, 2002."
+            "text": "Section 20-357a is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 20-357b to 20-357 l .",
           "url": "https://www.cga.ct.gov/current/pub/chap_394.htm#secs_20-357b_to_20-357l",
+          "grouped": true,
+          "section_keys": [
+            "20-357b",
+            "20-357c",
+            "20-357d",
+            "20-357e",
+            "20-357f",
+            "20-357g",
+            "20-357h",
+            "20-357i",
+            "20-357j",
+            "20-357k",
+            "20-357l"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -20526,7 +21826,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-359 is repealed."
+            "text": "Section 20-359 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -20892,19 +22196,42 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-377 is repealed."
+            "text": "Section 20-377 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 20-377a to 20-377j.",
           "url": "https://www.cga.ct.gov/current/pub/chap_396.htm#secs_20-377a_to_20-377j",
+          "grouped": true,
+          "section_keys": [
+            "20-377a",
+            "20-377b",
+            "20-377c",
+            "20-377d",
+            "20-377e",
+            "20-377f",
+            "20-377g",
+            "20-377h",
+            "20-377i",
+            "20-377j"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -21157,12 +22484,41 @@
           "section_key": "",
           "label": "Secs. 20-378 to 20-395. Ambulance services.",
           "url": "https://www.cga.ct.gov/current/pub/chap_397.htm#secs_20-378_to_20-395",
+          "grouped": true,
+          "section_keys": [
+            "20-378",
+            "20-379",
+            "20-380",
+            "20-381",
+            "20-382",
+            "20-383",
+            "20-384",
+            "20-385",
+            "20-386",
+            "20-387",
+            "20-388",
+            "20-389",
+            "20-390",
+            "20-391",
+            "20-392",
+            "20-393",
+            "20-394",
+            "20-395"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-378 to 20-395 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1967, P.A. 809, S. 1–18; 1969, P.A. 748, S. 1, 3–7; 1971, P.A. 682, S. 1; P.A. 74-277, S. 1, 2; 74-305, S. 18, 19.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-378 to 20-395 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -21177,7 +22533,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-378 to 20-395. Ambulance services. Sections 20-378 to 20-395 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -21192,7 +22551,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-378 to 20-395. Ambulance services. Sections 20-378 to 20-395 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -21426,7 +22788,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-397 is repealed."
+            "text": "Section 20-397 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -21616,7 +22982,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-405 is repealed."
+            "text": "Section 20-405 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -21698,7 +23068,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-409 is repealed."
+            "text": "Section 20-409 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -21784,12 +23158,26 @@
           "section_key": "",
           "label": "Secs. 20-412a to 20-412c. Exemption for certain school speech and hearing specialists. Qualifications for school speech and hearing specialists seeking exemption. Functions which may be performed by persons working under school exemption program; supervision.",
           "url": "https://www.cga.ct.gov/current/pub/chap_399.htm#secs_20-412a_to_20-412c",
+          "grouped": true,
+          "section_keys": [
+            "20-412a",
+            "20-412b",
+            "20-412c"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-412a to 20-412c , inclusive, are repealed, effective June 9, 1994."
+            ],
+            "source": [
+              "(P.A. 86-117, S. 1–3, 5; P.A. 93-381, S. 9, 39; P.A. 94-210, S. 29, 30.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-412a to 20-412c , inclusive, are repealed, effective June 9, 1994.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -21854,7 +23242,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-415 is repealed."
+            "text": "Section 20-415 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -21906,7 +23298,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-412a to 20-412c. Exemption for certain school speech and hearing specialists. Qualifications for school speech and hearing specialists seeking exemption. Functions which may be performed by persons working under school exemption program; supervision. Sections 20-412a to 20-412c , inclusive, are repealed, effective June 9, 1994.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -21921,7 +23316,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 20-412a to 20-412c. Exemption for certain school speech and hearing specialists. Qualifications for school speech and hearing specialists seeking exemption. Functions which may be performed by persons working under school exemption program; supervision. Sections 20-412a to 20-412c , inclusive, are repealed, effective June 9, 1994.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -22195,12 +23593,36 @@
           "section_key": "",
           "label": "Secs. 417 l to 417z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_399a.htm#secs_20-417l_to_20-417z",
+          "grouped": true,
+          "section_keys": [
+            "20-417l",
+            "20-417m",
+            "20-417n",
+            "20-417o",
+            "20-417p",
+            "20-417q",
+            "20-417r",
+            "20-417s",
+            "20-417t",
+            "20-417u",
+            "20-417v",
+            "20-417w",
+            "20-417x",
+            "20-417y",
+            "20-417z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -22471,7 +23893,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 20-431 ."
+            "text": "Transferred to Sec. 20-431 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -22835,7 +24261,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -23035,12 +24465,28 @@
           "section_key": "",
           "label": "Secs. 20-443 to 20-449.",
           "url": "https://www.cga.ct.gov/current/pub/chap_400a.htm#secs_20-443_to_20-449",
+          "grouped": true,
+          "section_keys": [
+            "20-443",
+            "20-444",
+            "20-445",
+            "20-446",
+            "20-447",
+            "20-448",
+            "20-449"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -23333,12 +24779,32 @@
           "section_key": "",
           "label": "Secs. 20-463 to 20-473.",
           "url": "https://www.cga.ct.gov/current/pub/chap_400b.htm#secs_20-463_to_20-473",
+          "grouped": true,
+          "section_keys": [
+            "20-463",
+            "20-464",
+            "20-465",
+            "20-466",
+            "20-467",
+            "20-468",
+            "20-469",
+            "20-470",
+            "20-471",
+            "20-472",
+            "20-473"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -23558,7 +25024,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -23582,19 +25052,38 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-484 is repealed."
+            "text": "Section 20-484 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 20-485 to 20-489.",
           "url": "https://www.cga.ct.gov/current/pub/chap_400d.htm#secs_20-485_to_20-489",
+          "grouped": true,
+          "section_keys": [
+            "20-485",
+            "20-486",
+            "20-487",
+            "20-488",
+            "20-489"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use.",
+              "Note: Chapter 400e is also reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.\n\nNote: Chapter 400e is also reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -23947,12 +25436,25 @@
           "section_key": "",
           "label": "Secs. 20-496 to 20-499.",
           "url": "https://www.cga.ct.gov/current/pub/chap_400f.htm#secs_20-496_to_20-499",
+          "grouped": true,
+          "section_keys": [
+            "20-496",
+            "20-497",
+            "20-498",
+            "20-499"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -24539,7 +26041,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 20-527 is repealed."
+            "text": "Section 20-527 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -24731,12 +26237,31 @@
           "section_key": "",
           "label": "Secs. 20-530 to 20-539.",
           "url": "https://www.cga.ct.gov/current/pub/chap_400g.htm#secs_20-530_to_20-539",
+          "grouped": true,
+          "section_keys": [
+            "20-530",
+            "20-531",
+            "20-532",
+            "20-533",
+            "20-534",
+            "20-535",
+            "20-536",
+            "20-537",
+            "20-538",
+            "20-539"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -24814,12 +26339,32 @@
           "section_key": "",
           "label": "Secs. 20-542 to 20-552.",
           "url": "https://www.cga.ct.gov/current/pub/chap_400h.htm#secs_20-542_to_20-552",
+          "grouped": true,
+          "section_keys": [
+            "20-542",
+            "20-543",
+            "20-544",
+            "20-545",
+            "20-546",
+            "20-547",
+            "20-548",
+            "20-549",
+            "20-550",
+            "20-551",
+            "20-552"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -24834,36 +26379,103 @@
           "section_key": "",
           "label": "Secs. 20-553 to 20-558. Definitions. Certificate of registration required; fees; renewal; right to cancel agent contracts; schedule of athlete agent fees; athlete interviews. Prohibited acts. Regulations. Revocation or suspension of certificate of registration; civil penalty; restitution; unfair or deceptive trade practice; Class B misdemeanor. Athlete not required to utilize athlete agent; ability to contract for services outside state unaffected.",
           "url": "https://www.cga.ct.gov/current/pub/chap_400i.htm#secs_20-553_to_20-558",
+          "grouped": true,
+          "section_keys": [
+            "20-553",
+            "20-554",
+            "20-555",
+            "20-556",
+            "20-557",
+            "20-558"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-553 to 20-558 , inclusive, are repealed, effective January 1, 2005."
+            ],
+            "source": [
+              "(P.A. 95-331, S. 1–7; P.A. 97-120, S. 1–5; June 30 Sp. Sess. P.A. 03-6, S. 146(c), (d); P.A. 04-55, S. 21; 04-169, S. 17; 04-189, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-553 to 20-558 , inclusive, are repealed, effective January 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 20-559 to 20-559s. Short title. Definitions. Service of process. Athlete agents: Registration required, void contracts. Registration as athlete agent, form, requirements. Certificate of registration, issuance or denial, renewal. Suspension, revocation or refusal to renew registration. Temporary registration. Registration and renewal fees. Required form of contract. Notice to educational institution. Student-athlete's right to cancel. Required records. Prohibited conduct. Criminal penalties. Civil remedies. Administrative penalty. Uniformity of application and construction. Electronic Signatures in Global and National Commerce Act. Severability.",
           "url": "https://www.cga.ct.gov/current/pub/chap_400i.htm#secs_20-559_to_20-559s",
+          "grouped": true,
+          "section_keys": [
+            "20-559",
+            "20-559a",
+            "20-559b",
+            "20-559c",
+            "20-559d",
+            "20-559e",
+            "20-559f",
+            "20-559g",
+            "20-559h",
+            "20-559i",
+            "20-559j",
+            "20-559k",
+            "20-559l",
+            "20-559m",
+            "20-559n",
+            "20-559o",
+            "20-559p",
+            "20-559q",
+            "20-559r",
+            "20-559s"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-559 to 20-559s , inclusive, are repealed, effective January 1, 2018."
+            ],
+            "source": [
+              "(P.A. 04-55, S. 1–20; June Sp. Sess. P.A. 09-3, S. 272; P.A. 17-75, S. 5.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-559 to 20-559s , inclusive, are repealed, effective January 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 20-560 to 20-569.",
           "url": "https://www.cga.ct.gov/current/pub/chap_400i.htm#secs_20-560_to_20-569",
+          "grouped": true,
+          "section_keys": [
+            "20-560",
+            "20-561",
+            "20-562",
+            "20-563",
+            "20-564",
+            "20-565",
+            "20-566",
+            "20-567",
+            "20-568",
+            "20-569"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -25321,12 +26933,27 @@
           "section_key": "",
           "label": "Secs. 20-584 to 20-589.",
           "url": "https://www.cga.ct.gov/current/pub/chap_400j.htm#secs_20-584_to_20-589",
+          "grouped": true,
+          "section_keys": [
+            "20-584",
+            "20-585",
+            "20-586",
+            "20-587",
+            "20-588",
+            "20-589"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -25719,12 +27346,23 @@
           "section_key": "",
           "label": "Secs. 20-603 and 20-604.",
           "url": "https://www.cga.ct.gov/current/pub/chap_400j.htm#secs_20-603_and_20-604",
+          "grouped": true,
+          "section_keys": [
+            "20-603",
+            "20-604"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -27111,7 +28749,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -27228,7 +28870,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -27265,12 +28911,30 @@
           "section_key": "",
           "label": "Secs. 20-641 to 20-649.",
           "url": "https://www.cga.ct.gov/current/pub/chap_400k.htm#secs_20-641_to_20-649",
+          "grouped": true,
+          "section_keys": [
+            "20-641",
+            "20-642",
+            "20-643",
+            "20-644",
+            "20-645",
+            "20-646",
+            "20-647",
+            "20-648",
+            "20-649"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -27285,24 +28949,54 @@
           "section_key": "",
           "label": "Secs. 20-650 to 20-656. Definitions. State Board of Examiners of Shorthand Reporters. License required for use of title and practice of shorthand reporting; exception. Application for licensure; fees. Examination; licenses; renewal; continuing education; regulations; reinstatement. Exemptions. Suspension or revocation of license; reinstatement; display of license number; civil penalty.",
           "url": "https://www.cga.ct.gov/current/pub/chap_400l.htm#secs_20-650_to_20-656",
+          "grouped": true,
+          "section_keys": [
+            "20-650",
+            "20-651",
+            "20-652",
+            "20-653",
+            "20-654",
+            "20-655",
+            "20-656"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 20-650 to 20-656 , inclusive, are repealed, effective January 1, 2018."
+            ],
+            "source": [
+              "(P.A. 97-166, S. 1–7; P.A. 99-194, S. 2, 3; P.A. 02-82, S. 9; June 30 Sp. Sess. P.A. 03-6, S. 146(c), 146(d); P.A. 04-169, S. 17; 04-189, S. 1; P.A. 08-81, S. 1; June Sp. Sess. P.A. 09-3, S. 274; P.A. 13-196, S. 19; P.A. 16-185, S.44–46; P.A. 17-75, S. 5.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 20-650 to 20-656 , inclusive, are repealed, effective January 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 20-657 to 20-659.",
           "url": "https://www.cga.ct.gov/current/pub/chap_400l.htm#secs_20-657_to_20-659",
+          "grouped": true,
+          "section_keys": [
+            "20-657",
+            "20-658",
+            "20-659"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -27374,12 +29068,31 @@
           "section_key": "",
           "label": "Secs. 20-661 to 20-669.",
           "url": "https://www.cga.ct.gov/current/pub/chap_400m.htm#secs_20-661_to_20-669",
+          "grouped": true,
+          "section_keys": [
+            "20-661",
+            "20-662",
+            "20-663",
+            "20-664",
+            "20-665",
+            "20-666",
+            "20-667",
+            "20-668",
+            "20-669"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use.",
+              "Note: Chapter 400n is also reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.\n\nNote: Chapter 400n is also reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -27804,12 +29517,25 @@
           "section_key": "",
           "label": "Secs. 20-687 to 20-690.",
           "url": "https://www.cga.ct.gov/current/pub/chap_400o.htm#secs_20-687_to_20-690",
+          "grouped": true,
+          "section_keys": [
+            "20-687",
+            "20-688",
+            "20-689",
+            "20-690"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]

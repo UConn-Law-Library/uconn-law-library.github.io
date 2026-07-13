@@ -14,12 +14,26 @@
           "section_key": "",
           "label": "Secs. 23-1 to 23-3. Appointment and term of commission. Powers and duties; reports; director. Supervision of tree wardens.",
           "url": "https://www.cga.ct.gov/current/pub/chap_447.htm#secs_23-1_to_23-3",
+          "grouped": true,
+          "section_keys": [
+            "23-1",
+            "23-2",
+            "23-3"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 23-1 to 23-3 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3428–3430; 1951, S. 1854d; September, 1957, P.A. 11, S. 13; February, 1965, P.A. 614, S. 1; 1971, P.A. 872, S. 157; P.A. 73-616, S. 21.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 23-1 to 23-3 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -244,7 +258,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 23-5f is repealed."
+            "text": "Section 23-5f is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -530,7 +548,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 23-10c is repealed, effective July 1, 2012."
+            "text": "Section 23-10c is repealed, effective July 1, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -575,12 +597,23 @@
           "section_key": "",
           "label": "Secs. 23-10f and 23-10g.",
           "url": "https://www.cga.ct.gov/current/pub/chap_447.htm#secs_23-10f_and_23-10g",
+          "grouped": true,
+          "section_keys": [
+            "23-10f",
+            "23-10g"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -707,7 +740,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 23-14a is repealed."
+            "text": "Section 23-14a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1315,12 +1352,34 @@
           "section_key": "",
           "label": "Secs. 23-27a to 23-27k. Registration of private land for recreational purposes.",
           "url": "https://www.cga.ct.gov/current/pub/chap_447.htm#secs_23-27a_to_23-27k",
+          "grouped": true,
+          "section_keys": [
+            "23-27a",
+            "23-27b",
+            "23-27c",
+            "23-27d",
+            "23-27e",
+            "23-27f",
+            "23-27g",
+            "23-27h",
+            "23-27i",
+            "23-27j",
+            "23-27k"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 23-27a to 23-27k , inclusive, are repealed."
+            ],
+            "source": [
+              "(1967, P.A. 623, S. 1–12; 1969, P.A. 786, S. 1–3; 1971, P.A. 249, S. 7; 872, S. 191–193.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 23-27a to 23-27k , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1335,7 +1394,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 23-1 to 23-3. Appointment and term of commission. Powers and duties; reports; director. Supervision of tree wardens. Sections 23-1 to 23-3 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1350,7 +1412,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 23-1 to 23-3. Appointment and term of commission. Powers and duties; reports; director. Supervision of tree wardens. Sections 23-1 to 23-3 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1365,7 +1430,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 23-27a to 23-27k. Registration of private land for recreational purposes. Sections 23-27a to 23-27k , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1380,7 +1448,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 23-27a to 23-27k. Registration of private land for recreational purposes. Sections 23-27a to 23-27k , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -1395,12 +1466,41 @@
           "section_key": "",
           "label": "Secs. 23-27 l to 23-27q. Park improvement employment projects.",
           "url": "https://www.cga.ct.gov/current/pub/chap_447a.htm#secs_23-27l_to_23-27q",
+          "grouped": true,
+          "section_keys": [
+            "23-27",
+            "23-27a",
+            "23-27b",
+            "23-27c",
+            "23-27d",
+            "23-27e",
+            "23-27f",
+            "23-27g",
+            "23-27h",
+            "23-27i",
+            "23-27j",
+            "23-27k",
+            "23-27l",
+            "23-27m",
+            "23-27n",
+            "23-27o",
+            "23-27p",
+            "23-27q"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 23-27 l to 23-27q , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 75-533, S. 1–7; S.A. 77-47, S. 64, 65; P.A. 77-614, S. 19, 610.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 23-27 l to 23-27q , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1415,7 +1515,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 23-27 l to 23-27q. Park improvement employment projects. Sections 23-27 l to 23-27q , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1430,7 +1533,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 23-27 l to 23-27q. Park improvement employment projects. Sections 23-27 l to 23-27q , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -1454,7 +1560,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -1591,7 +1701,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 23-34 is repealed, effective October 1, 2001."
+            "text": "Section 23-34 is repealed, effective October 1, 2001.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1707,7 +1821,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 23-37c is repealed."
+            "text": "Section 23-37c is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1935,7 +2053,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 23-49 is repealed."
+            "text": "Section 23-49 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1989,7 +2111,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 23-51 is repealed, effective October 1, 2001."
+            "text": "Section 23-51 is repealed, effective October 1, 2001.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2005,7 +2131,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 23-52 is repealed."
+            "text": "Section 23-52 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -2264,7 +2394,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 23-61 is repealed."
+            "text": "Section 23-61 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2329,7 +2463,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 23-61c is repealed."
+            "text": "Section 23-61c is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2345,7 +2483,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 23-61d is repealed, effective October 1, 2002."
+            "text": "Section 23-61d is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2533,12 +2675,26 @@
           "section_key": "",
           "label": "Secs. 23-62 to 23-64. Tree Protection Examining Board; license. Officers; regulations; seal; revocation of licenses. Examination and renewal fees; compensation of board.",
           "url": "https://www.cga.ct.gov/current/pub/chap_451.htm#secs_23-62_to_23-64",
+          "grouped": true,
+          "section_keys": [
+            "23-62",
+            "23-63",
+            "23-64"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 23-62 to 23-64 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3500–3502; 1959, P.A. 616, S. 77; 1967, P.A. 587, S. 7.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 23-62 to 23-64 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2598,12 +2754,26 @@
           "section_key": "",
           "label": "Secs. 23-65a to 23-65e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_451.htm#secs_23-65a_to_23-65e",
+          "grouped": true,
+          "section_keys": [
+            "23-65a",
+            "23-65b",
+            "23-65c",
+            "23-65d",
+            "23-65e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2618,7 +2788,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 23-62 to 23-64. Tree Protection Examining Board; license. Officers; regulations; seal; revocation of licenses. Examination and renewal fees; compensation of board. Sections 23-62 to 23-64 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2633,7 +2806,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 23-62 to 23-64. Tree Protection Examining Board; license. Officers; regulations; seal; revocation of licenses. Examination and renewal fees; compensation of board. Sections 23-62 to 23-64 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3229,7 +3405,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 23-80 is repealed, effective July 1, 1998."
+            "text": "Section 23-80 is repealed, effective July 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3273,12 +3453,39 @@
           "section_key": "",
           "label": "Secs. 23-82 to 23-99.",
           "url": "https://www.cga.ct.gov/current/pub/chap_453.htm#secs_23-82_to_23-99",
+          "grouped": true,
+          "section_keys": [
+            "23-82",
+            "23-83",
+            "23-84",
+            "23-85",
+            "23-86",
+            "23-87",
+            "23-88",
+            "23-89",
+            "23-90",
+            "23-91",
+            "23-92",
+            "23-93",
+            "23-94",
+            "23-95",
+            "23-96",
+            "23-97",
+            "23-98",
+            "23-99"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]

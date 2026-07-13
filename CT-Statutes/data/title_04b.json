@@ -96,7 +96,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4b-1c is repealed, effective July 1, 2013."
+            "text": "Section 4b-1c is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -133,7 +137,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4b-2a is repealed, effective October 1, 2000."
+            "text": "Section 4b-2a is repealed, effective October 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -208,12 +216,26 @@
           "section_key": "",
           "label": "Secs. 4b-6 to 4b-10.",
           "url": "https://www.cga.ct.gov/current/pub/chap_059.htm#secs_4b-6_to_4b-10",
+          "grouped": true,
+          "section_keys": [
+            "4b-6",
+            "4b-7",
+            "4b-8",
+            "4b-9",
+            "4b-10"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -487,12 +509,24 @@
           "section_key": "",
           "label": "Secs. 4b-18 to 4b-20.",
           "url": "https://www.cga.ct.gov/current/pub/chap_059.htm#secs_4b-18_to_4b-20",
+          "grouped": true,
+          "section_keys": [
+            "4b-18",
+            "4b-19",
+            "4b-20"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use ."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use .",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -636,7 +670,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4b-23a is repealed."
+            "text": "Section 4b-23a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1057,27 +1095,53 @@
           }
         },
         {
-          "section_key": "4-128f",
+          "section_key": "",
           "label": "Secs. 4b-40 (Formerly Sec. 4-128f) and 4b-41. State lease of certain property for courthouse in Norwich; conveyance to state at end of lease term; exempt from property tax and included as if owned by state in computing grant in lieu of taxes on state real property. Lease-purchase agreement for development of courthouse in Vernon; easement agreements; courthouse exempt from property tax and included as if owned by state in computing grant in lieu of taxes on state real property.",
           "url": "https://www.cga.ct.gov/current/pub/chap_059.htm#secs_4b-40_and_4b-41",
+          "grouped": true,
+          "section_keys": [
+            "4b-40",
+            "4b-41"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4b-40 and 4b-41 are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(P.A. 82-410, S. 1, 4; P.A. 92-105, S. 1, 2; P.A. 00-168, S. 3, 27; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4b-40 and 4b-41 are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4b-42 to 4b-45.",
           "url": "https://www.cga.ct.gov/current/pub/chap_059.htm#secs_4b-42_to_4b-45",
+          "grouped": true,
+          "section_keys": [
+            "4b-42",
+            "4b-43",
+            "4b-44",
+            "4b-45"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1137,12 +1201,24 @@
           "section_key": "",
           "label": "Secs. 4b-48 to 4b-50.",
           "url": "https://www.cga.ct.gov/current/pub/chap_059.htm#secs_4b-48_to_4b-50",
+          "grouped": true,
+          "section_keys": [
+            "4b-48",
+            "4b-49",
+            "4b-50"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1782,7 +1858,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4b-75 is repealed, effective October 1, 2002."
+            "text": "Section 4b-75 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1825,12 +1905,34 @@
           "section_key": "",
           "label": "Secs. 4b-78 to 4b-90.",
           "url": "https://www.cga.ct.gov/current/pub/chap_060.htm#secs_4b-78_to_4b-90",
+          "grouped": true,
+          "section_keys": [
+            "4b-78",
+            "4b-79",
+            "4b-80",
+            "4b-81",
+            "4b-82",
+            "4b-83",
+            "4b-84",
+            "4b-85",
+            "4b-86",
+            "4b-87",
+            "4b-88",
+            "4b-89",
+            "4b-90"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2090,19 +2192,37 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4b-97 is repealed."
+            "text": "Section 4b-97 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4b-98, 4b-98a and 4b-99. Definitions. Large public building projects; bidding procedures, contracts and payrolls. Construction management services; invitation of responses and contracts for; regulations.",
           "url": "https://www.cga.ct.gov/current/pub/chap_060.htm#secs_4b-98_4b-98a_and_4b-99",
+          "grouped": true,
+          "section_keys": [
+            "4b-98",
+            "4b-98a",
+            "4b-99"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4b-98 , 4b-98a and 4b-99 are repealed, effective June 6, 1996."
+            ],
+            "source": [
+              "(P.A. 92-228, S. 1–3, 9; P.A. 96-235, S. 18, 19.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4b-98 , 4b-98a and 4b-99 are repealed, effective June 6, 1996.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2188,7 +2308,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4b-101a is repealed, effective July 1, 2012."
+            "text": "Section 4b-101a is repealed, effective July 1, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2237,12 +2361,47 @@
           "section_key": "",
           "label": "Secs. 4b-104 to 4b-129.",
           "url": "https://www.cga.ct.gov/current/pub/chap_060.htm#secs_4b-104_to_4b-129",
+          "grouped": true,
+          "section_keys": [
+            "4b-104",
+            "4b-105",
+            "4b-106",
+            "4b-107",
+            "4b-108",
+            "4b-109",
+            "4b-110",
+            "4b-111",
+            "4b-112",
+            "4b-113",
+            "4b-114",
+            "4b-115",
+            "4b-116",
+            "4b-117",
+            "4b-118",
+            "4b-119",
+            "4b-120",
+            "4b-121",
+            "4b-122",
+            "4b-123",
+            "4b-124",
+            "4b-125",
+            "4b-126",
+            "4b-127",
+            "4b-128",
+            "4b-129"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2257,7 +2416,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4b-98, 4b-98a and 4b-99. Definitions. Large public building projects; bidding procedures, contracts and payrolls. Construction management services; invitation of responses and contracts for; regulations. Sections 4b-98 , 4b-98a and 4b-99 are repealed, effective June 6, 1996.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2272,7 +2434,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4b-98, 4b-98a and 4b-99. Definitions. Large public building projects; bidding procedures, contracts and payrolls. Construction management services; invitation of responses and contracts for; regulations. Sections 4b-98 , 4b-98a and 4b-99 are repealed, effective June 6, 1996.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2287,7 +2452,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4b-98, 4b-98a and 4b-99. Definitions. Large public building projects; bidding procedures, contracts and payrolls. Construction management services; invitation of responses and contracts for; regulations. Sections 4b-98 , 4b-98a and 4b-99 are repealed, effective June 6, 1996.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]

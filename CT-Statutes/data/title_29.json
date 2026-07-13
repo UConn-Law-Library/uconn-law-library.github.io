@@ -23,7 +23,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-1 is repealed."
+            "text": "Section 29-1 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -37,7 +41,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 529, Sec. 29-1zz ."
+            "text": "Transferred to Chapter 529, Sec. 29-1zz .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -290,12 +298,23 @@
           "section_key": "",
           "label": "Secs. 29-1m and 29-1n.",
           "url": "https://www.cga.ct.gov/current/pub/chap_528.htm#secs_29-1m_and_29-1n",
+          "grouped": true,
+          "section_keys": [
+            "29-1m",
+            "29-1n"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -388,7 +407,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-1s is repealed, effective July 1, 2013."
+            "text": "Section 29-1s is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -431,12 +454,26 @@
           "section_key": "",
           "label": "Secs. 29-1v to 29-1z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_528.htm#secs_29-1v_to_29-1z",
+          "grouped": true,
+          "section_keys": [
+            "29-1v",
+            "29-1w",
+            "29-1x",
+            "29-1y",
+            "29-1z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -624,12 +661,37 @@
           "section_key": "",
           "label": "Secs. 29-1ii to 29-1xx.",
           "url": "https://www.cga.ct.gov/current/pub/chap_528.htm#secs_29-1ii_to_29-1xx",
+          "grouped": true,
+          "section_keys": [
+            "29-1ii",
+            "29-1jj",
+            "29-1kk",
+            "29-1ll",
+            "29-1mm",
+            "29-1nn",
+            "29-1oo",
+            "29-1pp",
+            "29-1qq",
+            "29-1rr",
+            "29-1ss",
+            "29-1tt",
+            "29-1uu",
+            "29-1vv",
+            "29-1ww",
+            "29-1xx"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -645,7 +707,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-1yy is repealed."
+            "text": "Section 29-1yy is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -787,7 +853,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-3b is repealed, effective June 15, 2012."
+            "text": "Section 29-3b is repealed, effective June 15, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -851,12 +921,24 @@
           "section_key": "",
           "label": "Secs. 29-4b to 29-4d.",
           "url": "https://www.cga.ct.gov/current/pub/chap_529.htm#secs_29-4b_to_29-4d",
+          "grouped": true,
+          "section_keys": [
+            "29-4b",
+            "29-4c",
+            "29-4d"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -906,12 +988,26 @@
           "section_key": "",
           "label": "Secs. 29-5a to 29-5e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_529.htm#secs_29-5a_to_29-5e",
+          "grouped": true,
+          "section_keys": [
+            "29-5a",
+            "29-5b",
+            "29-5c",
+            "29-5d",
+            "29-5e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1091,7 +1187,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-7a is repealed, effective July 1, 1993."
+            "text": "Section 29-7a is repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1225,7 +1325,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1267,12 +1371,25 @@
           "section_key": "",
           "label": "Secs. 29-7i to 29-7 l .",
           "url": "https://www.cga.ct.gov/current/pub/chap_529.htm#secs_29-7i_to_29-7l",
+          "grouped": true,
+          "section_keys": [
+            "29-7i",
+            "29-7j",
+            "29-7k",
+            "29-7l"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1290,7 +1407,11 @@
               "History: P.A. 97-18 designated existing provisions as Subsec. (a), amended said Subsec. (a) to make a technical change and added Subsec. (b) to require local law enforcement agencies to monitor, record and classify all violations of Sec. 53a-181b and report such information to the Division of State Police; P.A. 00-72 amended Subsec. (b) to replace reference to “section 53a-181b” with reference to “section 53a-181j, 53a-181k or 53a-181 l ”; pursuant to P.A. 11-51, “Department of Public Safety” was changed editorially by the Revisors to “Department of Emergency Services and Public Protection”, effective July 1, 2011."
             ],
             "annotations": [],
-            "text": "Section 29-7m is repealed, effective January 1, 2023."
+            "text": "Section 29-7m is repealed, effective January 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1365,7 +1486,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-9 is repealed, effective October 1, 2012."
+            "text": "Section 29-9 is repealed, effective October 1, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1937,7 +2062,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-24 is repealed."
+            "text": "Section 29-24 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2300,7 +2429,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-32a is repealed."
+            "text": "Section 29-32a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2577,12 +2710,24 @@
           "section_key": "",
           "label": "Secs. 29-36c to 29-36e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_529.htm#secs_29-36c_to_29-36e",
+          "grouped": true,
+          "section_keys": [
+            "29-36c",
+            "29-36d",
+            "29-36e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2684,7 +2829,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-36j is repealed, effective October 1, 1999."
+            "text": "Section 29-36j is repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2874,7 +3023,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 29-37i ."
+            "text": "Transferred to Sec. 29-37i .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -2963,7 +3116,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3016,12 +3173,26 @@
           "section_key": "",
           "label": "Secs. 29-37k to 29-37o.",
           "url": "https://www.cga.ct.gov/current/pub/chap_529.htm#secs_29-37k_to_29-37o",
+          "grouped": true,
+          "section_keys": [
+            "29-37k",
+            "29-37l",
+            "29-37m",
+            "29-37n",
+            "29-37o"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3155,7 +3326,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-38a is repealed, effective October 1, 1999."
+            "text": "Section 29-38a is repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3317,12 +3492,26 @@
           "section_key": "",
           "label": "Secs. 29-38h to 29-38 l .",
           "url": "https://www.cga.ct.gov/current/pub/chap_529.htm#secs_29-38h_to_29-38l",
+          "grouped": true,
+          "section_keys": [
+            "29-38h",
+            "29-38i",
+            "29-38j",
+            "29-38k",
+            "29-38l"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3456,7 +3645,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 541, Sec. 29-291 ."
+            "text": "Transferred to Chapter 541, Sec. 29-291 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3472,43 +3665,91 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-39a is repealed."
+            "text": "Section 29-39a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 29-40 to 29-44.",
           "url": "https://www.cga.ct.gov/current/pub/chap_530.htm#secs_29-40_to_29-44",
+          "grouped": true,
+          "section_keys": [
+            "29-40",
+            "29-41",
+            "29-42",
+            "29-43",
+            "29-44"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 541, Secs. 29-292 to 29-296 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 541, Secs. 29-292 to 29-296 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 29-44a to 29-44c.",
           "url": "https://www.cga.ct.gov/current/pub/chap_530.htm#secs_29-44a_to_29-44c",
+          "grouped": true,
+          "section_keys": [
+            "29-44a",
+            "29-44b",
+            "29-44c"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 541, Secs. 29-313 to 29-315 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 541, Secs. 29-313 to 29-315 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 29-45 to 29-53.",
           "url": "https://www.cga.ct.gov/current/pub/chap_530.htm#secs_29-45_to_29-53",
+          "grouped": true,
+          "section_keys": [
+            "29-45",
+            "29-46",
+            "29-47",
+            "29-48",
+            "29-49",
+            "29-50",
+            "29-51",
+            "29-52",
+            "29-53"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 541, Secs. 29-297 to 29-306 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 541, Secs. 29-297 to 29-306 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3524,19 +3765,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-54 is repealed."
+            "text": "Section 29-54 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 29-54a and 29-55 to 29-57.",
           "url": "https://www.cga.ct.gov/current/pub/chap_530.htm#secs_29-54a_and_29-55_to_29-57",
+          "grouped": true,
+          "section_keys": [
+            "29-54a",
+            "29-55",
+            "29-56",
+            "29-57"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 541, Secs. 29-307 to 29-310 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 541, Secs. 29-307 to 29-310 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3550,19 +3808,65 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 541, Sec. 29-312 ."
+            "text": "Transferred to Chapter 541, Sec. 29-312 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 29-59 to 29-91.",
           "url": "https://www.cga.ct.gov/current/pub/chap_530.htm#secs_29-59_to_29-91",
+          "grouped": true,
+          "section_keys": [
+            "29-59",
+            "29-60",
+            "29-61",
+            "29-62",
+            "29-63",
+            "29-64",
+            "29-65",
+            "29-66",
+            "29-67",
+            "29-68",
+            "29-69",
+            "29-70",
+            "29-71",
+            "29-72",
+            "29-73",
+            "29-74",
+            "29-75",
+            "29-76",
+            "29-77",
+            "29-78",
+            "29-79",
+            "29-80",
+            "29-81",
+            "29-82",
+            "29-83",
+            "29-84",
+            "29-85",
+            "29-86",
+            "29-87",
+            "29-88",
+            "29-89",
+            "29-90",
+            "29-91"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 541, Secs. 29-316 to 29-352 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 541, Secs. 29-316 to 29-352 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3578,43 +3882,110 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-92 is repealed."
+            "text": "Section 29-92 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 29-93 to 29-106.",
           "url": "https://www.cga.ct.gov/current/pub/chap_530.htm#secs_29-93_to_29-106",
+          "grouped": true,
+          "section_keys": [
+            "29-93",
+            "29-94",
+            "29-95",
+            "29-96",
+            "29-97",
+            "29-98",
+            "29-99",
+            "29-100",
+            "29-101",
+            "29-102",
+            "29-103",
+            "29-104",
+            "29-105",
+            "29-106"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 541, Secs. 29-353 to 29-366 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 541, Secs. 29-353 to 29-366 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 29-106a to 29-106p. Amateur rocketry.",
           "url": "https://www.cga.ct.gov/current/pub/chap_530.htm#secs_29-106a_to_29-106p",
+          "grouped": true,
+          "section_keys": [
+            "29-106a",
+            "29-106b",
+            "29-106c",
+            "29-106d",
+            "29-106e",
+            "29-106f",
+            "29-106g",
+            "29-106h",
+            "29-106i",
+            "29-106j",
+            "29-106k",
+            "29-106l",
+            "29-106m",
+            "29-106n",
+            "29-106o",
+            "29-106p"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 29-106a to 29-106p , inclusive, are repealed."
+            ],
+            "source": [
+              "(1961, P.A. 473, S. 1–7; 1963, P.A. 529, S. 1–10; 1967, P.A. 656, S. 22; 1969, P.A. 781, S. 5.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 29-106a to 29-106p , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 29-106q to 29-106t.",
           "url": "https://www.cga.ct.gov/current/pub/chap_530.htm#secs_29-106q_to_29-106t",
+          "grouped": true,
+          "section_keys": [
+            "29-106q",
+            "29-106r",
+            "29-106s",
+            "29-106t"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 541, Secs. 29-367 to 29-370 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 541, Secs. 29-367 to 29-370 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3630,7 +4001,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-107 is repealed."
+            "text": "Section 29-107 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3644,7 +4019,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 416, Sec. 21a-12 ."
+            "text": "Transferred to Chapter 416, Sec. 21a-12 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3659,7 +4038,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 29-106a to 29-106p. Amateur rocketry. Sections 29-106a to 29-106p , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3674,7 +4056,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 29-106a to 29-106p. Amateur rocketry. Sections 29-106a to 29-106p , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3809,7 +4194,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-108f is repealed."
+            "text": "Section 29-108f is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3892,7 +4281,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-109 is repealed, effective July 1, 2016."
+            "text": "Section 29-109 is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3908,19 +4301,37 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-110 is repealed."
+            "text": "Section 29-110 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 29-111 to 29-113. Revocation or suspension of licenses or permits. Fees. Penalty.",
           "url": "https://www.cga.ct.gov/current/pub/chap_531.htm#secs_29-111_to_29-113",
+          "grouped": true,
+          "section_keys": [
+            "29-111",
+            "29-112",
+            "29-113"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 29-111 to 29-113 , inclusive, are repealed, effective July 1, 2016."
+            ],
+            "source": [
+              "(1949 Rev., S. 3696–3698; 1961, P.A. 29; P.A. 80-297, S. 14, 20; P.A. 89-188, S. 2–4, 9; May Sp. Sess. P.A. 92-6, S. 57, 117; June Sp. Sess. P.A. 07-1, S. 140; P.A. 16-2, S. 2.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 29-111 to 29-113 , inclusive, are repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3936,7 +4347,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-114 is repealed."
+            "text": "Section 29-114 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3952,7 +4367,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-115 is repealed, effective July 1, 2016."
+            "text": "Section 29-115 is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3968,7 +4387,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-116 is repealed."
+            "text": "Section 29-116 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3984,7 +4407,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-117 is repealed, effective July 1, 2016."
+            "text": "Section 29-117 is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3998,19 +4425,36 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 29-128a ."
+            "text": "Transferred to Sec. 29-128a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 29-118 and 29-119. License to operate; fee. Penalties.",
           "url": "https://www.cga.ct.gov/current/pub/chap_531.htm#secs_29-118_and_29-119",
+          "grouped": true,
+          "section_keys": [
+            "29-118",
+            "29-119"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 29-118 and 29-119 are repealed, effective October 1, 1999."
+            ],
+            "source": [
+              "(1949 Rev., S. 3703, 3704; 1971, P.A. 423, S. 1; P.A. 77-614, S. 486, 610; P.A. 80-297, S. 16, 20; P.A. 89-188, S. 5, 6, 9; P.A. 99-163, S. 8, 9.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 29-118 and 29-119 are repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4026,19 +4470,40 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-120 is repealed, effective July 1, 2016."
+            "text": "Section 29-120 is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 29-121 to 29-126. Storing of moving picture films; definitions. License to manufacture or store films. Restriction on issuance of licenses. Special room for handling films; fire extinguishers; smoking forbidden. Quantity of films under examination or repair restricted. Room to be ventilated.",
           "url": "https://www.cga.ct.gov/current/pub/chap_531.htm#secs_29-121_to_29-126",
+          "grouped": true,
+          "section_keys": [
+            "29-121",
+            "29-122",
+            "29-123",
+            "29-124",
+            "29-125",
+            "29-126"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 29-121 to 29-126 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3706–3711; P.A. 89-188, S. 8, 9.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 29-121 to 29-126 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4054,7 +4519,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-127 is repealed, effective July 1, 2016."
+            "text": "Section 29-127 is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4070,7 +4539,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-128 is repealed."
+            "text": "Section 29-128 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4104,19 +4577,35 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-128b is repealed, effective July 1, 2016."
+            "text": "Section 29-128b is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 29-128c to 29-128e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_531.htm#secs_29-128c_to_29-128e",
+          "grouped": true,
+          "section_keys": [
+            "29-128c",
+            "29-128d",
+            "29-128e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4152,7 +4641,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 29-111 to 29-113. Revocation or suspension of licenses or permits. Fees. Penalty. Sections 29-111 to 29-113 , inclusive, are repealed, effective July 1, 2016.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4167,7 +4659,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 29-111 to 29-113. Revocation or suspension of licenses or permits. Fees. Penalty. Sections 29-111 to 29-113 , inclusive, are repealed, effective July 1, 2016.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4182,7 +4677,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 29-118 and 29-119. License to operate; fee. Penalties. Sections 29-118 and 29-119 are repealed, effective October 1, 1999.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4197,7 +4695,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 29-118 and 29-119. License to operate; fee. Penalties. Sections 29-118 and 29-119 are repealed, effective October 1, 1999.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4549,7 +5050,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 246, Sec. 14-164a ."
+            "text": "Transferred to Chapter 246, Sec. 14-164a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -4593,12 +5098,27 @@
           "section_key": "",
           "label": "Secs. 29-143c to 29-143h.",
           "url": "https://www.cga.ct.gov/current/pub/chap_532.htm#secs_29-143c_to_29-143h",
+          "grouped": true,
+          "section_keys": [
+            "29-143c",
+            "29-143d",
+            "29-143e",
+            "29-143f",
+            "29-143g",
+            "29-143h"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -4695,12 +5215,25 @@
           "section_key": "",
           "label": "Secs. 29-143m and 29-143n. (Formerly Secs. 21a-199 and 21a-200). Reports of matches; payment of tax. Examination as to receipts and tax due; sanctions for delinquency.",
           "url": "https://www.cga.ct.gov/current/pub/chap_532a.htm#secs_29-143m_and_29-143n",
+          "grouped": true,
+          "section_keys": [
+            "29-143m",
+            "29-143n"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 29-143m and 29-143n are repealed, effective October 1, 2017."
+            ],
+            "source": [
+              "(1949 Rev., S. 3510, 3511; 1959, P.A. 412, S. 34, 35; February, 1965, P.A. 617, S. 3; 1972, P.A. 55, S. 3; P.A. 81-472, S. 51, 159; P.A. 84-344, S. 6, 7, 11; P.A. 85-157, S. 4, 5, 9; 85-293, S. 3; P.A. 98-117, S. 4, 5; P.A. 99-194, S. 11; P.A. 13-259, S. 3, 4; P.A. 17-116, S. 3.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 29-143m and 29-143n are repealed, effective October 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4953,7 +5486,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 29-143m and 29-143n. (Formerly Secs. 21a-199 and 21a-200). Reports of matches; payment of tax. Examination as to receipts and tax due; sanctions for delinquency. Sections 29-143m and 29-143n are repealed, effective October 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4968,7 +5504,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 29-143m and 29-143n. (Formerly Secs. 21a-199 and 21a-200). Reports of matches; payment of tax. Examination as to receipts and tax due; sanctions for delinquency. Sections 29-143m and 29-143n are repealed, effective October 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -5255,7 +5794,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -5493,12 +6036,25 @@
           "section_key": "",
           "label": "Secs. 29-152q to 29-152t.",
           "url": "https://www.cga.ct.gov/current/pub/chap_533a.htm#secs_29-152q_to_29-152t",
+          "grouped": true,
+          "section_keys": [
+            "29-152q",
+            "29-152r",
+            "29-152s",
+            "29-152t"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -5566,7 +6122,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-154 is repealed."
+            "text": "Section 29-154 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5795,7 +6355,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-156c is repealed, effective October 1, 2004."
+            "text": "Section 29-156c is repealed, effective October 1, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5847,7 +6411,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-156f is repealed."
+            "text": "Section 29-156f is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5899,7 +6467,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-157 is repealed."
+            "text": "Section 29-157 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5952,7 +6524,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-160 is repealed."
+            "text": "Section 29-160 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5978,24 +6554,47 @@
           "section_key": "",
           "label": "Secs. 29-161a to 29-161c.",
           "url": "https://www.cga.ct.gov/current/pub/chap_534.htm#secs_29-161a_to_29-161c",
+          "grouped": true,
+          "section_keys": [
+            "29-161a",
+            "29-161b",
+            "29-161c"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Part II, Secs. 29-161y to 29-161aa , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Part II, Secs. 29-161y to 29-161aa , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 29-161d and 29-161e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_534.htm#secs_29-161d_and_29-161e",
+          "grouped": true,
+          "section_keys": [
+            "29-161d",
+            "29-161e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6556,12 +7155,26 @@
           "section_key": "",
           "label": "Secs. 29-164a to 29-164e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_535.htm#secs_29-164a_to_29-164e",
+          "grouped": true,
+          "section_keys": [
+            "29-164a",
+            "29-164b",
+            "29-164c",
+            "29-164d",
+            "29-164e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -6771,7 +7384,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-165 is repealed."
+            "text": "Section 29-165 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6933,12 +7550,26 @@
           "section_key": "",
           "label": "Secs. 29-173 to 29-175. Regional crime squads; formation; existing agreements; mandatory provisions in agreements. Coordinating and supervisory body of chiefs of police, duties and powers; police officers, assignment, powers, duties and immunities. State-Wide Enforcement Coordinating Committee; membership; powers and duties; financing; report to Drug Advisory Council; existing coordinating committee.",
           "url": "https://www.cga.ct.gov/current/pub/chap_536.htm#secs_29-173_to_29-175",
+          "grouped": true,
+          "section_keys": [
+            "29-173",
+            "29-174",
+            "29-175"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 29-173 to 29-175 , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 73-592, S. 11–15; P.A. 74-71, S. 1–5; P.A. 76-400, S. 5, 7.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 29-173 to 29-175 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7038,12 +7669,26 @@
           "section_key": "",
           "label": "Secs. 29-179a to 29-179e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_536.htm#secs_29-179a_to_29-179e",
+          "grouped": true,
+          "section_keys": [
+            "29-179a",
+            "29-179b",
+            "29-179c",
+            "29-179d",
+            "29-179e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7175,12 +7820,30 @@
           "section_key": "",
           "label": "Secs. 29-180 to 29-186. Connecticut Justice Commission: Definitions; establishment, powers and duties; composition of commission and chairperson; members not compensated; meetings; executive committee, committees, subcommittees, advisory panels and task forces; executive director, deputy director.",
           "url": "https://www.cga.ct.gov/current/pub/chap_537.htm#secs_29-180_to_29-186",
+          "grouped": true,
+          "section_keys": [
+            "29-180",
+            "29-181",
+            "29-182",
+            "29-183",
+            "29-184",
+            "29-185",
+            "29-186"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 29-180 to 29-186 , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 76-432, S. 1–7, 11; P.A. 77-614, S. 59, 610; P.A. 82-346, S. 6, 7; 82-472, S. 169, 170, 183.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 29-180 to 29-186 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7214,19 +7877,34 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-188 is repealed."
+            "text": "Section 29-188 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 29-189 and 29-190.",
           "url": "https://www.cga.ct.gov/current/pub/chap_537.htm#secs_29-189_and_29-190",
+          "grouped": true,
+          "section_keys": [
+            "29-189",
+            "29-190"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7724,19 +8402,38 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-214 is repealed, effective October 1, 2005."
+            "text": "Section 29-214 is repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 29-215 to 29-220.",
           "url": "https://www.cga.ct.gov/current/pub/chap_538a.htm#secs_29-215_to_29-220",
+          "grouped": true,
+          "section_keys": [
+            "29-215",
+            "29-216",
+            "29-217",
+            "29-218",
+            "29-219",
+            "29-220"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -7946,12 +8643,26 @@
           "section_key": "",
           "label": "Secs. 29-226 to 29-230.",
           "url": "https://www.cga.ct.gov/current/pub/chap_539.htm#secs_29-226_to_29-230",
+          "grouped": true,
+          "section_keys": [
+            "29-226",
+            "29-227",
+            "29-228",
+            "29-229",
+            "29-230"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -8223,12 +8934,26 @@
           "section_key": "",
           "label": "Secs. 29-245 to 29-249.",
           "url": "https://www.cga.ct.gov/current/pub/chap_540.htm#secs_29-245_to_29-249",
+          "grouped": true,
+          "section_keys": [
+            "29-245",
+            "29-246",
+            "29-247",
+            "29-248",
+            "29-249"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -8624,7 +9349,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-256d is repealed, effective July 1, 2022."
+            "text": "Section 29-256d is repealed, effective July 1, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8685,7 +9414,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-257 is repealed."
+            "text": "Section 29-257 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9165,7 +9898,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-268 is repealed."
+            "text": "Section 29-268 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9210,7 +9947,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-269a is repealed, effective July 1, 2017."
+            "text": "Section 29-269a is repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9262,7 +10003,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-270 is repealed."
+            "text": "Section 29-270 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9373,7 +10118,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-275 is repealed."
+            "text": "Section 29-275 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9405,7 +10154,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-276 is repealed."
+            "text": "Section 29-276 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9524,12 +10277,27 @@
           "section_key": "",
           "label": "Secs. 29-278 to 29-281. (Formerly Secs. 19-399a to 19-399d). Safety glazing material; definitions. Labeling of lights. Safety glazing material requirement; liability; penalty. Statute supersedes local ordinance.",
           "url": "https://www.cga.ct.gov/current/pub/chap_541.htm#secs_29-278_to_29-281",
+          "grouped": true,
+          "section_keys": [
+            "29-278",
+            "29-279",
+            "29-280",
+            "29-281"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 29-278 to 29-281 , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 73-182, S. 1–5; P.A. 77-614, S. 500, 610; P.A. 78-303, S. 21, 136; P.A. 82-432, S. 13, 19; P.A. 88-317, S. 89, 107; 88-356, S. 5.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 29-278 to 29-281 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9554,12 +10322,29 @@
           "section_key": "",
           "label": "Secs. 29-283 to 29-290.",
           "url": "https://www.cga.ct.gov/current/pub/chap_541.htm#secs_29-283_to_29-290",
+          "grouped": true,
+          "section_keys": [
+            "29-283",
+            "29-284",
+            "29-285",
+            "29-286",
+            "29-287",
+            "29-288",
+            "29-289",
+            "29-290"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -9613,7 +10398,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-291b is repealed, effective July 1, 2021."
+            "text": "Section 29-291b is repealed, effective July 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9811,7 +10600,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-295 is repealed, effective July 1, 2021."
+            "text": "Section 29-295 is repealed, effective July 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10111,7 +10904,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-304 is repealed, effective July 1,2017."
+            "text": "Section 29-304 is repealed, effective July 1,2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10532,7 +11329,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-316 is repealed, effective January 1, 2013."
+            "text": "Section 29-316 is repealed, effective January 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10548,7 +11349,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-317 is repealed, effective July 1, 2017."
+            "text": "Section 29-317 is repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10656,7 +11461,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-320 is repealed, effective July 1, 2017."
+            "text": "Section 29-320 is repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10672,7 +11481,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-321 is repealed, effective January 1, 2015."
+            "text": "Section 29-321 is repealed, effective January 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10734,12 +11547,27 @@
           "section_key": "",
           "label": "Secs. 29-325 to 29-328. (Formerly Secs. 29-67 to 29-70). Fire hazards in dry cleaning; regulations. Local fire marshals to enforce regulations. Appeal. Penalty.",
           "url": "https://www.cga.ct.gov/current/pub/chap_541.htm#secs_29-325_to_29-328",
+          "grouped": true,
+          "section_keys": [
+            "29-325",
+            "29-326",
+            "29-327",
+            "29-328"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 29-325 to 29-328 , inclusive, are repealed, effective January 1, 2015."
+            ],
+            "source": [
+              "(1949 Rev., S. 3690–3693; 1971, P.A. 870, S. 83; P.A. 73-132, S. 2; P.A. 74-183, S. 258, 291; P.A. 76-436, S. 221, 681; P.A. 78-280, S. 1, 127; P.A. 85-87; P.A. 90-25; P.A. 09-177, S. 25; P.A. 10-54, S. 6; P.A. 11-51, S. 90; P.A. 12-60, S. 1, 2; P.A. 13-247, S. 200; 13-256, S. 19, 20.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 29-325 to 29-328 , inclusive, are repealed, effective January 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10755,7 +11583,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-329 is repealed, effective July 1, 2017."
+            "text": "Section 29-329 is repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10789,7 +11621,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-331 is repealed, effective July 1, 2017."
+            "text": "Section 29-331 is repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10805,19 +11641,37 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-332 is repealed, effective January 1, 2013."
+            "text": "Section 29-332 is repealed, effective January 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 29-333 to 29-335. (Formerly Secs. 29-74 to 29-76). Variations or exemptions. Appeal. Penalty.",
           "url": "https://www.cga.ct.gov/current/pub/chap_541.htm#secs_29-333_to_29-335",
+          "grouped": true,
+          "section_keys": [
+            "29-333",
+            "29-334",
+            "29-335"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 29-333 to 29-335 , inclusive, are repealed, effective January 1, 2015."
+            ],
+            "source": [
+              "(1955, S. 2002d–2004d; 1957, P.A. 516, S. 8; 1959, P.A. 400; P.A. 74-183, S. 260, 291; P.A. 76-436, S. 223, 681; P.A. 77-614, S. 486, 610; P.A. 78-280, S. 1, 5, 127; P.A. 79-512, S. 8, 13; P.A. 88-230, S. 1, 12; P.A. 90-98, S. 1, 2; P.A. 93-142, S. 4, 7, 8; P.A. 95-220, S. 4–6; P.A. 07-217, S. 140; P.A. 09-177, S. 25; P.A. 10-54, S. 6; P.A. 11-51, S. 90; P.A. 12-60, S. 1, 2; P.A. 13-247, S. 200; 13-256, S. 19, 20.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 29-333 to 29-335 , inclusive, are repealed, effective January 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10853,7 +11707,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-336 is repealed, effective January 1, 2015."
+            "text": "Section 29-336 is repealed, effective January 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10869,7 +11727,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-337 is repealed, effective July 1, 2017."
+            "text": "Section 29-337 is repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10885,7 +11747,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-338 is repealed, effective January 1, 2015."
+            "text": "Section 29-338 is repealed, effective January 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10901,19 +11767,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-339 is repealed, effective January 1, 2013."
+            "text": "Section 29-339 is repealed, effective January 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 29-340 and 29-341. (Formerly Secs. 29-81 and 29-82). Appeals. Penalty.",
           "url": "https://www.cga.ct.gov/current/pub/chap_541.htm#secs_29-340_and_29-341",
+          "grouped": true,
+          "section_keys": [
+            "29-340",
+            "29-341"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 29-340 and 29-341 are repealed, effective January 1, 2015."
+            ],
+            "source": [
+              "(1957, P.A. 353, S. 5, 6; 1959, P.A. 340; P.A. 74-183, S. 261, 291; P.A. 76-436, S. 224, 681; P.A. 78-280, S. 1, 5, 127; P.A. 79-512, S. 11, 13; P.A. 86-386; P.A. 88-230, S. 1, 12; P.A. 90-98, S. 1, 2; P.A. 93-142, S. 4, 7, 8; P.A. 95-93, S. 1; 95-220, S. 4–6; P.A. 07-217, S. 141; P.A. 09-177, S. 25; P.A. 10-54, S. 6; P.A. 12-60, S. 1, 2; P.A. 13-256, S. 19, 20.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 29-340 and 29-341 are repealed, effective January 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10929,7 +11812,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-342 is repealed."
+            "text": "Section 29-342 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11332,7 +12219,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-358 is repealed, effective January 1, 2013."
+            "text": "Section 29-358 is repealed, effective January 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11589,12 +12480,30 @@
           "section_key": "",
           "label": "Secs. 29-372 to 29-380.",
           "url": "https://www.cga.ct.gov/current/pub/chap_541.htm#secs_29-372_to_29-380",
+          "grouped": true,
+          "section_keys": [
+            "29-372",
+            "29-373",
+            "29-374",
+            "29-375",
+            "29-376",
+            "29-377",
+            "29-378",
+            "29-379",
+            "29-380"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11640,12 +12549,30 @@
           "section_key": "",
           "label": "Secs. 29-382 to 29-388. (Formerly Secs. 19-377, 19-379, 19-381 to 19-383, 19-384a and 19-385a). Local authorities to require safe exits. Examination by local authorities. Order; appeal. Fastening of doors in school houses. Fire alarms in school houses. Penalties. Stairways and fire escapes for school houses. Condemnation of nonconforming building.",
           "url": "https://www.cga.ct.gov/current/pub/chap_541.htm#secs_29-382_to_29-388",
+          "grouped": true,
+          "section_keys": [
+            "29-382",
+            "29-383",
+            "29-384",
+            "29-385",
+            "29-386",
+            "29-387",
+            "29-388"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 29-382 to 29-388 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4086, 4088, 4090–4092; 1957, P.A. 13, S. 85; 516, S. 10, 12; 1959, P.A. 662, S. 1, 2; February, 1965, P.A. 574, S. 28; 1971, P.A. 802, S. 2, 3; P.A. 74-183, S. 232, 291; P.A. 76-436, S. 201, 681; P.A. 78-280, S. 1, 127; P.A. 85-4; 85-9; 85-34, S. 2; P.A. 88-356, S. 5.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 29-382 to 29-388 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11661,19 +12588,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-389 is repealed, effective October 1, 2002."
+            "text": "Section 29-389 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 29-390 and 29-391. (Formerly Secs. 19-387a and 19-389). Egress from workshops and manufactories. Liability of owner of building.",
           "url": "https://www.cga.ct.gov/current/pub/chap_541.htm#secs_29-390_and_29-391",
+          "grouped": true,
+          "section_keys": [
+            "29-390",
+            "29-391"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 29-390 and 29-391 are repealed, effective July 1, 2017."
+            ],
+            "source": [
+              "(1949 Rev., S. 4099; 1959, P.A. 506, S. 2; 1967, P.A. 441; P.A. 83-168, S. 2; P.A. 02-89, S. 70; P.A. 17-80, S. 6.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 29-390 and 29-391 are repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11689,7 +12633,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-392 is repealed."
+            "text": "Section 29-392 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11767,7 +12715,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 29-395 is repealed."
+            "text": "Section 29-395 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11790,12 +12742,25 @@
           "section_key": "",
           "label": "Secs. 29-397 to 29-400.",
           "url": "https://www.cga.ct.gov/current/pub/chap_541.htm#secs_29-397_to_29-400",
+          "grouped": true,
+          "section_keys": [
+            "29-397",
+            "29-398",
+            "29-399",
+            "29-400"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12307,12 +13272,47 @@
           "section_key": "",
           "label": "Secs. 29-424 to 29-449.",
           "url": "https://www.cga.ct.gov/current/pub/chap_541.htm#secs_29-424_to_29-449",
+          "grouped": true,
+          "section_keys": [
+            "29-424",
+            "29-425",
+            "29-426",
+            "29-427",
+            "29-428",
+            "29-429",
+            "29-430",
+            "29-431",
+            "29-432",
+            "29-433",
+            "29-434",
+            "29-435",
+            "29-436",
+            "29-437",
+            "29-438",
+            "29-439",
+            "29-440",
+            "29-441",
+            "29-442",
+            "29-443",
+            "29-444",
+            "29-445",
+            "29-446",
+            "29-447",
+            "29-448",
+            "29-449"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12327,7 +13327,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 29-278 to 29-281. (Formerly Secs. 19-399a to 19-399d). Safety glazing material; definitions. Labeling of lights. Safety glazing material requirement; liability; penalty. Statute supersedes local ordinance. Sections 29-278 to 29-281 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12342,7 +13345,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 29-278 to 29-281. (Formerly Secs. 19-399a to 19-399d). Safety glazing material; definitions. Labeling of lights. Safety glazing material requirement; liability; penalty. Statute supersedes local ordinance. Sections 29-278 to 29-281 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12357,7 +13363,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 29-325 to 29-328. (Formerly Secs. 29-67 to 29-70). Fire hazards in dry cleaning; regulations. Local fire marshals to enforce regulations. Appeal. Penalty. Sections 29-325 to 29-328 , inclusive, are repealed, effective January 1, 2015.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12372,7 +13381,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 29-325 to 29-328. (Formerly Secs. 29-67 to 29-70). Fire hazards in dry cleaning; regulations. Local fire marshals to enforce regulations. Appeal. Penalty. Sections 29-325 to 29-328 , inclusive, are repealed, effective January 1, 2015.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12387,7 +13399,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 29-333 to 29-335. (Formerly Secs. 29-74 to 29-76). Variations or exemptions. Appeal. Penalty. Sections 29-333 to 29-335 , inclusive, are repealed, effective January 1, 2015.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12402,7 +13417,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 29-333 to 29-335. (Formerly Secs. 29-74 to 29-76). Variations or exemptions. Appeal. Penalty. Sections 29-333 to 29-335 , inclusive, are repealed, effective January 1, 2015.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12417,7 +13435,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 29-340 and 29-341. (Formerly Secs. 29-81 and 29-82). Appeals. Penalty. Sections 29-340 and 29-341 are repealed, effective January 1, 2015.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12432,7 +13453,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 29-340 and 29-341. (Formerly Secs. 29-81 and 29-82). Appeals. Penalty. Sections 29-340 and 29-341 are repealed, effective January 1, 2015.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12477,7 +13501,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 29-390 and 29-391. (Formerly Secs. 19-387a and 19-389). Egress from workshops and manufactories. Liability of owner of building. Sections 29-390 and 29-391 are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12492,7 +13519,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 29-390 and 29-391. (Formerly Secs. 19-387a and 19-389). Egress from workshops and manufactories. Liability of owner of building. Sections 29-390 and 29-391 are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]

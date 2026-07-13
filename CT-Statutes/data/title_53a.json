@@ -1984,7 +1984,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 53a-39b is repealed, effective October 1, 2003."
+            "text": "Section 53a-39b is repealed, effective October 1, 2003.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2025,7 +2029,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 53a-39d is repealed, effective October 1, 2010."
+            "text": "Section 53a-39d is repealed, effective October 1, 2010.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2491,7 +2499,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 53a-46 is repealed."
+            "text": "Section 53a-46 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2694,7 +2706,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 53a-47 is repealed."
+            "text": "Section 53a-47 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2894,19 +2910,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 53a-52 is repealed.\n\n*Unconstitutionally broad discretion. 164 C. 162. Cited. 184 C. 597.\n\nCited. 45 CA 591.\n\nCited. 40 CS 498."
+            "text": "Section 53a-52 is repealed.\n\n*Unconstitutionally broad discretion. 164 C. 162. Cited. 184 C. 597.\n\nCited. 45 CA 591.\n\nCited. 40 CS 498.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 53a-53 and 53a-54. Homicide defined. Murder defined; affirmative defenses; evidence of mental condition; classification.",
           "url": "https://www.cga.ct.gov/current/pub/chap_952.htm#secs_53a-53_and_53a-54",
+          "grouped": true,
+          "section_keys": [
+            "53a-53",
+            "53a-54"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 53a-53 and 53a-54 are repealed."
+            ],
+            "source": [
+              "(1969, P.A. 828, S. 54, 55; 1971, P.A. 871, S. 129; P.A. 73-137, S. 15.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 53a-53 and 53a-54 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3427,7 +3460,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 53a-58a is repealed."
+            "text": "Section 53a-58a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3811,12 +3848,46 @@
           "section_key": "",
           "label": "Secs. 53a-61b to 53a-61z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_952.htm#secs_53a-61b_to_53a-61z",
+          "grouped": true,
+          "section_keys": [
+            "53a-61b",
+            "53a-61c",
+            "53a-61d",
+            "53a-61e",
+            "53a-61f",
+            "53a-61g",
+            "53a-61h",
+            "53a-61i",
+            "53a-61j",
+            "53a-61k",
+            "53a-61l",
+            "53a-61m",
+            "53a-61n",
+            "53a-61o",
+            "53a-61p",
+            "53a-61q",
+            "53a-61r",
+            "53a-61s",
+            "53a-61t",
+            "53a-61u",
+            "53a-61v",
+            "53a-61w",
+            "53a-61x",
+            "53a-61y",
+            "53a-61z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3968,12 +4039,47 @@
           "section_key": "",
           "label": "Secs. 53a-64a to 53a-64z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_952.htm#secs_53a-64a_to_53a-64z",
+          "grouped": true,
+          "section_keys": [
+            "53a-64a",
+            "53a-64b",
+            "53a-64c",
+            "53a-64d",
+            "53a-64e",
+            "53a-64f",
+            "53a-64g",
+            "53a-64h",
+            "53a-64i",
+            "53a-64j",
+            "53a-64k",
+            "53a-64l",
+            "53a-64m",
+            "53a-64n",
+            "53a-64o",
+            "53a-64p",
+            "53a-64q",
+            "53a-64r",
+            "53a-64s",
+            "53a-64t",
+            "53a-64u",
+            "53a-64v",
+            "53a-64w",
+            "53a-64x",
+            "53a-64y",
+            "53a-64z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4162,7 +4268,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 53a-66 is repealed."
+            "text": "Section 53a-66 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4209,12 +4319,25 @@
           "section_key": "",
           "label": "Secs. 53a-68 and 53a-69. Corroboration; exceptions. Time limitation for complaint.",
           "url": "https://www.cga.ct.gov/current/pub/chap_952.htm#secs_53a-68_and_53a-69",
+          "grouped": true,
+          "section_keys": [
+            "53a-68",
+            "53a-69"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 53a-68 and 53a-69 are repealed."
+            ],
+            "source": [
+              "(1969, P.A. 828, S. 69, 70; P.A. 74-131; P.A. 76-216; P.A. 87-223.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 53a-68 and 53a-69 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4347,7 +4470,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 53a-70b is repealed, effective October 1, 2019."
+            "text": "Section 53a-70b is repealed, effective October 1, 2019.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4446,7 +4573,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 53a-72 is repealed."
+            "text": "Section 53a-72 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4536,7 +4667,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 53a-73 is repealed."
+            "text": "Section 53a-73 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4608,12 +4743,31 @@
           "section_key": "",
           "label": "Secs. 53a-74 to 53a-81. Rape in the second degree. Deviate sexual intercourse in the first and second degree. Sexual contact in the first, second and third degree. Adultery: Class A misdemeanor.",
           "url": "https://www.cga.ct.gov/current/pub/chap_952.htm#secs_53a-74_to_53a-81",
+          "grouped": true,
+          "section_keys": [
+            "53a-74",
+            "53a-75",
+            "53a-76",
+            "53a-77",
+            "53a-78",
+            "53a-79",
+            "53a-80",
+            "53a-81"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 53a-74 to 53a-81 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1969, P.A. 828, S. 75–82; 1971, P.A. 871, S. 126–129; 1972, P.A. 127, S. 79, 80; P.A. 75-619, S. 7; P.A. 91-19, S. 2.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 53a-74 to 53a-81 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4683,7 +4837,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 53a-83a is repealed, effective October 1, 2017."
+            "text": "Section 53a-83a is repealed, effective October 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4854,7 +5012,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 961, Part II, Sec. 54-102a ."
+            "text": "Transferred to Chapter 961, Part II, Sec. 54-102a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -5052,7 +5214,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 53a-93 is repealed."
+            "text": "Section 53a-93 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5318,12 +5484,47 @@
           "section_key": "",
           "label": "Secs. 53a-100a to 53a-100z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_952.htm#secs_53a-100a_to_53a-100z",
+          "grouped": true,
+          "section_keys": [
+            "53a-100a",
+            "53a-100b",
+            "53a-100c",
+            "53a-100d",
+            "53a-100e",
+            "53a-100f",
+            "53a-100g",
+            "53a-100h",
+            "53a-100i",
+            "53a-100j",
+            "53a-100k",
+            "53a-100l",
+            "53a-100m",
+            "53a-100n",
+            "53a-100o",
+            "53a-100p",
+            "53a-100q",
+            "53a-100r",
+            "53a-100s",
+            "53a-100t",
+            "53a-100u",
+            "53a-100v",
+            "53a-100w",
+            "53a-100x",
+            "53a-100y",
+            "53a-100z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5566,7 +5767,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 53a-105 is repealed."
+            "text": "Section 53a-105 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5777,12 +5982,23 @@
           "section_key": "",
           "label": "Secs. 53a-110b and 53a-110c.",
           "url": "https://www.cga.ct.gov/current/pub/chap_952.htm#secs_53a-110b_and_53a-110c",
+          "grouped": true,
+          "section_keys": [
+            "53a-110b",
+            "53a-110c"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Part XXI, Secs. 53a-223 and 53a-223a ."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Part XXI, Secs. 53a-223 and 53a-223a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -6095,12 +6311,24 @@
           "section_key": "",
           "label": "Secs. 53a-117b to 53a-117d.",
           "url": "https://www.cga.ct.gov/current/pub/chap_952.htm#secs_53a-117b_to_53a-117d",
+          "grouped": true,
+          "section_keys": [
+            "53a-117b",
+            "53a-117c",
+            "53a-117d"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6170,12 +6398,24 @@
           "section_key": "",
           "label": "Secs. 53a-117h to 53a-117j.",
           "url": "https://www.cga.ct.gov/current/pub/chap_952.htm#secs_53a-117h_to_53a-117j",
+          "grouped": true,
+          "section_keys": [
+            "53a-117h",
+            "53a-117i",
+            "53a-117j"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6503,7 +6743,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 53a-120 is repealed."
+            "text": "Section 53a-120 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6928,7 +7172,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 53a-126 is repealed."
+            "text": "Section 53a-126 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8407,7 +8655,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 53a-157b ."
+            "text": "Transferred to Sec. 53a-157b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8728,12 +8980,47 @@
           "section_key": "",
           "label": "Secs. 53a-165a to 53a-165z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_952.htm#secs_53a-165a_to_53a-165z",
+          "grouped": true,
+          "section_keys": [
+            "53a-165a",
+            "53a-165b",
+            "53a-165c",
+            "53a-165d",
+            "53a-165e",
+            "53a-165f",
+            "53a-165g",
+            "53a-165h",
+            "53a-165i",
+            "53a-165j",
+            "53a-165k",
+            "53a-165l",
+            "53a-165m",
+            "53a-165n",
+            "53a-165o",
+            "53a-165p",
+            "53a-165q",
+            "53a-165r",
+            "53a-165s",
+            "53a-165t",
+            "53a-165u",
+            "53a-165v",
+            "53a-165w",
+            "53a-165x",
+            "53a-165y",
+            "53a-165z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -9575,12 +9862,43 @@
           "section_key": "",
           "label": "Secs. 53a-180e to 53a-180z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_952.htm#secs_53a-180e_to_53a-180z",
+          "grouped": true,
+          "section_keys": [
+            "53a-180e",
+            "53a-180f",
+            "53a-180g",
+            "53a-180h",
+            "53a-180i",
+            "53a-180j",
+            "53a-180k",
+            "53a-180l",
+            "53a-180m",
+            "53a-180n",
+            "53a-180o",
+            "53a-180p",
+            "53a-180q",
+            "53a-180r",
+            "53a-180s",
+            "53a-180t",
+            "53a-180u",
+            "53a-180v",
+            "53a-180w",
+            "53a-180x",
+            "53a-180y",
+            "53a-180z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -9708,7 +10026,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 53a-181b is repealed, effective October 1, 2000."
+            "text": "Section 53a-181b is repealed, effective October 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9833,12 +10155,23 @@
           "section_key": "",
           "label": "Secs. 53a-181g and 53a-181h.",
           "url": "https://www.cga.ct.gov/current/pub/chap_952.htm#secs_53a-181g_and_53a-181h",
+          "grouped": true,
+          "section_keys": [
+            "53a-181g",
+            "53a-181h"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -10169,12 +10502,25 @@
           "section_key": "",
           "label": "Secs. 53a-184 and 53a-184a. Intoxication by drug; definition, commitment, treatment, penalty. Intoxication by alcohol or drug; definition, commitment, dismissal of criminal proceedings, unclassified misdemeanor.",
           "url": "https://www.cga.ct.gov/current/pub/chap_952.htm#secs_53a-184_and_53a-184a",
+          "grouped": true,
+          "section_keys": [
+            "53a-184",
+            "53a-184a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 53a-184 and 53a-184a are repealed."
+            ],
+            "source": [
+              "(1969, P.A. 828, S. 186; 1971, P.A. 871, S. 45; P.A. 74-280, S. 22, 25; P.A. 75-479, S. 11, 12, 25; P.A. 76-300, S. 2, 3, 4; P.A. 86-371, S. 34, 45; P.A. 89-390, S. 36, 37.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 53a-184 and 53a-184a are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10859,12 +11205,25 @@
           "section_key": "",
           "label": "Secs. 53a-197 and 53a-198. Disseminating indecent comic books: Class A misdemeanor. Failing to identify a comic book publication: Violation.",
           "url": "https://www.cga.ct.gov/current/pub/chap_952.htm#secs_53a-197_and_53a-198",
+          "grouped": true,
+          "section_keys": [
+            "53a-197",
+            "53a-198"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 53a-197 and 53a-198 are repealed, effective October 1, 2004."
+            ],
+            "source": [
+              "(1969, P.A. 828, S. 199, 200; P.A. 92-260, S. 81; P.A. 04-139, S. 14.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 53a-197 and 53a-198 are repealed, effective October 1, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11768,12 +12127,45 @@
           "section_key": "",
           "label": "Secs. 53a-226 to 53a-249.",
           "url": "https://www.cga.ct.gov/current/pub/chap_952.htm#secs_53a-226_to_53a-249",
+          "grouped": true,
+          "section_keys": [
+            "53a-226",
+            "53a-227",
+            "53a-228",
+            "53a-229",
+            "53a-230",
+            "53a-231",
+            "53a-232",
+            "53a-233",
+            "53a-234",
+            "53a-235",
+            "53a-236",
+            "53a-237",
+            "53a-238",
+            "53a-239",
+            "53a-240",
+            "53a-241",
+            "53a-242",
+            "53a-243",
+            "53a-244",
+            "53a-245",
+            "53a-246",
+            "53a-247",
+            "53a-248",
+            "53a-249"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12043,12 +12435,33 @@
           "section_key": "",
           "label": "Secs. 53a-263 to 53a-274.",
           "url": "https://www.cga.ct.gov/current/pub/chap_952.htm#secs_53a-263_to_53a-274",
+          "grouped": true,
+          "section_keys": [
+            "53a-263",
+            "53a-264",
+            "53a-265",
+            "53a-266",
+            "53a-267",
+            "53a-268",
+            "53a-269",
+            "53a-270",
+            "53a-271",
+            "53a-272",
+            "53a-273",
+            "53a-274"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12194,12 +12607,28 @@
           "section_key": "",
           "label": "Secs. 53a-283 to 53a-289.",
           "url": "https://www.cga.ct.gov/current/pub/chap_952.htm#secs_53a-283_to_53a-289",
+          "grouped": true,
+          "section_keys": [
+            "53a-283",
+            "53a-284",
+            "53a-285",
+            "53a-286",
+            "53a-287",
+            "53a-288",
+            "53a-289"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12326,12 +12755,24 @@
           "section_key": "",
           "label": "Secs. 53a-297 to 53a-299.",
           "url": "https://www.cga.ct.gov/current/pub/chap_952.htm#secs_53a-297_to_53a-299",
+          "grouped": true,
+          "section_keys": [
+            "53a-297",
+            "53a-298",
+            "53a-299"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12427,12 +12868,36 @@
           "section_key": "",
           "label": "Secs. 53a-305 to 53a-319.",
           "url": "https://www.cga.ct.gov/current/pub/chap_952.htm#secs_53a-305_to_53a-319",
+          "grouped": true,
+          "section_keys": [
+            "53a-305",
+            "53a-306",
+            "53a-307",
+            "53a-308",
+            "53a-309",
+            "53a-310",
+            "53a-311",
+            "53a-312",
+            "53a-313",
+            "53a-314",
+            "53a-315",
+            "53a-316",
+            "53a-317",
+            "53a-318",
+            "53a-319"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12557,7 +13022,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 53a-53 and 53a-54. Homicide defined. Murder defined; affirmative defenses; evidence of mental condition; classification. Sections 53a-53 and 53a-54 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12572,7 +13040,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 53a-53 and 53a-54. Homicide defined. Murder defined; affirmative defenses; evidence of mental condition; classification. Sections 53a-53 and 53a-54 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12587,7 +13058,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 53a-68 and 53a-69. Corroboration; exceptions. Time limitation for complaint. Sections 53a-68 and 53a-69 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12602,7 +13076,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 53a-68 and 53a-69. Corroboration; exceptions. Time limitation for complaint. Sections 53a-68 and 53a-69 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12617,7 +13094,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 53a-74 to 53a-81. Rape in the second degree. Deviate sexual intercourse in the first and second degree. Sexual contact in the first, second and third degree. Adultery: Class A misdemeanor. Sections 53a-74 to 53a-81 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12632,7 +13112,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 53a-74 to 53a-81. Rape in the second degree. Deviate sexual intercourse in the first and second degree. Sexual contact in the first, second and third degree. Adultery: Class A misdemeanor. Sections 53a-74 to 53a-81 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12647,7 +13130,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 53a-184 and 53a-184a. Intoxication by drug; definition, commitment, treatment, penalty. Intoxication by alcohol or drug; definition, commitment, dismissal of criminal proceedings, unclassified misdemeanor. Sections 53a-184 and 53a-184a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12662,7 +13148,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 53a-184 and 53a-184a. Intoxication by drug; definition, commitment, treatment, penalty. Intoxication by alcohol or drug; definition, commitment, dismissal of criminal proceedings, unclassified misdemeanor. Sections 53a-184 and 53a-184a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12677,7 +13166,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 53a-197 and 53a-198. Disseminating indecent comic books: Class A misdemeanor. Failing to identify a comic book publication: Violation. Sections 53a-197 and 53a-198 are repealed, effective October 1, 2004.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12692,7 +13184,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 53a-197 and 53a-198. Disseminating indecent comic books: Class A misdemeanor. Failing to identify a comic book publication: Violation. Sections 53a-197 and 53a-198 are repealed, effective October 1, 2004.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]

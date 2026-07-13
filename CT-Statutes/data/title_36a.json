@@ -386,12 +386,27 @@
           "section_key": "",
           "label": "Secs. 36a-4 to 36a-9.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664.htm#secs_36a-4_to_36a-9",
+          "grouped": true,
+          "section_keys": [
+            "36a-4",
+            "36a-5",
+            "36a-6",
+            "36a-7",
+            "36a-8",
+            "36a-9"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -783,7 +798,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-24a is repealed, effective October 1, 2002."
+            "text": "Section 36a-24a is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -887,12 +906,24 @@
           "section_key": "",
           "label": "Secs. 36a-27 to 36a-29.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664a.htm#secs_36a-27_to_36a-29",
+          "grouped": true,
+          "section_keys": [
+            "36a-27",
+            "36a-28",
+            "36a-29"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1034,12 +1065,23 @@
           "section_key": "",
           "label": "Secs. 36a-35 and 36a-36.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664a.htm#secs_36a-35_and_36a-36",
+          "grouped": true,
+          "section_keys": [
+            "36a-35",
+            "36a-36"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1168,12 +1210,23 @@
           "section_key": "",
           "label": "Secs. 36a-38 and 36a-39.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664a.htm#secs_36a-38_and_36a-39",
+          "grouped": true,
+          "section_keys": [
+            "36a-38",
+            "36a-39"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1366,12 +1419,25 @@
           "section_key": "",
           "label": "Secs. 36a-46 to 36a-49.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664a.htm#secs_36a-46_to_36a-49",
+          "grouped": true,
+          "section_keys": [
+            "36a-46",
+            "36a-47",
+            "36a-48",
+            "36a-49"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1728,12 +1794,25 @@
           "section_key": "",
           "label": "Secs. 36a-61 to 36a-64.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664a.htm#secs_36a-61_to_36a-64",
+          "grouped": true,
+          "section_keys": [
+            "36a-61",
+            "36a-62",
+            "36a-63",
+            "36a-64"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1790,12 +1869,25 @@
           "section_key": "",
           "label": "Secs. 36a-66 to 36a-69.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664a.htm#secs_36a-66_to_36a-69",
+          "grouped": true,
+          "section_keys": [
+            "36a-66",
+            "36a-67",
+            "36a-68",
+            "36a-69"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -1939,12 +2031,27 @@
           "section_key": "",
           "label": "Secs. 36a-74 to 36a-79.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664b.htm#secs_36a-74_to_36a-79",
+          "grouped": true,
+          "section_keys": [
+            "36a-74",
+            "36a-75",
+            "36a-76",
+            "36a-77",
+            "36a-78",
+            "36a-79"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2101,12 +2208,29 @@
           "section_key": "",
           "label": "Secs. 36a-87 to 36a-94.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664b.htm#secs_36a-87_to_36a-94",
+          "grouped": true,
+          "section_keys": [
+            "36a-87",
+            "36a-88",
+            "36a-89",
+            "36a-90",
+            "36a-91",
+            "36a-92",
+            "36a-93",
+            "36a-94"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2259,12 +2383,23 @@
           "section_key": "",
           "label": "Secs. 36a-103 and 36a-104.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664b.htm#secs_36a-103_and_36a-104",
+          "grouped": true,
+          "section_keys": [
+            "36a-103",
+            "36a-104"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2423,12 +2558,28 @@
           "section_key": "",
           "label": "Secs. 36a-113 to 36a-119.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664b.htm#secs_36a-113_to_36a-119",
+          "grouped": true,
+          "section_keys": [
+            "36a-113",
+            "36a-114",
+            "36a-115",
+            "36a-116",
+            "36a-117",
+            "36a-118",
+            "36a-119"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2454,12 +2605,25 @@
           "section_key": "",
           "label": "Secs. 36a-121 to 36a-124.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664b.htm#secs_36a-121_to_36a-124",
+          "grouped": true,
+          "section_keys": [
+            "36a-121",
+            "36a-122",
+            "36a-123",
+            "36a-124"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -2588,12 +2752,27 @@
           "section_key": "",
           "label": "Secs. 36a-129 to 36a-134.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664c.htm#secs_36a-129_to_36a-134",
+          "grouped": true,
+          "section_keys": [
+            "36a-129",
+            "36a-130",
+            "36a-131",
+            "36a-132",
+            "36a-133",
+            "36a-134"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2793,12 +2972,26 @@
           "section_key": "",
           "label": "Secs. 36a-140 to 36a-144.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664c.htm#secs_36a-140_to_36a-144",
+          "grouped": true,
+          "section_keys": [
+            "36a-140",
+            "36a-141",
+            "36a-142",
+            "36a-143",
+            "36a-144"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2857,12 +3050,30 @@
           "section_key": "",
           "label": "Secs. 36a-146 to 36a-154.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664c.htm#secs_36a-146_to_36a-154",
+          "grouped": true,
+          "section_keys": [
+            "36a-146",
+            "36a-147",
+            "36a-148",
+            "36a-149",
+            "36a-150",
+            "36a-151",
+            "36a-152",
+            "36a-153",
+            "36a-154"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2971,12 +3182,31 @@
           "section_key": "",
           "label": "Secs. 36a-160 to 36a-169.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664c.htm#secs_36a-160_to_36a-169",
+          "grouped": true,
+          "section_keys": [
+            "36a-160",
+            "36a-161",
+            "36a-162",
+            "36a-163",
+            "36a-164",
+            "36a-165",
+            "36a-166",
+            "36a-167",
+            "36a-168",
+            "36a-169"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3003,12 +3233,30 @@
           "section_key": "",
           "label": "Secs. 36a-171 to 36a-179.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664c.htm#secs_36a-171_to_36a-179",
+          "grouped": true,
+          "section_keys": [
+            "36a-171",
+            "36a-172",
+            "36a-173",
+            "36a-174",
+            "36a-175",
+            "36a-176",
+            "36a-177",
+            "36a-178",
+            "36a-179"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3427,12 +3675,31 @@
           "section_key": "",
           "label": "Secs. 36a-200 to 36a-209.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664c.htm#secs_36a-200_to_36a-209",
+          "grouped": true,
+          "section_keys": [
+            "36a-200",
+            "36a-201",
+            "36a-202",
+            "36a-203",
+            "36a-204",
+            "36a-205",
+            "36a-206",
+            "36a-207",
+            "36a-208",
+            "36a-209"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3461,12 +3728,25 @@
           "section_key": "",
           "label": "Secs. 36a-211 to 36a-214.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664c.htm#secs_36a-211_to_36a-214",
+          "grouped": true,
+          "section_keys": [
+            "36a-211",
+            "36a-212",
+            "36a-213",
+            "36a-214"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4050,12 +4330,26 @@
           "section_key": "",
           "label": "Secs. 36a-237a to 36a-237e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664c.htm#secs_36a-237a_to_36a-237e",
+          "grouped": true,
+          "section_keys": [
+            "36a-237a",
+            "36a-237b",
+            "36a-237c",
+            "36a-237d",
+            "36a-237e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4190,12 +4484,31 @@
           "section_key": "",
           "label": "Secs. 36a-240 to 36a-249.",
           "url": "https://www.cga.ct.gov/current/pub/chap_664c.htm#secs_36a-240_to_36a-249",
+          "grouped": true,
+          "section_keys": [
+            "36a-240",
+            "36a-241",
+            "36a-242",
+            "36a-243",
+            "36a-244",
+            "36a-245",
+            "36a-246",
+            "36a-247",
+            "36a-248",
+            "36a-249"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -4300,7 +4613,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-251 is repealed."
+            "text": "Section 36a-251 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4325,12 +4642,23 @@
           "section_key": "",
           "label": "Secs. 36a-252 and 36a-252a.",
           "url": "https://www.cga.ct.gov/current/pub/chap_665.htm#secs_36a-252_and_36a-252a",
+          "grouped": true,
+          "section_keys": [
+            "36a-252",
+            "36a-252a"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 664c, Part II, Secs. 36a-139 and 36a-139a ."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 664c, Part II, Secs. 36a-139 and 36a-139a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -4384,12 +4712,27 @@
           "section_key": "",
           "label": "Secs. 36a-254 to 36a-259.",
           "url": "https://www.cga.ct.gov/current/pub/chap_665.htm#secs_36a-254_to_36a-259",
+          "grouped": true,
+          "section_keys": [
+            "36a-254",
+            "36a-255",
+            "36a-256",
+            "36a-257",
+            "36a-258",
+            "36a-259"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4654,12 +4997,28 @@
           "section_key": "",
           "label": "Secs. 36a-268 to 36a-274.",
           "url": "https://www.cga.ct.gov/current/pub/chap_665.htm#secs_36a-268_to_36a-274",
+          "grouped": true,
+          "section_keys": [
+            "36a-268",
+            "36a-269",
+            "36a-270",
+            "36a-271",
+            "36a-272",
+            "36a-273",
+            "36a-274"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4749,12 +5108,25 @@
           "section_key": "",
           "label": "Secs. 36a-278 and 36a-279. Investment in commercial paper. Leeway.",
           "url": "https://www.cga.ct.gov/current/pub/chap_665.htm#secs_36a-278_and_36a-279",
+          "grouped": true,
+          "section_keys": [
+            "36a-278",
+            "36a-279"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 36a-278 and 36a-279 are repealed."
+            ],
+            "source": [
+              "(P.A. 94-122, S. 127, 128, 340; P.A. 95-70, S. 6, 8; P.A. 96-44, S. 9.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 36a-278 and 36a-279 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4778,12 +5150,25 @@
           "section_key": "",
           "label": "Secs. 36a-281 to 36a-284.",
           "url": "https://www.cga.ct.gov/current/pub/chap_665.htm#secs_36a-281_to_36a-284",
+          "grouped": true,
+          "section_keys": [
+            "36a-281",
+            "36a-282",
+            "36a-283",
+            "36a-284"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4869,12 +5254,23 @@
           "section_key": "",
           "label": "Secs. 36a-288 and 36a-289.",
           "url": "https://www.cga.ct.gov/current/pub/chap_665.htm#secs_36a-288_and_36a-289",
+          "grouped": true,
+          "section_keys": [
+            "36a-288",
+            "36a-289"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4889,7 +5285,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 36a-278 and 36a-279. Investment in commercial paper. Leeway. Sections 36a-278 and 36a-279 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4904,7 +5303,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 36a-278 and 36a-279. Investment in commercial paper. Leeway. Sections 36a-278 and 36a-279 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -5396,12 +5798,26 @@
           "section_key": "",
           "label": "Secs. 36a-310 to 36a-314.",
           "url": "https://www.cga.ct.gov/current/pub/chap_665a.htm#secs_36a-310_to_36a-314",
+          "grouped": true,
+          "section_keys": [
+            "36a-310",
+            "36a-311",
+            "36a-312",
+            "36a-313",
+            "36a-314"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5648,12 +6064,27 @@
           "section_key": "",
           "label": "Secs. 36a-324 to 36a-329.",
           "url": "https://www.cga.ct.gov/current/pub/chap_665a.htm#secs_36a-324_to_36a-329",
+          "grouped": true,
+          "section_keys": [
+            "36a-324",
+            "36a-325",
+            "36a-326",
+            "36a-327",
+            "36a-328",
+            "36a-329"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5848,12 +6279,32 @@
           "section_key": "",
           "label": "Secs. 36a-339 to 36a-349.",
           "url": "https://www.cga.ct.gov/current/pub/chap_665a.htm#secs_36a-339_to_36a-349",
+          "grouped": true,
+          "section_keys": [
+            "36a-339",
+            "36a-340",
+            "36a-341",
+            "36a-342",
+            "36a-343",
+            "36a-344",
+            "36a-345",
+            "36a-346",
+            "36a-347",
+            "36a-348",
+            "36a-349"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -5956,12 +6407,32 @@
           "section_key": "",
           "label": "Secs. 36a-354 to 36a-364.",
           "url": "https://www.cga.ct.gov/current/pub/chap_665b.htm#secs_36a-354_to_36a-364",
+          "grouped": true,
+          "section_keys": [
+            "36a-354",
+            "36a-355",
+            "36a-356",
+            "36a-357",
+            "36a-358",
+            "36a-359",
+            "36a-360",
+            "36a-361",
+            "36a-362",
+            "36a-363",
+            "36a-364"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6132,12 +6603,28 @@
           "section_key": "",
           "label": "Secs. 36a-373 to 36a-379.",
           "url": "https://www.cga.ct.gov/current/pub/chap_665b.htm#secs_36a-373_to_36a-379",
+          "grouped": true,
+          "section_keys": [
+            "36a-373",
+            "36a-374",
+            "36a-375",
+            "36a-376",
+            "36a-377",
+            "36a-378",
+            "36a-379"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6277,12 +6764,29 @@
           "section_key": "",
           "label": "Secs. 36a-387 to 36a-394.",
           "url": "https://www.cga.ct.gov/current/pub/chap_665b.htm#secs_36a-387_to_36a-394",
+          "grouped": true,
+          "section_keys": [
+            "36a-387",
+            "36a-388",
+            "36a-389",
+            "36a-390",
+            "36a-391",
+            "36a-392",
+            "36a-393",
+            "36a-394"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6384,12 +6888,31 @@
           "section_key": "",
           "label": "Secs. 36a-400 to 36a-409.",
           "url": "https://www.cga.ct.gov/current/pub/chap_665b.htm#secs_36a-400_to_36a-409",
+          "grouped": true,
+          "section_keys": [
+            "36a-400",
+            "36a-401",
+            "36a-402",
+            "36a-403",
+            "36a-404",
+            "36a-405",
+            "36a-406",
+            "36a-407",
+            "36a-408",
+            "36a-409"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -6512,12 +7035,32 @@
           "section_key": "",
           "label": "Secs. 36a-414 to 36a-424.",
           "url": "https://www.cga.ct.gov/current/pub/chap_666.htm#secs_36a-414_to_36a-424",
+          "grouped": true,
+          "section_keys": [
+            "36a-414",
+            "36a-415",
+            "36a-416",
+            "36a-417",
+            "36a-418",
+            "36a-419",
+            "36a-420",
+            "36a-421",
+            "36a-422",
+            "36a-423",
+            "36a-424"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6589,7 +7132,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use.\n\n(B)*\n\nSTATE BRANCHES, STATE AGENCIES AND REPRESENTATIVE OFFICES OF FOREIGN BANKS\n\n*See Sec. 12-217u re tax credit for financial institutions constructing new facilities and creating new jobs.\n\nSee Sec. 32-462 re limitation on the amount of financial assistance which may be awarded without specific approval by the General Assembly and the exception for awards funded or to be funded by bonds authorized to be issued before July 1, 1994."
+            "text": "Reserved for future use.\n\n(B)*\n\nSTATE BRANCHES, STATE AGENCIES AND REPRESENTATIVE OFFICES OF FOREIGN BANKS\n\n*See Sec. 12-217u re tax credit for financial institutions constructing new facilities and creating new jobs.\n\nSee Sec. 32-462 re limitation on the amount of financial assistance which may be awarded without specific approval by the General Assembly and the exception for awards funded or to be funded by bonds authorized to be issued before July 1, 1994.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6861,7 +7408,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-428m is repealed, effective October 1, 2002."
+            "text": "Section 36a-428m is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6920,12 +7471,27 @@
           "section_key": "",
           "label": "Secs. 36a-429 to 36a-434.",
           "url": "https://www.cga.ct.gov/current/pub/chap_666.htm#secs_36a-429_to_36a-434",
+          "grouped": true,
+          "section_keys": [
+            "36a-429",
+            "36a-430",
+            "36a-431",
+            "36a-432",
+            "36a-433",
+            "36a-434"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -7027,7 +7593,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-435 is repealed, effective October 1, 2002."
+            "text": "Section 36a-435 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7098,7 +7668,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-436 is repealed, effective October 1, 2002."
+            "text": "Section 36a-436 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7156,7 +7730,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-437 is repealed, effective October 1, 2002."
+            "text": "Section 36a-437 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7204,7 +7782,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-438 is repealed, effective October 1, 2002."
+            "text": "Section 36a-438 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7247,7 +7829,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-439 is repealed, effective October 1, 2002."
+            "text": "Section 36a-439 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7281,7 +7867,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-440 is repealed, effective October 1, 2002."
+            "text": "Section 36a-440 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7341,7 +7931,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-441 is repealed, effective October 1, 2002."
+            "text": "Section 36a-441 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7379,7 +7973,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-442 is repealed, effective October 1, 2002."
+            "text": "Section 36a-442 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7405,12 +8003,29 @@
           "section_key": "",
           "label": "Secs. 36a-443 to 36a-448. (Formerly Secs. 36-198c to 36-198e, 36-200, 36-202 and 36-203). Extension of lines of credit to members. Lien on shares of members. Tax and loan and note accounts. Shares; value; withdrawal; minors; trusts; retirement accounts; share insurance. Meetings. Governing board.",
           "url": "https://www.cga.ct.gov/current/pub/chap_667.htm#secs_36a-443_to_36a-448",
+          "grouped": true,
+          "section_keys": [
+            "36a-443",
+            "36a-444",
+            "36a-445",
+            "36a-446",
+            "36a-447",
+            "36a-448"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 36a-443 to 36a-448 , inclusive, are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 5913–5915; 1951, 1953, 1955, S. 2743d–2745d; 1957, P.A. 180; 1959, P.A. 64; 1961, P.A. 48; 50, S. 1; 1967, P.A. 499, S. 2; 1969, P.A. 121, S. 1; 224, S. 2, 3; 246, S. 2; 268, S. 3; 1971, P.A. 242, S. 2; P.A. 73-142, S. 1, 2; P.A. 73-360, S. 2, 3; 73-565, S. 2, 4; P.A. 75-92; 75-111, S. 2, 3; 75-203, S. 1, 2; 75-518, S. 9, 13; P.A. 77-179, S. 4, 5, 7, 8, 22; 77-182; 77-185; P.A. 81-173, S. 1, 4, 8; P.A. 82-109, S. 3, 4, 6; P.A. 83-332, S. 1; P.A. 84-125, S. 3; P.A. 85-74, S. 1, 2; 85-234; 85-415, S. 8, 9, 17, 23, 24; P.A. 88-65, S. 55; P.A. 89-211, S. 39; P.A. 90-26, S. 4; P.A. 91-357, S. 44, 78; P.A. 92-12, S. 62; P.A. 94-122, S. 198–203, 340; P.A. 99-22, S. 5, 8; 99-36, S. 10; P.A. 02-73, S. 86.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 36a-443 to 36a-448 , inclusive, are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7460,7 +8075,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-449 is repealed, effective October 1, 2002."
+            "text": "Section 36a-449 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7495,7 +8114,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-450 is repealed, effective October 1, 2002."
+            "text": "Section 36a-450 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7529,7 +8152,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-451 is repealed, effective October 1, 2002."
+            "text": "Section 36a-451 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7579,7 +8206,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-452 is repealed, effective October 1, 2002."
+            "text": "Section 36a-452 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7606,12 +8237,25 @@
           "section_key": "",
           "label": "Secs. 36a-453 and 36a-454. (Formerly Secs. 36-204 and 36-204a). Officers. Benefits for Connecticut credit union employees and their families; liability or indemnity coverage for directors, credit committee members and supervisory committee members.",
           "url": "https://www.cga.ct.gov/current/pub/chap_667.htm#secs_36a-453_and_36a-454",
+          "grouped": true,
+          "section_keys": [
+            "36a-453",
+            "36a-454"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 36a-453 and 36a-454 are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 5916; 1963, P.A. 176; February, 1965, P.A. 476; 1969, P.A. 287, S. 1, 2; P.A. 76-172, S. 3, 5; P.A. 77-179, S. 9; 77-198; 77-604, S. 56, 84; P.A. 81-173, S. 3; P.A. 85-415, S. 12, 25; P.A. 90-26, S. 5; P.A. 91-357, S. 45, 78; P.A. 94-122, S. 208, 209, 340; P.A. 99-36, S. 13; P.A. 02-73, S. 86.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 36a-453 and 36a-454 are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7676,7 +8320,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-455 is repealed, effective October 1, 2002."
+            "text": "Section 36a-455 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7753,7 +8401,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-456 is repealed, effective October 1, 2002."
+            "text": "Section 36a-456 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7834,7 +8486,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-457 is repealed, effective October 1, 2002."
+            "text": "Section 36a-457 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7906,7 +8562,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-458 is repealed, effective October 1, 2002."
+            "text": "Section 36a-458 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7988,7 +8648,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-459 is repealed, effective October 1, 2002."
+            "text": "Section 36a-459 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8032,7 +8696,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-460 is repealed, effective October 1, 2002."
+            "text": "Section 36a-460 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8074,7 +8742,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-461 is repealed, effective October 1, 2002."
+            "text": "Section 36a-461 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8120,7 +8792,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-462 is repealed, effective October 1, 2002."
+            "text": "Section 36a-462 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8185,7 +8861,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-463 is repealed, effective October 1, 2002."
+            "text": "Section 36a-463 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8230,12 +8910,28 @@
           "section_key": "",
           "label": "Secs. 36a-464 to 36a-468. (Formerly Secs. 36-219 to 36-221, 36-223a). Termination. Distribution of assets upon liquidation. No exemption from taxation. License required of other entities. Conversion of Connecticut credit union into federal or out-of-state credit union.",
           "url": "https://www.cga.ct.gov/current/pub/chap_667.htm#secs_36a-464_to_36a-468",
+          "grouped": true,
+          "section_keys": [
+            "36a-464",
+            "36a-465",
+            "36a-466",
+            "36a-467",
+            "36a-468"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 36a-464 to 36a-468 , inclusive, are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 5933–5935; 1961, P.A. 152; P.A. 74-230, S. 1, 3; P.A. 77-179, S. 20; 77-614, S. 161, 610; P.A. 78-15; 78-121, S. 70, 113; 78-280, S. 6, 127; P.A. 80-482, S. 250, 345, 348; 80-483, S. 107, 185; P.A. 83-229, S. 3, 6; P.A. 85-94, S. 5, 6; 85-415, S. 27, 30–32; P.A. 88-230, S. 1, 12; P.A. 90-98, S. 1, 2; P.A. 91-357, S. 48–50, 78; P.A. 92-89, S. 18, 20; P.A. 93-142, S. 4, 7, 8; P.A. 94-122, S. 219–223, 340; P.A. 95-220, S. 4–6; P.A. 96-256, S. 200, 209; P.A. 99-36, S. 16, 17; P.A. 02-73, S. 86.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 36a-464 to 36a-468 , inclusive, are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8289,15 +8985,28 @@
           }
         },
         {
-          "section_key": "36-223b",
+          "section_key": "",
           "label": "Secs. 36a-469 (Formerly Sec. 36-223b) and 36a-469a. Conversion of federal or out-of-state credit union into Connecticut credit union. Conversion of Connecticut or federal credit union into mutual savings bank, mutual savings and loan association or mutual community bank.",
           "url": "https://www.cga.ct.gov/current/pub/chap_667.htm#secs_36a-469_and_36a-469a",
+          "grouped": true,
+          "section_keys": [
+            "36a-469",
+            "36a-469a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 36a-469 and 36a-469a are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1961, P.A. 146; P.A. 74-230, S. 2, 3; P.A. 75-518, S. 10, 13; P.A. 85-415, S. 28; P.A. 94-122, S. 224, 340; P.A. 97-209, S. 5, 6; P.A. 98-260, S. 10; P.A. 99-36, S. 18; P.A. 02-73, S. 86.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 36a-469 and 36a-469a are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8363,7 +9072,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-470 is repealed, effective October 1, 2002."
+            "text": "Section 36a-470 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8407,7 +9120,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-471 is repealed, effective October 1, 2002."
+            "text": "Section 36a-471 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8441,7 +9158,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-472 is repealed, effective October 1, 2002."
+            "text": "Section 36a-472 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8464,12 +9185,26 @@
           "section_key": "",
           "label": "Secs. 36a-473 and 36a-474 (Formerly Secs. 36-223f and 36-224) and 36a-475. Reports and examination of out-of-state credit unions doing business in this state; net worth restoration plan; revocation or suspension of approval. Exceptions. Credit union service organizations; shared service centers.",
           "url": "https://www.cga.ct.gov/current/pub/chap_667.htm#secs_36a-473_and_36a-474_and_36a-475",
+          "grouped": true,
+          "section_keys": [
+            "36a-473",
+            "36a-474",
+            "36a-475"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 36a-473 to 36a-475 , inclusive, are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 5931; P.A. 77-179, S. 21; P.A. 85-208, S. 2, 3; P.A. 87-9, S. 2, 3; P.A. 88-230, S. 1, 12; P.A. 90-98, S. 1, 2; P.A. 93-142, S. 4, 7, 8; P.A. 94-122, S. 228, 340; P.A. 95-220, S. 4–6; 95-253, S. 1–7; P.A. 99-22, S. 7, 8; 99-36, S. 21, 22; P.A. 02-73, S. 86.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 36a-473 to 36a-475 , inclusive, are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8492,12 +9227,29 @@
           "section_key": "",
           "label": "Secs. 36a-477 to 36a-484.",
           "url": "https://www.cga.ct.gov/current/pub/chap_667.htm#secs_36a-477_to_36a-484",
+          "grouped": true,
+          "section_keys": [
+            "36a-477",
+            "36a-478",
+            "36a-479",
+            "36a-480",
+            "36a-481",
+            "36a-482",
+            "36a-483",
+            "36a-484"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8542,7 +9294,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 36a-453 and 36a-454. (Formerly Secs. 36-204 and 36-204a). Officers. Benefits for Connecticut credit union employees and their families; liability or indemnity coverage for directors, credit committee members and supervisory committee members. Sections 36a-453 and 36a-454 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8557,7 +9312,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 36a-453 and 36a-454. (Formerly Secs. 36-204 and 36-204a). Officers. Benefits for Connecticut credit union employees and their families; liability or indemnity coverage for directors, credit committee members and supervisory committee members. Sections 36a-453 and 36a-454 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8602,7 +9360,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 36a-469 (Formerly Sec. 36-223b) and 36a-469a. Conversion of federal or out-of-state credit union into Connecticut credit union. Conversion of Connecticut or federal credit union into mutual savings bank, mutual savings and loan association or mutual community bank. Sections 36a-469 and 36a-469a are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8617,7 +9378,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 36a-469 (Formerly Sec. 36-223b) and 36a-469a. Conversion of federal or out-of-state credit union into Connecticut credit union. Conversion of Connecticut or federal credit union into mutual savings bank, mutual savings and loan association or mutual community bank. Sections 36a-469 and 36a-469a are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9040,7 +9804,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-495 is repealed, effective October 1, 2002."
+            "text": "Section 36a-495 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9240,7 +10008,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-498f is repealed, effective October 1, 2018."
+            "text": "Section 36a-498f is repealed, effective October 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9297,24 +10069,63 @@
           "section_key": "",
           "label": "Secs. 36a-499 to 36a-509.",
           "url": "https://www.cga.ct.gov/current/pub/chap_668.htm#secs_36a-499_to_36a-509",
+          "grouped": true,
+          "section_keys": [
+            "36a-499",
+            "36a-500",
+            "36a-501",
+            "36a-502",
+            "36a-503",
+            "36a-504",
+            "36a-505",
+            "36a-506",
+            "36a-507",
+            "36a-508",
+            "36a-509"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 36a-510 to 36a-517. (Formerly Secs. 36-224a to 36-224h). Definitions. License required; violations. Persons exempt from license requirement. License as secondary mortgage lender, secondary mortgage correspondent lender or secondary mortgage broker; prerequisites; application for license; denial of application for license. License and processing fees; expiration of licenses; fees nonrefundable. License. Records to be maintained by licensee. Suspension, revocation or refusal to renew license or taking of other action.",
           "url": "https://www.cga.ct.gov/current/pub/chap_668.htm#secs_36a-510_to_36a-517",
+          "grouped": true,
+          "section_keys": [
+            "36a-510",
+            "36a-511",
+            "36a-512",
+            "36a-513",
+            "36a-514",
+            "36a-515",
+            "36a-516",
+            "36a-517"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 36a-510 to 36a-517 , inclusive, are repealed, effective July 1, 2008."
+            ],
+            "source": [
+              "(P.A. 77-228, S. 1–8; 77-604, S. 81, 84; 77-614, S. 161, 587, 610; P.A. 78-216, S. 1–7; 78-303, S. 85, 136; P.A. 80-67, S. 1–5; 80-482, S. 251, 345, 348; P.A. 81-472, S. 69, 159; P.A. 82-174, S. 1, 14; P.A. 86-403, S. 76, 132; P.A. 87-9, S. 2, 3; 87-66; P.A. 88-14; 88-150, S. 2; 88-230, S. 1, 12; P.A. 89-211, S. 40; P.A. 90-98, S. 1, 2; 90-184, S. 1–4; P.A. 92-12, S. 64; 92-89, S. 4, 20; 92-132, S. 1, 5; P.A. 93-130, S. 1, 3; 93-142, S. 4, 7, 8; P.A. 94-104, S. 1; 94-122, S. 240–245, 340; P.A. 96-71, S. 3, 8; P.A. 99-63, S. 4; P.A. 00-61, S. 3, 9; P.A. 02-111, S. 15–22; P.A. 04-69, S. 12–15; P.A. 05-46, S. 4, 5; P.A. 06-45, S. 7–9; P.A. 07-91, S. 4–6, 18; 07-156, S. 16–22; P.A. 08-176, S. 31, 83, 84.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 36a-510 to 36a-517 , inclusive, are repealed, effective July 1, 2008.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9330,31 +10141,71 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-518 is repealed, effective October 1, 2002."
+            "text": "Section 36a-518 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 36a-519 to 36a-524. (Formerly Secs. 36-224j to 36-224o). Prepayment penalties. Release of secondary mortgage; notice of loan balance. Limitation on prepaid finance charges; demand for payment prior to maturity; liability of mortgage lender to borrower for noncompliance; refundability of advance fees; exceptions; prohibited acts by mortgage lenders and secondary mortgage brokers re borrowers. Mortgage deeds. Applications and referrals from unlicensed secondary mortgage brokers or originators. Advertisements.",
           "url": "https://www.cga.ct.gov/current/pub/chap_668.htm#secs_36a-519_to_36a-524",
+          "grouped": true,
+          "section_keys": [
+            "36a-519",
+            "36a-520",
+            "36a-521",
+            "36a-522",
+            "36a-523",
+            "36a-524"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 36a-519 to 36a-524 , inclusive, are repealed, effective July 1, 2008."
+            ],
+            "source": [
+              "(P.A. 80-67, S. 6, 7; P.A. 83-460, S. 1–3; P.A. 84-69, S. 1, 3; P.A. 90-184, S. 5, 6; P.A. 91-306, S. 4–6; P.A. 92-132, S. 2, 5; P.A. 93-130, S. 2, 3; P.A. 94-122, S. 246–248, 340; P.A. 99-63, S. 5; P.A. 01-34, S. 14; P.A. 02-12, S. 3; 02-111, S. 23–27; P.A. 03-61, S. 1, 2; P.A. 06-45, S. 10; P.A. 07-118, S. 2; 07-156, S. 23, 24; P.A. 08-176, S. 31, 83, 84.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 36a-519 to 36a-524 , inclusive, are repealed, effective July 1, 2008.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 36a-525 to 36a-534.",
           "url": "https://www.cga.ct.gov/current/pub/chap_668.htm#secs_36a-525_to_36a-534",
+          "grouped": true,
+          "section_keys": [
+            "36a-525",
+            "36a-526",
+            "36a-527",
+            "36a-528",
+            "36a-529",
+            "36a-530",
+            "36a-531",
+            "36a-532",
+            "36a-533",
+            "36a-534"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -9417,7 +10268,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-534c is repealed, effective June 9, 2017.\n\n*See Sec. 36a-676 for definitions under the Truth-in-Lending Act applicable to this part.\n\nAnnotation to former chapter 650:\n\nCited. 139 C. 425."
+            "text": "Section 36a-534c is repealed, effective June 9, 2017.\n\n*See Sec. 36a-676 for definitions under the Truth-in-Lending Act applicable to this part.\n\nAnnotation to former chapter 650:\n\nCited. 139 C. 425.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9697,12 +10552,28 @@
           "section_key": "",
           "label": "Secs. 36a-548 to 36a-554.",
           "url": "https://www.cga.ct.gov/current/pub/chap_668.htm#secs_36a-548_to_36a-554",
+          "grouped": true,
+          "section_keys": [
+            "36a-548",
+            "36a-549",
+            "36a-550",
+            "36a-551",
+            "36a-552",
+            "36a-553",
+            "36a-554"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -10154,7 +11025,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-571 is repealed, effective October 1, 2002."
+            "text": "Section 36a-571 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10170,7 +11045,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-572 is repealed, effective October 1, 2018."
+            "text": "Section 36a-572 is repealed, effective October 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10204,12 +11083,27 @@
           "section_key": "",
           "label": "Secs. 36a-574 to 36a-579.",
           "url": "https://www.cga.ct.gov/current/pub/chap_668.htm#secs_36a-574_to_36a-579",
+          "grouped": true,
+          "section_keys": [
+            "36a-574",
+            "36a-575",
+            "36a-576",
+            "36a-577",
+            "36a-578",
+            "36a-579"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -10441,12 +11335,26 @@
           "section_key": "",
           "label": "Secs. 36a-590 to 36a-594.",
           "url": "https://www.cga.ct.gov/current/pub/chap_668.htm#secs_36a-590_to_36a-594",
+          "grouped": true,
+          "section_keys": [
+            "36a-590",
+            "36a-591",
+            "36a-592",
+            "36a-593",
+            "36a-594"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11122,12 +12030,25 @@
           "section_key": "",
           "label": "Secs. 36a-621 to 36a-624.",
           "url": "https://www.cga.ct.gov/current/pub/chap_668.htm#secs_36a-621_to_36a-624",
+          "grouped": true,
+          "section_keys": [
+            "36a-621",
+            "36a-622",
+            "36a-623",
+            "36a-624"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11338,7 +12259,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11491,12 +12416,29 @@
           "section_key": "",
           "label": "Secs. 36a-637 to 36a-644.",
           "url": "https://www.cga.ct.gov/current/pub/chap_668.htm#secs_36a-637_to_36a-644",
+          "grouped": true,
+          "section_keys": [
+            "36a-637",
+            "36a-638",
+            "36a-639",
+            "36a-640",
+            "36a-641",
+            "36a-642",
+            "36a-643",
+            "36a-644"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11786,12 +12728,24 @@
           "section_key": "",
           "label": "Secs. 36a-652 to 36a-654.",
           "url": "https://www.cga.ct.gov/current/pub/chap_669.htm#secs_36a-652_to_36a-654",
+          "grouped": true,
+          "section_keys": [
+            "36a-652",
+            "36a-653",
+            "36a-654"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12050,12 +13004,26 @@
           "section_key": "",
           "label": "Secs. 36a-666 to 36a-670.",
           "url": "https://www.cga.ct.gov/current/pub/chap_669.htm#secs_36a-666_to_36a-670",
+          "grouped": true,
+          "section_keys": [
+            "36a-666",
+            "36a-667",
+            "36a-668",
+            "36a-669",
+            "36a-670"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12244,12 +13212,24 @@
           "section_key": "",
           "label": "Secs. 36a-672 to 36a-674.",
           "url": "https://www.cga.ct.gov/current/pub/chap_669.htm#secs_36a-672_to_36a-674",
+          "grouped": true,
+          "section_keys": [
+            "36a-672",
+            "36a-673",
+            "36a-674"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12559,12 +13539,24 @@
           "section_key": "",
           "label": "Secs. 36a-687 to 36a-689.",
           "url": "https://www.cga.ct.gov/current/pub/chap_669.htm#secs_36a-687_to_36a-689",
+          "grouped": true,
+          "section_keys": [
+            "36a-687",
+            "36a-688",
+            "36a-689"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12594,12 +13586,25 @@
           "section_key": "",
           "label": "Secs. 36a-691 to 36a-694.",
           "url": "https://www.cga.ct.gov/current/pub/chap_669.htm#secs_36a-691_to_36a-694",
+          "grouped": true,
+          "section_keys": [
+            "36a-691",
+            "36a-692",
+            "36a-693",
+            "36a-694"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12959,12 +13964,24 @@
           "section_key": "",
           "label": "Secs. 36a-702 to 36a-704.",
           "url": "https://www.cga.ct.gov/current/pub/chap_669.htm#secs_36a-702_to_36a-704",
+          "grouped": true,
+          "section_keys": [
+            "36a-702",
+            "36a-703",
+            "36a-704"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -13058,12 +14075,27 @@
           "section_key": "",
           "label": "Secs. 36a-709 to 36a-714.",
           "url": "https://www.cga.ct.gov/current/pub/chap_669.htm#secs_36a-709_to_36a-714",
+          "grouped": true,
+          "section_keys": [
+            "36a-709",
+            "36a-710",
+            "36a-711",
+            "36a-712",
+            "36a-713",
+            "36a-714"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -13372,7 +14404,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-719i is repealed, effective October 1, 2018."
+            "text": "Section 36a-719i is repealed, effective October 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13468,12 +14504,25 @@
           "section_key": "",
           "label": "Secs. 36a-721 to 36a-724.",
           "url": "https://www.cga.ct.gov/current/pub/chap_669.htm#secs_36a-721_to_36a-724",
+          "grouped": true,
+          "section_keys": [
+            "36a-721",
+            "36a-722",
+            "36a-723",
+            "36a-724"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -13524,12 +14573,29 @@
           "section_key": "",
           "label": "Secs. 36a-727 to 36a-734.",
           "url": "https://www.cga.ct.gov/current/pub/chap_669.htm#secs_36a-727_to_36a-734",
+          "grouped": true,
+          "section_keys": [
+            "36a-727",
+            "36a-728",
+            "36a-729",
+            "36a-730",
+            "36a-731",
+            "36a-732",
+            "36a-733",
+            "36a-734"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -13744,7 +14810,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -13894,7 +14964,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-746f is repealed, effective July 1, 2008."
+            "text": "Section 36a-746f is repealed, effective July 1, 2008.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13919,12 +14993,29 @@
           "section_key": "",
           "label": "Secs. 36a-747 to 36a-754.",
           "url": "https://www.cga.ct.gov/current/pub/chap_669.htm#secs_36a-747_to_36a-754",
+          "grouped": true,
+          "section_keys": [
+            "36a-747",
+            "36a-748",
+            "36a-749",
+            "36a-750",
+            "36a-751",
+            "36a-752",
+            "36a-753",
+            "36a-754"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -14024,7 +15115,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-758a is repealed, effective October 1, 2007."
+            "text": "Section 36a-758a is repealed, effective October 1, 2007.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14309,12 +15404,30 @@
           "section_key": "",
           "label": "Secs. 36a-761 to 36a-769.",
           "url": "https://www.cga.ct.gov/current/pub/chap_669.htm#secs_36a-761_to_36a-769",
+          "grouped": true,
+          "section_keys": [
+            "36a-761",
+            "36a-762",
+            "36a-763",
+            "36a-764",
+            "36a-765",
+            "36a-766",
+            "36a-767",
+            "36a-768",
+            "36a-769"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -14876,12 +15989,31 @@
           "section_key": "",
           "label": "Secs. 36a-790 to 36a-799.",
           "url": "https://www.cga.ct.gov/current/pub/chap_669.htm#secs_36a-790_to_36a-799",
+          "grouped": true,
+          "section_keys": [
+            "36a-790",
+            "36a-791",
+            "36a-792",
+            "36a-793",
+            "36a-794",
+            "36a-795",
+            "36a-796",
+            "36a-797",
+            "36a-798",
+            "36a-799"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -15023,7 +16155,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 36a-803 is repealed, effective October 1, 2002."
+            "text": "Section 36a-803 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -15256,12 +16392,36 @@
           "section_key": "",
           "label": "Secs. 36a-815 to 36a-829.",
           "url": "https://www.cga.ct.gov/current/pub/chap_669.htm#secs_36a-815_to_36a-829",
+          "grouped": true,
+          "section_keys": [
+            "36a-815",
+            "36a-816",
+            "36a-817",
+            "36a-818",
+            "36a-819",
+            "36a-820",
+            "36a-821",
+            "36a-822",
+            "36a-823",
+            "36a-824",
+            "36a-825",
+            "36a-826",
+            "36a-827",
+            "36a-828",
+            "36a-829"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -15425,12 +16585,29 @@
           "section_key": "",
           "label": "Secs. 36a-838 to 36a-845.",
           "url": "https://www.cga.ct.gov/current/pub/chap_669.htm#secs_36a-838_to_36a-845",
+          "grouped": true,
+          "section_keys": [
+            "36a-838",
+            "36a-839",
+            "36a-840",
+            "36a-841",
+            "36a-842",
+            "36a-843",
+            "36a-844",
+            "36a-845"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -15818,12 +16995,24 @@
           "section_key": "",
           "label": "Secs. 36a-857 to 36a-859.",
           "url": "https://www.cga.ct.gov/current/pub/chap_669.htm#secs_36a-857_to_36a-859",
+          "grouped": true,
+          "section_keys": [
+            "36a-857",
+            "36a-858",
+            "36a-859"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {

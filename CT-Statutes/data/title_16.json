@@ -104,7 +104,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -120,7 +124,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-1b is repealed, effective July 1, 2011."
+            "text": "Section 16-1b is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -213,7 +221,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-2b is repealed."
+            "text": "Section 16-2b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -288,7 +300,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -404,7 +420,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-6c is repealed, effective July 1, 2003."
+            "text": "Section 16-6c is repealed, effective July 1, 2003.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1089,7 +1109,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-19c is repealed."
+            "text": "Section 16-19c is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1198,7 +1222,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-19g is repealed, effective May 8, 2013."
+            "text": "Section 16-19g is repealed, effective May 8, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1237,7 +1265,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-19i is repealed, effective July 11, 2001."
+            "text": "Section 16-19i is repealed, effective July 11, 2001.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1301,36 +1333,80 @@
           "section_key": "",
           "label": "Secs. 16-19m to 16-19q. Decommissioning of nuclear power generating facilities; definitions. Decommissioning financing plan; contents. Decommissioning finance plans; updates; hearing approval. Review of plan; changes. Decommissioning costs; liability.",
           "url": "https://www.cga.ct.gov/current/pub/chap_277.htm#secs_16-19m_to_16-19q",
+          "grouped": true,
+          "section_keys": [
+            "16-19m",
+            "16-19n",
+            "16-19o",
+            "16-19p",
+            "16-19q"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 16-19m to 16-19q , inclusive, are repealed, effective May 8, 2013."
+            ],
+            "source": [
+              "(P.A. 83-343, S. 1–5; P.A. 92-21, S. 1–3; P.A. 98-28, S. 56, 117; P.A. 01-195, S. 122, 181; P.A. 11-80, S. 1; P.A. 13-5, S. 52.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 16-19m to 16-19q , inclusive, are repealed, effective May 8, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 16-19r to 16-19t. Three Mile Island nuclear power generating facility damage costs prohibited from being placed in rate base or included as operating expenses. Revenues associated with construction of electric company facilities and Millstone 3 and Seabrook 1 nuclear power generating facilities; rate treatment; proceedings on economic viability of Seabrook 1; low power startup decontamination costs of Seabrook 1 not included in rates. Excess construction costs of Millstone 3 nuclear power generating facility not included in rates.",
           "url": "https://www.cga.ct.gov/current/pub/chap_277.htm#secs_16-19r_to_16-19t",
+          "grouped": true,
+          "section_keys": [
+            "16-19r",
+            "16-19s",
+            "16-19t"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 16-19r to 16-19t , inclusive, are repealed, effective July 11, 2001."
+            ],
+            "source": [
+              "(P.A. 83-99, S. 1, 3; 83-239, S. 1, 2; 83-343, S. 6; P.A. 84-201, S. 1, 4; P.A. 85-519, S. 2, 4; P.A. 87-92, S. 1, 2; 87-589, S. 24, 87; P.A. 01-195, S. 180, 181.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 16-19r to 16-19t , inclusive, are repealed, effective July 11, 2001.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 16-19u to 16-19w. Monthly reports from nuclear power generating facility licensees re construction costs and progress. Excess construction costs of Seabrook 1 nuclear power generating facility not included in rates. Prohibition on inclusion of certain costs associated with construction of Seabrook 2 nuclear power generating facility in rates.",
           "url": "https://www.cga.ct.gov/current/pub/chap_277.htm#secs_16-19u_to_16-19w",
+          "grouped": true,
+          "section_keys": [
+            "16-19u",
+            "16-19v",
+            "16-19w"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 16-19u to 16-19w , inclusive, are repealed, effective May 8, 2013."
+            ],
+            "source": [
+              "(P.A. 83-99, S. 2, 3; P.A. 84-201, S. 2–4; P.A. 85-519, S. 3, 4; P.A. 11-80, S. 1; P.A. 13-5, S. 52.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 16-19u to 16-19w , inclusive, are repealed, effective May 8, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1364,7 +1440,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-19y is repealed, effective May 31, 1996."
+            "text": "Section 16-19y is repealed, effective May 31, 1996.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1398,7 +1478,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-19aa is repealed, effective May 8, 2013."
+            "text": "Section 16-19aa is repealed, effective May 8, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1432,7 +1516,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-19cc is repealed, effective May 8, 2013."
+            "text": "Section 16-19cc is repealed, effective May 8, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1548,7 +1636,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-19ii is repealed."
+            "text": "Section 16-19ii is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1609,7 +1701,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-19 ll is repealed, effective October 1, 2002."
+            "text": "Section 16-19 ll is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1697,7 +1793,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-19qq is repealed, effective May 8, 2013."
+            "text": "Section 16-19qq is repealed, effective May 8, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1731,7 +1831,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-19ss is repealed, effective May 8, 2013."
+            "text": "Section 16-19ss is repealed, effective May 8, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1873,12 +1977,25 @@
           "section_key": "",
           "label": "Secs. 16-19aaa to 16-19ddd.",
           "url": "https://www.cga.ct.gov/current/pub/chap_277.htm#secs_16-19aaa_to_16-19ddd",
+          "grouped": true,
+          "section_keys": [
+            "16-19aaa",
+            "16-19bbb",
+            "16-19ccc",
+            "16-19ddd"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2234,7 +2351,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-30 is repealed, effective June 29, 1993."
+            "text": "Section 16-30 is repealed, effective June 29, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2250,7 +2371,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-31 is repealed."
+            "text": "Section 16-31 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2344,7 +2469,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2610,7 +2739,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-34 is repealed."
+            "text": "Section 16-34 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2678,12 +2811,27 @@
           "section_key": "",
           "label": "Secs. 16-36 to 16-39. Venue. Procedure on appeal. Notice when parties are numerous. Supersedeas.",
           "url": "https://www.cga.ct.gov/current/pub/chap_277.htm#secs_16-36_to_16-39",
+          "grouped": true,
+          "section_keys": [
+            "16-36",
+            "16-37",
+            "16-38",
+            "16-39"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 16-36 to 16-39 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 5426–5429; 1971, P.A. 179, S. 6; 870, S. 43, 106; P.A. 76-436, S. 358, 359, 681; P.A. 77-603, S. 42, 125.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 16-36 to 16-39 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3087,12 +3235,26 @@
           "section_key": "",
           "label": "Secs. 16-49a to 16-49c. Appropriation. Council on water company lands established. Moratorium on sale of water company lands; duties of council.",
           "url": "https://www.cga.ct.gov/current/pub/chap_277.htm#secs_16-49a_to_16-49c",
+          "grouped": true,
+          "section_keys": [
+            "16-49a",
+            "16-49b",
+            "16-49c"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 16-49a to 16-49c , inclusive, are repealed."
+            ],
+            "source": [
+              "(1972, P.A. 138, S. 1; P.A. 75-405, S. 1, 2, 5; 75-486, S. 1, 69; 75-567, S. 55, 80; P.A. 76-123, S. 1, 2; P.A. 77-614, S. 19, 162, 320, 323, 587, 610; P.A. 78-303, S. 85, 136; P.A. 80-482, S. 83, 348; P.A. 83-487, S. 32, 33.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 16-49a to 16-49c , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3108,7 +3270,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-49d is repealed, effective October 1, 2002."
+            "text": "Section 16-49d is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3161,7 +3327,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-50 is repealed."
+            "text": "Section 16-50 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3297,7 +3467,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-19m to 16-19q. Decommissioning of nuclear power generating facilities; definitions. Decommissioning financing plan; contents. Decommissioning finance plans; updates; hearing approval. Review of plan; changes. Decommissioning costs; liability. Sections 16-19m to 16-19q , inclusive, are repealed, effective May 8, 2013.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3312,7 +3485,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-19m to 16-19q. Decommissioning of nuclear power generating facilities; definitions. Decommissioning financing plan; contents. Decommissioning finance plans; updates; hearing approval. Review of plan; changes. Decommissioning costs; liability. Sections 16-19m to 16-19q , inclusive, are repealed, effective May 8, 2013.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3387,7 +3563,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-36 to 16-39. Venue. Procedure on appeal. Notice when parties are numerous. Supersedeas. Sections 16-36 to 16-39 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3402,7 +3581,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-36 to 16-39. Venue. Procedure on appeal. Notice when parties are numerous. Supersedeas. Sections 16-36 to 16-39 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3417,7 +3599,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-49a to 16-49c. Appropriation. Council on water company lands established. Moratorium on sale of water company lands; duties of council. Sections 16-49a to 16-49c , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3432,7 +3617,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-49a to 16-49c. Appropriation. Council on water company lands established. Moratorium on sale of water company lands; duties of council. Sections 16-49a to 16-49c , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -4018,7 +4206,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-50y is repealed."
+            "text": "Section 16-50y is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4309,12 +4501,35 @@
           "section_key": "",
           "label": "Secs. 16-50mm to 16-50zz.",
           "url": "https://www.cga.ct.gov/current/pub/chap_277a.htm#secs_16-50mm_to_16-50zz",
+          "grouped": true,
+          "section_keys": [
+            "16-50mm",
+            "16-50nn",
+            "16-50oo",
+            "16-50pp",
+            "16-50qq",
+            "16-50rr",
+            "16-50ss",
+            "16-50tt",
+            "16-50uu",
+            "16-50vv",
+            "16-50ww",
+            "16-50xx",
+            "16-50yy",
+            "16-50zz"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -4403,12 +4618,42 @@
           "section_key": "",
           "label": "Secs. 16-51 to 16-71.",
           "url": "https://www.cga.ct.gov/current/pub/chap_278.htm#secs_16-51_to_16-71",
+          "grouped": true,
+          "section_keys": [
+            "16-51",
+            "16-52",
+            "16-53",
+            "16-54",
+            "16-55",
+            "16-56",
+            "16-57",
+            "16-58",
+            "16-59",
+            "16-60",
+            "16-61",
+            "16-62",
+            "16-63",
+            "16-64",
+            "16-65",
+            "16-66",
+            "16-67",
+            "16-68",
+            "16-69",
+            "16-70",
+            "16-71"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 245, Secs. 13b-200 to 13b-210 , inclusive, and Secs. 13b-212 to 13b-222 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 245, Secs. 13b-200 to 13b-210 , inclusive, and Secs. 13b-212 to 13b-222 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -4424,19 +4669,34 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-72 is repealed."
+            "text": "Section 16-72 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 16-73 to 16-75i.",
           "url": "https://www.cga.ct.gov/current/pub/chap_278.htm#secs_16-73_to_16-75i",
+          "grouped": true,
+          "section_keys": [
+            "16-73",
+            "16-75i"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 245, Secs. 13b-223 to 13b-234 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 245, Secs. 13b-223 to 13b-234 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]
@@ -4451,12 +4711,23 @@
           "section_key": "",
           "label": "Secs. 16-76 to 16-139a.",
           "url": "https://www.cga.ct.gov/current/pub/chap_279.htm#secs_16-76_to_16-139a",
+          "grouped": true,
+          "section_keys": [
+            "16-76",
+            "16-139a"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 245a, Secs. 13b-244 to 13b-314 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 245a, Secs. 13b-244 to 13b-314 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]
@@ -4471,12 +4742,62 @@
           "section_key": "",
           "label": "Secs. 16-140 to 16-180.",
           "url": "https://www.cga.ct.gov/current/pub/chap_280.htm#secs_16-140_to_16-180",
+          "grouped": true,
+          "section_keys": [
+            "16-140",
+            "16-141",
+            "16-142",
+            "16-143",
+            "16-144",
+            "16-145",
+            "16-146",
+            "16-147",
+            "16-148",
+            "16-149",
+            "16-150",
+            "16-151",
+            "16-152",
+            "16-153",
+            "16-154",
+            "16-155",
+            "16-156",
+            "16-157",
+            "16-158",
+            "16-159",
+            "16-160",
+            "16-161",
+            "16-162",
+            "16-163",
+            "16-164",
+            "16-165",
+            "16-166",
+            "16-167",
+            "16-168",
+            "16-169",
+            "16-170",
+            "16-171",
+            "16-172",
+            "16-173",
+            "16-174",
+            "16-175",
+            "16-176",
+            "16-177",
+            "16-178",
+            "16-179",
+            "16-180"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 245b, Secs. 13b-324 to 13b-365 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 245b, Secs. 13b-324 to 13b-365 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -4492,19 +4813,41 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-181 is repealed."
+            "text": "Section 16-181 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 16-182 to 16-190.",
           "url": "https://www.cga.ct.gov/current/pub/chap_280.htm#secs_16-182_to_16-190",
+          "grouped": true,
+          "section_keys": [
+            "16-182",
+            "16-183",
+            "16-184",
+            "16-185",
+            "16-186",
+            "16-187",
+            "16-188",
+            "16-189",
+            "16-190"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 245b, Secs. 13b-366 to 13b-374 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 245b, Secs. 13b-366 to 13b-374 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]
@@ -4519,24 +4862,61 @@
           "section_key": "",
           "label": "Secs. 16-191 to 16-203. Location in highway; payment for certain repairs. Failure to repair or pay costs. Agreements for repairs. Company liable for defects. Notice to commissioner of repairs on highway. Apportionment of expense of repair of highway. Appeal. Liability of railroad companies not affected. Location of tracks and equipment. Company to pay cost of bridge maintenance over amount required for highway traffic. Relocation on private way. Supervision of construction and equipment. Orders on company's application.",
           "url": "https://www.cga.ct.gov/current/pub/chap_281.htm#secs_16-191_to_16-203",
+          "grouped": true,
+          "section_keys": [
+            "16-191",
+            "16-192",
+            "16-193",
+            "16-194",
+            "16-195",
+            "16-196",
+            "16-197",
+            "16-198",
+            "16-199",
+            "16-200",
+            "16-201",
+            "16-202",
+            "16-203"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 16-191 to 16-203 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 5574–5584, 5590, 5591; February, 1965, P.A. 574, S. 22; 1969, P.A. 768, S. 225–232; 1971, P.A. 870, S. 107; P.A. 75-486, S. 1, 69; P.A. 76-436, S. 362, 681; P.A. 77-614, S. 162, 610; P.A. 80-482, S. 88–94, 348; P.A. 85-246, S. 22.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 16-191 to 16-203 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 16-204 and 16-205. Right of certain companies to lay tracks to cease. Failure to operate railway.",
           "url": "https://www.cga.ct.gov/current/pub/chap_281.htm#secs_16-204_and_16-205",
+          "grouped": true,
+          "section_keys": [
+            "16-204",
+            "16-205"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 16-204 and 16-205 are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 5594, 5595; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 16-204 and 16-205 are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4552,19 +4932,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-206 is repealed."
+            "text": "Section 16-206 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 16-207 and 16-208. May operate motor buses and discontinue cars. Street railway company operating motor buses may change capital structure.",
           "url": "https://www.cga.ct.gov/current/pub/chap_281.htm#secs_16-207_and_16-208",
+          "grouped": true,
+          "section_keys": [
+            "16-207",
+            "16-208"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 16-207 and 16-208 are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 5616, 5617; 1969, P.A. 768, S. 234; P.A. 75-486, S. 1, 69; P.A. 77-614, S. 162, 610; P.A. 80-482, S. 96, 97, 348; P.A. 85-246, S. 11, 12; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 16-207 and 16-208 are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4580,19 +4977,40 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-209 is repealed."
+            "text": "Section 16-209 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 16-210 to 16-215. Rights of trustees and others after foreclosure. Court may order sale. Rights and liabilities of reorganized corporation. Certificate of reorganization to be filed. Sale of mortgaged property when electrical operation abandoned and buses substituted. Mortgage of bus lines.",
           "url": "https://www.cga.ct.gov/current/pub/chap_281.htm#secs_16-210_to_16-215",
+          "grouped": true,
+          "section_keys": [
+            "16-210",
+            "16-211",
+            "16-212",
+            "16-213",
+            "16-214",
+            "16-215"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 16-210 to 16-215 , inclusive, are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 5621–5626; P.A. 78-280, S. 2, 187; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 16-210 to 16-215 , inclusive, are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4637,7 +5055,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-204 and 16-205. Right of certain companies to lay tracks to cease. Failure to operate railway. Sections 16-204 and 16-205 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4652,7 +5073,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-204 and 16-205. Right of certain companies to lay tracks to cease. Failure to operate railway. Sections 16-204 and 16-205 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4667,7 +5091,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-207 and 16-208. May operate motor buses and discontinue cars. Street railway company operating motor buses may change capital structure. Sections 16-207 and 16-208 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4682,7 +5109,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-207 and 16-208. May operate motor buses and discontinue cars. Street railway company operating motor buses may change capital structure. Sections 16-207 and 16-208 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5270,19 +5700,37 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-239 is repealed."
+            "text": "Section 16-239 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 16-240 to 16-242. Delivery of messages. Mortgage by telegraph company. Telephone service to telegraph companies.",
           "url": "https://www.cga.ct.gov/current/pub/chap_283.htm#secs_16-240_to_16-242",
+          "grouped": true,
+          "section_keys": [
+            "16-240",
+            "16-241",
+            "16-242"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 16-240 to 16-242 , inclusive, are repealed, effective May 8, 2013."
+            ],
+            "source": [
+              "(1949 Rev., S. 5652–5654; P.A. 13-5, S. 52.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 16-240 to 16-242 , inclusive, are repealed, effective May 8, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5719,7 +6167,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-243s is repealed, effective June 6, 2014."
+            "text": "Section 16-243s is repealed, effective June 6, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6102,7 +6554,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-244a is repealed, effective May 8, 2013."
+            "text": "Section 16-244a is repealed, effective May 8, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6228,7 +6684,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-244f is repealed, effective June 6, 2014."
+            "text": "Section 16-244f is repealed, effective June 6, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6313,7 +6773,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-244j is repealed, effective June 6, 2014."
+            "text": "Section 16-244j is repealed, effective June 6, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6329,7 +6793,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-244k is repealed, effective May 8, 2013."
+            "text": "Section 16-244k is repealed, effective May 8, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7480,7 +7948,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-245v is repealed, effective June 6, 2014."
+            "text": "Section 16-245v is repealed, effective June 6, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7579,7 +8051,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-245aa is repealed, effective October 1, 2024."
+            "text": "Section 16-245aa is repealed, effective October 1, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7595,7 +8071,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-245bb is repealed, effective July 1, 2016."
+            "text": "Section 16-245bb is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7902,19 +8382,37 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-246a is repealed, effective June 6, 2014."
+            "text": "Section 16-246a is repealed, effective June 6, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 16-246b to 16-246d. Area within which domestic company may generate and transmit electric energy. Area within which foreign electric company may generate and transmit electric energy. Joint ownership of facility; waiver of right to petition.",
           "url": "https://www.cga.ct.gov/current/pub/chap_283.htm#secs_16-246b_to_16-246d",
+          "grouped": true,
+          "section_keys": [
+            "16-246b",
+            "16-246c",
+            "16-246d"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 16-246b to 16-246d , inclusive, are repealed, effective October 1, 2005."
+            ],
+            "source": [
+              "(February, 1965, P.A. 124, S. 2–6; P.A. 75-486, S. 1, 69; P.A. 77-614, S. 162, 610; P.A. 80-97; 80-482, S. 108, 348; June Sp. Sess. P.A. 05-1, S. 40.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 16-246b to 16-246d , inclusive, are repealed, effective October 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7972,7 +8470,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-246g is repealed, effective October 1, 2013."
+            "text": "Section 16-246g is repealed, effective October 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7988,7 +8490,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-247 is repealed."
+            "text": "Section 16-247 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8091,7 +8597,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-247d is repealed."
+            "text": "Section 16-247d is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8211,7 +8721,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-247i is repealed, effective June 2, 2016."
+            "text": "Section 16-247i is repealed, effective June 2, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8338,7 +8852,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-247o is repealed, effective June 6, 2014."
+            "text": "Section 16-247o is repealed, effective June 6, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8373,7 +8891,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-247q is repealed, effective July 1, 2011."
+            "text": "Section 16-247q is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8521,12 +9043,25 @@
           "section_key": "",
           "label": "Secs. 16-249 to 16-250a. Authority finding re extension of exchange business of telephone company. Determination of public convenience and necessity for extension. Reselling or sharing of line purchased or leased from telephone company.",
           "url": "https://www.cga.ct.gov/current/pub/chap_283.htm#secs_16-249_to_16-250a",
+          "grouped": true,
+          "section_keys": [
+            "16-249",
+            "16-250a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 16-249 to 16-250a , inclusive, are repealed, effective June 6, 2014."
+            ],
+            "source": [
+              "(1949 Rev., S. 5661, 5662; P.A. 75-486, S. 1, 69; P.A. 77-614, S. 162, 610; P.A. 80-482, S. 110, 111, 348; P.A. 84-238; P.A. 85-187, S. 7, 8, 15; P.A. 11-80, S. 1; P.A. 14-134, S. 130.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 16-249 to 16-250a , inclusive, are repealed, effective June 6, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8591,12 +9126,25 @@
           "section_key": "",
           "label": "Secs. 16-253 and 16-254. Amount of capital to be paid in. Subscriptions for cash.",
           "url": "https://www.cga.ct.gov/current/pub/chap_283.htm#secs_16-253_and_16-254",
+          "grouped": true,
+          "section_keys": [
+            "16-253",
+            "16-254"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 16-253 and 16-254 are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 5666, 5667; P.A. 02-89, S. 90; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 16-253 and 16-254 are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8621,12 +9169,32 @@
           "section_key": "",
           "label": "Secs. 16-255a to 16-255i. Acquisition of control of domestic telephone companies limited; statement; expenses of department. Form of statement. Hearing re department approval of acquisition; standard of review. Nonvotable securities; injunctive relief. Regulations. Appeals. Remedial and penal provisions. Exemptions. Severability.",
           "url": "https://www.cga.ct.gov/current/pub/chap_283.htm#secs_16-255a_to_16-255i",
+          "grouped": true,
+          "section_keys": [
+            "16-255a",
+            "16-255b",
+            "16-255c",
+            "16-255d",
+            "16-255e",
+            "16-255f",
+            "16-255g",
+            "16-255h",
+            "16-255i"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 16-255a to 16-255i , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 81-329, S. 2–11; P.A. 87-446, S. 2, 3.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 16-255a to 16-255i , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8642,7 +9210,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-256 is repealed, effective May 8, 2013."
+            "text": "Section 16-256 is repealed, effective May 8, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8658,7 +9230,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-256a is repealed."
+            "text": "Section 16-256a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8674,7 +9250,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-256b is repealed, effective July 1, 2011."
+            "text": "Section 16-256b is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8881,7 +9461,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-258 is repealed."
+            "text": "Section 16-258 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8937,7 +9521,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-258c is repealed, effective June 6, 2014."
+            "text": "Section 16-258c is repealed, effective June 6, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9077,7 +9665,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-261a is repealed, effective July 1, 2011."
+            "text": "Section 16-261a is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9127,7 +9719,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-262b is repealed."
+            "text": "Section 16-262b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9810,7 +10406,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-240 to 16-242. Delivery of messages. Mortgage by telegraph company. Telephone service to telegraph companies. Sections 16-240 to 16-242 , inclusive, are repealed, effective May 8, 2013.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9825,7 +10424,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-240 to 16-242. Delivery of messages. Mortgage by telegraph company. Telephone service to telegraph companies. Sections 16-240 to 16-242 , inclusive, are repealed, effective May 8, 2013.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9840,7 +10442,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-246b to 16-246d. Area within which domestic company may generate and transmit electric energy. Area within which foreign electric company may generate and transmit electric energy. Joint ownership of facility; waiver of right to petition. Sections 16-246b to 16-246d , inclusive, are repealed, effective October 1, 2005.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9855,7 +10460,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-246b to 16-246d. Area within which domestic company may generate and transmit electric energy. Area within which foreign electric company may generate and transmit electric energy. Joint ownership of facility; waiver of right to petition. Sections 16-246b to 16-246d , inclusive, are repealed, effective October 1, 2005.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9870,7 +10478,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-249 to 16-250a. Authority finding re extension of exchange business of telephone company. Determination of public convenience and necessity for extension. Reselling or sharing of line purchased or leased from telephone company. Sections 16-249 to 16-250a , inclusive, are repealed, effective June 6, 2014.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9885,7 +10496,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-249 to 16-250a. Authority finding re extension of exchange business of telephone company. Determination of public convenience and necessity for extension. Reselling or sharing of line purchased or leased from telephone company. Sections 16-249 to 16-250a , inclusive, are repealed, effective June 6, 2014.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9900,7 +10514,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-253 and 16-254. Amount of capital to be paid in. Subscriptions for cash. Sections 16-253 and 16-254 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9915,7 +10532,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-253 and 16-254. Amount of capital to be paid in. Subscriptions for cash. Sections 16-253 and 16-254 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10472,7 +11092,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-280g is repealed, effective October 1, 2004."
+            "text": "Section 16-280g is repealed, effective October 1, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10512,7 +11136,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 245c, Sec. 13b-387 ."
+            "text": "Transferred to Chapter 245c, Sec. 13b-387 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -10528,19 +11156,59 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-281a is repealed, effective June 6, 2014."
+            "text": "Section 16-281a is repealed, effective June 6, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 16-282 to 16-308.",
           "url": "https://www.cga.ct.gov/current/pub/chap_285.htm#secs_16-282_to_16-308",
+          "grouped": true,
+          "section_keys": [
+            "16-282",
+            "16-283",
+            "16-284",
+            "16-285",
+            "16-286",
+            "16-287",
+            "16-288",
+            "16-289",
+            "16-290",
+            "16-291",
+            "16-292",
+            "16-293",
+            "16-294",
+            "16-295",
+            "16-296",
+            "16-297",
+            "16-298",
+            "16-299",
+            "16-300",
+            "16-301",
+            "16-302",
+            "16-303",
+            "16-304",
+            "16-305",
+            "16-306",
+            "16-307",
+            "16-308"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 245c, Secs. 13b-388 to 13b-414 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 245c, Secs. 13b-388 to 13b-414 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]
@@ -10555,12 +11223,23 @@
           "section_key": "",
           "label": "Secs. 16-309 to 16-317a.",
           "url": "https://www.cga.ct.gov/current/pub/chap_286.htm#secs_16-309_to_16-317a",
+          "grouped": true,
+          "section_keys": [
+            "16-309",
+            "16-317a"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 244, Secs. 13b-80 to 13b-93 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 244, Secs. 13b-80 to 13b-93 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]
@@ -10575,12 +11254,27 @@
           "section_key": "",
           "label": "Secs. 16-318 to 16-323.",
           "url": "https://www.cga.ct.gov/current/pub/chap_287.htm#secs_16-318_to_16-323",
+          "grouped": true,
+          "section_keys": [
+            "16-318",
+            "16-319",
+            "16-320",
+            "16-321",
+            "16-322",
+            "16-323"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 244a, Secs. 13b-95 to 13b-100 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 244a, Secs. 13b-95 to 13b-100 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]
@@ -10595,12 +11289,27 @@
           "section_key": "",
           "label": "Secs. 16-324 to 16-329.",
           "url": "https://www.cga.ct.gov/current/pub/chap_288.htm#secs_16-324_to_16-329",
+          "grouped": true,
+          "section_keys": [
+            "16-324",
+            "16-325",
+            "16-326",
+            "16-327",
+            "16-328",
+            "16-329"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 244b, Secs. 13b-101 to 13b-108 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 244b, Secs. 13b-101 to 13b-108 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]
@@ -10624,7 +11333,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-330 is repealed."
+            "text": "Section 16-330 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11443,7 +12156,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-331ee is repealed, effective July 1, 2013."
+            "text": "Section 16-331ee is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11766,7 +12483,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-333j is repealed, effective October 1, 1998."
+            "text": "Section 16-333j is repealed, effective October 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11895,12 +12616,25 @@
           "section_key": "",
           "label": "Secs. 16-334 to 16-337a. Declaration of policy. “Person” defined. Transportation authority: Powers and duties. Acquisition of property for rail services.",
           "url": "https://www.cga.ct.gov/current/pub/chap_290.htm#secs_16-334_to_16-337a",
+          "grouped": true,
+          "section_keys": [
+            "16-334",
+            "16-337a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 16-334 to 16-337a , inclusive, are repealed."
+            ],
+            "source": [
+              "(1963, P.A. 639, S. 1–5; February, 1965, P.A. 6, S. 1, 3; 487, S. 1, 2; 1967, P.A. 320; 423, S. 1–4; 1969, P.A. 1, S. 1; 127, S. 1–6; 768, S. 263.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 16-334 to 16-337a , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11938,7 +12672,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-334 to 16-337a. Declaration of policy. “Person” defined. Transportation authority: Powers and duties. Acquisition of property for rail services. Sections 16-334 to 16-337a , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -11953,7 +12690,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-334 to 16-337a. Declaration of policy. “Person” defined. Transportation authority: Powers and duties. Acquisition of property for rail services. Sections 16-334 to 16-337a , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -11968,12 +12708,26 @@
           "section_key": "",
           "label": "Secs. 16-339 to 16-341. Tri-State Regional Planning Compact.",
           "url": "https://www.cga.ct.gov/current/pub/chap_291.htm#secs_16-339_to_16-341",
+          "grouped": true,
+          "section_keys": [
+            "16-339",
+            "16-340",
+            "16-341"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 16-339 to 16-341 , inclusive, are repealed."
+            ],
+            "source": [
+              "(February, 1965, P.A. 413, S. 1–3; 1967, P.A. 539; 1969, P.A. 39, S. 1; 768, S. 245; 1971, P.A. 450, S. 1; P.A. 73-679, S. 37, 43; P.A. 74-338, S. 31, 94; P.A. 75-537, S. 50, 55; P.A. 76-112; P.A. 77-614, S. 19, 610; P.A. 78-174, S. 1–3; P.A. 79-31, S. 15, 17; 79-399, S. 1–6; P.A. 81-463, S. 9, 10.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 16-339 to 16-341 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11989,7 +12743,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-341a is repealed."
+            "text": "Section 16-341a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12004,7 +12762,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-339 to 16-341. Tri-State Regional Planning Compact. Sections 16-339 to 16-341 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12019,7 +12780,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-339 to 16-341. Tri-State Regional Planning Compact. Sections 16-339 to 16-341 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -12043,7 +12807,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 16-342 is repealed."
+            "text": "Section 16-342 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12359,12 +13127,25 @@
           "section_key": "",
           "label": "Secs. 16-358 and 16-359. Underground gas facilities report. Requirements re. Compliance and enforcement report.",
           "url": "https://www.cga.ct.gov/current/pub/chap_293.htm#secs_16-358_and_16-359",
+          "grouped": true,
+          "section_keys": [
+            "16-358",
+            "16-359"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 16-358 and 16-359 are repealed, effective October 1, 2022."
+            ],
+            "source": [
+              "(P.A. 87-71, S. 10–13; P.A. 96-46, S. 4, 5; June Sp. Sess. P.A. 98-1, S. 9, 10, 121; P.A. 11-80, S. 1; P.A. 13-247, S. 312; P.A. 22-20, S. 13.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 16-358 and 16-359 are repealed, effective October 1, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12379,7 +13160,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-358 and 16-359. Underground gas facilities report. Requirements re. Compliance and enforcement report. Sections 16-358 and 16-359 are repealed, effective October 1, 2022.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12394,7 +13178,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 16-358 and 16-359. Underground gas facilities report. Requirements re. Compliance and enforcement report. Sections 16-358 and 16-359 are repealed, effective October 1, 2022.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]

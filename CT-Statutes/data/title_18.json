@@ -14,12 +14,29 @@
           "section_key": "",
           "label": "Secs. 18-1 to 18-6. Directors and officers, generally.",
           "url": "https://www.cga.ct.gov/current/pub/chap_320.htm#secs_18-1_to_18-6",
+          "grouped": true,
+          "section_keys": [
+            "18-1",
+            "18-2",
+            "18-3",
+            "18-4",
+            "18-5",
+            "18-6"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 18-1 to 18-6 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2996–3001; 1955, June, 1955, S. 1682d; 1957, P.A. 135; 265, S. 1, 2; September, 1957, P.A. 11, S. 13; March, 1958, P.A. 27, S. 31; 1963, P.A. 28, S. 1; 339; 1967, P.A. 152, S. 28.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 18-1 to 18-6 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -122,19 +139,34 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-8 is repealed."
+            "text": "Section 18-8 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 18-9 and 18-10.",
           "url": "https://www.cga.ct.gov/current/pub/chap_320.htm#secs_18-9_and_18-10",
+          "grouped": true,
+          "section_keys": [
+            "18-9",
+            "18-10"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 325, Secs. 18-89 and 18-90 , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 325, Secs. 18-89 and 18-90 , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -150,7 +182,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-10a is repealed, effective July 8, 2019."
+            "text": "Section 18-10a is repealed, effective July 8, 2019.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -179,12 +215,25 @@
           "section_key": "",
           "label": "Secs. 18-11 and 18-12. Prisoners: Transfer to the Connecticut Reformatory; compensation.",
           "url": "https://www.cga.ct.gov/current/pub/chap_320.htm#secs_18-11_and_18-12",
+          "grouped": true,
+          "section_keys": [
+            "18-11",
+            "18-12"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 18-11 and 18-12 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3006, 3007; 1953, June, 1955, S. 1683d; 1961, P.A. 44; 1967, P.A. 152, S. 32.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 18-11 and 18-12 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -200,7 +249,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-13 is repealed, effective October 1, 2004."
+            "text": "Section 18-13 is repealed, effective October 1, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -214,7 +267,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 325, Sec. 18-88 ."
+            "text": "Transferred to Chapter 325, Sec. 18-88 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -230,7 +287,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-14a is repealed, effective July 8, 2019."
+            "text": "Section 18-14a is repealed, effective July 8, 2019.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -246,7 +307,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-15 is repealed."
+            "text": "Section 18-15 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -260,7 +325,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 325, Sec. 18-91 ."
+            "text": "Transferred to Chapter 325, Sec. 18-91 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -276,7 +345,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-17 is repealed."
+            "text": "Section 18-17 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -301,12 +374,26 @@
           "section_key": "",
           "label": "Secs. 18-19 to 18-21. Conveying certain articles into prisons prohibited. Expiration of sentence on Sunday or holiday. Library appropriation.",
           "url": "https://www.cga.ct.gov/current/pub/chap_320.htm#secs_18-19_to_18-21",
+          "grouped": true,
+          "section_keys": [
+            "18-19",
+            "18-20",
+            "18-21"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 18-19 to 18-21 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3012, 3014, 3015; June, 1949, S. 1686d; 1953, S. 1685d; 1961, P.A. 312, S. 3; 580, S. 9; 1967, P.A. 152, S. 37.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 18-19 to 18-21 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -320,7 +407,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 325, Sec. 18-96 ."
+            "text": "Transferred to Chapter 325, Sec. 18-96 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -336,7 +427,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-23 is repealed, effective October 1, 2002."
+            "text": "Section 18-23 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -351,7 +446,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-1 to 18-6. Directors and officers, generally. Sections 18-1 to 18-6 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -366,7 +464,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-1 to 18-6. Directors and officers, generally. Sections 18-1 to 18-6 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -381,7 +482,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-11 and 18-12. Prisoners: Transfer to the Connecticut Reformatory; compensation. Sections 18-11 and 18-12 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -396,7 +500,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-11 and 18-12. Prisoners: Transfer to the Connecticut Reformatory; compensation. Sections 18-11 and 18-12 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -411,7 +518,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-19 to 18-21. Conveying certain articles into prisons prohibited. Expiration of sentence on Sunday or holiday. Library appropriation. Sections 18-19 to 18-21 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -426,7 +536,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-19 to 18-21. Conveying certain articles into prisons prohibited. Expiration of sentence on Sunday or holiday. Library appropriation. Sections 18-19 to 18-21 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -450,7 +563,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-24 is repealed."
+            "text": "Section 18-24 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -466,7 +583,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-24a is repealed, effective July 1, 2004."
+            "text": "Section 18-24a is repealed, effective July 1, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -482,19 +603,34 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-25 is repealed."
+            "text": "Section 18-25 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 18-26 and 18-26a.",
           "url": "https://www.cga.ct.gov/current/pub/chap_321.htm#secs_18-26_and_18-26a",
+          "grouped": true,
+          "section_keys": [
+            "18-26",
+            "18-26a"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 961, Part III, Secs. 54-130a and 54-130b ."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 961, Part III, Secs. 54-130a and 54-130b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -510,7 +646,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-27 is repealed, effective July 1, 2004."
+            "text": "Section 18-27 is repealed, effective July 1, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -524,19 +664,36 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 961, Part III, Sec. 54-130d ."
+            "text": "Transferred to Chapter 961, Part III, Sec. 54-130d .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 18-28 and 18-29. Attendance of witnesses. Prisoners; attendance; expenses.",
           "url": "https://www.cga.ct.gov/current/pub/chap_321.htm#secs_18-28_and_18-29",
+          "grouped": true,
+          "section_keys": [
+            "18-28",
+            "18-29"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 18-28 and 18-29 are repealed, effective July 1, 2004."
+            ],
+            "source": [
+              "(1949 Rev., S. 3022, 3023; 1959, P.A. 410, S. 6; 1969, P.A. 297; P.A. 00-99, S. 57, 154; P.A. 04-234, S. 35.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 18-28 and 18-29 are repealed, effective July 1, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -550,7 +707,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 961, Part III, Sec. 54-130c ."
+            "text": "Transferred to Chapter 961, Part III, Sec. 54-130c .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -565,7 +726,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-28 and 18-29. Attendance of witnesses. Prisoners; attendance; expenses. Sections 18-28 and 18-29 are repealed, effective July 1, 2004.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -580,7 +744,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-28 and 18-29. Attendance of witnesses. Prisoners; attendance; expenses. Sections 18-28 and 18-29 are repealed, effective July 1, 2004.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -604,7 +771,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-31 is repealed."
+            "text": "Section 18-31 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -653,12 +824,37 @@
           "section_key": "",
           "label": "Secs. 18-32 to 18-45. Sheriffs and other jailers, generally. Board of prisoners. Sick prisoners. United States prisoners.",
           "url": "https://www.cga.ct.gov/current/pub/chap_322.htm#secs_18-32_to_18-45",
+          "grouped": true,
+          "section_keys": [
+            "18-32",
+            "18-33",
+            "18-34",
+            "18-35",
+            "18-36",
+            "18-37",
+            "18-38",
+            "18-39",
+            "18-40",
+            "18-41",
+            "18-42",
+            "18-43",
+            "18-44",
+            "18-45"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 18-32 to 18-45 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 461, 463, 464, 3026–3035, 3623; 1953, S. 1688d; 1959, P.A. 152, S. 40, 41, 99; 1963, P.A. 642, S. 15; 1967, P.A. 152, S. 41.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 18-32 to 18-45 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -692,7 +888,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-46 is repealed."
+            "text": "Section 18-46 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -717,12 +917,26 @@
           "section_key": "",
           "label": "Secs. 18-47 to 18-49. Inspection of accounts by commissioners. Food; clothing; medical aid; tools. Injury to prisoner.",
           "url": "https://www.cga.ct.gov/current/pub/chap_322.htm#secs_18-47_to_18-49",
+          "grouped": true,
+          "section_keys": [
+            "18-47",
+            "18-48",
+            "18-49"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 18-47 to 18-49 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3037–3039; 1959, P.A. 152, S. 99; 1961, P.A. 58, S. 13.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 18-47 to 18-49 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -765,12 +979,25 @@
           "section_key": "",
           "label": "Secs. 18-51 and 18-52. Expiration of term on Sunday or holiday. Release of sick prisoners.",
           "url": "https://www.cga.ct.gov/current/pub/chap_322.htm#secs_18-51_and_18-52",
+          "grouped": true,
+          "section_keys": [
+            "18-51",
+            "18-52"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 18-51 and 18-52 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3041; 1955, S. 1690d; 1959, P.A. 152, S. 44; 1963, P.A. 642, S. 16; 1967, P.A. 152, S. 41.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 18-51 and 18-52 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -797,12 +1024,32 @@
           "section_key": "",
           "label": "Secs. 18-53 to 18-61. Commutation for good behavior. Liberties of community correctional centers. Prisoners on civil process. Poor debtor's oath; proceedings; discharge. Debtor's second application. Review on application of creditor. Furnishing of support by creditor; exception. Execution for creditor's expenses. Escape of debtor because of defective community correctional center: Liability.",
           "url": "https://www.cga.ct.gov/current/pub/chap_322.htm#secs_18-53_to_18-61",
+          "grouped": true,
+          "section_keys": [
+            "18-53",
+            "18-54",
+            "18-55",
+            "18-56",
+            "18-57",
+            "18-58",
+            "18-59",
+            "18-60",
+            "18-61"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 18-53 to 18-61 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3042–3049, 3052; 1959, P.A. 152, S. 45–50; 158, S. 1; 1961, P.A. 517, S. 93–95; 1967, P.A. 152, S. 42; 1969, P.A. 463, S. 2; P.A. 74-183, S. 219–221, 291; P.A. 76-358, S. 4; 76-436, S. 188–190, 681; P.A. 78-280, S. 2, 127; P.A. 81-410, S. 14.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 18-53 to 18-61 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -818,7 +1065,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-62 is repealed, effective July 1, 2006."
+            "text": "Section 18-62 is repealed, effective July 1, 2006.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -863,7 +1114,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-64 is repealed."
+            "text": "Section 18-64 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -878,7 +1133,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-32 to 18-45. Sheriffs and other jailers, generally. Board of prisoners. Sick prisoners. United States prisoners. Sections 18-32 to 18-45 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -893,7 +1151,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-32 to 18-45. Sheriffs and other jailers, generally. Board of prisoners. Sick prisoners. United States prisoners. Sections 18-32 to 18-45 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -908,7 +1169,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-47 to 18-49. Inspection of accounts by commissioners. Food; clothing; medical aid; tools. Injury to prisoner. Sections 18-47 to 18-49 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -923,7 +1187,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-47 to 18-49. Inspection of accounts by commissioners. Food; clothing; medical aid; tools. Injury to prisoner. Sections 18-47 to 18-49 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -938,7 +1205,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-51 and 18-52. Expiration of term on Sunday or holiday. Release of sick prisoners. Sections 18-51 and 18-52 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -953,7 +1223,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-51 and 18-52. Expiration of term on Sunday or holiday. Release of sick prisoners. Sections 18-51 and 18-52 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1062,7 +1335,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-66 is repealed."
+            "text": "Section 18-66 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1224,12 +1501,25 @@
           "section_key": "",
           "label": "Secs. 18-70 and 18-71. Industrial Fund. Consolidation of funds.",
           "url": "https://www.cga.ct.gov/current/pub/chap_324.htm#secs_18-70_and_18-71",
+          "grouped": true,
+          "section_keys": [
+            "18-70",
+            "18-71"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 18-70 and 18-71 are repealed, effective October 1, 1997."
+            ],
+            "source": [
+              "(1949 Rev., S. 2768; 1953, S. 1570d; 1961, P.A. 120; 1967, P.A. 152, S. 11, 24; P.A. 77-614, S. 19, 610; P.A. 86-186, S. 12; P.A. 97-115.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 18-70 and 18-71 are repealed, effective October 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1245,7 +1535,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-72 is repealed."
+            "text": "Section 18-72 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1281,12 +1575,25 @@
           "section_key": "",
           "label": "Secs. 18-74 and 18-75. Detention for offense punishable by sentence to the Connecticut Correctional Institution, Somers. Common Pleas Court may sentence to Connecticut Correctional Institution, Cheshire.",
           "url": "https://www.cga.ct.gov/current/pub/chap_324.htm#secs_18-74_and_18-75",
+          "grouped": true,
+          "section_keys": [
+            "18-74",
+            "18-75"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 18-74 and 18-75 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2773, 2774; 1959, P.A. 28, S. 59; 1961, P.A. 517, S. 100; 1963, P.A. 524; 1967, P.A. 266, S. 1; P.A. 74-183, S. 222, 291; P.A. 75-633, S. 5.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 18-74 and 18-75 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1311,12 +1618,25 @@
           "section_key": "",
           "label": "Secs. 18-77 and 18-77a. Supplementary penalty not to be imposed. Reduction of sentence for good conduct.",
           "url": "https://www.cga.ct.gov/current/pub/chap_324.htm#secs_18-77_and_18-77a",
+          "grouped": true,
+          "section_keys": [
+            "18-77",
+            "18-77a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 18-77 and 18-77a are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2777; 1963, P.A. 221; February, 1965, P.A. 12; 1967, P.A. 152, S. 26; 1969, P.A. 664, S. 18; 1972, P.A. 105, S. 1; P.A. 76-358, S. 4.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 18-77 and 18-77a are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1331,7 +1651,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-70 and 18-71. Industrial Fund. Consolidation of funds. Sections 18-70 and 18-71 are repealed, effective October 1, 1997.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1346,7 +1669,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-70 and 18-71. Industrial Fund. Consolidation of funds. Sections 18-70 and 18-71 are repealed, effective October 1, 1997.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1361,7 +1687,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-74 and 18-75. Detention for offense punishable by sentence to the Connecticut Correctional Institution, Somers. Common Pleas Court may sentence to Connecticut Correctional Institution, Cheshire. Sections 18-74 and 18-75 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1376,7 +1705,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-74 and 18-75. Detention for offense punishable by sentence to the Connecticut Correctional Institution, Somers. Common Pleas Court may sentence to Connecticut Correctional Institution, Cheshire. Sections 18-74 and 18-75 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1391,7 +1723,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-77 and 18-77a. Supplementary penalty not to be imposed. Reduction of sentence for good conduct. Sections 18-77 and 18-77a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1406,7 +1741,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-77 and 18-77a. Supplementary penalty not to be imposed. Reduction of sentence for good conduct. Sections 18-77 and 18-77a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -1497,7 +1835,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-79 is repealed."
+            "text": "Section 18-79 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1868,7 +2210,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-81r is repealed, effective May 7, 2010."
+            "text": "Section 18-81r is repealed, effective May 7, 2010.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1884,7 +2230,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-81s is repealed, effective July 8, 2019."
+            "text": "Section 18-81s is repealed, effective July 8, 2019.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1979,7 +2329,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-81x is repealed, effective October 1, 2022."
+            "text": "Section 18-81x is repealed, effective October 1, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2049,7 +2403,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-81bb is repealed, effective October 1, 2021."
+            "text": "Section 18-81bb is repealed, effective October 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2463,12 +2821,30 @@
           "section_key": "",
           "label": "Secs. 18-81rr to 18-81zz.",
           "url": "https://www.cga.ct.gov/current/pub/chap_325.htm#secs_18-81rr_to_18-81zz",
+          "grouped": true,
+          "section_keys": [
+            "18-81rr",
+            "18-81ss",
+            "18-81tt",
+            "18-81uu",
+            "18-81vv",
+            "18-81ww",
+            "18-81xx",
+            "18-81yy",
+            "18-81zz"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2564,7 +2940,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-84a is repealed, effective October 1, 2018."
+            "text": "Section 18-84a is repealed, effective October 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2801,24 +3181,52 @@
           "section_key": "",
           "label": "Secs. 18-87a to 18-87f. Contracts with private agencies for: Halfway house handling of prerelease inmates; reentry services for paroled or discharged offenders. Early release: Pretrial inmates; sentenced inmates. Prison overcrowding emergency: Definitions; construction program, release of prisoners.",
           "url": "https://www.cga.ct.gov/current/pub/chap_325.htm#secs_18-87a_to_18-87f",
+          "grouped": true,
+          "section_keys": [
+            "18-87a",
+            "18-87b",
+            "18-87c",
+            "18-87d",
+            "18-87e",
+            "18-87f"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 18-87a to 18-87f , inclusive, are repealed."
+            ],
+            "source": [
+              "(1972, P.A. 11, S. 1; P.A. 78-1, S. 1, 2; P.A. 80-200, S. 6, 7; P.A. 80-442, S. 24, 25, 28; P.A. 81-437, S. 6, 7, 12; P.A. 82-472, S. 56, 183; P.A. 84-505, S. 1, 2, 5, 6; P.A. 87-538, S. 2, 3, 5; P.A. 88-244, S. 2; 88-317, S. 78, 107; P.A. 89-353, S. 5, 8; P.A. 95-152, S. 3.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 18-87a to 18-87f , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 18-87g and 18-87h.",
           "url": "https://www.cga.ct.gov/current/pub/chap_325.htm#secs_18-87g_and_18-87h",
+          "grouped": true,
+          "section_keys": [
+            "18-87g",
+            "18-87h"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2834,7 +3242,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-87i is repealed, effective October 1, 1999."
+            "text": "Section 18-87i is repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2907,7 +3319,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-87m is repealed, effective July 1, 2006."
+            "text": "Section 18-87m is repealed, effective July 1, 2006.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2992,7 +3408,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-90 is repealed."
+            "text": "Section 18-90 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3207,7 +3627,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-95 is repealed."
+            "text": "Section 18-95 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3223,7 +3647,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-96 is repealed, effective October 1, 2007."
+            "text": "Section 18-96 is repealed, effective October 1, 2007.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3580,7 +4008,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-98f is repealed, effective October 1, 2021."
+            "text": "Section 18-98f is repealed, effective October 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3612,7 +4044,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-99 is repealed."
+            "text": "Section 18-99 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3708,12 +4144,25 @@
           "section_key": "",
           "label": "Secs. 18-100a and 18-100b. Petty cash fund for loans for work-release program. Release of prisoners to an approved community residence; eligibility.",
           "url": "https://www.cga.ct.gov/current/pub/chap_325.htm#secs_18-100a_and_18-100b",
+          "grouped": true,
+          "section_keys": [
+            "18-100a",
+            "18-100b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 18-100a and 18-100b are repealed."
+            ],
+            "source": [
+              "(1969, P.A. 609, S. 1, 2; P.A. 88-244, S. 3; P.A. 89-39; 89-383, S. 13, 16; P.A. 90-261, S. 3; P.A. 95-152, S. 3.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 18-100a and 18-100b are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3960,7 +4409,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-101c is repealed."
+            "text": "Section 18-101c is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3976,7 +4429,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 18-101d is repealed, effective October 1, 2001."
+            "text": "Section 18-101d is repealed, effective October 1, 2001.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4161,7 +4618,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-100a and 18-100b. Petty cash fund for loans for work-release program. Release of prisoners to an approved community residence; eligibility. Sections 18-100a and 18-100b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4176,7 +4636,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 18-100a and 18-100b. Petty cash fund for loans for work-release program. Release of prisoners to an approved community residence; eligibility. Sections 18-100a and 18-100b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
