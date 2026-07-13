@@ -11,7 +11,7 @@
 // -----------------------------
 // CONFIG / STORAGE
 // -----------------------------
-const APP_VERSION = "1.0.10";
+const APP_VERSION = "1.0.11";
 const APP_YEAR = 2026;
 
 const DATA_DIR = "../data/";
