@@ -176,7 +176,7 @@ Run the statute crawler first because the infractions parser uses statute files 
 python ct_CGS_Crawl-v2.py
 ```
 
-The crawler rewrites `data/title_XX.json` and `data/titles_index.json`. It also writes `cgs_index.json` by default as a combined crawler result; that combined file is not used by the web application. Use `--out PATH` to put it elsewhere. Use `--sleep`, `--jitter`, and `--timeout` to tune request pacing and timeouts.
+The crawler first writes and validates a complete staged dataset, then publishes the title files and installs `data/titles_index.json` last. Fetch or validation failures leave the existing dataset in place, and publish failures are rolled back. It also writes `cgs_index.json` by default as a combined crawler result; that combined file is not used by the web application. Use `--out PATH` to put it elsewhere. Use `--sleep`, `--jitter`, and `--timeout` to tune request pacing and timeouts; `--attempts` and `--backoff` control fetch retries.
 
 Be considerate of the Connecticut General Assembly's servers. Keep a delay between requests and avoid repeatedly running a full crawl during debugging.
 
@@ -188,7 +188,7 @@ The General Assembly publishes an annual supplement listing only the sections am
 python ct_CGS_Supplement_Crawl.py
 ```
 
-Use `--year` for a different supplement year, `--titles 1,42a` for a partial crawl (which leaves `supplement_index.json` and `supplement_map.json` untouched), and the same `--sleep`/`--jitter`/`--timeout` pacing options as the main crawler. The web app loads `supplement_map.json` at startup to badge amended titles, chapters, and sections, and fetches the per-title supplement files on demand to show the amended text.
+Use `--year` for a different supplement year, `--titles 1,42a` for a partial crawl (which leaves `supplement_index.json` and `supplement_map.json` untouched), and the same pacing and retry options as the main crawler. The supplement remains a separate dataset, but uses the same grouped-section parser and staged publish safeguards. The web app loads `supplement_map.json` at startup to badge amended titles, chapters, and sections, and fetches the per-title supplement files on demand to show the amended text.
 
 ### 5. Refresh and parse the subject index
 
@@ -497,6 +497,8 @@ data/title_XX.json
 ```
 
 Each title is written as a separate JSON file so the browser can load statute data incrementally instead of loading the entire corpus at once.
+
+Grouped CGA records such as `Secs. 20-341s to 20-341bb` retain the source text once and expose every covered section key. The crawler also records explicit repealed, reserved, transferred, obsolete, and mixed statuses. A crawl is staged and sanity-checked before any existing data files are replaced.
 
 ### `parse_index.py`
 
