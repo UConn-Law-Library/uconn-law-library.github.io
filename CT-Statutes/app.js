@@ -1597,9 +1597,10 @@ function renderStatuteParagraphs(paragraphs, titleKey, chapterKey, sectionKey, i
       ${markers} ${linkifyCitations(esc(row.text), sectionKey)}</p>`;
     const citation = subsectionCitation(sectionKey, path);
     return `<p class="statute-paragraph" style="--subsection-depth:${Math.min(row.depth, 6)}"
-      data-subsection-path="${esc(path)}" tabindex="-1">${markers} ${linkifyCitations(esc(row.text), sectionKey)}
+      data-subsection-path="${esc(path)}" tabindex="-1">${markers}
       <button class="copy-citation" type="button" data-copy-citation="${esc(citation)}"
-        aria-label="Copy ${esc(citation)}">Copy citation</button></p>`;
+        aria-label="Copy ${esc(citation)}">Copy citation</button>
+      ${linkifyCitations(esc(row.text), sectionKey)}</p>`;
   }).join("");
 }
 function renderList(items) {
@@ -2319,26 +2320,26 @@ function renderHome() {
   const inf = state.infractions;
   viewEl.innerHTML = `
     <h1 class="h1">Connecticut General Statutes</h1>
-    <p class="muted" style="max-width:70ch;">Browse every title, chapter and section of the General Statutes,
-      plus the complete infraction schedule with fine amounts. Search by keyword or statute number
-      (for example <a href="#" id="exampleSearch">14-296aa</a>), bookmark what you use most, and share sections by email.</p>
+    <p class="muted" style="max-width:70ch;">Browse and search the Connecticut General Statutes, the official
+      subject index, and the Judicial Branch infraction schedule. Search by keyword or statute number, such as
+      <a href="#" id="exampleSearch">14-296aa</a>. You can also save bookmarks and share links to sections.</p>
 
     <div class="home-grid">
       <a class="home-card" href="${hashFor.titles()}">
         <h2>📚 Browse statutes</h2>
-        <p>Every title, chapter and section of the General Statutes.</p>
+        <p>Browse the General Statutes by title, chapter, or section.</p>
       </a>
       <a class="home-card" href="${hashFor.index()}">
         <h2>🔎 Subject index</h2>
-        <p>Look up any topic, A to Z, in the official LCO index.</p>
+        <p>Find statutes by topic in the official Legislative Commissioners' Office index.</p>
       </a>
       <a class="home-card" href="${hashFor.infractions()}">
         <h2>🎫 Infraction schedule</h2>
-        <p>Infractions &amp; violations with fine amounts, linked to their statutes.${inf?.source?.effective ? ` Effective ${esc(inf.source.effective)}.` : ""}</p>
+        <p>Review infractions and violations, including listed fine amounts and links to relevant statutes.${inf?.source?.effective ? ` Effective ${esc(inf.source.effective)}.` : ""}</p>
       </a>
       <a class="home-card" href="${hashFor.bookmarks()}">
         <h2>★ Bookmarks</h2>
-        <p>Bookmark sections and infractions to find them quickly.</p>
+        <p>Save sections and infractions for quick access on this device.</p>
       </a>
     </div>
     ${renderHomeRows("🕘 Recently viewed", state.recents.slice(0, HOME_ROWS), null)}
@@ -2463,10 +2464,9 @@ function renderIndexView() {
       ${src.revised ? `<span class="tag">${esc(src.revised)}</span>` : ""}
       ${src.url ? `<a href="${esc(src.url)}" target="_blank" rel="noopener">Official index (cga.ct.gov)</a>` : ""}
     </div>
-    <p class="muted" style="max-width:75ch;">The official subject index to the General Statutes, prepared by the
-      Legislative Commissioners' Office. Look up a topic to find every statute about it — section numbers link
-      straight to the statute text. If a topic isn't listed under the word you expect, try a more general heading,
-      or follow the “→” cross-references.</p>
+    <p class="muted" style="max-width:75ch;">The Legislative Commissioners' Office prepares this official subject
+      index to the General Statutes. Select a topic to see the sections listed under it. If you do not find the term
+      you expected, try a broader heading or follow an index cross-reference.</p>
     <div class="letter-grid">
       ${[...state.idxLetters.keys()].sort().map((l) =>
     `<a href="${hashFor.indexLetter(l)}">${esc(l)}</a>`).join("")}
@@ -2545,11 +2545,11 @@ function renderInfractionsView() {
       ${inf.source?.effective ? `<span class="tag">Effective ${esc(inf.source.effective)}</span>` : ""}
       ${inf.source?.url ? `<a href="${esc(inf.source.url)}" target="_blank" rel="noopener">Official schedule (PDF)</a>` : ""}
     </div>
-    <p class="muted" style="max-width:75ch;">Fines and total amounts payable through the Centralized Infractions
-      Bureau, from the ${esc(inf.source?.title || "schedule")} published by the ${esc(inf.source?.publisher || "CT Judicial Branch")}.
-      Each entry links to the statute it enforces. Pick a category from the list, or use the search box —
-      it matches infractions too.</p>
-    <div class="empty">Choose a category from the list to see its infractions.</div>
+    <p class="muted" style="max-width:75ch;">This schedule lists fines and total amounts payable through the
+      Centralized Infractions Bureau. It is based on the ${esc(inf.source?.title || "schedule")} published by the
+      ${esc(inf.source?.publisher || "CT Judicial Branch")}. Select a category or use the search box to find an entry.
+      When available, entries include a link to the relevant statute.</p>
+    <div class="empty">Select a category to view its entries.</div>
   `;
 }
 
@@ -2646,8 +2646,8 @@ function renderBookmarksView() {
   if (!state.bookmarks.length) {
     viewEl.innerHTML = `
       <h1 class="h1">Bookmarks</h1>
-      <div class="empty">Nothing saved yet. Open any statute section or infraction and press
-        <strong>★ Bookmark</strong> — saved items appear here and stay on this device.</div>`;
+      <div class="empty">You have not saved any bookmarks. Select <strong>★ Bookmark</strong> on a statute section
+        or infraction to save it on this device.</div>`;
     return;
   }
 
@@ -2694,16 +2694,16 @@ function datasetProvenance() {
   const datasets = [
     {
       name: "Statute text",
-      what: "Every title, chapter and section of the General Statutes, crawled from the General Assembly's website.",
+      what: "Connecticut General Statutes text collected from the General Assembly's website.",
       publisher: "Connecticut General Assembly",
       url: statutes.titles_url || "https://www.cga.ct.gov/current/pub/titles.htm",
       dates: [statutes.generated_at_utc
         && `Captured ${fmtDate(statutes.generated_at_utc)}`],
-      caveat: "Amendments made after the capture date do not appear here until the next data refresh.",
+      caveat: "Changes published after the capture date will appear after the site's next data update.",
     },
     {
       name: "Subject index",
-      what: "The Legislative Commissioners' Office index to the General Statutes, A to Z.",
+      what: "The official subject index prepared by the Legislative Commissioners' Office.",
       publisher: index.publisher || "Connecticut General Assembly, Legislative Commissioners' Office",
       url: index.url || "https://www.cga.ct.gov/lco/statutes-index.asp",
       dates: [index.revised, index.generated && `Parsed ${fmtDate(index.generated)}`],
@@ -2711,23 +2711,23 @@ function datasetProvenance() {
     },
     {
       name: "Infractions schedule",
-      what: "Mail-in violations and infractions with fine amounts (Chart A of the Judicial Branch schedule).",
+      what: "Chart A of the Judicial Branch schedule, covering mail-in violations and infractions.",
       publisher: infractions.publisher || "State of Connecticut Judicial Branch",
       url: infractions.url || "https://www.jud.ct.gov/webforms/forms/infractions.pdf",
       dates: [infractions.effective && `Effective ${infractions.effective}`,
         infractions.generated && `Parsed ${fmtDate(infractions.generated)}`],
-      caveat: "Fine amounts change when a new schedule takes effect — confirm amounts against the current official schedule.",
+      caveat: "Fine amounts may change. Confirm the amount in the current official schedule before relying on it.",
     },
   ];
   if (supplement) {
     const year = supplement.supplement_year || suppYear();
     datasets.splice(1, 0, {
       name: `${year} Supplement`,
-      what: "Sections amended, added or repealed since the base revision. Amended sections show the supplement text; the app badges them throughout.",
+      what: "Sections amended, added, or repealed by the supplement. The site identifies these sections and displays the supplement text when available.",
       publisher: "Connecticut General Assembly",
       url: supplement.titles_url || `https://www.cga.ct.gov/${year}/sup/titles.htm`,
       dates: [supplement.generated_at_utc && `Captured ${fmtDate(supplement.generated_at_utc)}`],
-      caveat: `The supplement is intended to be read with the General Statutes revised to January 1, ${year - 1} — it replaces only the sections it lists.`,
+      caveat: `Read the supplement together with the General Statutes revised to January 1, ${year - 1}. It replaces only the sections identified in the supplement.`,
     });
   }
   return datasets;
@@ -2765,22 +2765,21 @@ function renderAboutView() {
       <img src="./wordmark.svg" alt="UConn School of Law — Law Library and Technology" />
     </div>
     <h1 class="h1">About CT General Statutes Explorer</h1>
-    <p class="muted">A UConn Law Library research tool for browsing and searching the Connecticut
+    <p class="muted">The UConn Law Library provides this tool for searching and browsing the Connecticut
       General Statutes, the official subject index, and the Judicial Branch infraction schedule.</p>
     <p class="about-meta">Version ${APP_VERSION} · ${APP_YEAR}</p>
     <p><a class="btn primary" href="https://library.law.uconn.edu/" target="_blank" rel="noopener">Visit the Law Library ↗</a></p>
     <h2>Data &amp; sources</h2>
     <div class="list">${cards}</div>
-    ${counts ? `<p class="small muted">This snapshot holds ${counts.titles} titles,
+    ${counts ? `<p class="small muted">The current data includes ${counts.titles} titles,
       ${Number(counts.chapters).toLocaleString("en-US")} chapters,
       ${Number(counts.sections).toLocaleString("en-US")} statute sections,
       ${Number(counts.index_headings).toLocaleString("en-US")} index headings and
       ${Number(counts.infractions).toLocaleString("en-US")} infraction entries${counts.supplement_sections
       ? `, plus ${Number(counts.supplement_sections).toLocaleString("en-US")} sections
       amended, added or repealed by the ${suppYear()} Supplement` : ""}.</p>` : ""}
-    <p class="small muted">Data refreshes monthly from the official publications; the app checks for a
-      refreshed dataset each time it starts. How the data is produced, including every parser and its
-      validation checks, is documented in the
+    <p class="small muted">The data is updated monthly from official publications. The site checks for updated
+      data when it opens. Information about data collection, parsing, and validation is available in the
       <a href="https://github.com/UConn-Law-Library/uconn-law-library.github.io/tree/main/CT-Statutes"
          target="_blank" rel="noopener">public source repository ↗</a>.</p>
   `;
@@ -2914,6 +2913,14 @@ async function applyRoute() {
       subsection.scrollIntoView({ block: "start" });
       subsection.focus({ preventScroll: true });
       subsection.classList.add("subsection-target");
+      // A paragraph can begin with several nested markers, such as (a)(1).
+      // Make the revealed control copy the marker that was actually selected.
+      const copyButton = subsection.querySelector("[data-copy-citation]");
+      if (copyButton) {
+        const citation = subsectionCitation(state.route.sectionKey, state.route.subsectionPath);
+        copyButton.dataset.copyCitation = citation;
+        copyButton.setAttribute("aria-label", `Copy ${citation}`);
+      }
     } else {
       viewEl.focus({ preventScroll: true });
     }
