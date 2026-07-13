@@ -9,7 +9,7 @@
 // -----------------------------
 // CONFIG
 // -----------------------------
-const APP_VERSION = "1.1.2"; // shown on the About page
+const APP_VERSION = "1.1.3"; // shown on the About page
 const APP_YEAR = 2026;
 
 const DATA_DIR = "./data/";
