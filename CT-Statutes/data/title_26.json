@@ -69,7 +69,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-2 is repealed."
+            "text": "Section 26-2 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -168,7 +172,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-4 is repealed."
+            "text": "Section 26-4 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -323,12 +331,27 @@
           "section_key": "",
           "label": "Secs. 26-10 to 26-13. Board may borrow from General Fund. Game Fund. Fish Fund. Disposition of receipts.",
           "url": "https://www.cga.ct.gov/current/pub/chap_490.htm#secs_26-10_to_26-13",
+          "grouped": true,
+          "section_keys": [
+            "26-10",
+            "26-11",
+            "26-12",
+            "26-13"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 26-10 to 26-13 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4854, 4873, 5018, 5019; 1953, S. 2549d, 2550d; 1957, P.A. 159; 160; 1959, P.A. 398, S. 3, 4, 25; 1971, P.A. 872, S. 152.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 26-10 to 26-13 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -344,7 +367,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-14 is repealed, effective April 14, 2010."
+            "text": "Section 26-14 is repealed, effective April 14, 2010.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -707,7 +734,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-26a is repealed, effective October 1, 2013."
+            "text": "Section 26-26a is repealed, effective October 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1049,7 +1080,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-28a is repealed."
+            "text": "Section 26-28a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1247,7 +1282,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-31b is repealed, effective January 1, 2003."
+            "text": "Section 26-31b is repealed, effective January 1, 2003.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1303,7 +1342,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-32 is repealed."
+            "text": "Section 26-32 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1337,7 +1380,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-34 is repealed."
+            "text": "Section 26-34 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1518,7 +1565,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-40b is repealed."
+            "text": "Section 26-40b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1570,7 +1621,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-40e is repealed."
+            "text": "Section 26-40e is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1602,7 +1657,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 422, Sec. 22-12b ."
+            "text": "Transferred to Chapter 422, Sec. 22-12b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1656,7 +1715,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-44 is repealed."
+            "text": "Section 26-44 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1737,7 +1800,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-47a is repealed, effective July 1, 1993."
+            "text": "Section 26-47a is repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1814,7 +1881,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-50 is repealed."
+            "text": "Section 26-50 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2736,12 +2807,25 @@
           "section_key": "",
           "label": "Secs. 26-83 and 26-84. Permits to hunt deer. Fee for permit to kill deer.",
           "url": "https://www.cga.ct.gov/current/pub/chap_490.htm#secs_26-83_and_26-84",
+          "grouped": true,
+          "section_keys": [
+            "26-83",
+            "26-84"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 26-83 and 26-84 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4899, 4900; 1949, S. 2494d; 1951, S. 2494d, 2495d; 1963, P.A. 228; 231; 326; 1969, P.A. 53, S. 2, 3; 1971, P.A. 872, S. 274; P.A. 74-151, S. 6, 7.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 26-83 and 26-84 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2849,7 +2933,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-86d is repealed."
+            "text": "Section 26-86d is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3293,12 +3381,26 @@
           "section_key": "",
           "label": "Secs. 26-107a to 26-107e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_490.htm#secs_26-107a_to_26-107e",
+          "grouped": true,
+          "section_keys": [
+            "26-107a",
+            "26-107b",
+            "26-107c",
+            "26-107d",
+            "26-107e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3333,7 +3435,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-107g is repealed."
+            "text": "Section 26-107g is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3621,7 +3727,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-120 is repealed."
+            "text": "Section 26-120 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3669,7 +3779,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-123 is repealed."
+            "text": "Section 26-123 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3890,7 +4004,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-133 is repealed."
+            "text": "Section 26-133 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4112,7 +4230,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-142 is repealed."
+            "text": "Section 26-142 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4244,7 +4366,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-143 is repealed."
+            "text": "Section 26-143 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4260,19 +4386,39 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-143a is repealed, effective October 1, 2014."
+            "text": "Section 26-143a is repealed, effective October 1, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 26-144 to 26-148. Nets for taking tomcod or frost fish. Smelt and tomcod; nets, registration and fee. Taking of smelt and tomcod; open season, net specifications, designated time and area, penalty. Eel pots. Shad; nets; penalty. Set nets for taking shad in Connecticut and Farmington Rivers.",
           "url": "https://www.cga.ct.gov/current/pub/chap_490.htm#secs_26-144_to_26-148",
+          "grouped": true,
+          "section_keys": [
+            "26-144",
+            "26-145",
+            "26-146",
+            "26-147",
+            "26-148"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 26-144 to 26-148 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4953, 4956–4959; 1949, S. 2537d; March, 1958, P.A. 27, S. 42; 1971, P.A. 872, S. 316–319; P.A. 74-348, S. 5, 6, 10, 11; P.A. 75-567, S. 53, 80; P.A. 80-164, S. 4, 5.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 26-144 to 26-148 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4297,12 +4443,27 @@
           "section_key": "",
           "label": "Secs. 26-150 to 26-153. Registration of fishing boat or vessel; operator's license; fees. Boats to display license number. Drag nets. Drag net or seine, license to operate, required. Mesh of nets.",
           "url": "https://www.cga.ct.gov/current/pub/chap_490.htm#secs_26-150_to_26-153",
+          "grouped": true,
+          "section_keys": [
+            "26-150",
+            "26-151",
+            "26-152",
+            "26-153"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 26-150 to 26-153 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4963–4965, 4968; 1971, P.A. 125; 872, S. 321–323; P.A. 74-348, S. 9–11; P.A. 80-164, S. 4, 5; P.A. 83-479, S. 5, 6.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 26-150 to 26-153 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4337,7 +4498,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-154a is repealed, effective October 1, 2000."
+            "text": "Section 26-154a is repealed, effective October 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4360,12 +4525,25 @@
           "section_key": "",
           "label": "Secs. 26-156 and 26-157. Crabs. Lobsters.",
           "url": "https://www.cga.ct.gov/current/pub/chap_490.htm#secs_26-156_and_26-157",
+          "grouped": true,
+          "section_keys": [
+            "26-156",
+            "26-157"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 26-156 and 26-157 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4969–4971; 1951, S. 2541d; 1955, S. 2541d, 2542d; 1957, P.A. 283, S. 1; 1959, P.A. 27, S. 1; 1971, P.A. 872, S. 325, 326; 1972, P.A. 47; P.A. 74-348, S. 10, 11; P.A. 80-164, S. 4, 5.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 26-156 and 26-157 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4598,7 +4776,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-159 is repealed."
+            "text": "Section 26-159 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4632,7 +4814,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-159b is repealed."
+            "text": "Section 26-159b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4675,12 +4861,26 @@
           "section_key": "",
           "label": "Secs. 26-161 to 26-163. Commercial taking of yellow perch. Northern fluke or summer flounder. Alewives and glut herring.",
           "url": "https://www.cga.ct.gov/current/pub/chap_490.htm#secs_26-161_to_26-163",
+          "grouped": true,
+          "section_keys": [
+            "26-161",
+            "26-162",
+            "26-163"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 26-161 to 26-163 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4976; 1949, S. 2529d; 1951, S. 2514d, 2543d; P.A. 73-129, S. 1, 2; P.A. 75-96; P.A. 80-164, S. 4, 5.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 26-161 to 26-163 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4714,7 +4914,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-165 is repealed."
+            "text": "Section 26-165 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4769,7 +4973,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-168 is repealed."
+            "text": "Section 26-168 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4831,12 +5039,25 @@
           "section_key": "",
           "label": "Secs. 26-172 and 26-173. Drag nets along shores of Long Island Sound and Fishers Island Sound. Weirs and pounds.",
           "url": "https://www.cga.ct.gov/current/pub/chap_490.htm#secs_26-172_and_26-173",
+          "grouped": true,
+          "section_keys": [
+            "26-172",
+            "26-173"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 26-172 and 26-173 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4986, 4987; P.A. 80-164, S. 4, 5.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 26-172 and 26-173 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5088,7 +5309,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-10 to 26-13. Board may borrow from General Fund. Game Fund. Fish Fund. Disposition of receipts. Sections 26-10 to 26-13 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5103,7 +5327,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-10 to 26-13. Board may borrow from General Fund. Game Fund. Fish Fund. Disposition of receipts. Sections 26-10 to 26-13 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5118,7 +5345,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-83 and 26-84. Permits to hunt deer. Fee for permit to kill deer. Sections 26-83 and 26-84 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5133,7 +5363,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-83 and 26-84. Permits to hunt deer. Fee for permit to kill deer. Sections 26-83 and 26-84 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5178,7 +5411,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-150 to 26-153. Registration of fishing boat or vessel; operator's license; fees. Boats to display license number. Drag nets. Drag net or seine, license to operate, required. Mesh of nets. Sections 26-150 to 26-153 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5193,7 +5429,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-150 to 26-153. Registration of fishing boat or vessel; operator's license; fees. Boats to display license number. Drag nets. Drag net or seine, license to operate, required. Mesh of nets. Sections 26-150 to 26-153 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5208,7 +5447,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-156 and 26-157. Crabs. Lobsters. Sections 26-156 and 26-157 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5223,7 +5465,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-156 and 26-157. Crabs. Lobsters. Sections 26-156 and 26-157 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5238,7 +5483,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-161 to 26-163. Commercial taking of yellow perch. Northern fluke or summer flounder. Alewives and glut herring. Sections 26-161 to 26-163 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5253,7 +5501,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-161 to 26-163. Commercial taking of yellow perch. Northern fluke or summer flounder. Alewives and glut herring. Sections 26-161 to 26-163 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5268,7 +5519,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-172 and 26-173. Drag nets along shores of Long Island Sound and Fishers Island Sound. Weirs and pounds. Sections 26-172 and 26-173 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5283,7 +5537,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-172 and 26-173. Drag nets along shores of Long Island Sound and Fishers Island Sound. Weirs and pounds. Sections 26-172 and 26-173 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -5298,12 +5555,28 @@
           "section_key": "",
           "label": "Secs. 26-187 to 26-191. Commissioners; appointment; report. Compensation of shellfish commissioners. Office; clerk; expenses. Engineer; employment. Use of shellfisheries boat.",
           "url": "https://www.cga.ct.gov/current/pub/chap_491.htm#secs_26-187_to_26-191",
+          "grouped": true,
+          "section_keys": [
+            "26-187",
+            "26-188",
+            "26-189",
+            "26-190",
+            "26-191"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 26-187 to 26-191 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 3591; 5021–5024; June, 1955, S. 2555d; 1957, P.A. 21; 346, S. 1; September, 1957, P.A. 11, S. 13; 1959, P.A. 95, S. 1; February, 1965, P.A. 574, S. 32; 1971, P.A. 872, S. 152.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 26-187 to 26-191 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5572,7 +5845,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-192m is repealed, effective May 23, 2022."
+            "text": "Section 26-192m is repealed, effective May 23, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5722,7 +5999,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-197 is repealed."
+            "text": "Section 26-197 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5870,7 +6151,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-205 is repealed, effective October 1, 2002."
+            "text": "Section 26-205 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6030,7 +6315,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-214 is repealed, effective June 23, 1999."
+            "text": "Section 26-214 is repealed, effective June 23, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6117,7 +6406,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-219 is repealed, effective January 1, 2016."
+            "text": "Section 26-219 is repealed, effective January 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6142,12 +6435,26 @@
           "section_key": "",
           "label": "Secs. 26-221 to 26-223. Mud dumping. Notice of intended dumping on private oyster beds. Dumping inspectors.",
           "url": "https://www.cga.ct.gov/current/pub/chap_491.htm#secs_26-221_to_26-223",
+          "grouped": true,
+          "section_keys": [
+            "26-221",
+            "26-222",
+            "26-223"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 26-221 to 26-223 , inclusive, are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 5052–5054; 1953, S. 2559d; 1955, S. 2558d; 1959, P.A. 95, S. 4; 1971, P.A. 872, S. 356–358; 1972, P.A. 52, S. 26–28; P.A. 78-334, S. 7, 8; P.A. 96-180, S. 100, 166; P.A. 02-89, S. 90; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 26-221 to 26-223 , inclusive, are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6365,19 +6672,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-233 is repealed."
+            "text": "Section 26-233 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 26-233a and 26-234. Taking of oysters in Housatonic River other than by tongs. Greenwich Cove oysters.",
           "url": "https://www.cga.ct.gov/current/pub/chap_491.htm#secs_26-233a_and_26-234",
+          "grouped": true,
+          "section_keys": [
+            "26-233a",
+            "26-234"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 26-233a and 26-234 are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 5066; 1971, P.A. 155, S. 1; 872, S. 440; 1972, P.A. 52, S. 38; P.A. 02-89, S. 90; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 26-233a and 26-234 are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6393,7 +6717,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-234a is repealed, effective October 1, 1999."
+            "text": "Section 26-234a is repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6525,7 +6853,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-237c is repealed, effective June 3, 2004, and applicable to calendar quarters commencing on and after July 1, 2004."
+            "text": "Section 26-237c is repealed, effective June 3, 2004, and applicable to calendar quarters commencing on and after July 1, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6561,7 +6893,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-237e is repealed, effective June 4, 2024."
+            "text": "Section 26-237e is repealed, effective June 4, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6576,7 +6912,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-187 to 26-191. Commissioners; appointment; report. Compensation of shellfish commissioners. Office; clerk; expenses. Engineer; employment. Use of shellfisheries boat. Sections 26-187 to 26-191 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6591,7 +6930,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-187 to 26-191. Commissioners; appointment; report. Compensation of shellfish commissioners. Office; clerk; expenses. Engineer; employment. Use of shellfisheries boat. Sections 26-187 to 26-191 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6606,7 +6948,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-221 to 26-223. Mud dumping. Notice of intended dumping on private oyster beds. Dumping inspectors. Sections 26-221 to 26-223 , inclusive, are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6621,7 +6966,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-221 to 26-223. Mud dumping. Notice of intended dumping on private oyster beds. Dumping inspectors. Sections 26-221 to 26-223 , inclusive, are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6636,7 +6984,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-233a and 26-234. Taking of oysters in Housatonic River other than by tongs. Greenwich Cove oysters. Sections 26-233a and 26-234 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6651,7 +7002,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-233a and 26-234. Taking of oysters in Housatonic River other than by tongs. Greenwich Cove oysters. Sections 26-233a and 26-234 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -6675,7 +7029,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-238 is repealed."
+            "text": "Section 26-238 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6926,7 +7284,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-250 is repealed, effective October 1, 2021."
+            "text": "Section 26-250 is repealed, effective October 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6992,12 +7354,25 @@
           "section_key": "",
           "label": "Secs. 26-254 and 26-255. Catching of shellfish on bridge pier. Plowing for shellfish along Long Island Sound.",
           "url": "https://www.cga.ct.gov/current/pub/chap_492.htm#secs_26-254_and_26-255",
+          "grouped": true,
+          "section_keys": [
+            "26-254",
+            "26-255"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 26-254 and 26-255 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 5118, 5119; P.A. 78-334, S. 17.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 26-254 and 26-255 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7132,7 +7507,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-261 is repealed, effective October 1, 2002."
+            "text": "Section 26-261 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7148,19 +7527,37 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-262 is repealed."
+            "text": "Section 26-262 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 26-263 to 26-265. Taking of clams from Gulf Pond in Milford. Dredging prohibited in New Haven harbor. Dredging in New Haven, Morris Creek and East Haven.",
           "url": "https://www.cga.ct.gov/current/pub/chap_492.htm#secs_26-263_to_26-265",
+          "grouped": true,
+          "section_keys": [
+            "26-263",
+            "26-264",
+            "26-265"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 26-263 to 26-265 , inclusive, are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 5106, 5107, 5112; P.A. 78-334, S. 16; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 26-263 to 26-265 , inclusive, are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7186,24 +7583,55 @@
           "section_key": "",
           "label": "Secs. 26-267 to 26-270. Branford and Farm Rivers. Branford or East Haven shores. Taking of clams from clam flats in and adjacent to the town of Branford. Taking of oysters and claims in Westbrook.",
           "url": "https://www.cga.ct.gov/current/pub/chap_492.htm#secs_26-267_to_26-270",
+          "grouped": true,
+          "section_keys": [
+            "26-267",
+            "26-268",
+            "26-269",
+            "26-270"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 26-267 to 26-270 , inclusive, are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 5103–5105; 1951, S. 2564d; 1961, P.A. 517, S. 27; P.A. 02-89, S. 90; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 26-267 to 26-270 , inclusive, are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 26-271 to 26-275. Powers of Guilford and Madison selectmen. Shellfisheries in Guilford. Restriction of powers of Guilford. Limitation of taking shellfish in Guilford and Madison. Dredging in waters.",
           "url": "https://www.cga.ct.gov/current/pub/chap_492.htm#secs_26-271_to_26-275",
+          "grouped": true,
+          "section_keys": [
+            "26-271",
+            "26-272",
+            "26-273",
+            "26-274",
+            "26-275"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 26-271 to 26-275 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 5087, 5098–5101; 1959, P.A. 38; 1961, P.A. 517, S. 28; 1971, P.A. 872, S. 367; 1972, P.A. 52, S. 37; P.A. 74-183, S. 254, 291; P.A. 76-436, S. 218, 681; P.A. 86-225, S. 15.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 26-271 to 26-275 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7301,12 +7729,26 @@
           "section_key": "",
           "label": "Secs. 26-281 to 26-283. Protection of clams and oysters in Fairfield. Taking of clams from Fairfield Beach. Clamming restricted in Mill River in Fairfield.",
           "url": "https://www.cga.ct.gov/current/pub/chap_492.htm#secs_26-281_to_26-283",
+          "grouped": true,
+          "section_keys": [
+            "26-281",
+            "26-282",
+            "26-283"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 26-281 to 26-283 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 5076, 5109, 5113; P.A. 89-321, S. 11, 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 26-281 to 26-283 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7416,7 +7858,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-289 is repealed."
+            "text": "Section 26-289 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7450,7 +7896,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-291 is repealed."
+            "text": "Section 26-291 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7578,7 +8028,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-293 is repealed."
+            "text": "Section 26-293 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7609,7 +8063,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-254 and 26-255. Catching of shellfish on bridge pier. Plowing for shellfish along Long Island Sound. Sections 26-254 and 26-255 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7624,7 +8081,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-254 and 26-255. Catching of shellfish on bridge pier. Plowing for shellfish along Long Island Sound. Sections 26-254 and 26-255 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7639,7 +8099,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-263 to 26-265. Taking of clams from Gulf Pond in Milford. Dredging prohibited in New Haven harbor. Dredging in New Haven, Morris Creek and East Haven. Sections 26-263 to 26-265 , inclusive, are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7654,7 +8117,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-263 to 26-265. Taking of clams from Gulf Pond in Milford. Dredging prohibited in New Haven harbor. Dredging in New Haven, Morris Creek and East Haven. Sections 26-263 to 26-265 , inclusive, are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7669,7 +8135,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-267 to 26-270. Branford and Farm Rivers. Branford or East Haven shores. Taking of clams from clam flats in and adjacent to the town of Branford. Taking of oysters and claims in Westbrook. Sections 26-267 to 26-270 , inclusive, are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7684,7 +8153,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-267 to 26-270. Branford and Farm Rivers. Branford or East Haven shores. Taking of clams from clam flats in and adjacent to the town of Branford. Taking of oysters and claims in Westbrook. Sections 26-267 to 26-270 , inclusive, are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7699,7 +8171,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-271 to 26-275. Powers of Guilford and Madison selectmen. Shellfisheries in Guilford. Restriction of powers of Guilford. Limitation of taking shellfish in Guilford and Madison. Dredging in waters. Sections 26-271 to 26-275 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7714,7 +8189,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-271 to 26-275. Powers of Guilford and Madison selectmen. Shellfisheries in Guilford. Restriction of powers of Guilford. Limitation of taking shellfish in Guilford and Madison. Dredging in waters. Sections 26-271 to 26-275 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7729,7 +8207,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-281 to 26-283. Protection of clams and oysters in Fairfield. Taking of clams from Fairfield Beach. Clamming restricted in Mill River in Fairfield. Sections 26-281 to 26-283 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7744,7 +8225,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 26-281 to 26-283. Protection of clams and oysters in Fairfield. Taking of clams from Fairfield Beach. Clamming restricted in Mill River in Fairfield. Sections 26-281 to 26-283 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -7866,7 +8350,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 26-298 is repealed."
+            "text": "Section 26-298 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {

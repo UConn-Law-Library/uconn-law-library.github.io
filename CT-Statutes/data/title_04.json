@@ -692,24 +692,53 @@
           "section_key": "",
           "label": "Secs. 4-23a to 4-23c.",
           "url": "https://www.cga.ct.gov/current/pub/chap_046a.htm#secs_4-23a_to_4-23c",
+          "grouped": true,
+          "section_keys": [
+            "4-23a",
+            "4-23b",
+            "4-23c"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 57, Secs. 4a-1 to 4a-3 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 57, Secs. 4a-1 to 4a-3 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-23d to 4-23i. Successor to personnel department. Terms “Personnel Department” or “Personnel Commissioner” deemed to mean Department or Commissioner of Administrative Services, exception. Term “Personnel Policy Board” deemed to mean Commissioner of Administrative Services. Terms “Department of Finance and Control” and “Commissioner of Finance and Control” deemed to mean Department or Commissioner of Administrative Services, when. Terms “Central Collections Division” etc., and “Director of the Central Collections Division of the Department of Finance and Control” deemed to mean Department or Commissioner of Administrative Services. Term “Director of Purchases” deemed to mean Commissioner of Administrative Services.",
           "url": "https://www.cga.ct.gov/current/pub/chap_046a.htm#secs_4-23d_to_4-23i",
+          "grouped": true,
+          "section_keys": [
+            "4-23d",
+            "4-23e",
+            "4-23f",
+            "4-23g",
+            "4-23h",
+            "4-23i"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-23d to 4-23i , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 77-614, S. 65–67, 69–72, 135, 610; P.A. 78-303, S. 124, 136; P.A. 80-91, S. 1; P.A. 85-613, S. 14, 154; P.A. 88-116, S. 11.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-23d to 4-23i , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -723,7 +752,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 57, Sec. 4a-4 ."
+            "text": "Transferred to Chapter 57, Sec. 4a-4 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -739,7 +772,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-23k is repealed."
+            "text": "Section 4-23k is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -753,7 +790,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 57, Sec. 4a-5 ."
+            "text": "Transferred to Chapter 57, Sec. 4a-5 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -769,7 +810,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-23m is repealed."
+            "text": "Section 4-23m is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -783,7 +828,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 57, Sec. 4a-7 ."
+            "text": "Transferred to Chapter 57, Sec. 4a-7 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -797,7 +846,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 57, Sec. 4a-6 ."
+            "text": "Transferred to Chapter 57, Sec. 4a-6 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -811,7 +864,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 57, Sec. 4a-8 ."
+            "text": "Transferred to Chapter 57, Sec. 4a-8 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -863,43 +920,89 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 59, Part II, Sec. 4b-11 ."
+            "text": "Transferred to Chapter 59, Part II, Sec. 4b-11 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-24a and 4-24b. Capitol Center Commission. Director and staff; contracts; federal aid.",
           "url": "https://www.cga.ct.gov/current/pub/chap_047.htm#secs_4-24a_and_4-24b",
+          "grouped": true,
+          "section_keys": [
+            "4-24a",
+            "4-24b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-24a and 4-24b are repealed."
+            ],
+            "source": [
+              "(1967, P.A. 589, S. 1, 2; 1971, P.A. 10, S. 1; 1972, P.A. 85, S. 2; P.A. 73-599, S. 37; P.A. 77-614, S. 80, 284, 610; P.A. 84-512, S. 29, 30.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-24a and 4-24b are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-24c to 4-24k.",
           "url": "https://www.cga.ct.gov/current/pub/chap_047.htm#secs_4-24c_to_4-24k",
+          "grouped": true,
+          "section_keys": [
+            "4-24c",
+            "4-24d",
+            "4-24e",
+            "4-24f",
+            "4-24g",
+            "4-24h",
+            "4-24i",
+            "4-24j",
+            "4-24k"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 60, Part I, Secs. 4b-66 to 4b-74 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 60, Part I, Secs. 4b-66 to 4b-74 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-24 l and 4-24m.",
           "url": "https://www.cga.ct.gov/current/pub/chap_047.htm#secs_4-24l_and_4-24m",
+          "grouped": true,
+          "section_keys": [
+            "4-24l",
+            "4-24m"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 60, Part I, Secs. 4b-60 and 4b-61 , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 60, Part I, Secs. 4b-60 and 4b-61 , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -913,7 +1016,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 58, Sec. 4a-66 ."
+            "text": "Transferred to Chapter 58, Sec. 4a-66 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -927,7 +1034,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 59, Part III, Sec. 4b-21 ."
+            "text": "Transferred to Chapter 59, Part III, Sec. 4b-21 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -941,19 +1052,34 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 59, Part I, Sec. 4b-3 ."
+            "text": "Transferred to Chapter 59, Part I, Sec. 4b-3 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-26b and 4-26c.",
           "url": "https://www.cga.ct.gov/current/pub/chap_047.htm#secs_4-26b_and_4-26c",
+          "grouped": true,
+          "section_keys": [
+            "4-26b",
+            "4-26c"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 59, Part III, Secs. 4b-23 and 4b-24 , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 59, Part III, Secs. 4b-23 and 4b-24 , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -967,7 +1093,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 59, Part III, Sec. 4b-26 ."
+            "text": "Transferred to Chapter 59, Part III, Sec. 4b-26 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -981,19 +1111,34 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 59, Part I, Sec. 4b-2 ."
+            "text": "Transferred to Chapter 59, Part I, Sec. 4b-2 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-26f and 4-26g.",
           "url": "https://www.cga.ct.gov/current/pub/chap_047.htm#secs_4-26f_and_4-26g",
+          "grouped": true,
+          "section_keys": [
+            "4-26f",
+            "4-26g"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 59, Part I, Secs. 4b-4 and 4b-5 , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 59, Part I, Secs. 4b-4 and 4b-5 , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1007,7 +1152,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 59, Part III, Sec. 4b-32 ."
+            "text": "Transferred to Chapter 59, Part III, Sec. 4b-32 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1021,7 +1170,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 59, Part III, Sec. 4b-27 ."
+            "text": "Transferred to Chapter 59, Part III, Sec. 4b-27 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1035,7 +1188,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 59, Part III, Sec. 4b-22 ."
+            "text": "Transferred to Chapter 59, Part III, Sec. 4b-22 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1049,7 +1206,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 59, Part II, Sec. 4b-13 ."
+            "text": "Transferred to Chapter 59, Part II, Sec. 4b-13 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1063,7 +1224,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 59, Part III, Sec. 4b-31 ."
+            "text": "Transferred to Chapter 59, Part III, Sec. 4b-31 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1150,7 +1315,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1582,7 +1751,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-30 is repealed."
+            "text": "Section 4-30 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1624,12 +1797,25 @@
           "section_key": "",
           "label": "Secs. 4-30b and 4-30c. Use of unappropriated surplus in fiscal years ending June 30, 2010, to June 30, 2017. Use of unappropriated surplus for unreserved negative General Fund balance in fiscal years ending June 30, 2012, and June 30, 2013; use of unappropriated surplus as reserve beginning in fiscal year ending June 30, 2014.",
           "url": "https://www.cga.ct.gov/current/pub/chap_047.htm#secs_4-30b_and_4-30c",
+          "grouped": true,
+          "section_keys": [
+            "4-30b",
+            "4-30c"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-30b and 4-30c are repealed, effective July 1, 2013."
+            ],
+            "source": [
+              "(June Sp. Sess. P.A. 09-3, S. 511; P.A. 11-48, S. 46; P.A. 13-239, S. 135.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-30b and 4-30c are repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1798,7 +1984,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 58, Sec. 4a-69 ."
+            "text": "Transferred to Chapter 58, Sec. 4a-69 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1846,19 +2036,34 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 59, Part III, Sec. 4b-28 ."
+            "text": "Transferred to Chapter 59, Part III, Sec. 4b-28 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-36b and 4-36c.",
           "url": "https://www.cga.ct.gov/current/pub/chap_047.htm#secs_4-36b_and_4-36c",
+          "grouped": true,
+          "section_keys": [
+            "4-36b",
+            "4-36c"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 60, Part I, Secs. 4b-63 and 4b-64 , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 60, Part I, Secs. 4b-63 and 4b-64 , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1883,12 +2088,24 @@
           "section_key": "",
           "label": "Secs. 4-37a to 4-37c.",
           "url": "https://www.cga.ct.gov/current/pub/chap_047.htm#secs_4-37a_to_4-37c",
+          "grouped": true,
+          "section_keys": [
+            "4-37a",
+            "4-37b",
+            "4-37c"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 57, Secs. 4a-19 to 4a-21 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 57, Secs. 4a-19 to 4a-21 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -2068,12 +2285,26 @@
           "section_key": "",
           "label": "Secs. 4-37m to 4-37q.",
           "url": "https://www.cga.ct.gov/current/pub/chap_047.htm#secs_4-37m_to_4-37q",
+          "grouped": true,
+          "section_keys": [
+            "4-37m",
+            "4-37n",
+            "4-37o",
+            "4-37p",
+            "4-37q"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2197,7 +2428,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-24a and 4-24b. Capitol Center Commission. Director and staff; contracts; federal aid. Sections 4-24a and 4-24b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2212,7 +2446,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-24a and 4-24b. Capitol Center Commission. Director and staff; contracts; federal aid. Sections 4-24a and 4-24b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2264,19 +2501,36 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 4-38d ."
+            "text": "Transferred to Sec. 4-38d .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-38a and 4-38b. Reorganization of executive branch, legislative finding, transfer of powers and duties among agencies, liberal construction of statutes, cooperation with Secretary of the Office of Policy and Management; repealed sections; effective dates of public acts 77-614 and 78-303. Governor's responsibilities in implementing reorganization.",
           "url": "https://www.cga.ct.gov/current/pub/chap_048.htm#secs_4-38a_and_4-38b",
+          "grouped": true,
+          "section_keys": [
+            "4-38a",
+            "4-38b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-38a and 4-38b are repealed."
+            ],
+            "source": [
+              "(P.A. 77-614, S. 2, 587, 588, 609, 610; P.A. 78-303, S. 85, 86, 119, 120, 136; 78-347, S. 2; P.A. 79-631, S. 46, 111; P.A. 88-116, S. 11.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-38a and 4-38b are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2395,7 +2649,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-38g is repealed."
+            "text": "Section 4-38g is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2428,7 +2686,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-38i is repealed, effective October 1, 2002."
+            "text": "Section 4-38i is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2527,12 +2789,33 @@
           "section_key": "",
           "label": "Secs. 4-41 to 4-50. Regulations of state agencies.",
           "url": "https://www.cga.ct.gov/current/pub/chap_048.htm#secs_4-41_to_4-50",
+          "grouped": true,
+          "section_keys": [
+            "4-41",
+            "4-42",
+            "4-43",
+            "4-44",
+            "4-45",
+            "4-46",
+            "4-47",
+            "4-48",
+            "4-49",
+            "4-50"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-41 to 4-50 , inclusive, and other provisions of the general statutes which are inconsistent with the provisions of chapter 54 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 280–286; 1955, S. 105d–107d; 1957, P.A. 11; 176, S. 1–3; 1959, P.A. 330, S. 1, 2; 1961, P.A. 516; 1963, P.A. 26; 281; 559, S. 1–3; 1967, P.A. 285, S. 1, 2; 713, S. 1; 1969, P.A. 787, S. 1; 1971, P.A. 111; 854, S. 20.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-41 to 4-50 , inclusive, and other provisions of the general statutes which are inconsistent with the provisions of chapter 54 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2676,7 +2959,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-57 is repealed, effective July 1, 2002."
+            "text": "Section 4-57 is repealed, effective July 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2752,7 +3039,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-59 is repealed."
+            "text": "Section 4-59 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2778,12 +3069,26 @@
           "section_key": "",
           "label": "Secs. 4-60a to 4-60c. State Planning Council.",
           "url": "https://www.cga.ct.gov/current/pub/chap_048.htm#secs_4-60a_to_4-60c",
+          "grouped": true,
+          "section_keys": [
+            "4-60a",
+            "4-60b",
+            "4-60c"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-60a to 4-60c , inclusive, are repealed."
+            ],
+            "source": [
+              "(1967, P.A. 697, S. 1–3; 1969, P.A. 628, S. 2; 768, S. 59; P.A. 73-33, S. 1, 2; 73-599, S. 33; P.A. 75-537, S. 18, 19, 54, 55; P.A. 77-614, S. 19, 70, 73, 609, 610.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-60a to 4-60c , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2828,12 +3133,26 @@
           "section_key": "",
           "label": "Secs. 4-60f to 4-60h. Interagency Committee on Health and Safety Codes. Legislative finding re provisions of human services. Council on Human Services.",
           "url": "https://www.cga.ct.gov/current/pub/chap_048.htm#secs_4-60f_to_4-60h",
+          "grouped": true,
+          "section_keys": [
+            "4-60f",
+            "4-60g",
+            "4-60h"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-60f to 4-60h , inclusive, are repealed."
+            ],
+            "source": [
+              "(1969, P.A. 546, S. 1, 2; P.A. 73-155, S. 1, 2, 10; P.A. 74-322, S. 1, 2, 6; P.A. 75-126, S. 1, 2; 75-479, S. 15, 25; 75-638, S. 16, 23; P.A. 76-434, S. 7, 9, 12; P.A. 77-511, S. 3; 77-614, S. 609, 610.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-60f to 4-60h , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2847,7 +3166,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 319o, Part III, Sec. 17b-59a ."
+            "text": "Transferred to Chapter 319o, Part III, Sec. 17b-59a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -2861,7 +3184,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 319o, Part III, Sec. 17b-59b ."
+            "text": "Transferred to Chapter 319o, Part III, Sec. 17b-59b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -2877,7 +3204,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-60k is repealed."
+            "text": "Section 4-60k is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2891,19 +3222,36 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 319o, Part III, Sec. 17b-59c ."
+            "text": "Transferred to Chapter 319o, Part III, Sec. 17b-59c .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-60m and 4-60n. Direction of agency improvements and changes. Plan and report.",
           "url": "https://www.cga.ct.gov/current/pub/chap_048.htm#secs_4-60m_and_4-60n",
+          "grouped": true,
+          "section_keys": [
+            "4-60m",
+            "4-60n"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-60m and 4-60n are repealed."
+            ],
+            "source": [
+              "(P.A. 73-155, S. 7–10; P.A. 74-322, S. 4, 6; P.A. 76-434, S. 9, 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-60m and 4-60n are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2919,7 +3267,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-60o is repealed."
+            "text": "Section 4-60o is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3011,7 +3363,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-60t is repealed, effective June 19, 2013."
+            "text": "Section 4-60t is repealed, effective June 19, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3148,19 +3504,41 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 814c, Sec. 46a-53 ."
+            "text": "Transferred to Chapter 814c, Sec. 46a-53 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-61c to 4-61k.",
           "url": "https://www.cga.ct.gov/current/pub/chap_048.htm#secs_4-61c_to_4-61k",
+          "grouped": true,
+          "section_keys": [
+            "4-61c",
+            "4-61d",
+            "4-61e",
+            "4-61f",
+            "4-61g",
+            "4-61h",
+            "4-61i",
+            "4-61j",
+            "4-61k"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 814c, Secs. 46a-70 to 46a-78 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 814c, Secs. 46a-70 to 46a-78 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3174,7 +3552,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 814c, Sec. 46a-99 ."
+            "text": "Transferred to Chapter 814c, Sec. 46a-99 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3190,31 +3572,59 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-61m is repealed."
+            "text": "Section 4-61m is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-61n and 4-61o.",
           "url": "https://www.cga.ct.gov/current/pub/chap_048.htm#secs_4-61n_and_4-61o",
+          "grouped": true,
+          "section_keys": [
+            "4-61n",
+            "4-61o"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 814c, Secs. 46a-79 and 46a-80 , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 814c, Secs. 46a-79 and 46a-80 , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-61p and 4-61q. Law enforcement agencies excepted. Complaint to Human Rights and Opportunities Commission.",
           "url": "https://www.cga.ct.gov/current/pub/chap_048.htm#secs_4-61p_and_4-61q",
+          "grouped": true,
+          "section_keys": [
+            "4-61p",
+            "4-61q"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-61p and 4-61q are repealed."
+            ],
+            "source": [
+              "(P.A. 73-347, S. 4, 5, 7; P.A. 74-265, S. 1, 2; P.A. 80-422, S. 50.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-61p and 4-61q are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3228,7 +3638,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 814c, Sec. 46a-81 ."
+            "text": "Transferred to Chapter 814c, Sec. 46a-81 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3242,7 +3656,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 814c, Sec. 46a-68 ."
+            "text": "Transferred to Chapter 814c, Sec. 46a-68 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3258,7 +3676,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-61t is repealed, effective July 1, 2013."
+            "text": "Section 4-61t is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3293,7 +3715,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-61v is repealed."
+            "text": "Section 4-61v is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3318,12 +3744,24 @@
           "section_key": "",
           "label": "Secs. 4-61x to 4-61z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_048.htm#secs_4-61x_to_4-61z",
+          "grouped": true,
+          "section_keys": [
+            "4-61x",
+            "4-61y",
+            "4-61z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3461,12 +3899,24 @@
           "section_key": "",
           "label": "Secs. 4-61ee to 4-61gg.",
           "url": "https://www.cga.ct.gov/current/pub/chap_048.htm#secs_4-61ee_to_4-61gg",
+          "grouped": true,
+          "section_keys": [
+            "4-61ee",
+            "4-61ff",
+            "4-61gg"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3673,7 +4123,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-41 to 4-50. Regulations of state agencies. Sections 4-41 to 4-50 , inclusive, and other provisions of the general statutes which are inconsistent with the provisions of chapter 54 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3688,7 +4141,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-41 to 4-50. Regulations of state agencies. Sections 4-41 to 4-50 , inclusive, and other provisions of the general statutes which are inconsistent with the provisions of chapter 54 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3703,7 +4159,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-60a to 4-60c. State Planning Council. Sections 4-60a to 4-60c , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3718,7 +4177,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-60a to 4-60c. State Planning Council. Sections 4-60a to 4-60c , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3733,7 +4195,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-60f to 4-60h. Interagency Committee on Health and Safety Codes. Legislative finding re provisions of human services. Council on Human Services. Sections 4-60f to 4-60h , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3748,7 +4213,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-60f to 4-60h. Interagency Committee on Health and Safety Codes. Legislative finding re provisions of human services. Council on Human Services. Sections 4-60f to 4-60h , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3763,7 +4231,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-60m and 4-60n. Direction of agency improvements and changes. Plan and report. Sections 4-60m and 4-60n are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3778,7 +4249,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-60m and 4-60n. Direction of agency improvements and changes. Plan and report. Sections 4-60m and 4-60n are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3793,7 +4267,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-61p and 4-61q. Law enforcement agencies excepted. Complaint to Human Rights and Opportunities Commission. Sections 4-61p and 4-61q are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3808,7 +4285,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-61p and 4-61q. Law enforcement agencies excepted. Complaint to Human Rights and Opportunities Commission. Sections 4-61p and 4-61q are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3823,12 +4303,24 @@
           "section_key": "",
           "label": "Secs. 4-62 to 4-64.",
           "url": "https://www.cga.ct.gov/current/pub/chap_049.htm#secs_4-62_to_4-64",
+          "grouped": true,
+          "section_keys": [
+            "4-62",
+            "4-63",
+            "4-64"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 23, Secs. 2-89 to 2-92 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 23, Secs. 2-89 to 2-92 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]
@@ -3852,7 +4344,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-65 is repealed."
+            "text": "Section 4-65 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3888,7 +4384,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-65b is repealed."
+            "text": "Section 4-65b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4092,12 +4592,23 @@
           "section_key": "",
           "label": "Secs. 4-66i and 4-66j.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-66i_and_4-66j",
+          "grouped": true,
+          "section_keys": [
+            "4-66i",
+            "4-66j"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4657,19 +5168,39 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-66s is repealed, effective July 1, 2023."
+            "text": "Section 4-66s is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-66t to 4-66z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-66t_to_4-66z",
+          "grouped": true,
+          "section_keys": [
+            "4-66t",
+            "4-66u",
+            "4-66v",
+            "4-66w",
+            "4-66x",
+            "4-66y",
+            "4-66z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4786,7 +5317,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-67a is repealed."
+            "text": "Section 4-67a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4838,7 +5373,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-67d is repealed."
+            "text": "Section 4-67d is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4945,12 +5484,24 @@
           "section_key": "",
           "label": "Secs. 4-67j to 4-67 l .",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-67j_to_4-67l",
+          "grouped": true,
+          "section_keys": [
+            "4-67j",
+            "4-67k",
+            "4-67l"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5066,7 +5617,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-67q is repealed, effective June 11, 2014."
+            "text": "Section 4-67q is repealed, effective June 11, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5082,7 +5637,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-67r is repealed, effective July 1, 2013."
+            "text": "Section 4-67r is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5109,12 +5668,25 @@
           "section_key": "",
           "label": "Secs. 4-67t and 4-67u. State Prevention Council: Comprehensive state-wide prevention plan; fiscal accountability; report and recommendations; plan to include coordination and identification of prevention services and findings re effectiveness of programs; plan for goals, strategies and outcome measures.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-67t_and_4-67u",
+          "grouped": true,
+          "section_keys": [
+            "4-67t",
+            "4-67u"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-67t and 4-67u are repealed, effective October 1, 2006."
+            ],
+            "source": [
+              "(P.A. 01-121, S. 2, 3, 6; P.A. 03-145, S. 1; P.A. 04-257, S. 90; P.A. 06-179, S. 5.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-67t and 4-67u are repealed, effective October 1, 2006.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5130,7 +5702,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-67v is repealed, effective June 6, 2014."
+            "text": "Section 4-67v is repealed, effective June 6, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5146,7 +5722,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-67w is repealed, effective October 1, 2006."
+            "text": "Section 4-67w is repealed, effective October 1, 2006.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5319,12 +5899,24 @@
           "section_key": "",
           "label": "Secs. 4-67ee to 4-67gg.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-67ee_to_4-67gg",
+          "grouped": true,
+          "section_keys": [
+            "4-67ee",
+            "4-67ff",
+            "4-67gg"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5356,19 +5948,34 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 57, Sec. 4a-12 ."
+            "text": "Transferred to Chapter 57, Sec. 4a-12 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-68b and 4-68c.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-68b_and_4-68c",
+          "grouped": true,
+          "section_keys": [
+            "4-68b",
+            "4-68c"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 57, Secs. 4a-14 and 4a-15 , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 57, Secs. 4a-14 and 4a-15 , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -5384,7 +5991,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-68d is repealed."
+            "text": "Section 4-68d is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5398,7 +6009,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 57, Sec. 4a-13 ."
+            "text": "Transferred to Chapter 57, Sec. 4a-13 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -5412,7 +6027,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 57, Sec. 4a-17 ."
+            "text": "Transferred to Chapter 57, Sec. 4a-17 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -5428,7 +6047,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-68g is repealed."
+            "text": "Section 4-68g is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5442,7 +6065,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 57, Sec. 4a-16 ."
+            "text": "Transferred to Chapter 57, Sec. 4a-16 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -5456,7 +6083,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 57, Sec. 4a-18 ."
+            "text": "Transferred to Chapter 57, Sec. 4a-18 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -5490,7 +6121,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-68k is repealed."
+            "text": "Section 4-68k is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5506,7 +6141,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-68 l is repealed, effective June 26, 1997."
+            "text": "Section 4-68 l is repealed, effective June 26, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5620,7 +6259,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-68q is repealed, effective October 1, 2021."
+            "text": "Section 4-68q is repealed, effective October 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5681,19 +6324,35 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-68t is repealed, effective October 1, 2021."
+            "text": "Section 4-68t is repealed, effective October 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-68u to 4-68w.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-68u_to_4-68w",
+          "grouped": true,
+          "section_keys": [
+            "4-68u",
+            "4-68v",
+            "4-68w"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5709,7 +6368,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-68x is repealed, effective October 1, 2021."
+            "text": "Section 4-68x is repealed, effective October 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5784,7 +6447,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 870, Sec. 51-9c ."
+            "text": "Transferred to Chapter 870, Sec. 51-9c .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -5983,12 +6650,37 @@
           "section_key": "",
           "label": "Secs. 4-68kk to 4-68zz.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-68kk_to_4-68zz",
+          "grouped": true,
+          "section_keys": [
+            "4-68kk",
+            "4-68ll",
+            "4-68mm",
+            "4-68nn",
+            "4-68oo",
+            "4-68pp",
+            "4-68qq",
+            "4-68rr",
+            "4-68ss",
+            "4-68tt",
+            "4-68uu",
+            "4-68vv",
+            "4-68ww",
+            "4-68xx",
+            "4-68yy",
+            "4-68zz"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6087,12 +6779,25 @@
           "section_key": "",
           "label": "Secs. 4-70 and 4-70a. Director of the Budget; general duties. Budget and Management Division established.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-70_and_4-70a",
+          "grouped": true,
+          "section_keys": [
+            "4-70",
+            "4-70a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-70 and 4-70a are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 224; P.A. 73-679, S. 1, 42, 43; P.A. 75-537, S. 21, 55; P.A. 77-614, S. 609, 610.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-70 and 4-70a are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6141,7 +6846,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-70c is repealed."
+            "text": "Section 4-70c is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6155,7 +6864,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 578, Sec. 32-4f ."
+            "text": "Transferred to Chapter 578, Sec. 32-4f .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -6589,7 +7302,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-81 is repealed."
+            "text": "Section 4-81 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6626,7 +7343,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-82a is repealed, effective July 12, 2013."
+            "text": "Section 4-82a is repealed, effective July 12, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6642,7 +7363,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-83 is repealed."
+            "text": "Section 4-83 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6658,7 +7383,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-84 is repealed, effective July 1, 2015."
+            "text": "Section 4-84 is repealed, effective July 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6701,19 +7430,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-85a is repealed."
+            "text": "Section 4-85a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-85b and 4-85c. Preparation of a human services annual agenda. Human services annual agenda: Contents, schedule and cycle.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-85b_and_4-85c",
+          "grouped": true,
+          "section_keys": [
+            "4-85b",
+            "4-85c"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-85b and 4-85c are repealed."
+            ],
+            "source": [
+              "(P.A. 79-211, S. 1, 2; P.A. 80-92; P.A. 83-181, S. 2, 3.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-85b and 4-85c are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6803,7 +7549,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-88 is repealed."
+            "text": "Section 4-88 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6840,12 +7590,26 @@
           "section_key": "",
           "label": "Secs. 4-90 to 4-92. Transfer of unexpended balances. Report of unexpended balance of special commissions; transfer to General Fund. Unused balances of appropriations.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-90_to_4-92",
+          "grouped": true,
+          "section_keys": [
+            "4-90",
+            "4-91",
+            "4-92"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-90 to 4-92 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 119, 241, 242; 1951, S. 87d, 88d; 1967, P.A. 363, S. 8; 1969, P.A. 768, S. 61; 1971, P.A. 1, S. 12; P.A. 73-679, S. 15, 43; P.A. 75-537, S. 30, 55; P.A. 77-614, S. 35, 610; P.A. 78-268, S. 4, 5.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-90 to 4-92 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6905,7 +7669,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-95 is repealed."
+            "text": "Section 4-95 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7012,7 +7780,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-97a is repealed."
+            "text": "Section 4-97a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7337,31 +8109,57 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-108 is repealed."
+            "text": "Section 4-108 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-109 and 4-110.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-109_and_4-110",
+          "grouped": true,
+          "section_keys": [
+            "4-109",
+            "4-110"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 58, Secs. 4a-50 and 4a-51 , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 58, Secs. 4a-50 and 4a-51 , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-110a and 4-110b.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-110a_and_4-110b",
+          "grouped": true,
+          "section_keys": [
+            "4-110a",
+            "4-110b"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 58, Secs. 4a-54 and 4a-55 , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 58, Secs. 4a-54 and 4a-55 , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7375,7 +8173,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 58, Sec. 4a-53 ."
+            "text": "Transferred to Chapter 58, Sec. 4a-53 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7389,7 +8191,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 58, Sec. 4a-74 ."
+            "text": "Transferred to Chapter 58, Sec. 4a-74 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7403,7 +8209,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 58, Sec. 4a-52 ."
+            "text": "Transferred to Chapter 58, Sec. 4a-52 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7417,7 +8227,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 58, Sec. 4a-57 ."
+            "text": "Transferred to Chapter 58, Sec. 4a-57 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7433,19 +8247,34 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-112a is repealed."
+            "text": "Section 4-112a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-113 to 4-114c.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-113_to_4-114c",
+          "grouped": true,
+          "section_keys": [
+            "4-113",
+            "4-114c"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 58, Secs. 4a-58 to 4a-62 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 58, Secs. 4a-58 to 4a-62 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7459,7 +8288,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 58, Sec. 4a-65 ."
+            "text": "Transferred to Chapter 58, Sec. 4a-65 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7473,7 +8306,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 58, Sec. 4a-64 ."
+            "text": "Transferred to Chapter 58, Sec. 4a-64 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7487,19 +8324,37 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 58, Sec. 4a-68 ."
+            "text": "Transferred to Chapter 58, Sec. 4a-68 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-118 to 4-120. Reproduction of documents filed with certain agencies. Printing of public documents. Publication of documents.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-118_to_4-120",
+          "grouped": true,
+          "section_keys": [
+            "4-118",
+            "4-119",
+            "4-120"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-118 to 4-120 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 200, 247; March, 1950, S. 89d, 97d; 1953, S. 99d; 1957, P.A. 578, S. 1; 622, S. 1; 641, S. 1; 1959, P.A. 258, S. 10, 11; 1963, P.A. 519, S. 2; P.A. 77-614, S. 99, 100, 323, 486, 610; P.A. 80-266, S. 1, 3; Nov. Sp. Sess. P.A. 81-11, S. 5, 19; P.A. 82-121; P.A. 83-531, S. 1, 2; 83-587, S. 6, 96; P.A. 88-297, S. 16.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-118 to 4-120 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7513,7 +8368,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 58, Sec. 4a-67 ."
+            "text": "Transferred to Chapter 58, Sec. 4a-67 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7529,31 +8388,58 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-121 is repealed."
+            "text": "Section 4-121 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-121a to 4-121c.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-121a_to_4-121c",
+          "grouped": true,
+          "section_keys": [
+            "4-121a",
+            "4-121b",
+            "4-121c"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 58, Secs. 4a-71 to 4a-73 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 58, Secs. 4a-71 to 4a-73 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-122 and 4-122a.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-122_and_4-122a",
+          "grouped": true,
+          "section_keys": [
+            "4-122",
+            "4-122a"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 58, Secs. 4a-75 and 4a-76 ."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 58, Secs. 4a-75 and 4a-76 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7567,7 +8453,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 58, Sec. 4a-56 ."
+            "text": "Transferred to Chapter 58, Sec. 4a-56 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7581,31 +8471,63 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 58, Sec. 4a-70 ."
+            "text": "Transferred to Chapter 58, Sec. 4a-70 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-124a and 4-124b. Establishment. Director; powers and duties. Transfer of other state personnel.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-124a_and_4-124b",
+          "grouped": true,
+          "section_keys": [
+            "4-124a",
+            "4-124b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-124a and 4-124b are repealed."
+            ],
+            "source": [
+              "(1969, P.A. 628, S. 1, 3, 20; 1971, P.A. 67, S. 3; 821, S. 9; P.A. 73-679, S. 42, 43.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-124a and 4-124b are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-124c to 4-124f. (Formerly Secs. 32-7a to 32-7d). Regional councils of elected officials. Duties of council. Bylaws; officers. Receipt of funds; dues; contracts; audits.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-124c_to_4-124f",
+          "grouped": true,
+          "section_keys": [
+            "4-124c",
+            "4-124d",
+            "4-124e",
+            "4-124f"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-124c to 4-124f , inclusive, are repealed, effective January 1, 2015."
+            ],
+            "source": [
+              "(February, 1965, P.A. 511, S. 1–3; 1967, P.A. 378; 1969, P.A. 628, S. 11; P.A. 73-679, S. 18, 43; P.A. 75-537, S. 33, 55; P.A. 77-614, S. 19, 610; P.A. 83-256, S. 1; P.A. 91-96, S. 1; P.A. 97-185, S. 1, 3; P.A. 99-82, S. 2–4; P.A. 07-239, S. 5; P.A. 09-231, S. 3; P.A. 13-247, S. 390.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-124c to 4-124f , inclusive, are repealed, effective January 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7621,7 +8543,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-124g is repealed."
+            "text": "Section 4-124g is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7637,7 +8563,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-124h is repealed, effective January 1, 2015."
+            "text": "Section 4-124h is repealed, effective January 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7732,7 +8662,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-124m is repealed, effective January 1, 2015."
+            "text": "Section 4-124m is repealed, effective January 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7766,7 +8700,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-124o is repealed, effective January 1, 2015."
+            "text": "Section 4-124o is repealed, effective January 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7800,7 +8738,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-124q is repealed, effective June 19, 2013."
+            "text": "Section 4-124q is repealed, effective June 19, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7959,12 +8901,25 @@
           "section_key": "",
           "label": "Secs. 4-124x and 4-124y. Technology assessment examination program; report. Information technology credential or degree program; guidelines; report.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-124x_and_4-124y",
+          "grouped": true,
+          "section_keys": [
+            "4-124x",
+            "4-124y"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-124x and 4-124y are repealed, effective July 1, 2011."
+            ],
+            "source": [
+              "(P.A. 01-193, S. 4, 5, 9; P.A. 03-19, S. 6, 7; P.A. 11-48, S. 285, 303.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-124x and 4-124y are repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7999,7 +8954,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-124aa is repealed, effective July 1, 2011."
+            "text": "Section 4-124aa is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8015,7 +8974,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-124bb is repealed, effective October 1, 2018."
+            "text": "Section 4-124bb is repealed, effective October 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8031,7 +8994,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-124cc is repealed, effective July 1, 2011."
+            "text": "Section 4-124cc is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8047,7 +9014,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-124dd is repealed, effective October 1, 2018."
+            "text": "Section 4-124dd is repealed, effective October 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8063,7 +9034,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-124ee is repealed, effective July 1, 2011."
+            "text": "Section 4-124ee is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8270,12 +9245,26 @@
           "section_key": "",
           "label": "Secs. 4-124oo to 4-124ss.",
           "url": "https://www.cga.ct.gov/current/pub/chap_050.htm#secs_4-124oo_to_4-124ss",
+          "grouped": true,
+          "section_keys": [
+            "4-124oo",
+            "4-124pp",
+            "4-124qq",
+            "4-124rr",
+            "4-124ss"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8291,7 +9280,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-124tt is repealed, effective July 1, 2021."
+            "text": "Section 4-124tt is repealed, effective July 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8307,7 +9300,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-124uu is repealed, effective May 28, 2014."
+            "text": "Section 4-124uu is repealed, effective May 28, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8323,7 +9320,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-124vv is repealed, effective July 1, 2021."
+            "text": "Section 4-124vv is repealed, effective July 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8339,7 +9340,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-124ww is repealed, effective June 6, 2016."
+            "text": "Section 4-124ww is repealed, effective June 6, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8405,7 +9410,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-70 and 4-70a. Director of the Budget; general duties. Budget and Management Division established. Sections 4-70 and 4-70a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8420,7 +9428,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-70 and 4-70a. Director of the Budget; general duties. Budget and Management Division established. Sections 4-70 and 4-70a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8435,7 +9446,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-85b and 4-85c. Preparation of a human services annual agenda. Human services annual agenda: Contents, schedule and cycle. Sections 4-85b and 4-85c are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8450,7 +9464,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-85b and 4-85c. Preparation of a human services annual agenda. Human services annual agenda: Contents, schedule and cycle. Sections 4-85b and 4-85c are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8465,7 +9482,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-90 to 4-92. Transfer of unexpended balances. Report of unexpended balance of special commissions; transfer to General Fund. Unused balances of appropriations. Sections 4-90 to 4-92 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8480,7 +9500,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-90 to 4-92. Transfer of unexpended balances. Report of unexpended balance of special commissions; transfer to General Fund. Unused balances of appropriations. Sections 4-90 to 4-92 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8495,7 +9518,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-118 to 4-120. Reproduction of documents filed with certain agencies. Printing of public documents. Publication of documents. Sections 4-118 to 4-120 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8510,7 +9536,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-118 to 4-120. Reproduction of documents filed with certain agencies. Printing of public documents. Publication of documents. Sections 4-118 to 4-120 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8525,7 +9554,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-124a and 4-124b. Establishment. Director; powers and duties. Transfer of other state personnel. Sections 4-124a and 4-124b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8540,7 +9572,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-124a and 4-124b. Establishment. Director; powers and duties. Transfer of other state personnel. Sections 4-124a and 4-124b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8555,7 +9590,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-124c to 4-124f. (Formerly Secs. 32-7a to 32-7d). Regional councils of elected officials. Duties of council. Bylaws; officers. Receipt of funds; dues; contracts; audits. Sections 4-124c to 4-124f , inclusive, are repealed, effective January 1, 2015.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8570,7 +9608,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-124c to 4-124f. (Formerly Secs. 32-7a to 32-7d). Regional councils of elected officials. Duties of council. Bylaws; officers. Receipt of funds; dues; contracts; audits. Sections 4-124c to 4-124f , inclusive, are repealed, effective January 1, 2015.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8585,7 +9626,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-124x and 4-124y. Technology assessment examination program; report. Information technology credential or degree program; guidelines; report. Sections 4-124x and 4-124y are repealed, effective July 1, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8600,7 +9644,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-124x and 4-124y. Technology assessment examination program; report. Information technology credential or degree program; guidelines; report. Sections 4-124x and 4-124y are repealed, effective July 1, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -8624,7 +9671,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-125 is repealed."
+            "text": "Section 4-125 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8638,7 +9689,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 59, Part I, Sec. 4b-1 ."
+            "text": "Transferred to Chapter 59, Part I, Sec. 4b-1 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8654,7 +9709,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-126a is repealed."
+            "text": "Section 4-126a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8668,7 +9727,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 59, Part III, Sec. 4b-25 ."
+            "text": "Transferred to Chapter 59, Part III, Sec. 4b-25 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8682,31 +9745,59 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 60, Part II, Sec. 4b-97 ."
+            "text": "Transferred to Chapter 60, Part II, Sec. 4b-97 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-127 and 4-127a. Citizens' Advisory Council on Public Works. Agencies to furnish information to commissioner; certification re availability of space as shown on inventory.",
           "url": "https://www.cga.ct.gov/current/pub/chap_051.htm#secs_4-127_and_4-127a",
+          "grouped": true,
+          "section_keys": [
+            "4-127",
+            "4-127a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-127 and 4-127a are repealed."
+            ],
+            "source": [
+              "(March, 1950, S. 1898d; 1972, P.A. 247, S. 1; P.A. 73-149, S. 3, 5; P.A. 75-425, S. 21, 57.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-127 and 4-127a are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-127b and 4-127c.",
           "url": "https://www.cga.ct.gov/current/pub/chap_051.htm#secs_4-127b_and_4-127c",
+          "grouped": true,
+          "section_keys": [
+            "4-127b",
+            "4-127c"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 59, Part III, Secs. 4b-33 and 4b-34 , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 59, Part III, Secs. 4b-33 and 4b-34 , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8720,19 +9811,38 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 59, Part III, Sec. 4b-30 ."
+            "text": "Transferred to Chapter 59, Part III, Sec. 4b-30 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-128a to 4-128f.",
           "url": "https://www.cga.ct.gov/current/pub/chap_051.htm#secs_4-128a_to_4-128f",
+          "grouped": true,
+          "section_keys": [
+            "4-128a",
+            "4-128b",
+            "4-128c",
+            "4-128d",
+            "4-128e",
+            "4-128f"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 59, Part III, Secs. 4b-35 to 4b-40 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 59, Part III, Secs. 4b-35 to 4b-40 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8748,7 +9858,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-129 is repealed."
+            "text": "Section 4-129 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8762,7 +9876,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 59, Part II, Sec. 4b-14 ."
+            "text": "Transferred to Chapter 59, Part II, Sec. 4b-14 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8776,7 +9894,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 60, Part I, Sec. 4b-51 ."
+            "text": "Transferred to Chapter 60, Part I, Sec. 4b-51 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8790,7 +9912,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 60, Part I, Sec. 4b-53 ."
+            "text": "Transferred to Chapter 60, Part I, Sec. 4b-53 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8804,7 +9930,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 60, Part I, Sec. 4b-52 ."
+            "text": "Transferred to Chapter 60, Part I, Sec. 4b-52 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8818,7 +9948,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 59, Part II, Sec. 4b-12 ."
+            "text": "Transferred to Chapter 59, Part II, Sec. 4b-12 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8832,19 +9966,38 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 59, Part III, Sec. 4b-29 ."
+            "text": "Transferred to Chapter 59, Part III, Sec. 4b-29 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-134 to 4-134e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_051.htm#secs_4-134_to_4-134e",
+          "grouped": true,
+          "section_keys": [
+            "4-134",
+            "4-134a",
+            "4-134b",
+            "4-134c",
+            "4-134d",
+            "4-134e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 60, Part I, Secs. 4b-54 to 4b-59 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 60, Part I, Secs. 4b-54 to 4b-59 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8858,7 +10011,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 60, Part I, Sec. 4b-62 ."
+            "text": "Transferred to Chapter 60, Part I, Sec. 4b-62 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8874,7 +10031,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-136 is repealed."
+            "text": "Section 4-136 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8890,7 +10051,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -8905,7 +10070,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-127 and 4-127a. Citizens' Advisory Council on Public Works. Agencies to furnish information to commissioner; certification re availability of space as shown on inventory. Sections 4-127 and 4-127a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8920,7 +10088,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-127 and 4-127a. Citizens' Advisory Council on Public Works. Agencies to furnish information to commissioner; certification re availability of space as shown on inventory. Sections 4-127 and 4-127a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -8935,12 +10106,26 @@
           "section_key": "",
           "label": "Secs. 4-137a to 4-137e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_051a.htm#secs_4-137a_to_4-137e",
+          "grouped": true,
+          "section_keys": [
+            "4-137a",
+            "4-137b",
+            "4-137c",
+            "4-137d",
+            "4-137e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 60, Part II, Secs. 4b-91 to 4b-95 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 60, Part II, Secs. 4b-91 to 4b-95 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8956,7 +10141,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-137f is repealed."
+            "text": "Section 4-137f is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8970,7 +10159,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 60, Part II, Sec. 4b-96 ."
+            "text": "Transferred to Chapter 60, Part II, Sec. 4b-96 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8986,7 +10179,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-137h is repealed."
+            "text": "Section 4-137h is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -9001,12 +10198,26 @@
           "section_key": "",
           "label": "Secs. 4-138 to 4-140. State Building Program Commission.",
           "url": "https://www.cga.ct.gov/current/pub/chap_052.htm#secs_4-138_to_4-140",
+          "grouped": true,
+          "section_keys": [
+            "4-138",
+            "4-139",
+            "4-140"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-138 to 4-140 , inclusive, are repealed."
+            ],
+            "source": [
+              "(June, 1955, S. 1930d–1932d; September, 1957, P.A. 11, S. 16; 1972, P.A. 85, S. 4.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-138 to 4-140 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9021,7 +10232,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-138 to 4-140. State Building Program Commission. Sections 4-138 to 4-140 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9036,7 +10250,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-138 to 4-140. State Building Program Commission. Sections 4-138 to 4-140 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -9176,12 +10393,26 @@
           "section_key": "",
           "label": "Secs. 4-143 to 4-145. Appointment, removal, compensation of commission. Chairman; executive secretary; office. Quorum; all members to participate in claim disposition.",
           "url": "https://www.cga.ct.gov/current/pub/chap_053.htm#secs_4-143_to_4-145",
+          "grouped": true,
+          "section_keys": [
+            "4-143",
+            "4-144",
+            "4-145"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-143 to 4-145 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1959, P.A. 685, S. 3–5; 1961, P.A. 476, S. 1–3; 1969, P.A. 749, S. 10; 1972, P.A. 294, S. 3; P.A. 75-605, S. 26, 27.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-143 to 4-145 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9483,7 +10714,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-155 is repealed."
+            "text": "Section 4-155 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9973,7 +11208,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-165a is repealed, effective October 1, 2002."
+            "text": "Section 4-165a is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10030,7 +11269,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-143 to 4-145. Appointment, removal, compensation of commission. Chairman; executive secretary; office. Quorum; all members to participate in claim disposition. Sections 4-143 to 4-145 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10045,7 +11287,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-143 to 4-145. Appointment, removal, compensation of commission. Chairman; executive secretary; office. Quorum; all members to participate in claim disposition. Sections 4-143 to 4-145 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -10476,7 +11721,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-170a is repealed."
+            "text": "Section 4-170a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10600,7 +11849,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-173a is repealed, effective June 19, 2013."
+            "text": "Section 4-173a is repealed, effective June 19, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10729,12 +11982,25 @@
           "section_key": "",
           "label": "Secs. 4-176a to 4-176d.",
           "url": "https://www.cga.ct.gov/current/pub/chap_054.htm#secs_4-176a_to_4-176d",
+          "grouped": true,
+          "section_keys": [
+            "4-176a",
+            "4-176b",
+            "4-176c",
+            "4-176d"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11507,7 +12773,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-185a is repealed."
+            "text": "Section 4-185a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11563,12 +12833,25 @@
           "section_key": "",
           "label": "Secs. 4-187 and 4-188. Unemployment compensation, employment security and manpower appeals. Employment Security Division and the Board of Mediation and Arbitration exempt.",
           "url": "https://www.cga.ct.gov/current/pub/chap_054.htm#secs_4-187_and_4-188",
+          "grouped": true,
+          "section_keys": [
+            "4-187",
+            "4-188"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-187 and 4-188 are repealed."
+            ],
+            "source": [
+              "(1972, P.A. 293, S. 2, 3; P.A. 75-557; P.A. 88-317, S. 106, 107.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-187 and 4-188 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11637,12 +12920,28 @@
           "section_key": "",
           "label": "Secs. 4-189a to 4-189g.",
           "url": "https://www.cga.ct.gov/current/pub/chap_054.htm#secs_4-189a_to_4-189g",
+          "grouped": true,
+          "section_keys": [
+            "4-189a",
+            "4-189b",
+            "4-189c",
+            "4-189d",
+            "4-189e",
+            "4-189f",
+            "4-189g"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11657,7 +12956,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-187 and 4-188. Unemployment compensation, employment security and manpower appeals. Employment Security Division and the Board of Mediation and Arbitration exempt. Sections 4-187 and 4-188 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -11672,7 +12974,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-187 and 4-188. Unemployment compensation, employment security and manpower appeals. Employment Security Division and the Board of Mediation and Arbitration exempt. Sections 4-187 and 4-188 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -11790,12 +13095,25 @@
           "section_key": "",
           "label": "Secs. 4-191 and 4-192. Disclosure of personal data prohibited. When personal data may be disclosed without permission.",
           "url": "https://www.cga.ct.gov/current/pub/chap_055.htm#secs_4-191_and_4-192",
+          "grouped": true,
+          "section_keys": [
+            "4-191",
+            "4-192"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-191 and 4-192 are repealed."
+            ],
+            "source": [
+              "(P.A. 76-421, S. 2, 3, 9; P.A. 77-431, S. 5, 6; P.A. 78-362, S. 2, 3; P.A. 79-538, S. 2.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-191 and 4-192 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11942,12 +13260,28 @@
           "section_key": "",
           "label": "Secs. 4-198 to 4-204.",
           "url": "https://www.cga.ct.gov/current/pub/chap_055.htm#secs_4-198_to_4-204",
+          "grouped": true,
+          "section_keys": [
+            "4-198",
+            "4-199",
+            "4-200",
+            "4-201",
+            "4-202",
+            "4-203",
+            "4-204"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11962,7 +13296,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-191 and 4-192. Disclosure of personal data prohibited. When personal data may be disclosed without permission. Sections 4-191 and 4-192 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -11977,7 +13314,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-191 and 4-192. Disclosure of personal data prohibited. When personal data may be disclosed without permission. Sections 4-191 and 4-192 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -12001,31 +13341,63 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-205 is repealed, effective October 1, 2000."
+            "text": "Section 4-205 is repealed, effective October 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-206 to 4-209. Secretary of Office of Policy and Management to establish standards. Written procedures by state agencies for implementing standards. Requests for proposals; screening committee; selection of consultant; waiver required for noncompetitive procurement.",
           "url": "https://www.cga.ct.gov/current/pub/chap_055a.htm#secs_4-206_to_4-209",
+          "grouped": true,
+          "section_keys": [
+            "4-206",
+            "4-207",
+            "4-208",
+            "4-209"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-206 to 4-209 , inclusive, are repealed, effective July 1, 1994."
+            ],
+            "source": [
+              "(P.A. 89-122, S. 2–5, 8; P.A. 93-336, S. 12, 13.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-206 to 4-209 , inclusive, are repealed, effective July 1, 1994.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4-210 and 4-211. State agency reports on awarded contracts and needs for consultant services; coordination by secretary. State agency reports on completed contracts; compilation; performance evaluations.",
           "url": "https://www.cga.ct.gov/current/pub/chap_055a.htm#secs_4-210_and_4-211",
+          "grouped": true,
+          "section_keys": [
+            "4-210",
+            "4-211"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4-210 and 4-211 are repealed, effective October 1, 2000."
+            ],
+            "source": [
+              "(P.A. 89-122, S. 6–8; P.A. 93-336, S. 10, 11, 13; P.A. 97-47, S. 42; P.A. 00-66, S. 32.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4-210 and 4-211 are repealed, effective October 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12100,7 +13472,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-215 is repealed, effective January 1, 2024."
+            "text": "Section 4-215 is repealed, effective January 1, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12225,12 +13601,30 @@
           "section_key": "",
           "label": "Secs. 4-221 to 4-229.",
           "url": "https://www.cga.ct.gov/current/pub/chap_055a.htm#secs_4-221_to_4-229",
+          "grouped": true,
+          "section_keys": [
+            "4-221",
+            "4-222",
+            "4-223",
+            "4-224",
+            "4-225",
+            "4-226",
+            "4-227",
+            "4-228",
+            "4-229"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12275,7 +13669,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-210 and 4-211. State agency reports on awarded contracts and needs for consultant services; coordination by secretary. State agency reports on completed contracts; compilation; performance evaluations. Sections 4-210 and 4-211 are repealed, effective October 1, 2000.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12290,7 +13687,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4-210 and 4-211. State agency reports on awarded contracts and needs for consultant services; coordination by secretary. State agency reports on completed contracts; compilation; performance evaluations. Sections 4-210 and 4-211 are repealed, effective October 1, 2000.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -12474,12 +13874,34 @@
           "section_key": "",
           "label": "Secs. 4-237 to 4-249.",
           "url": "https://www.cga.ct.gov/current/pub/chap_055b.htm#secs_4-237_to_4-249",
+          "grouped": true,
+          "section_keys": [
+            "4-237",
+            "4-238",
+            "4-239",
+            "4-240",
+            "4-241",
+            "4-242",
+            "4-243",
+            "4-244",
+            "4-245",
+            "4-246",
+            "4-247",
+            "4-248",
+            "4-249"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -12528,7 +13950,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4-251 is repealed, effective July 13, 2011."
+            "text": "Section 4-251 is repealed, effective July 13, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12582,12 +14008,23 @@
           "section_key": "",
           "label": "Secs. 4-253 and 4-254.",
           "url": "https://www.cga.ct.gov/current/pub/chap_055c.htm#secs_4-253_and_4-254",
+          "grouped": true,
+          "section_keys": [
+            "4-253",
+            "4-254"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -12847,12 +14284,30 @@
           "section_key": "",
           "label": "Secs. 4-265 to 4-273.",
           "url": "https://www.cga.ct.gov/current/pub/chap_055d.htm#secs_4-265_to_4-273",
+          "grouped": true,
+          "section_keys": [
+            "4-265",
+            "4-266",
+            "4-267",
+            "4-268",
+            "4-269",
+            "4-270",
+            "4-271",
+            "4-272",
+            "4-273"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]

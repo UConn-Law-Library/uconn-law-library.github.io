@@ -171,7 +171,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-1a is repealed."
+            "text": "Section 14-1a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -311,7 +315,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-5a is repealed."
+            "text": "Section 14-5a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -624,12 +632,24 @@
           "section_key": "",
           "label": "Secs. 14-11f to 14-11h.",
           "url": "https://www.cga.ct.gov/current/pub/chap_246.htm#secs_14-11f_to_14-11h",
+          "grouped": true,
+          "section_keys": [
+            "14-11f",
+            "14-11g",
+            "14-11h"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -860,12 +880,25 @@
           "section_key": "",
           "label": "Secs. 14-12d and 14-12e. Notice of voiding or suspension of registration or operator's license; reregistration or reinvestment; proof of financial responsibility. Presumption of failure to file insurer name and policy number; offset of suspension periods.",
           "url": "https://www.cga.ct.gov/current/pub/chap_246.htm#secs_14-12d_and_14-12e",
+          "grouped": true,
+          "section_keys": [
+            "14-12d",
+            "14-12e"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-12d and 14-12e are repealed, effective January 1, 1994."
+            ],
+            "source": [
+              "(P.A. 75-545, S. 3, 4; P.A. 79-577, S. 4, 8; P.A. 81-172, S. 1; 81-217, S. 4; P.A. 90-143, S. 2; P.A. 93-298, S. 10, 11.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-12d and 14-12e are repealed, effective January 1, 1994.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -993,19 +1026,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-12 l is repealed, effective August 20, 2003, and applicable as of July 1, 2003."
+            "text": "Section 14-12 l is repealed, effective August 20, 2003, and applicable as of July 1, 2003.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 14-12m and 14-12n. Forfeiture of impounded motor vehicle; proceedings; proceeds from sale. Uninsured motor vehicle forfeiture revolving account.",
           "url": "https://www.cga.ct.gov/current/pub/chap_246.htm#secs_14-12m_and_14-12n",
+          "grouped": true,
+          "section_keys": [
+            "14-12m",
+            "14-12n"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-12m and 14-12n are repealed, effective June 3, 2004."
+            ],
+            "source": [
+              "(P.A. 98-215, S. 5, 6; P.A. 99-181, S. 10; P.A. 00-99, S. 47, 154; 04-199, S. 41.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-12m and 14-12n are repealed, effective June 3, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1038,7 +1088,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1394,7 +1448,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-16b is repealed."
+            "text": "Section 14-16b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1714,7 +1772,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-21a is repealed."
+            "text": "Section 14-21a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2099,7 +2161,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-21t is repealed, effective October 1, 2009."
+            "text": "Section 14-21t is repealed, effective October 1, 2009.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2297,12 +2363,26 @@
           "section_key": "",
           "label": "Secs. 14-22a to 14-22e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_246.htm#secs_14-22a_to_14-22e",
+          "grouped": true,
+          "section_keys": [
+            "14-22a",
+            "14-22b",
+            "14-22c",
+            "14-22d",
+            "14-22e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2605,7 +2685,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-30 is repealed."
+            "text": "Section 14-30 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2639,7 +2723,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-32 is repealed."
+            "text": "Section 14-32 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2931,7 +3019,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-36c is repealed, effective July 1, 2002."
+            "text": "Section 14-36c is repealed, effective July 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3179,7 +3271,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-37 is repealed, effective October 1, 2002."
+            "text": "Section 14-37 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3243,7 +3339,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-38 is repealed, effective June 23, 1993."
+            "text": "Section 14-38 is repealed, effective June 23, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3359,7 +3459,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -4236,7 +4340,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-48 of the general statutes is repealed notwithstanding the failure of the states of Massachusetts, New York and Rhode Island to adopt legislation similar to sections 14-48a and 14-48b ."
+            "text": "Section 14-48 of the general statutes is repealed notwithstanding the failure of the states of Massachusetts, New York and Rhode Island to adopt legislation similar to sections 14-48a and 14-48b .",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4681,7 +4789,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-53 is repealed, effective July 1, 2002."
+            "text": "Section 14-53 is repealed, effective July 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4757,7 +4869,11 @@
                 "text": "As no laws have been passed to repeal or otherwise amend section since the court in East Coast Towing, Ltd. v. Zoning Board of Appeals , 51 Conn. L. Rptr. 572, concluded this section was not repealed, this court adopts reasoning of lower court and concludes that current revision of section that remains in effect is the language of Sec. 9 of public act 03-265. 192 CA 275; judgment reversed, see 337 C. 806."
               }
             ],
-            "text": "Section 14-55 is repealed, effective October 1, 2003."
+            "text": "Section 14-55 is repealed, effective October 1, 2003.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4773,7 +4889,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-56 is repealed."
+            "text": "Section 14-56 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5172,19 +5292,34 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 14-65f ."
+            "text": "Transferred to Sec. 14-65f .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 14-65c and 14-65d.",
           "url": "https://www.cga.ct.gov/current/pub/chap_246.htm#secs_14-65c_and_14-65d",
+          "grouped": true,
+          "section_keys": [
+            "14-65c",
+            "14-65d"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Secs. 14-65h and 14-65i , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Secs. 14-65h and 14-65i , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -5398,7 +5533,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-65m is repealed, effective October 1, 2009."
+            "text": "Section 14-65m is repealed, effective October 1, 2009.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5628,12 +5767,23 @@
           "section_key": "",
           "label": "Secs. 14-67e and 14-67f.",
           "url": "https://www.cga.ct.gov/current/pub/chap_246.htm#secs_14-67e_and_14-67f",
+          "grouped": true,
+          "section_keys": [
+            "14-67e",
+            "14-67f"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5743,7 +5893,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-67j is repealed, effective July 1, 2012."
+            "text": "Section 14-67j is repealed, effective July 1, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5759,7 +5913,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-67k is repealed, effective October 1, 2003."
+            "text": "Section 14-67k is repealed, effective October 1, 2003.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6390,12 +6548,26 @@
           "section_key": "",
           "label": "Secs. 14-80c to 14-80g.",
           "url": "https://www.cga.ct.gov/current/pub/chap_246.htm#secs_14-80c_to_14-80g",
+          "grouped": true,
+          "section_keys": [
+            "14-80c",
+            "14-80d",
+            "14-80e",
+            "14-80f",
+            "14-80g"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6526,19 +6698,48 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-82 is repealed, effective October 1, 1999."
+            "text": "Section 14-82 is repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 14-83 to 14-96. Head and rear lights; spotlights; color of lights; reflectors; turn signals; minimum standards; single-beam, multibeam and alternate road-lighting equipment; number of driving lamps; flashing lights; emergency lighting equipment; etc.",
           "url": "https://www.cga.ct.gov/current/pub/chap_246.htm#secs_14-83_to_14-96",
+          "grouped": true,
+          "section_keys": [
+            "14-83",
+            "14-84",
+            "14-85",
+            "14-86",
+            "14-87",
+            "14-88",
+            "14-89",
+            "14-90",
+            "14-91",
+            "14-92",
+            "14-93",
+            "14-94",
+            "14-95",
+            "14-96"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-83 to 14-96 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2430–2437; 2439–2443; 2504; 1951, S. 1331d; 1951, 1955, S. 1332d; 1955, S. 1330d; 1333d; 1957, P.A. 171; 431, S. 1; 434, S. 2; 1959, P.A. 62, S. 2–5; 283, S. 2; 1961, P.A. 106; 276; 1963, P.A. 413; 500; February, 1965, P.A. 172, S. 2; 448, S. 8, 9, 44; 562; 1967, P.A. 834, S. 30.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-83 to 14-96 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6725,7 +6926,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-96h is repealed, effective October 1, 1999."
+            "text": "Section 14-96h is repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7019,12 +7224,25 @@
           "section_key": "",
           "label": "Secs. 14-96v and 14-96w. Single-beam road-lighting equipment. Distance forward lights to illuminate.",
           "url": "https://www.cga.ct.gov/current/pub/chap_246.htm#secs_14-96v_and_14-96w",
+          "grouped": true,
+          "section_keys": [
+            "14-96v",
+            "14-96w"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-96v and 14-96w are repealed, effective October 1, 1999."
+            ],
+            "source": [
+              "(1967, P.A. 834, S. 24, 25; P.A. 75-577, S. 48, 49, 126; P.A. 99-268, S. 45.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-96v and 14-96w are repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7123,7 +7341,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-96bb is repealed, effective October 1, 1999."
+            "text": "Section 14-96bb is repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7270,12 +7492,26 @@
           "section_key": "",
           "label": "Secs. 14-99a to 14-99e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_246.htm#secs_14-99a_to_14-99e",
+          "grouped": true,
+          "section_keys": [
+            "14-99a",
+            "14-99b",
+            "14-99c",
+            "14-99d",
+            "14-99e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7514,7 +7750,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 246a, Sec. 14-164c ."
+            "text": "Transferred to Chapter 246a, Sec. 14-164c .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7652,7 +7892,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-103b is repealed, effective January 1, 2010."
+            "text": "Section 14-103b is repealed, effective January 1, 2010.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7668,7 +7912,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-103c is repealed."
+            "text": "Section 14-103c is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7897,7 +8145,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-108 is repealed."
+            "text": "Section 14-108 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7937,12 +8189,26 @@
           "section_key": "",
           "label": "Secs. 14-108b, 14-108c and 14-109. Statistical information based on reports. Report of accident involving unlicensed operator under instruction. Coroner to investigate fatal motor vehicle accidents.",
           "url": "https://www.cga.ct.gov/current/pub/chap_246.htm#secs_14-108b_14-108c_and_14-109",
+          "grouped": true,
+          "section_keys": [
+            "14-108b",
+            "14-108c",
+            "14-109"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-108b , 14-108c and 14-109 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2454; 1961, P.A. 318, S. 3; 1967, P.A. 832, S. 2; 1969, P.A. 699, S. 38; P.A. 80-142, S. 2; 80-190, S. 14; P.A. 90-143, S. 5.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-108b , 14-108c and 14-109 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8070,7 +8336,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-111a is repealed, effective July 1, 2010."
+            "text": "Section 14-111a is repealed, effective July 1, 2010.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8097,12 +8367,25 @@
           "section_key": "",
           "label": "Secs. 14-111c and 14-111d. Driver License Compact. Definitions applicable to Driver License Compact; comparable convictions to be reported; report of suspension or revocation action to department.",
           "url": "https://www.cga.ct.gov/current/pub/chap_246.htm#secs_14-111c_and_14-111d",
+          "grouped": true,
+          "section_keys": [
+            "14-111c",
+            "14-111d"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-111c and 14-111d are repealed, effective January 1, 2003."
+            ],
+            "source": [
+              "(P.A. 92-186, S. 1–3; P.A. 02-70, S. 88.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-111c and 14-111d are repealed, effective January 1, 2003.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8487,12 +8770,26 @@
           "section_key": "",
           "label": "Secs. 14-113 to 14-115. Financial responsibility of motor vehicle owners and operators required after accident; definitions. Administration by Motor Vehicle Commissioner; hearings; appeals. Abstract of operating record.",
           "url": "https://www.cga.ct.gov/current/pub/chap_246.htm#secs_14-113_to_14-115",
+          "grouped": true,
+          "section_keys": [
+            "14-113",
+            "14-114",
+            "14-115"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-113 to 14-115 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1951, S. 1350d–1352d; 1955, S. 1351d, 1352d; 1957, P.A. 254; September, 1957, P.A. 16, S. 1; 1961, P.A. 581, S. 17; 1971, P.A. 755, S. 1; P.A. 73-549, S. 2, 4; P.A. 76-436, S. 344, 681; P.A. 77-603, S. 34, 125; P.A. 89-232, S. 2, 3; P.A. 80-466, S. 22, 25.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-113 to 14-115 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8517,12 +8814,36 @@
           "section_key": "",
           "label": "Secs. 14-116 to 14-128. Accident reports. Determination of amount of security; suspension of license and registration; exceptions; liability policy or bond. Release in behalf of minor. Exceptions. Duration of suspension. Unlicensed or nonresident operators; reciprocity. Amount of security, reduction. Custody, use and return of deposits. Evidence inadmissible in damage actions. Suspension pending disposition of judgment. Transfer of registration or ownership during suspension. Return of license or registration to commissioner. Governmental and public service vehicles exempt.",
           "url": "https://www.cga.ct.gov/current/pub/chap_246.htm#secs_14-116_to_14-128",
+          "grouped": true,
+          "section_keys": [
+            "14-116",
+            "14-117",
+            "14-118",
+            "14-119",
+            "14-120",
+            "14-121",
+            "14-122",
+            "14-123",
+            "14-124",
+            "14-125",
+            "14-126",
+            "14-127",
+            "14-128"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-116 to 14-128 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1951, S. 1353d–1361d, 1363d, 1364d, 1366d; 1953, S. 1354d, 1360d, 1361d; 1957, P.A. 456, S. 1; 625, S. 1; 1959, P.A. 584; 649; 663; February, 1965, P.A. 122; 447, S. 2, 3; 574, S. 19; 1967, P.A. 213, S. 2; 293; 332; 1971, P.A. 146, S. 1, 2; 379, S. 3, 4; 487, S. 3; 755, S. 2, 3; 871, S. 88; P.A. 75-545, S. 5; P.A. 77-186; P.A. 80-190, S. 2; P.A. 83-98, S. 3, 4; P.A. 85-613, S. 32, 154; P.A. 89-232, S. 2, 3.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-116 to 14-128 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8563,19 +8884,37 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 700, Part II, Sec. 38a-337 ."
+            "text": "Transferred to Chapter 700, Part II, Sec. 38a-337 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 14-131 to 14-133. Discharge in bankruptcy not to release judgment debtor. Relief under other statutes. Penalties.",
           "url": "https://www.cga.ct.gov/current/pub/chap_246.htm#secs_14-131_to_14-133",
+          "grouped": true,
+          "section_keys": [
+            "14-131",
+            "14-132",
+            "14-133"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-131 to 14-133 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1951, S. 1365d, 1369d, 1371; P.A. 77-8; P.A. 89-232, S. 2, 3.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-131 to 14-133 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8644,7 +8983,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-136 is repealed, effective October 1, 2002."
+            "text": "Section 14-136 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8738,7 +9081,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-139 is repealed."
+            "text": "Section 14-139 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8858,7 +9205,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-143 is repealed."
+            "text": "Section 14-143 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9248,7 +9599,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-150b is repealed."
+            "text": "Section 14-150b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9376,7 +9731,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-154 is repealed."
+            "text": "Section 14-154 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9426,7 +9785,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-155 is repealed."
+            "text": "Section 14-155 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9465,7 +9828,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-156a is repealed."
+            "text": "Section 14-156a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9479,7 +9846,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 164, Sec. 10-24a ."
+            "text": "Transferred to Chapter 164, Sec. 10-24a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9495,7 +9866,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-158 is repealed."
+            "text": "Section 14-158 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9717,7 +10092,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-163f is repealed, effective June 30, 2021."
+            "text": "Section 14-163f is repealed, effective June 30, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9800,7 +10179,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-12d and 14-12e. Notice of voiding or suspension of registration or operator's license; reregistration or reinvestment; proof of financial responsibility. Presumption of failure to file insurer name and policy number; offset of suspension periods. Sections 14-12d and 14-12e are repealed, effective January 1, 1994.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9815,7 +10197,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-12d and 14-12e. Notice of voiding or suspension of registration or operator's license; reregistration or reinvestment; proof of financial responsibility. Presumption of failure to file insurer name and policy number; offset of suspension periods. Sections 14-12d and 14-12e are repealed, effective January 1, 1994.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9830,7 +10215,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-12m and 14-12n. Forfeiture of impounded motor vehicle; proceedings; proceeds from sale. Uninsured motor vehicle forfeiture revolving account. Sections 14-12m and 14-12n are repealed, effective June 3, 2004.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9845,7 +10233,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-12m and 14-12n. Forfeiture of impounded motor vehicle; proceedings; proceeds from sale. Uninsured motor vehicle forfeiture revolving account. Sections 14-12m and 14-12n are repealed, effective June 3, 2004.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9860,7 +10251,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-83 to 14-96. Head and rear lights; spotlights; color of lights; reflectors; turn signals; minimum standards; single-beam, multibeam and alternate road-lighting equipment; number of driving lamps; flashing lights; emergency lighting equipment; etc. Sections 14-83 to 14-96 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9875,7 +10269,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-83 to 14-96. Head and rear lights; spotlights; color of lights; reflectors; turn signals; minimum standards; single-beam, multibeam and alternate road-lighting equipment; number of driving lamps; flashing lights; emergency lighting equipment; etc. Sections 14-83 to 14-96 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9890,7 +10287,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-96v and 14-96w. Single-beam road-lighting equipment. Distance forward lights to illuminate. Sections 14-96v and 14-96w are repealed, effective October 1, 1999.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9905,7 +10305,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-96v and 14-96w. Single-beam road-lighting equipment. Distance forward lights to illuminate. Sections 14-96v and 14-96w are repealed, effective October 1, 1999.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9920,7 +10323,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-108b, 14-108c and 14-109. Statistical information based on reports. Report of accident involving unlicensed operator under instruction. Coroner to investigate fatal motor vehicle accidents. Sections 14-108b , 14-108c and 14-109 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9935,7 +10341,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-108b, 14-108c and 14-109. Statistical information based on reports. Report of accident involving unlicensed operator under instruction. Coroner to investigate fatal motor vehicle accidents. Sections 14-108b , 14-108c and 14-109 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9950,7 +10359,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-108b, 14-108c and 14-109. Statistical information based on reports. Report of accident involving unlicensed operator under instruction. Coroner to investigate fatal motor vehicle accidents. Sections 14-108b , 14-108c and 14-109 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9965,7 +10377,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-111c and 14-111d. Driver License Compact. Definitions applicable to Driver License Compact; comparable convictions to be reported; report of suspension or revocation action to department. Sections 14-111c and 14-111d are repealed, effective January 1, 2003.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9980,7 +10395,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-111c and 14-111d. Driver License Compact. Definitions applicable to Driver License Compact; comparable convictions to be reported; report of suspension or revocation action to department. Sections 14-111c and 14-111d are repealed, effective January 1, 2003.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9995,7 +10413,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-113 to 14-115. Financial responsibility of motor vehicle owners and operators required after accident; definitions. Administration by Motor Vehicle Commissioner; hearings; appeals. Abstract of operating record. Sections 14-113 to 14-115 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10010,7 +10431,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-113 to 14-115. Financial responsibility of motor vehicle owners and operators required after accident; definitions. Administration by Motor Vehicle Commissioner; hearings; appeals. Abstract of operating record. Sections 14-113 to 14-115 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10055,7 +10479,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-131 to 14-133. Discharge in bankruptcy not to release judgment debtor. Relief under other statutes. Penalties. Sections 14-131 to 14-133 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10070,7 +10497,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-131 to 14-133. Discharge in bankruptcy not to release judgment debtor. Relief under other statutes. Penalties. Sections 14-131 to 14-133 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -10161,12 +10591,25 @@
           "section_key": "",
           "label": "Secs. 14-164d and 14-164e. Failure to pass emissions test during inspection system's first year of operation. Maximum expenditure required to pass emission test.",
           "url": "https://www.cga.ct.gov/current/pub/chap_246a.htm#secs_14-164d_and_14-164e",
+          "grouped": true,
+          "section_keys": [
+            "14-164d",
+            "14-164e"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-164d and 14-164e are repealed."
+            ],
+            "source": [
+              "(P.A. 78-335, S. 3, 4, 6; P.A. 79-238, S. 3, 4; P.A. 82-460, S. 10.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-164d and 14-164e are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10198,7 +10641,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-164g is repealed, effective October 1, 2002."
+            "text": "Section 14-164g is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10256,7 +10703,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-164j is repealed, effective July 1, 1999."
+            "text": "Section 14-164j is repealed, effective July 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10367,12 +10818,32 @@
           "section_key": "",
           "label": "Secs. 14-164p to 14-164z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_246a.htm#secs_14-164p_to_14-164z",
+          "grouped": true,
+          "section_keys": [
+            "14-164p",
+            "14-164q",
+            "14-164r",
+            "14-164s",
+            "14-164t",
+            "14-164u",
+            "14-164v",
+            "14-164w",
+            "14-164x",
+            "14-164y",
+            "14-164z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -10387,7 +10858,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-164d and 14-164e. Failure to pass emissions test during inspection system's first year of operation. Maximum expenditure required to pass emission test. Sections 14-164d and 14-164e are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10402,7 +10876,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-164d and 14-164e. Failure to pass emissions test during inspection system's first year of operation. Maximum expenditure required to pass emission test. Sections 14-164d and 14-164e are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -11274,12 +11751,32 @@
           "section_key": "",
           "label": "Secs. 14-201 to 14-209. Definition. Exemption of previously registered vehicle. Issuance of distinctive certificate. Perfection of security interest. Perfection under other statute. Filing of notices of security interest. Assignment of security interest. Release of interest. Lienholder to furnish information concerning security agreement.",
           "url": "https://www.cga.ct.gov/current/pub/chap_247.htm#secs_14-201_to_14-209",
+          "grouped": true,
+          "section_keys": [
+            "14-201",
+            "14-202",
+            "14-203",
+            "14-204",
+            "14-205",
+            "14-206",
+            "14-207",
+            "14-208",
+            "14-209"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-201 to 14-209 , inclusive, are repealed, effective July 1, 2002."
+            ],
+            "source": [
+              "(1957, P.A. 607, S. 37–45; P.A. 02-70, S. 87; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-201 to 14-209 , inclusive, are repealed, effective July 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11370,7 +11867,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-211a is repealed, effective June 30, 2015."
+            "text": "Section 14-211a is repealed, effective June 30, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -11596,7 +12097,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-213a is repealed."
+            "text": "Section 14-213a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11809,7 +12314,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-218 is repealed."
+            "text": "Section 14-218 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11943,7 +12452,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-219a is repealed."
+            "text": "Section 14-219a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12294,7 +12807,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-225a is repealed."
+            "text": "Section 14-225a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12329,7 +12846,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-227 is repealed."
+            "text": "Section 14-227 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12698,7 +13219,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-227d is repealed."
+            "text": "Section 14-227d is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12738,7 +13263,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-227f is repealed, effective January 1, 2012."
+            "text": "Section 14-227f is repealed, effective January 1, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12972,7 +13501,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-229 is repealed."
+            "text": "Section 14-229 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13722,7 +14255,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-246 is repealed."
+            "text": "Section 14-246 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13837,7 +14374,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-248 is repealed."
+            "text": "Section 14-248 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14070,7 +14611,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-253 is repealed."
+            "text": "Section 14-253 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14147,7 +14692,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-253b is repealed."
+            "text": "Section 14-253b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14212,12 +14761,25 @@
           "section_key": "",
           "label": "Secs. 14-255 and 14-256. Use of multiple-beam road-lighting equipment. Following vehicle to dim lights.",
           "url": "https://www.cga.ct.gov/current/pub/chap_248.htm#secs_14-255_and_14-256",
+          "grouped": true,
+          "section_keys": [
+            "14-255",
+            "14-256"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-255 and 14-256 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2438; 1955, S. 1334d; 1957, P.A. 106; 1967, P.A. 834, S. 30.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-255 and 14-256 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14253,12 +14815,25 @@
           "section_key": "",
           "label": "Secs. 14-258 and 14-259. Use of metal tires restricted. Use of radio telephones.",
           "url": "https://www.cga.ct.gov/current/pub/chap_248.htm#secs_14-258_and_14-259",
+          "grouped": true,
+          "section_keys": [
+            "14-258",
+            "14-259"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-258 and 14-259 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2495; 1949, 1955, S. 1338d; 1969, P.A. 446, S. 2; 768, S. 143; P.A. 73-544, S. 25; P.A. 75-577, S. 103, 126; P.A. 77-19, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-258 and 14-259 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14284,12 +14859,34 @@
           "section_key": "",
           "label": "Secs. 14-260a to 14-260m.",
           "url": "https://www.cga.ct.gov/current/pub/chap_248.htm#secs_14-260a_to_14-260m",
+          "grouped": true,
+          "section_keys": [
+            "14-260a",
+            "14-260b",
+            "14-260c",
+            "14-260d",
+            "14-260e",
+            "14-260f",
+            "14-260g",
+            "14-260h",
+            "14-260i",
+            "14-260j",
+            "14-260k",
+            "14-260l",
+            "14-260m"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -14507,7 +15104,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-263 is repealed."
+            "text": "Section 14-263 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14546,7 +15147,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-265 is repealed."
+            "text": "Section 14-265 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14585,7 +15190,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-267 is repealed."
+            "text": "Section 14-267 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14696,7 +15305,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-268 is repealed."
+            "text": "Section 14-268 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14950,7 +15563,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-272 is repealed."
+            "text": "Section 14-272 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -16002,7 +16619,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-287 is repealed."
+            "text": "Section 14-287 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -16150,7 +16771,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-289e is repealed."
+            "text": "Section 14-289e is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -16228,7 +16853,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-289i is repealed, effective October 1, 2012."
+            "text": "Section 14-289i is repealed, effective October 1, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -16390,7 +17019,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-293 is repealed."
+            "text": "Section 14-293 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -16444,7 +17077,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-294 is repealed."
+            "text": "Section 14-294 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -16583,7 +17220,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -16599,19 +17240,54 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-296d is repealed, effective July 1, 1998."
+            "text": "Section 14-296d is repealed, effective July 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 14-296e to 14-296z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_248.htm#secs_14-296e_to_14-296z",
+          "grouped": true,
+          "section_keys": [
+            "14-296e",
+            "14-296f",
+            "14-296g",
+            "14-296h",
+            "14-296i",
+            "14-296j",
+            "14-296k",
+            "14-296l",
+            "14-296m",
+            "14-296n",
+            "14-296o",
+            "14-296p",
+            "14-296q",
+            "14-296r",
+            "14-296s",
+            "14-296t",
+            "14-296u",
+            "14-296v",
+            "14-296w",
+            "14-296x",
+            "14-296y",
+            "14-296z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -16690,7 +17366,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-255 and 14-256. Use of multiple-beam road-lighting equipment. Following vehicle to dim lights. Sections 14-255 and 14-256 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -16705,7 +17384,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-255 and 14-256. Use of multiple-beam road-lighting equipment. Following vehicle to dim lights. Sections 14-255 and 14-256 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -16720,7 +17402,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-258 and 14-259. Use of metal tires restricted. Use of radio telephones. Sections 14-258 and 14-259 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -16735,7 +17420,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-258 and 14-259. Use of metal tires restricted. Use of radio telephones. Sections 14-258 and 14-259 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -17728,7 +18416,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-311a is repealed, effective July 1, 2012."
+            "text": "Section 14-311a is repealed, effective July 1, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -17879,7 +18571,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-314a is repealed."
+            "text": "Section 14-314a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -17984,12 +18680,25 @@
           "section_key": "",
           "label": "Secs. 14-316 and 14-317. Commissioners to serve without compensation; offices. Assistants.",
           "url": "https://www.cga.ct.gov/current/pub/chap_249.htm#secs_14-316_and_14-317",
+          "grouped": true,
+          "section_keys": [
+            "14-316",
+            "14-317"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-316 and 14-317 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2533, 2534; P.A. 77-614, S. 73, 609, 610.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-316 and 14-317 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -18004,7 +18713,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-316 and 14-317. Commissioners to serve without compensation; offices. Assistants. Sections 14-316 and 14-317 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -18019,7 +18731,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-316 and 14-317. Commissioners to serve without compensation; offices. Assistants. Sections 14-316 and 14-317 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -18167,7 +18882,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-322 is repealed, effective October 1, 2003."
+            "text": "Section 14-322 is repealed, effective October 1, 2003.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -18183,7 +18902,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-323 is repealed."
+            "text": "Section 14-323 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -18418,7 +19141,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 14-328 is repealed."
+            "text": "Section 14-328 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -18535,12 +19262,32 @@
           "section_key": "",
           "label": "Secs. 14-333 to 14-341. Distributor's license. Records and sales slips. Gasoline tax. Suspension or revocation of distributor's license. Receipts to be added to Highway Fund.",
           "url": "https://www.cga.ct.gov/current/pub/chap_250.htm#secs_14-333_to_14-341",
+          "grouped": true,
+          "section_keys": [
+            "14-333",
+            "14-334",
+            "14-335",
+            "14-336",
+            "14-337",
+            "14-338",
+            "14-339",
+            "14-340",
+            "14-341"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-333 to 14-341 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2550–2557, 2559; November, 1949, S. 1414d; 1953, S. 1413d, 1415d, 1416d; June, 1955, S. 1414d; November, 1955, S. N165; 1957, P.A. 170; 543, S. 1, 2; 620, S. 1; 1959, P.A. 132, S. 29; 241, S. 1; 579, S. 26.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-333 to 14-341 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -18566,12 +19313,25 @@
           "section_key": "",
           "label": "Secs. 14-343 and 14-344. Penalty; collection of tax. Aviation gasoline; exemption; license to sell.",
           "url": "https://www.cga.ct.gov/current/pub/chap_250.htm#secs_14-343_and_14-344",
+          "grouped": true,
+          "section_keys": [
+            "14-343",
+            "14-344"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-343 and 14-344 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 1419d, 2561; 1953, S. 1418d; 1957, P.A. 666; 1959, P.A. 132, S. 29; 579, S. 26.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-343 and 14-344 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -18586,7 +19346,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-333 to 14-341. Distributor's license. Records and sales slips. Gasoline tax. Suspension or revocation of distributor's license. Receipts to be added to Highway Fund. Sections 14-333 to 14-341 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -18601,7 +19364,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-333 to 14-341. Distributor's license. Records and sales slips. Gasoline tax. Suspension or revocation of distributor's license. Receipts to be added to Highway Fund. Sections 14-333 to 14-341 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -18616,7 +19382,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-343 and 14-344. Penalty; collection of tax. Aviation gasoline; exemption; license to sell. Sections 14-343 and 14-344 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -18631,7 +19400,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-343 and 14-344. Penalty; collection of tax. Aviation gasoline; exemption; license to sell. Sections 14-343 and 14-344 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -18723,12 +19495,35 @@
           "section_key": "",
           "label": "Secs. 14-345 to 14-356. Special fuel use tax.",
           "url": "https://www.cga.ct.gov/current/pub/chap_251.htm#secs_14-345_to_14-356",
+          "grouped": true,
+          "section_keys": [
+            "14-345",
+            "14-346",
+            "14-347",
+            "14-348",
+            "14-349",
+            "14-350",
+            "14-351",
+            "14-352",
+            "14-353",
+            "14-354",
+            "14-355",
+            "14-356"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-345 to 14-356 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 2562–2573; 1949, S. 1420d, 1422d; 1953, S. 1422d; June, 1955, S. 1421d; November, 1955, S. N166; 1957, P.A. 294; 620, S. 2; 671, S. 1; March, 1958, P.A. 10, S. 1; 1959, P.A. 132, S. 29; 579, S. 26.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-345 to 14-356 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -18743,7 +19538,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-345 to 14-356. Special fuel use tax. Sections 14-345 to 14-356 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -18758,7 +19556,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-345 to 14-356. Special fuel use tax. Sections 14-345 to 14-356 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -18773,12 +19574,31 @@
           "section_key": "",
           "label": "Secs. 14-357 to 14-364. Highway use tax.",
           "url": "https://www.cga.ct.gov/current/pub/chap_252.htm#secs_14-357_to_14-364",
+          "grouped": true,
+          "section_keys": [
+            "14-357",
+            "14-358",
+            "14-359",
+            "14-360",
+            "14-361",
+            "14-362",
+            "14-363",
+            "14-364"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-357 to 14-364 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1957, P.A. 671, S. 2–9; 1959, P.A. 43, S. 1; 579, S. 24, 25; 1961, P.A. 517, S. 129; 575, S. 17.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-357 to 14-364 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -18793,7 +19613,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-357 to 14-364. Highway use tax. Sections 14-357 to 14-364 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -18808,7 +19631,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-357 to 14-364. Highway use tax. Sections 14-357 to 14-364 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -18947,12 +19773,33 @@
           "section_key": "",
           "label": "Secs. 14-369 to 14-378. Vehicle Equipment Safety Compact.",
           "url": "https://www.cga.ct.gov/current/pub/chap_254.htm#secs_14-369_to_14-378",
+          "grouped": true,
+          "section_keys": [
+            "14-369",
+            "14-370",
+            "14-371",
+            "14-372",
+            "14-373",
+            "14-374",
+            "14-375",
+            "14-376",
+            "14-377",
+            "14-378"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-369 to 14-378 , inclusive, are repealed."
+            ],
+            "source": [
+              "(February, 1965, P.A. 545, S. 1–10; P.A. 82-472, S. 46, 183; P.A. 83-587, S. 92, 96.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-369 to 14-378 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -18967,7 +19814,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-369 to 14-378. Vehicle Equipment Safety Compact. Sections 14-369 to 14-378 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -18982,7 +19832,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-369 to 14-378. Vehicle Equipment Safety Compact. Sections 14-369 to 14-378 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -19082,12 +19935,25 @@
           "section_key": "",
           "label": "Secs. 14-383 and 14-384. Registration of snowmobile or all-terrain vehicle dealers. Temporary registration plates.",
           "url": "https://www.cga.ct.gov/current/pub/chap_255.htm#secs_14-383_and_14-384",
+          "grouped": true,
+          "section_keys": [
+            "14-383",
+            "14-384"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-383 and 14-384 are repealed, effective July 1, 2005."
+            ],
+            "source": [
+              "(1969, P.A. 752, S. 5, 6; 1971, P.A. 848, S. 7, 8; P.A. 84-254, S. 56, 62; P.A. 87-329, S. 21; P.A. 05-218, S. 45.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-383 and 14-384 are repealed, effective July 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -19226,12 +20092,26 @@
           "section_key": "",
           "label": "Secs. 14-390a to 14-390e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_255.htm#secs_14-390a_to_14-390e",
+          "grouped": true,
+          "section_keys": [
+            "14-390a",
+            "14-390b",
+            "14-390c",
+            "14-390d",
+            "14-390e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -19261,12 +20141,27 @@
           "section_key": "",
           "label": "Secs. 14-390g to 14-390 l .",
           "url": "https://www.cga.ct.gov/current/pub/chap_255.htm#secs_14-390g_to_14-390l",
+          "grouped": true,
+          "section_keys": [
+            "14-390g",
+            "14-390h",
+            "14-390i",
+            "14-390j",
+            "14-390k",
+            "14-390l"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -19302,7 +20197,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-383 and 14-384. Registration of snowmobile or all-terrain vehicle dealers. Temporary registration plates. Sections 14-383 and 14-384 are repealed, effective July 1, 2005.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -19317,7 +20215,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-383 and 14-384. Registration of snowmobile or all-terrain vehicle dealers. Temporary registration plates. Sections 14-383 and 14-384 are repealed, effective July 1, 2005.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -19332,12 +20233,32 @@
           "section_key": "",
           "label": "Secs. 14-391 to 14-399. Petroleum Products Control Commission.",
           "url": "https://www.cga.ct.gov/current/pub/chap_256.htm#secs_14-391_to_14-399",
+          "grouped": true,
+          "section_keys": [
+            "14-391",
+            "14-392",
+            "14-393",
+            "14-394",
+            "14-395",
+            "14-396",
+            "14-397",
+            "14-398",
+            "14-399"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 14-391 to 14-399 , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 73-678, S. 1–9, 12; P.A. 74-285, S. 18, 20.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 14-391 to 14-399 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -19352,7 +20273,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-391 to 14-399. Petroleum Products Control Commission. Sections 14-391 to 14-399 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -19367,7 +20291,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 14-391 to 14-399. Petroleum Products Control Commission. Sections 14-391 to 14-399 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]

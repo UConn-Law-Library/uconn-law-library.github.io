@@ -105,12 +105,25 @@
           "section_key": "",
           "label": "Secs. 15-5 and 15-6. New Haven Harbor: Jurisdiction in; removal of vessels from channel, penalty.",
           "url": "https://www.cga.ct.gov/current/pub/chap_263.htm#secs_15-5_and_15-6",
+          "grouped": true,
+          "section_keys": [
+            "15-5",
+            "15-6"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 15-5 and 15-6 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4753, 4754; P.A. 73-307.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 15-5 and 15-6 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -228,7 +241,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-11 is repealed."
+            "text": "Section 15-11 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -301,12 +318,25 @@
           "section_key": "",
           "label": "Secs. 15-13a and 15-13b. Validity of previously issued pilot's license; transfer of records. Licenses issued prior to January 1, 1972.",
           "url": "https://www.cga.ct.gov/current/pub/chap_263.htm#secs_15-13a_and_15-13b",
+          "grouped": true,
+          "section_keys": [
+            "15-13a",
+            "15-13b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 15-13a and 15-13b are repealed, effective October 1, 2002 ."
+            ],
+            "source": [
+              "(1969, P.A. 815, S. 3; 1971, P.A. 797, S. 6; P.A. 76-435, S. 36, 82; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 15-13a and 15-13b are repealed, effective October 1, 2002 .",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -478,7 +508,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-16 is repealed, effective July 8, 2011."
+            "text": "Section 15-16 is repealed, effective July 8, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -532,19 +566,41 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-17 is repealed, effective October 1, 2002."
+            "text": "Section 15-17 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 15-18 to 15-24. Throwing refuse into harbor. Obstructions in New Haven Harbor restricted. Appeal from commissioner. Dumping in harbors. Jurisdiction of offenses. Dumping in Norwalk Harbor.",
           "url": "https://www.cga.ct.gov/current/pub/chap_263.htm#secs_15-18_to_15-24",
+          "grouped": true,
+          "section_keys": [
+            "15-18",
+            "15-19",
+            "15-20",
+            "15-21",
+            "15-22",
+            "15-23",
+            "15-24"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 15-18 to 15-24 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4762–4768; 1959, P.A. 28, S. 51, 204; 1961, P.A. 417; 1969, P.A. 768, S. 157, 158; 1972, P.A. 124; P.A. 75-218, S. 1, 2.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 15-18 to 15-24 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -578,7 +634,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-26 is repealed, effective October 1, 1999."
+            "text": "Section 15-26 is repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -615,7 +675,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-5 and 15-6. New Haven Harbor: Jurisdiction in; removal of vessels from channel, penalty. Sections 15-5 and 15-6 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -630,7 +693,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-5 and 15-6. New Haven Harbor: Jurisdiction in; removal of vessels from channel, penalty. Sections 15-5 and 15-6 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -645,7 +711,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-13a and 15-13b. Validity of previously issued pilot's license; transfer of records. Licenses issued prior to January 1, 1972. Sections 15-13a and 15-13b are repealed, effective October 1, 2002 .",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -660,7 +729,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-13a and 15-13b. Validity of previously issued pilot's license; transfer of records. Licenses issued prior to January 1, 1972. Sections 15-13a and 15-13b are repealed, effective October 1, 2002 .",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -675,7 +747,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-18 to 15-24. Throwing refuse into harbor. Obstructions in New Haven Harbor restricted. Appeal from commissioner. Dumping in harbors. Jurisdiction of offenses. Dumping in Norwalk Harbor. Sections 15-18 to 15-24 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -690,7 +765,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-18 to 15-24. Throwing refuse into harbor. Obstructions in New Haven Harbor restricted. Appeal from commissioner. Dumping in harbors. Jurisdiction of offenses. Dumping in Norwalk Harbor. Sections 15-18 to 15-24 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -705,12 +783,25 @@
           "section_key": "",
           "label": "Secs. 15-27 to 15-30a. Commissioners. Office. Powers and duties. Sale of land by commissioner. Disposition of proceeds. Docking facilities in Stonington.",
           "url": "https://www.cga.ct.gov/current/pub/chap_264.htm#secs_15-27_to_15-30a",
+          "grouped": true,
+          "section_keys": [
+            "15-27",
+            "15-30a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 15-27 to 15-30a , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4775–4778; 1953, S. 2407d; 1959, P.A. 44; 570, S. 1; 1963, P.A. 634, S. 1–3; February, 1965, P.A. 616, S. 1, 2; 1967, P.A. 330, S. 2; 1969, P.A. 768, S. 263.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 15-27 to 15-30a , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -724,7 +815,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 263, Sec. 15-11a ."
+            "text": "Transferred to Chapter 263, Sec. 15-11a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -739,7 +834,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-27 to 15-30a. Commissioners. Office. Powers and duties. Sale of land by commissioner. Disposition of proceeds. Docking facilities in Stonington. Sections 15-27 to 15-30a , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -754,7 +852,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-27 to 15-30a. Commissioners. Office. Powers and duties. Sale of land by commissioner. Disposition of proceeds. Docking facilities in Stonington. Sections 15-27 to 15-30a , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -1040,7 +1141,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1225,12 +1330,27 @@
           "section_key": "",
           "label": "Secs. 15-35 to 15-38. Commission and Department of Aeronautics. Director and deputy director of aeronautics. Oath. Police authority of commissioner and inspectors.",
           "url": "https://www.cga.ct.gov/current/pub/chap_266.htm#secs_15-35_to_15-38",
+          "grouped": true,
+          "section_keys": [
+            "15-35",
+            "15-36",
+            "15-37",
+            "15-38"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 15-35 to 15-38 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4783, 4784, 4793, 4794; June, 1955, S. 2408d; 1959, P.A. 307; 1961, P.A. 12; 298; 1969, P.A. 768, S. 167, 263; P.A. 77-614, S. 552, 610; P.A. 85-327, S. 2.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 15-35 to 15-38 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1264,7 +1384,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-40 is repealed."
+            "text": "Section 15-40 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1298,12 +1422,28 @@
           "section_key": "",
           "label": "Secs. 15-42 to 15-42d. State airways system. Long-range planning. Declaration of policy. Research into future state aviation facility needs. Advisory committee. Receipt of federal and private funds. Consultative services.",
           "url": "https://www.cga.ct.gov/current/pub/chap_266.htm#secs_15-42_to_15-42d",
+          "grouped": true,
+          "section_keys": [
+            "15-42",
+            "15-42a",
+            "15-42b",
+            "15-42c",
+            "15-42d"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 15-42 to 15-42d , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4787; 1967, P.A. 502, S. 1–4; 1969, P.A. 768, S. 263.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 15-42 to 15-42d , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1374,12 +1514,29 @@
           "section_key": "",
           "label": "Secs. 15-46 to 15-51. No exclusive rights to be granted. Federal aid; contracts by commissioner as agent of the state or a municipality. Authority of commission over state airports. Regulation of motor vehicles on state airports. Agreements for fire protection. Regulation of aircraft, airmen, airports and air instruction; licenses and registrations; fees.",
           "url": "https://www.cga.ct.gov/current/pub/chap_266.htm#secs_15-46_to_15-51",
+          "grouped": true,
+          "section_keys": [
+            "15-46",
+            "15-47",
+            "15-48",
+            "15-49",
+            "15-50",
+            "15-51"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 15-46 to 15-51 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4791, 4792, 4796, 4817; 1949, S. 2410d, 2433d, 2434d; 1957, P.A. 498; September, 1957, P.A. 8; 1959, P.A. 391, S. 1; 569, S. 1; 1961, P.A. 34; 55; 1963, P.A. 237; 426; 1969, P.A. 421, S. 1; 460, S. 1; 768, S. 173, 263; 1972, P.A. 207, S. 11; June, 1972, P.A. 1, S. 8.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 15-46 to 15-51 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1413,7 +1570,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-53 is repealed."
+            "text": "Section 15-53 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1438,12 +1599,28 @@
           "section_key": "",
           "label": "Secs. 15-55 to 15-59. Concealment of revocation. Registration or license voided by fraud. Notice of change of address or change in aircraft. Operation unlawful without license or certificate. Exceptions to registration requirements.",
           "url": "https://www.cga.ct.gov/current/pub/chap_266.htm#secs_15-55_to_15-59",
+          "grouped": true,
+          "section_keys": [
+            "15-55",
+            "15-56",
+            "15-57",
+            "15-58",
+            "15-59"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 15-55 to 15-59 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4799–4803; 1959, P.A. 326; February, 1965, P.A. 288, S. 1, 2; 1969, P.A. 768, S. 175–178; 1971, P.A. 451, S. 1; 1972, P.A. 207, S. 11; June, 1972, P.A. 1, S. 8.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 15-55 to 15-59 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1468,12 +1645,28 @@
           "section_key": "",
           "label": "Secs. 15-61 to 15-65. Approval of airports and other air navigation facilities. Certificates of approval and licenses: Hearings, standards, revocation. Federal government facilities exempt.",
           "url": "https://www.cga.ct.gov/current/pub/chap_266.htm#secs_15-61_to_15-65",
+          "grouped": true,
+          "section_keys": [
+            "15-61",
+            "15-62",
+            "15-63",
+            "15-64",
+            "15-65"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 15-61 to 15-65 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4805–4809; 1959, P.A. 292; 1961, P.A. 32; 1969, P.A. 768, S. 263.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 15-61 to 15-65 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1530,7 +1723,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-68 is repealed."
+            "text": "Section 15-68 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1579,12 +1776,25 @@
           "section_key": "",
           "label": "Secs. 15-70 and 15-71. Coroner to investigate fatal accidents. Accidents to be reported.",
           "url": "https://www.cga.ct.gov/current/pub/chap_266.htm#secs_15-70_and_15-71",
+          "grouped": true,
+          "section_keys": [
+            "15-70",
+            "15-71"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 15-70 and 15-71 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4814, 4820; 1959, P.A. 481, S. 2; 1969, P.A. 768, S. 182; P.A. 80-190, S. 14.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 15-70 and 15-71 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1856,12 +2066,25 @@
           "section_key": "",
           "label": "Secs. 15-78 and 15-79. Receipts from convictions; deposit in General Fund. Municipal and state airports; establishment; state plan of development.",
           "url": "https://www.cga.ct.gov/current/pub/chap_266.htm#secs_15-78_and_15-79",
+          "grouped": true,
+          "section_keys": [
+            "15-78",
+            "15-79"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 15-78 and 15-79 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4823, 4824; 1955, S. 2412d; 1959, P.A. 290; 1961, P.A. 517, S. 132; 1963, P.A. 252, S. 1; 1967, P.A. 694, S. 1; 1969, P.A. 768, S. 263.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 15-78 and 15-79 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1890,12 +2113,29 @@
           "section_key": "",
           "label": "Secs. 15-81 to 15-86. Federal and other aid. Commission may act as agent of municipality for acceptance of federal aid. Contracts by municipality. Municipalities may lease airports. Financial assistance to municipal airports. Technical services to municipalities.",
           "url": "https://www.cga.ct.gov/current/pub/chap_266.htm#secs_15-81_to_15-86",
+          "grouped": true,
+          "section_keys": [
+            "15-81",
+            "15-82",
+            "15-83",
+            "15-84",
+            "15-85",
+            "15-86"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 15-81 to 15-86 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4825–4828; 1955, S. 2423d; June, 1955, S. 2424d, 2425d; 1957, P.A. 13, S. 93; 138; 1967, P.A. 377, S. 1; 1969, P.A. 768, S. 263.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 15-81 to 15-86 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2203,7 +2443,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-99 is repealed."
+            "text": "Section 15-99 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2235,7 +2479,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 266a, Sec. 15-101p ."
+            "text": "Transferred to Chapter 266a, Sec. 15-101p .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -2258,12 +2506,30 @@
           "section_key": "",
           "label": "Secs. 15-101b to 15-101j.",
           "url": "https://www.cga.ct.gov/current/pub/chap_266.htm#secs_15-101b_to_15-101j",
+          "grouped": true,
+          "section_keys": [
+            "15-101b",
+            "15-101c",
+            "15-101d",
+            "15-101e",
+            "15-101f",
+            "15-101g",
+            "15-101h",
+            "15-101i",
+            "15-101j"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2278,7 +2544,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-35 to 15-38. Commission and Department of Aeronautics. Director and deputy director of aeronautics. Oath. Police authority of commissioner and inspectors. Sections 15-35 to 15-38 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2293,7 +2562,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-35 to 15-38. Commission and Department of Aeronautics. Director and deputy director of aeronautics. Oath. Police authority of commissioner and inspectors. Sections 15-35 to 15-38 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2308,7 +2580,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-42 to 15-42d. State airways system. Long-range planning. Declaration of policy. Research into future state aviation facility needs. Advisory committee. Receipt of federal and private funds. Consultative services. Sections 15-42 to 15-42d , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2323,7 +2598,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-42 to 15-42d. State airways system. Long-range planning. Declaration of policy. Research into future state aviation facility needs. Advisory committee. Receipt of federal and private funds. Consultative services. Sections 15-42 to 15-42d , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2368,7 +2646,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-55 to 15-59. Concealment of revocation. Registration or license voided by fraud. Notice of change of address or change in aircraft. Operation unlawful without license or certificate. Exceptions to registration requirements. Sections 15-55 to 15-59 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2383,7 +2664,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-55 to 15-59. Concealment of revocation. Registration or license voided by fraud. Notice of change of address or change in aircraft. Operation unlawful without license or certificate. Exceptions to registration requirements. Sections 15-55 to 15-59 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2398,7 +2682,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-61 to 15-65. Approval of airports and other air navigation facilities. Certificates of approval and licenses: Hearings, standards, revocation. Federal government facilities exempt. Sections 15-61 to 15-65 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2413,7 +2700,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-61 to 15-65. Approval of airports and other air navigation facilities. Certificates of approval and licenses: Hearings, standards, revocation. Federal government facilities exempt. Sections 15-61 to 15-65 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2428,7 +2718,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-70 and 15-71. Coroner to investigate fatal accidents. Accidents to be reported. Sections 15-70 and 15-71 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2443,7 +2736,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-70 and 15-71. Coroner to investigate fatal accidents. Accidents to be reported. Sections 15-70 and 15-71 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2458,7 +2754,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-78 and 15-79. Receipts from convictions; deposit in General Fund. Municipal and state airports; establishment; state plan of development. Sections 15-78 and 15-79 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2473,7 +2772,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-78 and 15-79. Receipts from convictions; deposit in General Fund. Municipal and state airports; establishment; state plan of development. Sections 15-78 and 15-79 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2488,7 +2790,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-81 to 15-86. Federal and other aid. Commission may act as agent of municipality for acceptance of federal aid. Contracts by municipality. Municipalities may lease airports. Financial assistance to municipal airports. Technical services to municipalities. Sections 15-81 to 15-86 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2503,7 +2808,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-81 to 15-86. Federal and other aid. Commission may act as agent of municipality for acceptance of federal aid. Contracts by municipality. Municipalities may lease airports. Financial assistance to municipal airports. Technical services to municipalities. Sections 15-81 to 15-86 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -2657,19 +2965,36 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 266c, Sec. 15-101xx ."
+            "text": "Transferred to Chapter 266c, Sec. 15-101xx .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 15-101r and 15-101s. Airport commission established; appointment of members; compensation and expenses; quorum; financial interest in airport prohibited. Powers and duties of commission; responsibilities of Commissioner of Transportation.",
           "url": "https://www.cga.ct.gov/current/pub/chap_266a.htm#secs_15-101r_and_15-101s",
+          "grouped": true,
+          "section_keys": [
+            "15-101r",
+            "15-101s"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 15-101r and 15-101s are repealed, effective July 2, 2001."
+            ],
+            "source": [
+              "(P.A. 82-316, S. 1, 2, 6; P.A. 91-405, S. 5; June Sp. Sess. P.A. 01-5, S. 17, 18.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 15-101r and 15-101s are repealed, effective July 2, 2001.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2685,19 +3010,38 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-101t is repealed, effective July 1, 2023."
+            "text": "Section 15-101t is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 15-101u to 15-101z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_266a.htm#secs_15-101u_to_15-101z",
+          "grouped": true,
+          "section_keys": [
+            "15-101u",
+            "15-101v",
+            "15-101w",
+            "15-101x",
+            "15-101y",
+            "15-101z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2712,7 +3056,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-101r and 15-101s. Airport commission established; appointment of members; compensation and expenses; quorum; financial interest in airport prohibited. Powers and duties of commission; responsibilities of Commissioner of Transportation. Sections 15-101r and 15-101s are repealed, effective July 2, 2001.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2727,7 +3074,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-101r and 15-101s. Airport commission established; appointment of members; compensation and expenses; quorum; financial interest in airport prohibited. Powers and duties of commission; responsibilities of Commissioner of Transportation. Sections 15-101r and 15-101s are repealed, effective July 2, 2001.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -2846,12 +3196,28 @@
           "section_key": "",
           "label": "Secs. 15-101ff to 15-101 ll .",
           "url": "https://www.cga.ct.gov/current/pub/chap_266b.htm#secs_15-101ff_to_15-101ll",
+          "grouped": true,
+          "section_keys": [
+            "15-101ff",
+            "15-101gg",
+            "15-101hh",
+            "15-101ii",
+            "15-101jj",
+            "15-101kk",
+            "15-101ll"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -2866,12 +3232,26 @@
           "section_key": "",
           "label": "Secs. 15-101mm to 15-101oo. Bradley Board of Directors: Established. Bradley Board of Directors: Duties. Board within the Department of Transportation for administrative purposes.",
           "url": "https://www.cga.ct.gov/current/pub/chap_266c.htm#secs_15-101mm_to_15-101oo",
+          "grouped": true,
+          "section_keys": [
+            "15-101mm",
+            "15-101nn",
+            "15-101oo"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 15-101mm to 15-101oo , inclusive, are repealed, effective July 1, 2011."
+            ],
+            "source": [
+              "(June Sp. Sess. P.A. 01-5, S. 8–10, 18; P.A. 11-61, S. 26, 27; 11-84, S. 25.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 15-101mm to 15-101oo , inclusive, are repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2887,19 +3267,37 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-101pp is repealed, effective July 1, 2023 ."
+            "text": "Section 15-101pp is repealed, effective July 1, 2023 .",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 15-101qq to 15-101uu.",
           "url": "https://www.cga.ct.gov/current/pub/chap_266c.htm#secs_15-101qq_to_15-101uu",
+          "grouped": true,
+          "section_keys": [
+            "15-101qq",
+            "15-101rr",
+            "15-101ss",
+            "15-101tt",
+            "15-101uu"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2966,7 +3364,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-101mm to 15-101oo. Bradley Board of Directors: Established. Bradley Board of Directors: Duties. Board within the Department of Transportation for administrative purposes. Sections 15-101mm to 15-101oo , inclusive, are repealed, effective July 1, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2981,7 +3382,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-101mm to 15-101oo. Bradley Board of Directors: Established. Bradley Board of Directors: Duties. Board within the Department of Transportation for administrative purposes. Sections 15-101mm to 15-101oo , inclusive, are repealed, effective July 1, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3220,12 +3624,25 @@
           "section_key": "",
           "label": "Secs. 15-113 and 15-114. Transfer of registration under suspension. Surrender of registration certificate during suspension.",
           "url": "https://www.cga.ct.gov/current/pub/chap_267.htm#secs_15-113_and_15-114",
+          "grouped": true,
+          "section_keys": [
+            "15-113",
+            "15-114"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 15-113 and 15-114 are repealed."
+            ],
+            "source": [
+              "(1959, P.A. 488, S. 12, 13; 1969, P.A. 768, S. 204, 205; 1972, P.A. 108, S. 2; 207, S. 11; June, 1972, P.A. 1, S. 8.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 15-113 and 15-114 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3276,7 +3693,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-117 is repealed, effective October 1, 2002."
+            "text": "Section 15-117 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3331,12 +3752,27 @@
           "section_key": "",
           "label": "Secs. 15-120a to 15-120f.",
           "url": "https://www.cga.ct.gov/current/pub/chap_267.htm#secs_15-120a_to_15-120f",
+          "grouped": true,
+          "section_keys": [
+            "15-120a",
+            "15-120b",
+            "15-120c",
+            "15-120d",
+            "15-120e",
+            "15-120f"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3351,7 +3787,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-113 and 15-114. Transfer of registration under suspension. Surrender of registration certificate during suspension. Sections 15-113 and 15-114 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3366,7 +3805,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-113 and 15-114. Transfer of registration under suspension. Surrender of registration certificate during suspension. Sections 15-113 and 15-114 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3579,12 +4021,32 @@
           "section_key": "",
           "label": "Secs. 15-120p to 15-120z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_267a.htm#secs_15-120p_to_15-120z",
+          "grouped": true,
+          "section_keys": [
+            "15-120p",
+            "15-120q",
+            "15-120r",
+            "15-120s",
+            "15-120t",
+            "15-120u",
+            "15-120v",
+            "15-120w",
+            "15-120x",
+            "15-120y",
+            "15-120z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -3973,7 +4435,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-120pp is repealed, effective July 2, 2015."
+            "text": "Section 15-120pp is repealed, effective July 2, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4090,12 +4556,25 @@
           "section_key": "",
           "label": "Secs. 15-122 and 15-123. Appointment and organization of commission. Director; employees.",
           "url": "https://www.cga.ct.gov/current/pub/chap_268.htm#secs_15-122_and_15-123",
+          "grouped": true,
+          "section_keys": [
+            "15-122",
+            "15-123"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 15-122 and 15-123 are repealed."
+            ],
+            "source": [
+              "(1961, P.A. 506, S. 3, 4; 520, S. 3. 4; 1971, P.A. 872, S. 152.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 15-122 and 15-123 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4183,7 +4662,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-128 is repealed."
+            "text": "Section 15-128 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4402,7 +4885,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-133b is repealed."
+            "text": "Section 15-133b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4522,7 +5009,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-137 is repealed."
+            "text": "Section 15-137 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4779,7 +5270,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-140i is repealed."
+            "text": "Section 15-140i is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5051,7 +5546,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-140v is repealed, effective June 11, 2014.\n\n*Cited. 198 C. 168.\n\nCited. 12 CA 417."
+            "text": "Section 15-140v is repealed, effective June 11, 2014.\n\n*Cited. 198 C. 168.\n\nCited. 12 CA 417.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5346,7 +5845,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-144a is repealed."
+            "text": "Section 15-144a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5480,7 +5983,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-149 is repealed."
+            "text": "Section 15-149 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5712,19 +6219,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-155 is repealed, effective May 4, 2011."
+            "text": "Section 15-155 is repealed, effective May 4, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 15-155a and 15-155b. Annual report of receipts from vessel registration fees and payments therefrom. State distribution of revenue from fees for vessel registration.",
           "url": "https://www.cga.ct.gov/current/pub/chap_268.htm#secs_15-155a_and_15-155b",
+          "grouped": true,
+          "section_keys": [
+            "15-155a",
+            "15-155b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 15-155a and 15-155b are repealed, effective October 1, 2009."
+            ],
+            "source": [
+              "(P.A. 81-423, S. 19, 20, 25; P.A. 82-436, S. 6, 11; P.A. 83-266, S. 2, 4; P.A. 94-65, S. 3, 4; June Sp. Sess. P.A. 09-3, S. 513.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 15-155a and 15-155b are repealed, effective October 1, 2009.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5740,19 +6264,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 15-155c is repealed."
+            "text": "Section 15-155c is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 15-155d and 15-155e. Annual report re boating account. State distribution of revenue from fees for vessel registration.",
           "url": "https://www.cga.ct.gov/current/pub/chap_268.htm#secs_15-155d_and_15-155e",
+          "grouped": true,
+          "section_keys": [
+            "15-155d",
+            "15-155e"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 15-155d and 15-155e are repealed, effective May 4, 2011."
+            ],
+            "source": [
+              "(Sept. Sp. Sess. P.A. 09-8, S. 37, 38; P.A. 11-6, S. 165; 11-80, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 15-155d and 15-155e are repealed, effective May 4, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5801,12 +6342,33 @@
           "section_key": "",
           "label": "Secs. 15-158 to 15-169.",
           "url": "https://www.cga.ct.gov/current/pub/chap_268.htm#secs_15-158_to_15-169",
+          "grouped": true,
+          "section_keys": [
+            "15-158",
+            "15-159",
+            "15-160",
+            "15-161",
+            "15-162",
+            "15-163",
+            "15-164",
+            "15-165",
+            "15-166",
+            "15-167",
+            "15-168",
+            "15-169"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5939,12 +6501,24 @@
           "section_key": "",
           "label": "Secs. 15-177 to 15-179.",
           "url": "https://www.cga.ct.gov/current/pub/chap_268.htm#secs_15-177_to_15-179",
+          "grouped": true,
+          "section_keys": [
+            "15-177",
+            "15-178",
+            "15-179"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5971,12 +6545,41 @@
           "section_key": "",
           "label": "Secs. 15-181 to 15-200.",
           "url": "https://www.cga.ct.gov/current/pub/chap_268.htm#secs_15-181_to_15-200",
+          "grouped": true,
+          "section_keys": [
+            "15-181",
+            "15-182",
+            "15-183",
+            "15-184",
+            "15-185",
+            "15-186",
+            "15-187",
+            "15-188",
+            "15-189",
+            "15-190",
+            "15-191",
+            "15-192",
+            "15-193",
+            "15-194",
+            "15-195",
+            "15-196",
+            "15-197",
+            "15-198",
+            "15-199",
+            "15-200"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5991,7 +6594,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-122 and 15-123. Appointment and organization of commission. Director; employees. Sections 15-122 and 15-123 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6006,7 +6612,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-122 and 15-123. Appointment and organization of commission. Director; employees. Sections 15-122 and 15-123 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6021,7 +6630,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-155a and 15-155b. Annual report of receipts from vessel registration fees and payments therefrom. State distribution of revenue from fees for vessel registration. Sections 15-155a and 15-155b are repealed, effective October 1, 2009.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6036,7 +6648,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-155a and 15-155b. Annual report of receipts from vessel registration fees and payments therefrom. State distribution of revenue from fees for vessel registration. Sections 15-155a and 15-155b are repealed, effective October 1, 2009.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6051,7 +6666,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-155d and 15-155e. Annual report re boating account. State distribution of revenue from fees for vessel registration. Sections 15-155d and 15-155e are repealed, effective May 4, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6066,7 +6684,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 15-155d and 15-155e. Annual report re boating account. State distribution of revenue from fees for vessel registration. Sections 15-155d and 15-155e are repealed, effective May 4, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]

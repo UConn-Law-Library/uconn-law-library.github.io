@@ -319,7 +319,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-9d is repealed."
+            "text": "Section 7-9d is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -359,7 +363,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-11 is repealed."
+            "text": "Section 7-11 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -481,7 +489,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-15 is repealed."
+            "text": "Section 7-15 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -505,7 +517,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-16 is repealed."
+            "text": "Section 7-16 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -557,7 +573,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-18 is repealed, effective October 1, 2002."
+            "text": "Section 7-18 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -977,12 +997,31 @@
           "section_key": "",
           "label": "Secs. 7-32a to 7-32j.",
           "url": "https://www.cga.ct.gov/current/pub/chap_092.htm#secs_7-32a_to_7-32j",
+          "grouped": true,
+          "section_keys": [
+            "7-32a",
+            "7-32b",
+            "7-32c",
+            "7-32d",
+            "7-32e",
+            "7-32f",
+            "7-32g",
+            "7-32h",
+            "7-32i",
+            "7-32j"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1053,7 +1092,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-34 is repealed."
+            "text": "Section 7-34 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1149,12 +1192,46 @@
           "section_key": "",
           "label": "Secs. 7-35b to 7-35z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_092.htm#secs_7-35b_to_7-35z",
+          "grouped": true,
+          "section_keys": [
+            "7-35b",
+            "7-35c",
+            "7-35d",
+            "7-35e",
+            "7-35f",
+            "7-35g",
+            "7-35h",
+            "7-35i",
+            "7-35j",
+            "7-35k",
+            "7-35l",
+            "7-35m",
+            "7-35n",
+            "7-35o",
+            "7-35p",
+            "7-35q",
+            "7-35r",
+            "7-35s",
+            "7-35t",
+            "7-35u",
+            "7-35v",
+            "7-35w",
+            "7-35x",
+            "7-35y",
+            "7-35z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -1443,7 +1520,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-39a is repealed."
+            "text": "Section 7-39a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1498,7 +1579,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-41a is repealed, effective October 1, 2001."
+            "text": "Section 7-41a is repealed, effective October 1, 2001.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1549,7 +1634,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-43 is repealed."
+            "text": "Section 7-43 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1644,7 +1733,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-47a is repealed, effective October 1, 2001."
+            "text": "Section 7-47a is repealed, effective October 1, 2001.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1869,7 +1962,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-53a is repealed, effective July 1, 2021."
+            "text": "Section 7-53a is repealed, effective July 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1927,7 +2024,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-56 is repealed, effective October 1, 2001."
+            "text": "Section 7-56 is repealed, effective October 1, 2001.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2042,7 +2143,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-62 is repealed."
+            "text": "Section 7-62 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2119,7 +2224,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-63 is repealed, effective July 1, 2018."
+            "text": "Section 7-63 is repealed, effective July 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2247,7 +2356,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-68 is repealed, effective October 1, 2009."
+            "text": "Section 7-68 is repealed, effective October 1, 2009.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2307,7 +2420,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-70 is repealed, effective October 1, 2004."
+            "text": "Section 7-70 is repealed, effective October 1, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2339,7 +2456,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-72 is repealed, effective October 1, 2009."
+            "text": "Section 7-72 is repealed, effective October 1, 2009.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2397,7 +2518,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-75 is repealed."
+            "text": "Section 7-75 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2422,12 +2547,25 @@
           "section_key": "",
           "label": "Secs. 7-77 and 7-78. Identification of veterans' graves. General penalty.",
           "url": "https://www.cga.ct.gov/current/pub/chap_093.htm#secs_7-77_and_7-78",
+          "grouped": true,
+          "section_keys": [
+            "7-77",
+            "7-78"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-77 and 7-78 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 585, 598; 1957, P.A. 163, S. 10; P.A. 82-306, S. 2; 82-327, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-77 and 7-78 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2442,7 +2580,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-77 and 7-78. Identification of veterans' graves. General penalty. Sections 7-77 and 7-78 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2457,7 +2598,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-77 and 7-78. Identification of veterans' graves. General penalty. Sections 7-77 and 7-78 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -2481,7 +2625,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-79 is repealed."
+            "text": "Section 7-79 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2539,7 +2687,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-82 is repealed."
+            "text": "Section 7-82 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2616,7 +2768,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-86 is repealed."
+            "text": "Section 7-86 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2712,7 +2868,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-91 is repealed."
+            "text": "Section 7-91 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2746,12 +2906,27 @@
           "section_key": "",
           "label": "Secs. 7-93 to 7-96. Special constables for manufacturing and retail establishments and parking areas and for certain societies. School janitors and janitors of public buildings as special constables.",
           "url": "https://www.cga.ct.gov/current/pub/chap_095.htm#secs_7-93_to_7-96",
+          "grouped": true,
+          "section_keys": [
+            "7-93",
+            "7-94",
+            "7-95",
+            "7-96"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-93 to 7-96 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 540–543; February, 1965, P.A. 432; P.A. 82-327, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-93 to 7-96 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2782,7 +2957,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-93 to 7-96. Special constables for manufacturing and retail establishments and parking areas and for certain societies. School janitors and janitors of public buildings as special constables. Sections 7-93 to 7-96 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2797,7 +2975,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-93 to 7-96. Special constables for manufacturing and retail establishments and parking areas and for certain societies. School janitors and janitors of public buildings as special constables. Sections 7-93 to 7-96 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -2897,12 +3078,31 @@
           "section_key": "",
           "label": "Secs. 7-100a to 7-100j.",
           "url": "https://www.cga.ct.gov/current/pub/chap_096.htm#secs_7-100a_to_7-100j",
+          "grouped": true,
+          "section_keys": [
+            "7-100a",
+            "7-100b",
+            "7-100c",
+            "7-100d",
+            "7-100e",
+            "7-100f",
+            "7-100g",
+            "7-100h",
+            "7-100i",
+            "7-100j"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -2959,12 +3159,35 @@
           "section_key": "",
           "label": "Secs. 7-100m to 7-100z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_096a.htm#secs_7-100m_to_7-100z",
+          "grouped": true,
+          "section_keys": [
+            "7-100m",
+            "7-100n",
+            "7-100o",
+            "7-100p",
+            "7-100q",
+            "7-100r",
+            "7-100s",
+            "7-100t",
+            "7-100u",
+            "7-100v",
+            "7-100w",
+            "7-100x",
+            "7-100y",
+            "7-100z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -3081,7 +3304,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-104 is repealed, effective October 1, 2002."
+            "text": "Section 7-104 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3136,7 +3363,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-106 is repealed."
+            "text": "Section 7-106 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3260,7 +3491,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-111 is repealed."
+            "text": "Section 7-111 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3313,7 +3548,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-114 is repealed."
+            "text": "Section 7-114 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3347,12 +3586,26 @@
           "section_key": "",
           "label": "Secs. 7-116 to 7-118. Street and curb lines. Sidewalks. Construction, maintenance and use of sidewalks.",
           "url": "https://www.cga.ct.gov/current/pub/chap_097.htm#secs_7-116_to_7-118",
+          "grouped": true,
+          "section_keys": [
+            "7-116",
+            "7-117",
+            "7-118"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-116 to 7-118 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 630–632; 1957, P.A. 13, S. 11; 1959, P.A. 67; P.A. 82-327, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-116 to 7-118 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3378,12 +3631,25 @@
           "section_key": "",
           "label": "Secs. 7-119 and 7-120. Hearing; appeal. Assignment of street numbers.",
           "url": "https://www.cga.ct.gov/current/pub/chap_097.htm#secs_7-119_and_7-120",
+          "grouped": true,
+          "section_keys": [
+            "7-119",
+            "7-120"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-119 and 7-120 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 633; 1953, S. 279d; P.A. 76-436, S. 255, 681; P.A. 78-280, S. 1, 127; P.A. 82-327, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-119 and 7-120 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3522,12 +3788,27 @@
           "section_key": "",
           "label": "Secs. 7-121g to 7-121 l .",
           "url": "https://www.cga.ct.gov/current/pub/chap_097.htm#secs_7-121g_to_7-121l",
+          "grouped": true,
+          "section_keys": [
+            "7-121g",
+            "7-121h",
+            "7-121i",
+            "7-121j",
+            "7-121k",
+            "7-121l"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3640,12 +3921,26 @@
           "section_key": "",
           "label": "Secs. 7-123 to 7-125. Appropriations for: Military organizations, hospitals, health care facilities and public health nursing organizations; insect and plant disease control; Memorial Day and Old Home Week.",
           "url": "https://www.cga.ct.gov/current/pub/chap_097.htm#secs_7-123_to_7-125",
+          "grouped": true,
+          "section_keys": [
+            "7-123",
+            "7-124",
+            "7-125"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-123 to 7-125 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 639, 650, 651; 1957, P.A. 13, S. 17; 1971, P.A. 56; P.A. 76-92; 76-435, S. 67, 82; P.A. 82-327, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-123 to 7-125 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3668,12 +3963,26 @@
           "section_key": "",
           "label": "Secs. 7-125b to 7-125d. Appropriations for assistance to nonprofit museums. Cultural commissions. Appropriations for drug abuse and dependency programs.",
           "url": "https://www.cga.ct.gov/current/pub/chap_097.htm#secs_7-125b_to_7-125d",
+          "grouped": true,
+          "section_keys": [
+            "7-125b",
+            "7-125c",
+            "7-125d"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-125b to 7-125d , inclusive, are repealed."
+            ],
+            "source": [
+              "(1967, P.A. 105; 1971, P.A. 202, S. 1; 329; P.A. 82-327, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-125b to 7-125d , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3698,12 +4007,25 @@
           "section_key": "",
           "label": "Secs. 7-127 and 7-127a. Municipal advisory welfare boards. Committees on needs of the aging.",
           "url": "https://www.cga.ct.gov/current/pub/chap_097.htm#secs_7-127_and_7-127a",
+          "grouped": true,
+          "section_keys": [
+            "7-127",
+            "7-127a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-127 and 7-127a are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 641; 1963, P.A. 540; P.A. 82-327, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-127 and 7-127a are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3868,12 +4190,25 @@
           "section_key": "",
           "label": "Secs. 7-128 and 7-129. Public squares and parks. Gifts for parks.",
           "url": "https://www.cga.ct.gov/current/pub/chap_097.htm#secs_7-128_and_7-129",
+          "grouped": true,
+          "section_keys": [
+            "7-128",
+            "7-129"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-128 and 7-129 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 644, 645; 1957, P.A. 13, S. 14; P.A. 82-327, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-128 and 7-129 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3912,7 +4247,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-130 is repealed."
+            "text": "Section 7-130 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4168,7 +4507,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-130n is repealed."
+            "text": "Section 7-130n is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4409,7 +4752,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-131c is repealed, effective July 1, 1998."
+            "text": "Section 7-131c is repealed, effective July 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4809,12 +5156,25 @@
           "section_key": "",
           "label": "Secs. 7-132 and 7-133. Bounty: On bobcat or lynx; on snakes and wild animals.",
           "url": "https://www.cga.ct.gov/current/pub/chap_097.htm#secs_7-132_and_7-133",
+          "grouped": true,
+          "section_keys": [
+            "7-132",
+            "7-133"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-132 and 7-133 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 648, 649; 1957, P.A. 13, S. 16; 1971, P.A. 7, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-132 and 7-133 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4897,7 +5257,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-135b is repealed."
+            "text": "Section 7-135b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4930,12 +5294,26 @@
           "section_key": "",
           "label": "Secs. 7-136a to 7-136c. Convention and visitors commissions established by municipalities or municipal districts. Municipalities or municipal districts having coliseum authority or convention and visitors commission to receive a portion of certain state taxes; alternatives. Permitted use of state tax receipts retained by municipalities.",
           "url": "https://www.cga.ct.gov/current/pub/chap_097.htm#secs_7-136a_to_7-136c",
+          "grouped": true,
+          "section_keys": [
+            "7-136a",
+            "7-136b",
+            "7-136c"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-136a to 7-136c , inclusive, are repealed, effective July 1, 1993."
+            ],
+            "source": [
+              "(P.A. 74-337, S. 1–4; P.A. 77-614, S. 139, 610; P.A. 78-376, S. 2, 3, 6; 78-303, S. 85, 136; P.A. 79-477, S. 1, 2; P.A. 81-417, S. 1–3; P.A. 82-319, S. 1–3; P.A. 87-463, S. 3, 4; P.A. 92-184, S. 18, 19.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-136a to 7-136c , inclusive, are repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5065,12 +5443,24 @@
           "section_key": "",
           "label": "Secs. 7-136k to 7-136m.",
           "url": "https://www.cga.ct.gov/current/pub/chap_097.htm#secs_7-136k_to_7-136m",
+          "grouped": true,
+          "section_keys": [
+            "7-136k",
+            "7-136l",
+            "7-136m"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5227,7 +5617,11 @@
               "History: 1967 act repealed section with proviso that industrial parks established prior to July 6, 1967 continued to be eligible for funds; 1971 act substituted Connecticut development commission for commissioner of community affairs; P.A. 73-599 substituted department of commerce for Connecticut development commission; P.A. 77-614 substituted department of economic development for department of commerce and by virtue of Sec. 587 of the act and provisions of P.A. 78-303 change was made to commissioner of economic development, effective January 1, 1979; P.A. 95-250 and P.A. 96-211 replaced Commissioner and Department of Economic Development with Commissioner and Department of Economic and Community Development."
             ],
             "annotations": [],
-            "text": "Section 7-137b is repealed; provided, that in any case where any municipality, on or before July 6, 1967, had established an industrial park under said section 7-137b , or had otherwise taken substantial action under said section, then such municipality, the state and any other interested person shall continue to be subject to said section and be eligible for state financial assistance thereunder but only insofar as said section relates to those industrial parks that have been planned or commenced thereunder and such municipality, the state or such other interested person may make application to the Commissioner of Economic and Community Development for, and the Commissioner of Economic and Community Development may make grants for the purposes of such industrial park from the funds available for the purposes of chapter 133, but subject to the provisions of section 8-154f ."
+            "text": "Section 7-137b is repealed; provided, that in any case where any municipality, on or before July 6, 1967, had established an industrial park under said section 7-137b , or had otherwise taken substantial action under said section, then such municipality, the state and any other interested person shall continue to be subject to said section and be eligible for state financial assistance thereunder but only insofar as said section relates to those industrial parks that have been planned or commenced thereunder and such municipality, the state or such other interested person may make application to the Commissioner of Economic and Community Development for, and the Commissioner of Economic and Community Development may make grants for the purposes of such industrial park from the funds available for the purposes of chapter 133, but subject to the provisions of section 8-154f .",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5480,7 +5874,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-116 to 7-118. Street and curb lines. Sidewalks. Construction, maintenance and use of sidewalks. Sections 7-116 to 7-118 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5495,7 +5892,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-116 to 7-118. Street and curb lines. Sidewalks. Construction, maintenance and use of sidewalks. Sections 7-116 to 7-118 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5510,7 +5910,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-119 and 7-120. Hearing; appeal. Assignment of street numbers. Sections 7-119 and 7-120 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5525,7 +5928,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-119 and 7-120. Hearing; appeal. Assignment of street numbers. Sections 7-119 and 7-120 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5540,7 +5946,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-123 to 7-125. Appropriations for: Military organizations, hospitals, health care facilities and public health nursing organizations; insect and plant disease control; Memorial Day and Old Home Week. Sections 7-123 to 7-125 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5555,7 +5964,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-123 to 7-125. Appropriations for: Military organizations, hospitals, health care facilities and public health nursing organizations; insect and plant disease control; Memorial Day and Old Home Week. Sections 7-123 to 7-125 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5570,7 +5982,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-125b to 7-125d. Appropriations for assistance to nonprofit museums. Cultural commissions. Appropriations for drug abuse and dependency programs. Sections 7-125b to 7-125d , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5585,7 +6000,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-125b to 7-125d. Appropriations for assistance to nonprofit museums. Cultural commissions. Appropriations for drug abuse and dependency programs. Sections 7-125b to 7-125d , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5600,7 +6018,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-127 and 7-127a. Municipal advisory welfare boards. Committees on needs of the aging. Sections 7-127 and 7-127a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5615,7 +6036,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-127 and 7-127a. Municipal advisory welfare boards. Committees on needs of the aging. Sections 7-127 and 7-127a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5630,7 +6054,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-128 and 7-129. Public squares and parks. Gifts for parks. Sections 7-128 and 7-129 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5645,7 +6072,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-128 and 7-129. Public squares and parks. Gifts for parks. Sections 7-128 and 7-129 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5660,7 +6090,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-132 and 7-133. Bounty: On bobcat or lynx; on snakes and wild animals. Sections 7-132 and 7-133 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5675,7 +6108,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-132 and 7-133. Bounty: On bobcat or lynx; on snakes and wild animals. Sections 7-132 and 7-133 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6087,24 +6523,48 @@
           "section_key": "",
           "label": "Secs. 7-147 l and 7-147m. Method of balloting; eligibility to vote; balloting on prior districts.",
           "url": "https://www.cga.ct.gov/current/pub/chap_097a.htm#secs_7-147l_and_7-147m",
+          "grouped": true,
+          "section_keys": [
+            "7-147l",
+            "7-147m"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-147 l and 7-147m are repealed."
+            ],
+            "source": [
+              "(1963, P.A. 600, S. 4, 5; 1971, P.A. 333; 1972, P.A. 127, S. 8; P.A. 75-158; P.A. 78-285; P.A. 80-314, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-147 l and 7-147m are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 7-147n and 7-147o.",
           "url": "https://www.cga.ct.gov/current/pub/chap_097a.htm#secs_7-147n_and_7-147o",
+          "grouped": true,
+          "section_keys": [
+            "7-147n",
+            "7-147o"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6300,7 +6760,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-147 l and 7-147m. Method of balloting; eligibility to vote; balloting on prior districts. Sections 7-147 l and 7-147m are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6315,7 +6778,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-147 l and 7-147m. Method of balloting; eligibility to vote; balloting on prior districts. Sections 7-147 l and 7-147m are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -7020,12 +7486,23 @@
           "section_key": "",
           "label": "Secs. 7-148y and 7-148z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_098.htm#secs_7-148y_and_7-148z",
+          "grouped": true,
+          "section_keys": [
+            "7-148y",
+            "7-148z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7100,7 +7577,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-148dd is repealed, effective July 1, 2022."
+            "text": "Section 7-148dd is repealed, effective July 1, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7393,7 +7874,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-149 is repealed."
+            "text": "Section 7-149 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7477,12 +7962,25 @@
           "section_key": "",
           "label": "Secs. 7-150 and 7-151. Regulation of plumbing and drainage. Regulation of operation of motor boats.",
           "url": "https://www.cga.ct.gov/current/pub/chap_098.htm#secs_7-150_and_7-151",
+          "grouped": true,
+          "section_keys": [
+            "7-150",
+            "7-151"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-150 and 7-151 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 634, 707; 1957, P.A. 13, S. 12, 24; 1961, P.A. 520, S. 20; P.A. 82-327, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-150 and 7-151 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7548,12 +8046,25 @@
           "section_key": "",
           "label": "Secs. 7-152 and 7-152a. Keeping of snakes. Municipal garden program; ordinance establishing; indemnification of municipality.",
           "url": "https://www.cga.ct.gov/current/pub/chap_098.htm#secs_7-152_and_7-152a",
+          "grouped": true,
+          "section_keys": [
+            "7-152",
+            "7-152a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-152 and 7-152a are repealed."
+            ],
+            "source": [
+              "(1951, S. 278d; P.A. 75-497, S. 3, 4; P.A. 82-327, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-152 and 7-152a are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7707,12 +8218,27 @@
           "section_key": "",
           "label": "Secs. 7-153 to 7-156. Regulation of sewerage facilities. Towns may make ordinances concerning matters not covered by statute and fix penalty. Loitering of children; public markets.",
           "url": "https://www.cga.ct.gov/current/pub/chap_098.htm#secs_7-153_to_7-156",
+          "grouped": true,
+          "section_keys": [
+            "7-153",
+            "7-154",
+            "7-155",
+            "7-156"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-153 to 7-156 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 623, 636, 643, 4147; 1953, S. 2130d; 1957, P.A. 13, S. 13, 88; 1963, P.A. 60; 1969, P.A. 820, S. 10; P.A. 82-327, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-153 to 7-156 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7764,7 +8290,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-158 is repealed."
+            "text": "Section 7-158 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7861,12 +8391,27 @@
           "section_key": "",
           "label": "Secs. 7-160 to 7-163. Refining of oils regulated. Procedure prior to construction of oil refineries. Transportation of garbage; plants for treatment. Method of transportation; appeal. Coasting on highways.",
           "url": "https://www.cga.ct.gov/current/pub/chap_098.htm#secs_7-160_to_7-163",
+          "grouped": true,
+          "section_keys": [
+            "7-160",
+            "7-161",
+            "7-162",
+            "7-163"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-160 to 7-163 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 637, 4144, 4145, 4184; P.A. 75-337; P.A. 82-327, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-160 to 7-163 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7913,7 +8458,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-163b is repealed, effective July 1, 2014."
+            "text": "Section 7-163b is repealed, effective July 1, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7975,12 +8524,28 @@
           "section_key": "",
           "label": "Secs. 7-164 to 7-168. Sunday: Concerts; motion pictures; dancing; theatrical entertainment; sports; trade shows; dog shows; trials and races, horse shows and races.",
           "url": "https://www.cga.ct.gov/current/pub/chap_098.htm#secs_7-164_to_7-168",
+          "grouped": true,
+          "section_keys": [
+            "7-164",
+            "7-165",
+            "7-166",
+            "7-167",
+            "7-168"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-164 to 7-168 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 699–702; 1949, S. 276d, 277d; 1957, P.A. 13, S. 20–22; 252; March, 1958, P.A. 27, S. 1–4; 1959, P.A. 25; 1961, P.A. 238, S. 1; 1963, P.A. 331; February, 1965, P.A. 292; 1969, P.A. 34, S. 1; 1972, P.A. 79, S. 1–4; P.A. 73-263, S. 1–3; P.A. 74-27, S. 1, 2; P.A. 76-251, S. 1, 2; 76-415, S. 9; 76-435, S. 81, 82.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-164 to 7-168 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8076,7 +8641,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-169b is repealed."
+            "text": "Section 7-169b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8148,12 +8717,23 @@
           "section_key": "",
           "label": "Secs. 7-169f and 7-169g.",
           "url": "https://www.cga.ct.gov/current/pub/chap_098.htm#secs_7-169f_and_7-169g",
+          "grouped": true,
+          "section_keys": [
+            "7-169f",
+            "7-169g"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8349,7 +8929,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-175a is repealed."
+            "text": "Section 7-175a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8446,7 +9030,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-179 is repealed, effective October 1, 2014."
+            "text": "Section 7-179 is repealed, effective October 1, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8536,7 +9124,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-184 is repealed, effective October 1, 2023."
+            "text": "Section 7-184 is repealed, effective October 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8552,7 +9144,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-185 is repealed, effective January 1, 2018."
+            "text": "Section 7-185 is repealed, effective January 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8628,12 +9224,35 @@
           "section_key": "",
           "label": "Secs. 7-186a to 7-186 l . Games of chance; qualifications for sponsorship and participation. Application for permit; location of games of chance, exception. Investigation of applicant; limitations on permits; money not to be used; requirements for financial transactions; written agreement between sponsoring organization and operator of games of chance; investigation of operator. Permit; fee; prizes. Equipment; expenses. Advertising restricted. Change in facts on application to be reported. Suspension or revocation of registration or permit; cease and desist order; notice of violation; hearing; penalty. Report re receipts, expenses, profit and list of prizes with a retail value of fifty dollars or more. Examination or reports. Regulations. Penalty.",
           "url": "https://www.cga.ct.gov/current/pub/chap_098.htm#secs_7-186a_to_7-186l",
+          "grouped": true,
+          "section_keys": [
+            "7-186a",
+            "7-186b",
+            "7-186c",
+            "7-186d",
+            "7-186e",
+            "7-186f",
+            "7-186g",
+            "7-186h",
+            "7-186i",
+            "7-186j",
+            "7-186k",
+            "7-186l"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-186a to 7-186 l , inclusive, are repealed, effective January 7, 2003, and any permit or registration issued pursuant to said sections of the general statutes, revised to January 1, 2001, shall terminate on said date, and the Division of Special Revenue shall refund any permit or registration fees paid by any person, firm or organization that applied for a permit or registration pursuant to said sections which permit or registration is terminated pursuant to the provisions of section 6 of public act 03-1 of the January 6 special session."
+            ],
+            "source": [
+              "(1972, P.A. 60, S. 1–12; P.A. 73-616, S. 4; P.A. 75-640; P.A. 76-404, S. 1–8; P.A. 77-614, S. 486, 610; P.A. 78-280, S. 14, 127; 78-327, S. 3–5, 10–17; P.A. 80-297, S. 3, 20; P.A. 81-72; 81-276, S. 3; P.A. 86-312, S. 19, 21; 86-419, S. 14–19, 25; P.A. 87-44, S. 3; 87-288, S. 1–3; P.A. 88-317, S. 48, 107; P.A. 89-214, S. 15–23, 26; 89-217, S. 4, 6; P.A. 90-325, S. 16, 17, 29, 32; P.A. 91-35, S. 2, 5; 91-320, S. 1, 2; P.A. 93-55, S. 1; Jan. 6 Sp. Sess. P.A. 03-1, S. 6, 7.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-186a to 7-186 l , inclusive, are repealed, effective January 7, 2003, and any permit or registration issued pursuant to said sections of the general statutes, revised to January 1, 2001, shall terminate on said date, and the Division of Special Revenue shall refund any permit or registration fees paid by any person, firm or organization that applied for a permit or registration pursuant to said sections which permit or registration is terminated pursuant to the provisions of section 6 of public act 03-1 of the January 6 special session.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8649,19 +9268,38 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-186m is repealed."
+            "text": "Section 7-186m is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 7-186n to 7-186q. Registration of sponsoring organizations; issuance and use of identification numbers. Equipment identified by number. Accounting of receipts; requirements. Auxiliary organization permitted to assist at games of chance event; application.",
           "url": "https://www.cga.ct.gov/current/pub/chap_098.htm#secs_7-186n_to_7-186q",
+          "grouped": true,
+          "section_keys": [
+            "7-186n",
+            "7-186o",
+            "7-186p",
+            "7-186q"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-186n to 7-186q , inclusive, are repealed, effective January 7, 2003, and any permit or registration issued pursuant to said sections of the general statutes, revised to January 1, 2001, shall terminate on said date, and the Division of Special Revenue shall refund any permit or registration fees paid by any person, firm or organization that applied for a permit or registration pursuant to said sections which permit or registration is terminated pursuant to the provisions of section 6 of public act 03-1 of the January 6 special session."
+            ],
+            "source": [
+              "(P.A. 78-327, S. 1, 2, 6–9, 17; P.A. 86-419, S. 20–22, 25; P.A. 89-214, S. 24, 26; Jan. 6 Sp. Sess. P.A. 03-1, S. 6, 7.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-186n to 7-186q , inclusive, are repealed, effective January 7, 2003, and any permit or registration issued pursuant to said sections of the general statutes, revised to January 1, 2001, shall terminate on said date, and the Division of Special Revenue shall refund any permit or registration fees paid by any person, firm or organization that applied for a permit or registration pursuant to said sections which permit or registration is terminated pursuant to the provisions of section 6 of public act 03-1 of the January 6 special session.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8676,7 +9314,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-150 and 7-151. Regulation of plumbing and drainage. Regulation of operation of motor boats. Sections 7-150 and 7-151 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8691,7 +9332,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-150 and 7-151. Regulation of plumbing and drainage. Regulation of operation of motor boats. Sections 7-150 and 7-151 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8706,7 +9350,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-152 and 7-152a. Keeping of snakes. Municipal garden program; ordinance establishing; indemnification of municipality. Sections 7-152 and 7-152a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8721,7 +9368,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-152 and 7-152a. Keeping of snakes. Municipal garden program; ordinance establishing; indemnification of municipality. Sections 7-152 and 7-152a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8736,7 +9386,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-153 to 7-156. Regulation of sewerage facilities. Towns may make ordinances concerning matters not covered by statute and fix penalty. Loitering of children; public markets. Sections 7-153 to 7-156 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8751,7 +9404,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-153 to 7-156. Regulation of sewerage facilities. Towns may make ordinances concerning matters not covered by statute and fix penalty. Loitering of children; public markets. Sections 7-153 to 7-156 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8766,7 +9422,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-160 to 7-163. Refining of oils regulated. Procedure prior to construction of oil refineries. Transportation of garbage; plants for treatment. Method of transportation; appeal. Coasting on highways. Sections 7-160 to 7-163 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8781,7 +9440,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-160 to 7-163. Refining of oils regulated. Procedure prior to construction of oil refineries. Transportation of garbage; plants for treatment. Method of transportation; appeal. Coasting on highways. Sections 7-160 to 7-163 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8796,7 +9458,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-164 to 7-168. Sunday: Concerts; motion pictures; dancing; theatrical entertainment; sports; trade shows; dog shows; trials and races, horse shows and races. Sections 7-164 to 7-168 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8811,7 +9476,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-164 to 7-168. Sunday: Concerts; motion pictures; dancing; theatrical entertainment; sports; trade shows; dog shows; trials and races, horse shows and races. Sections 7-164 to 7-168 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8856,7 +9524,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-186n to 7-186q. Registration of sponsoring organizations; issuance and use of identification numbers. Equipment identified by number. Accounting of receipts; requirements. Auxiliary organization permitted to assist at games of chance event; application. Sections 7-186n to 7-186q , inclusive, are repealed, effective January 7, 2003, and any permit or registration issued pursuant to said sections of the general statutes, revised to January 1, 2001, shall terminate on said date, and the Division of Special Revenue shall refund any permit or registration fees paid by any person, firm or organization that applied for a permit or registration pursuant to said sections which permit or registration is terminated pursuant to the provisions of section 6 of public act 03-1 of the January 6 special session.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8871,7 +9542,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-186n to 7-186q. Registration of sponsoring organizations; issuance and use of identification numbers. Equipment identified by number. Accounting of receipts; requirements. Auxiliary organization permitted to assist at games of chance event; application. Sections 7-186n to 7-186q , inclusive, are repealed, effective January 7, 2003, and any permit or registration issued pursuant to said sections of the general statutes, revised to January 1, 2001, shall terminate on said date, and the Division of Special Revenue shall refund any permit or registration fees paid by any person, firm or organization that applied for a permit or registration pursuant to said sections which permit or registration is terminated pursuant to the provisions of section 6 of public act 03-1 of the January 6 special session.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -9701,7 +10375,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-215 is repealed."
+            "text": "Section 7-215 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10621,12 +11299,29 @@
           "section_key": "",
           "label": "Secs. 7-233aa to 7-233hh.",
           "url": "https://www.cga.ct.gov/current/pub/chap_101a.htm#secs_7-233aa_to_7-233hh",
+          "grouped": true,
+          "section_keys": [
+            "7-233aa",
+            "7-233bb",
+            "7-233cc",
+            "7-233dd",
+            "7-233ee",
+            "7-233ff",
+            "7-233gg",
+            "7-233hh"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -11015,12 +11710,24 @@
           "section_key": "",
           "label": "Secs. 7-246c to 7-246e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_103.htm#secs_7-246c_to_7-246e",
+          "grouped": true,
+          "section_keys": [
+            "7-246c",
+            "7-246d",
+            "7-246e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11388,7 +12095,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-254a is repealed, effective October 1, 2002."
+            "text": "Section 7-254a is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12164,7 +12875,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-273n is repealed, effective October 1, 1999."
+            "text": "Section 7-273n is repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12208,12 +12923,31 @@
           "section_key": "",
           "label": "Secs. 7-273q to 7-273z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_103a.htm#secs_7-273q_to_7-273z",
+          "grouped": true,
+          "section_keys": [
+            "7-273q",
+            "7-273r",
+            "7-273s",
+            "7-273t",
+            "7-273u",
+            "7-273v",
+            "7-273w",
+            "7-273x",
+            "7-273y",
+            "7-273z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -12897,7 +13631,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-282a is repealed, effective October 1, 1997."
+            "text": "Section 7-282a is repealed, effective October 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13169,7 +13907,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-291 is repealed."
+            "text": "Section 7-291 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13595,7 +14337,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 7-294y ."
+            "text": "Transferred to Sec. 7-294y .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -13609,7 +14355,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 7-294m ."
+            "text": "Transferred to Sec. 7-294m .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -13623,7 +14373,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 7-294z ."
+            "text": "Transferred to Sec. 7-294z .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -13751,7 +14505,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-294r is repealed, effective October 1, 2023."
+            "text": "Section 7-294r is repealed, effective October 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14368,12 +15126,26 @@
           "section_key": "",
           "label": "Secs. 7-294vv to 7-294zz.",
           "url": "https://www.cga.ct.gov/current/pub/chap_104.htm#secs_7-294vv_to_7-294zz",
+          "grouped": true,
+          "section_keys": [
+            "7-294vv",
+            "7-294ww",
+            "7-294xx",
+            "7-294yy",
+            "7-294zz"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -14683,7 +15455,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-307 is repealed."
+            "text": "Section 7-307 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14731,7 +15507,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-309 is repealed."
+            "text": "Section 7-309 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14820,7 +15600,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-313 is repealed."
+            "text": "Section 7-313 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14854,7 +15638,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-313b is repealed, effective October 1, 2012."
+            "text": "Section 7-313b is repealed, effective October 1, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -15357,12 +16145,31 @@
           "section_key": "",
           "label": "Secs. 7-315 to 7-322. Death benefits; payments for injuries, for treatment of injuries and occupational disease and for total disability; insurance to provide payments; notice of claim; investigation of claim; benefits exempt from attachment.",
           "url": "https://www.cga.ct.gov/current/pub/chap_104.htm#secs_7-315_to_7-322",
+          "grouped": true,
+          "section_keys": [
+            "7-315",
+            "7-316",
+            "7-317",
+            "7-318",
+            "7-319",
+            "7-320",
+            "7-321",
+            "7-322"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-315 to 7-322 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 911–S. 918; 1949, 1953, S. 419d–S. 421d, S. 423d; 1955, S. 422d; 1957, P.A. 175; 1959, P.A. 567, S. 2–5; February, 1965, P.A. 353, 354, 387, 485; 1967, P.A. 892, S. 4.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-315 to 7-322 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -15470,7 +16277,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-323 is repealed."
+            "text": "Section 7-323 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -15757,7 +16568,11 @@
               "History: P.A. 75-617 specified applicability only with respect to departments having at least six “paid” firefighters; P.A. 76-435 made technical changes; P.A. 24-136 repealed section, effective July 1, 2025."
             ],
             "annotations": [],
-            "text": "This part shall not apply to any municipality which employs fewer than six paid firefighters or to any volunteer fire department or its employees or members. Any such municipality or volunteer fire department may elect to cooperate with the commission with regard to any provision of this part."
+            "text": "This part shall not apply to any municipality which employs fewer than six paid firefighters or to any volunteer fire department or its employees or members. Any such municipality or volunteer fire department may elect to cooperate with the commission with regard to any provision of this part.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -15872,7 +16687,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-323r is repealed, effective July 1, 2022."
+            "text": "Section 7-323r is repealed, effective July 1, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -15989,7 +16808,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-315 to 7-322. Death benefits; payments for injuries, for treatment of injuries and occupational disease and for total disability; insurance to provide payments; notice of claim; investigation of claim; benefits exempt from attachment. Sections 7-315 to 7-322 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -16004,7 +16826,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-315 to 7-322. Death benefits; payments for injuries, for treatment of injuries and occupational disease and for total disability; insurance to provide payments; notice of claim; investigation of claim; benefits exempt from attachment. Sections 7-315 to 7-322 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -16931,7 +17756,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-339f is repealed, effective July 8, 2011."
+            "text": "Section 7-339f is repealed, effective July 8, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -16975,12 +17804,25 @@
           "section_key": "",
           "label": "Secs. 7-339i and 7-339j. Conditions precedent to effecting agreement. Powers of Attorney General.",
           "url": "https://www.cga.ct.gov/current/pub/chap_105.htm#secs_7-339i_and_7-339j",
+          "grouped": true,
+          "section_keys": [
+            "7-339i",
+            "7-339j"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-339i and 7-339j are repealed."
+            ],
+            "source": [
+              "(1961, P.A. 429, S. 9, 10; 1967, P.A. 516, S. 4.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-339i and 7-339j are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -17027,7 +17869,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-339i and 7-339j. Conditions precedent to effecting agreement. Powers of Attorney General. Sections 7-339i and 7-339j are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -17042,7 +17887,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-339i and 7-339j. Conditions precedent to effecting agreement. Powers of Attorney General. Sections 7-339i and 7-339j are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -17220,12 +18068,28 @@
           "section_key": "",
           "label": "Secs. 7-339v to 7-339bb.",
           "url": "https://www.cga.ct.gov/current/pub/chap_105a.htm#secs_7-339v_to_7-339bb",
+          "grouped": true,
+          "section_keys": [
+            "7-339v",
+            "7-339w",
+            "7-339x",
+            "7-339y",
+            "7-339z",
+            "7-339aa",
+            "7-339bb"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -17708,19 +18572,42 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-350 is repealed, effective October 1, 2002."
+            "text": "Section 7-350 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 7-351 to 7-358. How apportioned on division of a town. On division of a town new receipts may be taken. Conditions of deposit. Custodian of fund; duties. Treasurer's bond and report of losses. Management. Release or assignment of security. Deficiency to be made good.",
           "url": "https://www.cga.ct.gov/current/pub/chap_107.htm#secs_7-351_to_7-358",
+          "grouped": true,
+          "section_keys": [
+            "7-351",
+            "7-352",
+            "7-353",
+            "7-354",
+            "7-355",
+            "7-356",
+            "7-357",
+            "7-358"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-351 to 7-358 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 783–790; P.A. 82-239, S. 6, 7.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-351 to 7-358 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -18759,7 +19646,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-387 is repealed."
+            "text": "Section 7-387 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -19085,7 +19976,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-399 is repealed."
+            "text": "Section 7-399 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -19208,7 +20103,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-404 is repealed."
+            "text": "Section 7-404 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -19329,12 +20228,30 @@
           "section_key": "",
           "label": "Secs. 7-406d to 7-406 l .",
           "url": "https://www.cga.ct.gov/current/pub/chap_112.htm#secs_7-406d_to_7-406l",
+          "grouped": true,
+          "section_keys": [
+            "7-406d",
+            "7-406e",
+            "7-406f",
+            "7-406g",
+            "7-406h",
+            "7-406i",
+            "7-406j",
+            "7-406k",
+            "7-406l"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -19941,7 +20858,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-426 is repealed."
+            "text": "Section 7-426 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -20123,12 +21044,25 @@
           "section_key": "",
           "label": "Secs. 7-433 and 7-433a. Disability or death of firemen or policemen caused by hypertension or heart disease.",
           "url": "https://www.cga.ct.gov/current/pub/chap_113.htm#secs_7-433_and_7-433a",
+          "grouped": true,
+          "section_keys": [
+            "7-433",
+            "7-433a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-433 and 7-433a are repealed."
+            ],
+            "source": [
+              "(1951, 1953, 1955, S. 407d; 1959, P.A. 366; 1961, P.A. 330, S. 1, 2; 1967, P.A. 770, S. 1; 1969, P.A. 380, S. 1; P.A. 92-81, S. 2, 3.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-433 and 7-433a are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -20284,7 +21218,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-435 is repealed."
+            "text": "Section 7-435 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -20463,12 +21401,25 @@
           "section_key": "",
           "label": "Secs. 7-439 and 7-439a. Optional form of retirement allowance. Survivorship benefits for spouses of certain employees who had not exercised the option.",
           "url": "https://www.cga.ct.gov/current/pub/chap_113.htm#secs_7-439_and_7-439a",
+          "grouped": true,
+          "section_keys": [
+            "7-439",
+            "7-439a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-439 and 7-439a are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 893; 1959, P.A. 273; 1967, P.A. 812; 1971, P.A. 622, S. 1; P.A. 86-243, S. 9, 10.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-439 and 7-439a are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -20547,7 +21498,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-439e is repealed, effective October 1, 2002."
+            "text": "Section 7-439e is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -20563,7 +21518,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-439f is repealed, effective June 6, 2024."
+            "text": "Section 7-439f is repealed, effective June 6, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -20715,7 +21674,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-441a is repealed, effective October 1, 2002."
+            "text": "Section 7-441a is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -20731,7 +21694,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-442 is repealed."
+            "text": "Section 7-442 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -20806,7 +21773,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-442d is repealed."
+            "text": "Section 7-442d is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -21722,7 +22693,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-466 is repealed."
+            "text": "Section 7-466 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -22067,7 +23042,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-473 is repealed."
+            "text": "Section 7-473 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -22551,7 +23530,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-433 and 7-433a. Disability or death of firemen or policemen caused by hypertension or heart disease. Sections 7-433 and 7-433a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -22566,7 +23548,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-433 and 7-433a. Disability or death of firemen or policemen caused by hypertension or heart disease. Sections 7-433 and 7-433a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -22581,7 +23566,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-439 and 7-439a. Optional form of retirement allowance. Survivorship benefits for spouses of certain employees who had not exercised the option. Sections 7-439 and 7-439a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -22596,7 +23584,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 7-439 and 7-439a. Optional form of retirement allowance. Survivorship benefits for spouses of certain employees who had not exercised the option. Sections 7-439 and 7-439a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -22793,12 +23784,30 @@
           "section_key": "",
           "label": "Secs. 7-479j to 7-479r.",
           "url": "https://www.cga.ct.gov/current/pub/chap_113a.htm#secs_7-479j_to_7-479r",
+          "grouped": true,
+          "section_keys": [
+            "7-479j",
+            "7-479k",
+            "7-479l",
+            "7-479m",
+            "7-479n",
+            "7-479o",
+            "7-479p",
+            "7-479q",
+            "7-479r"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -22832,12 +23841,27 @@
           "section_key": "",
           "label": "Secs. 7-479t to 7-479w. Municipal Liability Trust Fund Committee; membership; duties. Grants from Municipal Liability Trust Fund; application requirements. Contingency reserve loans from Municipal Liability Trust Fund; application requirements; repayment. Limits on grants and contingency reserve loans.",
           "url": "https://www.cga.ct.gov/current/pub/chap_113b.htm#secs_7-479t_to_7-479w",
+          "grouped": true,
+          "section_keys": [
+            "7-479t",
+            "7-479u",
+            "7-479v",
+            "7-479w"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-479t to 7-479w , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 86-350, S. 19–22, 28; P.A. 88-270, S. 7, 8.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-479t to 7-479w , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -22853,7 +23877,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-479x is repealed, effective October 1, 2002."
+            "text": "Section 7-479x is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -23425,19 +24453,35 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-506 is repealed."
+            "text": "Section 7-506 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 7-507 to 7-509.",
           "url": "https://www.cga.ct.gov/current/pub/chap_115.htm#secs_7-507_to_7-509",
+          "grouped": true,
+          "section_keys": [
+            "7-507",
+            "7-508",
+            "7-509"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -23467,12 +24511,30 @@
           "section_key": "",
           "label": "Secs. 7-511 to 7-519.",
           "url": "https://www.cga.ct.gov/current/pub/chap_115.htm#secs_7-511_to_7-519",
+          "grouped": true,
+          "section_keys": [
+            "7-511",
+            "7-512",
+            "7-513",
+            "7-514",
+            "7-515",
+            "7-516",
+            "7-517",
+            "7-518",
+            "7-519"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -23546,12 +24608,24 @@
           "section_key": "",
           "label": "Secs. 7-523 to 7-525.",
           "url": "https://www.cga.ct.gov/current/pub/chap_116.htm#secs_7-523_to_7-525",
+          "grouped": true,
+          "section_keys": [
+            "7-523",
+            "7-524",
+            "7-525"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -23566,12 +24640,25 @@
           "section_key": "",
           "label": "Secs. 7-526 to 7-527. Local Property Tax Relief Trust Fund established; application of resources. Payment of certain state grants from resources of fund. State obligations related to guaranteed investment contracts transferred from fund. Local Property Tax Relief Trust Fund successor to Municipal Infrastructure Trust Fund.",
           "url": "https://www.cga.ct.gov/current/pub/chap_116a.htm#secs_7-526_to_7-527",
+          "grouped": true,
+          "section_keys": [
+            "7-526",
+            "7-527"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 7-526 to 7-527 , inclusive, are repealed, effective June 26, 1997."
+            ],
+            "source": [
+              "(P.A. 87-584, S. 1, 2, 18; P.A. 90-148, S. 1, 2, 28, 34; P.A. 97-274, S. 6, 7.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 7-526 to 7-527 , inclusive, are repealed, effective June 26, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -23601,12 +24688,27 @@
           "section_key": "",
           "label": "Secs. 7-529 to 7-534.",
           "url": "https://www.cga.ct.gov/current/pub/chap_116a.htm#secs_7-529_to_7-534",
+          "grouped": true,
+          "section_keys": [
+            "7-529",
+            "7-530",
+            "7-531",
+            "7-532",
+            "7-533",
+            "7-534"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -23748,12 +24850,27 @@
           "section_key": "",
           "label": "Secs. 7-539 to 7-544.",
           "url": "https://www.cga.ct.gov/current/pub/chap_116b.htm#secs_7-539_to_7-544",
+          "grouped": true,
+          "section_keys": [
+            "7-539",
+            "7-540",
+            "7-541",
+            "7-542",
+            "7-543",
+            "7-544"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -23807,7 +24924,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-546 is repealed, effective April 26, 2007."
+            "text": "Section 7-546 is repealed, effective April 26, 2007.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -23823,19 +24944,44 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-547 is repealed, effective June 26, 1997."
+            "text": "Section 7-547 is repealed, effective June 26, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 7-548 to 7-559.",
           "url": "https://www.cga.ct.gov/current/pub/chap_116c.htm#secs_7-548_to_7-559",
+          "grouped": true,
+          "section_keys": [
+            "7-548",
+            "7-549",
+            "7-550",
+            "7-551",
+            "7-552",
+            "7-553",
+            "7-554",
+            "7-555",
+            "7-556",
+            "7-557",
+            "7-558",
+            "7-559"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -24362,7 +25508,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 7-576g is repealed, effective October 1, 2022."
+            "text": "Section 7-576g is repealed, effective October 1, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -24507,12 +25657,41 @@
           "section_key": "",
           "label": "Secs. 7-580 to 7-599.",
           "url": "https://www.cga.ct.gov/current/pub/chap_117.htm#secs_7-580_to_7-599",
+          "grouped": true,
+          "section_keys": [
+            "7-580",
+            "7-581",
+            "7-582",
+            "7-583",
+            "7-584",
+            "7-585",
+            "7-586",
+            "7-587",
+            "7-588",
+            "7-589",
+            "7-590",
+            "7-591",
+            "7-592",
+            "7-593",
+            "7-594",
+            "7-595",
+            "7-596",
+            "7-597",
+            "7-598",
+            "7-599"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -24699,12 +25878,32 @@
           "section_key": "",
           "label": "Secs. 7-609 to 7-619.",
           "url": "https://www.cga.ct.gov/current/pub/chap_118.htm#secs_7-609_to_7-619",
+          "grouped": true,
+          "section_keys": [
+            "7-609",
+            "7-610",
+            "7-611",
+            "7-612",
+            "7-613",
+            "7-614",
+            "7-615",
+            "7-616",
+            "7-617",
+            "7-618",
+            "7-619"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]

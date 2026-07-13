@@ -1238,6 +1238,9 @@
             "history": [],
             "annotations": [],
             "text": "Section 16-331bb is repealed, effective July 1, 2025.",
+            "statuses": [
+              "repealed"
+            ],
             "status": "repealed"
           }
         },
@@ -1280,6 +1283,9 @@
             "history": [],
             "annotations": [],
             "text": "Section 16-331hh is repealed, effective July 1, 2025.",
+            "statuses": [
+              "repealed"
+            ],
             "status": "repealed"
           }
         }

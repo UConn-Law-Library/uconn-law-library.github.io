@@ -23,7 +23,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-1 is repealed, effective July 1, 2016."
+            "text": "Section 46a-1 is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -39,7 +43,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-2 is repealed, effective October 5, 2009."
+            "text": "Section 46a-2 is repealed, effective October 5, 2009.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -55,7 +63,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-3 is repealed, effective October 5, 2009."
+            "text": "Section 46a-3 is repealed, effective October 5, 2009.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -71,7 +83,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-4 is repealed, effective July 1, 2016."
+            "text": "Section 46a-4 is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -87,7 +103,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-4a is repealed, effective October 1, 2002."
+            "text": "Section 46a-4a is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -121,7 +141,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-5 is repealed, effective July 1, 2016."
+            "text": "Section 46a-5 is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -137,7 +161,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-6 is repealed, effective October 5, 2009."
+            "text": "Section 46a-6 is repealed, effective October 5, 2009.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -170,12 +198,26 @@
           "section_key": "",
           "label": "Secs. 46a-8 to 46a-10. Definitions. Advocacy board established. Advocacy office established; qualifications of director.",
           "url": "https://www.cga.ct.gov/current/pub/chap_813.htm#secs_46a-8_to_46a-10",
+          "grouped": true,
+          "section_keys": [
+            "46a-8",
+            "46a-9",
+            "46a-10"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 46a-8 to 46a-10 , inclusive, are repealed, effective July 1, 2017."
+            ],
+            "source": [
+              "(P.A. 77-589, S. 2, 3, 5, 9; P.A. 89-144, S. 15; P.A. 94-87, S. 1, 3, 4: May Sp. Sess. P.A. 94-5, S. 21, 30; P.A. 95-84; June Sp. Sess. P.A. 15-5, S. 492; P.A. 17-96, S. 44.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 46a-8 to 46a-10 , inclusive, are repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -273,7 +315,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-11 is repealed, effective July 1, 2017."
+            "text": "Section 46a-11 is repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -454,12 +500,25 @@
           "section_key": "",
           "label": "Secs. 46a-12 and 46a-13. Communications protected by attorney-client privilege. Reporting requirements.",
           "url": "https://www.cga.ct.gov/current/pub/chap_813.htm#secs_46a-12_and_46a-13",
+          "grouped": true,
+          "section_keys": [
+            "46a-12",
+            "46a-13"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 46a-12 and 46a-13 are repealed, effective July 1, 2017."
+            ],
+            "source": [
+              "(P.A. 77-589, S. 6, 7, 9; P.A. 82-314, S. 62, 63; P.A. 94-87, S. 6; P.A. 17-96, S. 44.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 46a-12 and 46a-13 are repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -492,7 +551,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46a-8 to 46a-10. Definitions. Advocacy board established. Advocacy office established; qualifications of director. Sections 46a-8 to 46a-10 , inclusive, are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -507,7 +569,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46a-8 to 46a-10. Definitions. Advocacy board established. Advocacy office established; qualifications of director. Sections 46a-8 to 46a-10 , inclusive, are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -522,7 +587,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46a-12 and 46a-13. Communications protected by attorney-client privilege. Reporting requirements. Sections 46a-12 and 46a-13 are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -537,7 +605,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46a-12 and 46a-13. Communications protected by attorney-client privilege. Reporting requirements. Sections 46a-12 and 46a-13 are repealed, effective July 1, 2017.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -655,7 +726,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-13f is repealed, effective July 1, 2011."
+            "text": "Section 46a-13f is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -696,12 +771,23 @@
           "section_key": "",
           "label": "Secs. 46a-13i and 46a-13j.",
           "url": "https://www.cga.ct.gov/current/pub/chap_813a.htm#secs_46a-13i_and_46a-13j",
+          "grouped": true,
+          "section_keys": [
+            "46a-13i",
+            "46a-13j"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -852,7 +938,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-13q is repealed, effective July 1, 2011."
+            "text": "Section 46a-13q is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -907,12 +997,33 @@
           "section_key": "",
           "label": "Secs. 46a-14 to 46a-25.",
           "url": "https://www.cga.ct.gov/current/pub/chap_814.htm#secs_46a-14_to_46a-25",
+          "grouped": true,
+          "section_keys": [
+            "46a-14",
+            "46a-15",
+            "46a-16",
+            "46a-17",
+            "46a-18",
+            "46a-19",
+            "46a-20",
+            "46a-21",
+            "46a-22",
+            "46a-23",
+            "46a-24",
+            "46a-25"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 319h, Part II, Secs. 17a-430 to 17a-441 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 319h, Part II, Secs. 17a-430 to 17a-441 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -928,7 +1039,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-26 is repealed."
+            "text": "Section 46a-26 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -943,12 +1058,24 @@
           "section_key": "",
           "label": "Secs. 46a-27 to 46a-29.",
           "url": "https://www.cga.ct.gov/current/pub/chap_814a.htm#secs_46a-27_to_46a-29",
+          "grouped": true,
+          "section_keys": [
+            "46a-27",
+            "46a-28",
+            "46a-29"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 319 l , Part III, Secs. 17a-836 to 17a-837 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 319 l , Part III, Secs. 17a-836 to 17a-837 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -964,7 +1091,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-30 is repealed, effective July 1, 2021."
+            "text": "Section 46a-30 is repealed, effective July 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -980,7 +1111,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-31 is repealed, effective July 1, 1998."
+            "text": "Section 46a-31 is repealed, effective July 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -996,7 +1131,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-32 is repealed, effective July 1, 2013."
+            "text": "Section 46a-32 is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1012,19 +1151,35 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-33 is repealed, effective July 1, 1998."
+            "text": "Section 46a-33 is repealed, effective July 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 46a-33a to 46a-33c.",
           "url": "https://www.cga.ct.gov/current/pub/chap_814a.htm#secs_46a-33a_to_46a-33c",
+          "grouped": true,
+          "section_keys": [
+            "46a-33a",
+            "46a-33b",
+            "46a-33c"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 319 l , Part III, Secs. 17a-838 to 17a-839a , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 319 l , Part III, Secs. 17a-838 to 17a-839a , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1085,12 +1240,26 @@
           "section_key": "",
           "label": "Secs. 46a-36 to 46a-40.",
           "url": "https://www.cga.ct.gov/current/pub/chap_814a.htm#secs_46a-36_to_46a-40",
+          "grouped": true,
+          "section_keys": [
+            "46a-36",
+            "46a-37",
+            "46a-38",
+            "46a-39",
+            "46a-40"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -1138,7 +1307,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-42 is repealed, effective July 1, 2024."
+            "text": "Section 46a-42 is repealed, effective July 1, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1154,7 +1327,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-43 is repealed."
+            "text": "Section 46a-43 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1184,12 +1361,27 @@
           "section_key": "",
           "label": "Secs. 46a-45 to 46a-50.",
           "url": "https://www.cga.ct.gov/current/pub/chap_814b.htm#secs_46a-45_to_46a-50",
+          "grouped": true,
+          "section_keys": [
+            "46a-45",
+            "46a-46",
+            "46a-47",
+            "46a-48",
+            "46a-49",
+            "46a-50"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -1330,7 +1522,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-53 is repealed."
+            "text": "Section 46a-53 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1840,7 +2036,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-64a is repealed."
+            "text": "Section 46a-64a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2201,7 +2401,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-68h is repealed, effective July 1, 2007."
+            "text": "Section 46a-68h is repealed, effective July 1, 2007.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2868,7 +3072,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-81a is repealed, effective July 1, 2023."
+            "text": "Section 46a-81a is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3262,19 +3470,40 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-81r is repealed, effective April 23, 2009."
+            "text": "Section 46a-81r is repealed, effective April 23, 2009.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 46a-81s to 46a-81z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_814c.htm#secs_46a-81s_to_46a-81z",
+          "grouped": true,
+          "section_keys": [
+            "46a-81s",
+            "46a-81t",
+            "46a-81u",
+            "46a-81v",
+            "46a-81w",
+            "46a-81x",
+            "46a-81y",
+            "46a-81z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3818,7 +4047,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-90 is repealed."
+            "text": "Section 46a-90 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3846,12 +4079,26 @@
           "section_key": "",
           "label": "Secs. 46a-91 to 46a-93. Discriminatory practice in sale or rental of residential or commercial property; injunctive relief; damages. Injunction concerning discriminatory practice in sale or rental of residential or commercial property; notice, stay, bond. Injunction: Jurisdiction of court; hearing.",
           "url": "https://www.cga.ct.gov/current/pub/chap_814c.htm#secs_46a-91_to_46a-93",
+          "grouped": true,
+          "section_keys": [
+            "46a-91",
+            "46a-92",
+            "46a-93"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 46a-91 to 46a-93 , inclusive, are repealed."
+            ],
+            "source": [
+              "(February, 1965, P.A. 543, S. 1–3; 1967, P.A. 38; 177, S. 2, 3; 756, S. 2; P.A. 74-183, S. 120, 121, 291; P.A. 76-436, S. 510, 511, 681; P.A. 78-280, S. 1, 127; P.A. 80-422, S. 39–41; 80-449, S. 5, 6; P.A. 81-81, S. 6; P.A. 86-193; 86-206; P.A. 88-241, S. 9.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 46a-91 to 46a-93 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4215,12 +4462,42 @@
           "section_key": "",
           "label": "Secs. 46a-105 to 46a-125.",
           "url": "https://www.cga.ct.gov/current/pub/chap_814c.htm#secs_46a-105_to_46a-125",
+          "grouped": true,
+          "section_keys": [
+            "46a-105",
+            "46a-106",
+            "46a-107",
+            "46a-108",
+            "46a-109",
+            "46a-110",
+            "46a-111",
+            "46a-112",
+            "46a-113",
+            "46a-114",
+            "46a-115",
+            "46a-116",
+            "46a-117",
+            "46a-118",
+            "46a-119",
+            "46a-120",
+            "46a-121",
+            "46a-122",
+            "46a-123",
+            "46a-124",
+            "46a-125"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4286,7 +4563,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-126 is repealed, effective July 1, 2016."
+            "text": "Section 46a-126 is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4302,7 +4583,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-127 is repealed, effective October 5, 2009."
+            "text": "Section 46a-127 is repealed, effective October 5, 2009.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4327,12 +4612,25 @@
           "section_key": "",
           "label": "Secs. 46a-129 and 46a-130. Duties generally; annual report; staff; recommendations and advocacy. Authority generally.",
           "url": "https://www.cga.ct.gov/current/pub/chap_814d.htm#secs_46a-129_and_46a-130",
+          "grouped": true,
+          "section_keys": [
+            "46a-129",
+            "46a-130"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 46a-129 and 46a-130 are repealed, effective July 1, 2016."
+            ],
+            "source": [
+              "(P.A. 85-584, S. 4, 5, 9; Sept. Sp. Sess. P.A. 09-7, S. 151, 152; May Sp. Sess. P.A. 16-3, S. 209.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 46a-129 and 46a-130 are repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4348,7 +4646,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46a-131 is repealed, effective June 7, 2023."
+            "text": "Section 46a-131 is repealed, effective June 7, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4392,12 +4694,39 @@
           "section_key": "",
           "label": "Secs. 46a-132 to 46a-149.",
           "url": "https://www.cga.ct.gov/current/pub/chap_814d.htm#secs_46a-132_to_46a-149",
+          "grouped": true,
+          "section_keys": [
+            "46a-132",
+            "46a-133",
+            "46a-134",
+            "46a-135",
+            "46a-136",
+            "46a-137",
+            "46a-138",
+            "46a-139",
+            "46a-140",
+            "46a-141",
+            "46a-142",
+            "46a-143",
+            "46a-144",
+            "46a-145",
+            "46a-146",
+            "46a-147",
+            "46a-148",
+            "46a-149"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4412,7 +4741,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46a-129 and 46a-130. Duties generally; annual report; staff; recommendations and advocacy. Authority generally. Sections 46a-129 and 46a-130 are repealed, effective July 1, 2016.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4427,7 +4759,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46a-129 and 46a-130. Duties generally; annual report; staff; recommendations and advocacy. Authority generally. Sections 46a-129 and 46a-130 are repealed, effective July 1, 2016.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -4549,12 +4884,36 @@
           "section_key": "",
           "label": "Secs. 46a-155 to 46a-169.",
           "url": "https://www.cga.ct.gov/current/pub/chap_814e.htm#secs_46a-155_to_46a-169",
+          "grouped": true,
+          "section_keys": [
+            "46a-155",
+            "46a-156",
+            "46a-157",
+            "46a-158",
+            "46a-159",
+            "46a-160",
+            "46a-161",
+            "46a-162",
+            "46a-163",
+            "46a-164",
+            "46a-165",
+            "46a-166",
+            "46a-167",
+            "46a-168",
+            "46a-169"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -4602,12 +4961,25 @@
           "section_key": "",
           "label": "Secs. 46a-171 to 46a-174.",
           "url": "https://www.cga.ct.gov/current/pub/chap_814f.htm#secs_46a-171_to_46a-174",
+          "grouped": true,
+          "section_keys": [
+            "46a-171",
+            "46a-172",
+            "46a-173",
+            "46a-174"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -4664,12 +5036,25 @@
           "section_key": "",
           "label": "Secs. 46a-176 to 46a-179.",
           "url": "https://www.cga.ct.gov/current/pub/chap_814g.htm#secs_46a-176_to_46a-179",
+          "grouped": true,
+          "section_keys": [
+            "46a-176",
+            "46a-177",
+            "46a-178",
+            "46a-179"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]

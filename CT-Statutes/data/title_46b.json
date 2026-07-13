@@ -241,7 +241,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-8 is repealed, effective October 1, 2013."
+            "text": "Section 46b-8 is repealed, effective October 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -392,12 +396,23 @@
           "section_key": "",
           "label": "Secs. 46b-13 and 46b-14.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815.htm#secs_46b-13_and_46b-14",
+          "grouped": true,
+          "section_keys": [
+            "46b-13",
+            "46b-14"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -641,12 +656,25 @@
           "section_key": "",
           "label": "Secs. 46b-17 to 46b-19.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815a.htm#secs_46b-17_to_46b-19",
+          "grouped": true,
+          "section_keys": [
+            "46b-17",
+            "46b-18",
+            "46b-19"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use.",
+              "Note: Chapters 815b to 815d are also reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.\n\nNote: Chapters 815b to 815d are also reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -896,12 +924,25 @@
           "section_key": "",
           "label": "Secs. 46b-26 and 46b-27. (Formerly Secs. 46-5c and 46-5d). Test for venereal disease and rubella prerequisite. Issuance of license.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815e.htm#secs_46b-26_and_46b-27",
+          "grouped": true,
+          "section_keys": [
+            "46b-26",
+            "46b-27"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 46b-26 and 46b-27 are repealed, effective October 1, 2003."
+            ],
+            "source": [
+              "(1967, P.A. 313, S. 3, 4; P.A. 77-614, S. 323, 610; P.A. 78-165, S. 2, 5; 78-230, S. 7, 8, 52, 54; P.A. 79-30; P.A. 93-279, S. 14; 93-381, S. 9, 39; P.A. 95-257, S. 12, 21, 58; P.A. 96-19, S. 9; P.A. 03-19, S. 103; 03-188, S. 6.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 46b-26 and 46b-27 are repealed, effective October 1, 2003.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1048,7 +1089,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-30 is repealed, effective October 1, 2017."
+            "text": "Section 46b-30 is repealed, effective October 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1064,7 +1109,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-31 is repealed."
+            "text": "Section 46b-31 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1080,7 +1129,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-32 is repealed, effective October 1, 2004."
+            "text": "Section 46b-32 is repealed, effective October 1, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1516,7 +1569,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-38 is repealed."
+            "text": "Section 46b-38 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1704,7 +1761,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-38e is repealed."
+            "text": "Section 46b-38e is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1852,7 +1913,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-38 l is repealed, effective July 1, 2023."
+            "text": "Section 46b-38 l is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1877,12 +1942,34 @@
           "section_key": "",
           "label": "Secs. 46b-38n to 46b-38z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815e.htm#secs_46b-38n_to_46b-38z",
+          "grouped": true,
+          "section_keys": [
+            "46b-38n",
+            "46b-38o",
+            "46b-38p",
+            "46b-38q",
+            "46b-38r",
+            "46b-38s",
+            "46b-38t",
+            "46b-38u",
+            "46b-38v",
+            "46b-38w",
+            "46b-38x",
+            "46b-38y",
+            "46b-38z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1897,7 +1984,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46b-26 and 46b-27. (Formerly Secs. 46-5c and 46-5d). Test for venereal disease and rubella prerequisite. Issuance of license. Sections 46b-26 and 46b-27 are repealed, effective October 1, 2003.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1912,7 +2002,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46b-26 and 46b-27. (Formerly Secs. 46-5c and 46-5d). Test for venereal disease and rubella prerequisite. Issuance of license. Sections 46b-26 and 46b-27 are repealed, effective October 1, 2003.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -1927,12 +2020,38 @@
           "section_key": "",
           "label": "Secs. 46b-38aa to 46b-38oo. Definitions. Eligibility. Kindred prohibited from entering into civil union. Persons authorized to join persons in a civil union. Penalty for unauthorized joining of persons in a civil union. Failure or refusal to join persons in a civil union. License; period of validity; penalty for solemnization without license; validity of civil union ceremony. Application for license. Issuance of license to person under conservatorship. Issuance of license to minor prohibited. Civil union certificate; affidavit in lieu of certificate. Evidentiary weight of certificate or affidavit. Validity of civil union celebrated in foreign country. Equality of benefits, protections and responsibilities. Applicability of statutes to civil unions, civil union status and parties to a civil union.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815f.htm#secs_46b-38aa_to_46b-38oo",
+          "grouped": true,
+          "section_keys": [
+            "46b-38aa",
+            "46b-38bb",
+            "46b-38cc",
+            "46b-38dd",
+            "46b-38ee",
+            "46b-38ff",
+            "46b-38gg",
+            "46b-38hh",
+            "46b-38ii",
+            "46b-38jj",
+            "46b-38kk",
+            "46b-38ll",
+            "46b-38mm",
+            "46b-38nn",
+            "46b-38oo"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 46b-38aa to 46b-38oo , inclusive, are repealed, effective October 1, 2010."
+            ],
+            "source": [
+              "(P.A. 05-10, S. 1–15; 05-288, S. 227, 228; P.A. 07-79, S. 7, 8; 07-245, S. 2; P.A. 09-13, S. 10, 21.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 46b-38aa to 46b-38oo , inclusive, are repealed, effective October 1, 2010.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2041,7 +2160,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use.\n\nNote: Chapters 815g to 815i are also reserved for future use."
+            "text": "Reserved for future use.\n\nNote: Chapters 815g to 815i are also reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3612,7 +3735,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-68 is repealed, effective July 1, 1997."
+            "text": "Section 46b-68 is repealed, effective July 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3896,12 +4023,25 @@
           "section_key": "",
           "label": "Secs. 46b-76 to 46b-79.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815j.htm#secs_46b-76_to_46b-79",
+          "grouped": true,
+          "section_keys": [
+            "46b-76",
+            "46b-77",
+            "46b-78",
+            "46b-79"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4455,7 +4595,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use.\n\nNote: Chapters 815k to 815n are also reserved for future use."
+            "text": "Reserved for future use.\n\nNote: Chapters 815k to 815n are also reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -4470,12 +4614,48 @@
           "section_key": "",
           "label": "Secs. 46b-90 to 46b-114. Uniform Child Custody Jurisdiction Act.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815o.htm#secs_46b-90_to_46b-114",
+          "grouped": true,
+          "section_keys": [
+            "46b-90",
+            "46b-91",
+            "46b-92",
+            "46b-93",
+            "46b-94",
+            "46b-95",
+            "46b-96",
+            "46b-97",
+            "46b-98",
+            "46b-99",
+            "46b-100",
+            "46b-101",
+            "46b-102",
+            "46b-103",
+            "46b-104",
+            "46b-105",
+            "46b-106",
+            "46b-107",
+            "46b-108",
+            "46b-109",
+            "46b-110",
+            "46b-111",
+            "46b-112",
+            "46b-113",
+            "46b-114"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 46b-90 to 46b-114 , inclusive, are repealed, effective July 1, 2000."
+            ],
+            "source": [
+              "(P.A. 78-318, S. 1–25; P.A. 95-206, S. 2; 95-316, S. 9–11; P.A. 99-185, S. 39, 40.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 46b-90 to 46b-114 , inclusive, are repealed, effective July 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4490,7 +4670,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46b-90 to 46b-114. Uniform Child Custody Jurisdiction Act. Sections 46b-90 to 46b-114 , inclusive, are repealed, effective July 1, 2000.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4505,7 +4688,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46b-90 to 46b-114. Uniform Child Custody Jurisdiction Act. Sections 46b-90 to 46b-114 , inclusive, are repealed, effective July 1, 2000.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -5848,12 +6034,25 @@
           "section_key": "",
           "label": "Secs. 46b-117 to 46b-119.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815q.htm#secs_46b-117_to_46b-119",
+          "grouped": true,
+          "section_keys": [
+            "46b-117",
+            "46b-118",
+            "46b-119"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use.",
+              "Note: Chapters 815r and 815s are also reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.\n\nNote: Chapters 815r and 815s are also reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -6036,12 +6235,26 @@
           "section_key": "",
           "label": "Secs. 46b-121c to 46b-121g.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815t.htm#secs_46b-121c_to_46b-121g",
+          "grouped": true,
+          "section_keys": [
+            "46b-121c",
+            "46b-121d",
+            "46b-121e",
+            "46b-121f",
+            "46b-121g"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6077,12 +6290,25 @@
           "section_key": "",
           "label": "Secs. 46b-121i and 46b-121j. Duties and responsibilities of the Judicial Department in providing programs and services to the juvenile justice system. Programs and probation treatment services for juvenile offenders.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815t.htm#secs_46b-121i_and_46b-121j",
+          "grouped": true,
+          "section_keys": [
+            "46b-121i",
+            "46b-121j"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 46b-121i and 46b-121j are repealed, effective July 1, 2018."
+            ],
+            "source": [
+              "(P.A. 95-225, S. 2–4, 52; P.A. 02-132, S. 19; P.A. 18-31, S. 43.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 46b-121i and 46b-121j are repealed, effective July 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6120,7 +6346,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-121 l is repealed, effective July 1, 2018."
+            "text": "Section 46b-121 l is repealed, effective July 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6136,7 +6366,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-121m is repealed, effective July 1, 2009."
+            "text": "Section 46b-121m is repealed, effective July 1, 2009.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6501,12 +6735,26 @@
           "section_key": "",
           "label": "Secs. 46b-123c to 46b-123e. Commission on Child Protection; membership; duties. Chief Child Protection Attorney; duties; contracts for legal services. Eligibility for counsel in family relations or juvenile matters; procedure for appointment or assignment.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815t.htm#secs_46b-123c_to_46b-123e",
+          "grouped": true,
+          "section_keys": [
+            "46b-123c",
+            "46b-123d",
+            "46b-123e"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 46b-123c to 46b-123e , inclusive, are repealed, effective July 1, 2011."
+            ],
+            "source": [
+              "(June Sp. Sess. P.A. 05-3, S. 44–46; P.A. 06-187, S. 23, 24; P.A. 07-159, S. 2–4; P.A. 11-51, S. 223.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 46b-123c to 46b-123e , inclusive, are repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6674,7 +6922,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-126 is repealed, effective July 1, 2018."
+            "text": "Section 46b-126 is repealed, effective July 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7156,7 +7408,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-131 is repealed."
+            "text": "Section 46b-131 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8017,15 +8273,29 @@
           }
         },
         {
-          "section_key": "51-322",
+          "section_key": "",
           "label": "Secs. 46b-141 (Formerly Sec. 51-322) to 46b-141b. Length of commitments; motion for extension of commitment; permanency hearing; permanency plan; reopening and termination. Placement of delinquent child in alternative incarceration program. Probation treatment plan.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815t.htm#secs_46b-141_to_46b-141b",
+          "grouped": true,
+          "section_keys": [
+            "46b-141",
+            "46b-141a",
+            "46b-141b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 46b-141 to 46b-141b are repealed, effective July 1, 2018."
+            ],
+            "source": [
+              "(1949 Rev., S. 2814; 1955, S. 1579d; 1969, P.A. 664, S. 10; 1971, P.A. 151; P.A. 76-436, S. 31, 681; P.A. 79-581, S. 7; P.A. 81-472, S. 84, 159; P.A. 84-389, S. 2; P.A. 92-167, S. 1, 3; P.A. 93-91, S. 1, 2; P.A. 94-136, S. 3; P.A. 95-225, S. 5, 23, 24, 52; June Sp. Sess. P.A. 01-2, S. 34, 69: June Sp. Sess. P.A. 01-9, S. 129, 131; P.A. 02-132, S. 24, 25; P.A. 03-19, S. 108; P.A. 11-157, S. 17; P.A. 15-199, S. 4; P.A. 18-31, S. 43.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 46b-141 to 46b-141b are repealed, effective July 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8305,19 +8575,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-147a is repealed, effective October 1, 2017."
+            "text": "Section 46b-147a is repealed, effective October 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
-          "section_key": "51-329",
+          "section_key": "",
           "label": "Secs. 46b-148 (Formerly Sec. 51-329) and 46b-149. Child from family with service needs not to be held in juvenile residential center or convicted as delinquent for violation of court order re future conduct; court determination re placement or commitment of child from family with service needs. Child from family with service needs; complaint; review by probation officer; referral for services; procedure; hearing; order; modification of conditions; permanency plan and hearing.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815t.htm#secs_46b-148_and_46b-149",
+          "grouped": true,
+          "section_keys": [
+            "46b-148",
+            "46b-149"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 46b-148 and 46b-149 are repealed, effective July 1, 2023."
+            ],
+            "source": [
+              "(1949 Rev., S. 2819; P.A. 76-436, S. 33, 681; P.A. 79-567, S. 3, 7; P.A. 80-401, S. 1, 4; P.A. 82-335; P.A. 85-226, S. 2, 3; P.A. 88-214, S. 1, 4; P.A. 89-273, S. 7, 8; P.A. 90-240, S. 3, 6; 90-325, S. 19, 32; P.A. 91-303, S. 12, 22; P.A. 92-167, S. 2, 3; P.A. 93-91, S. 1, 2; 93-340, S. 17; 93-435, S. 26, 95; May 25 Sp. Sess. P.A. 94-1, S. 94, 130; P.A. 95-339, S. 6, 8; P.A. 96-178, S. 11, 18; P.A. 98-183, S. 4, 5; P.A. 02-132, S. 26; P.A. 03-255, S. 4; P.A. 05-250, S. 2; June Sp. Sess. P.A. 07-4, S. 30; P.A. 08-86, S. 1, 2; P.A. 10-32, S. 141; June Sp. Sess. P.A. 17-2, S. 145; P.A. 19-187, S. 9; P.A. 21-104, S. 33; P.A. 23-46, S. 45.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 46b-148 and 46b-149 are repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8370,7 +8657,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-149c is repealed, effective July 1, 2023."
+            "text": "Section 46b-149c is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8386,19 +8677,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-149d is repealed, effective July 1, 2005."
+            "text": "Section 46b-149d is repealed, effective July 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 46b-149e and 46b-149f. Family support centers. Child from family with service needs who violates valid court order or is in imminent risk of physical harm; petition; hearing; order.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815t.htm#secs_46b-149e_and_46b-149f",
+          "grouped": true,
+          "section_keys": [
+            "46b-149e",
+            "46b-149f"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 46b-149e and 46b-149f are repealed, effective July 1, 2023."
+            ],
+            "source": [
+              "(June Sp. Sess. P.A. 07-4, S. 31, 32; P.A. 08-86, S. 3; June Sp. Sess. P.A. 17-2, S. 148; P.A. 19-187, S. 10; P.A. 23-46, S. 45.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 46b-149e and 46b-149f are repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8543,12 +8851,26 @@
           "section_key": "",
           "label": "Secs. 46b-150f to 46b-150h. Youth in crisis; petition; court orders; violations. Duties of police officer re youth in crisis. Youth in crisis pilot program in Middletown probate district.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815t.htm#secs_46b-150f_to_46b-150h",
+          "grouped": true,
+          "section_keys": [
+            "46b-150f",
+            "46b-150g",
+            "46b-150h"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 46b-150f to 46b-150h , inclusive, are repealed, effective July 1, 2012."
+            ],
+            "source": [
+              "(P.A. 00-177, S. 3–5; P.A. 01-195, S. 100, 181; P.A. 02-109, S. 5; P.A. 03-257, S. 2, 3, 5; June Sp. Sess. P.A. 07-4, S. 123; P.A. 08-41, S. 1; Sept. Sp. Sess. P.A. 09-7, S. 79–81.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 46b-150f to 46b-150h , inclusive, are repealed, effective July 1, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8571,12 +8893,32 @@
           "section_key": "",
           "label": "Secs. 46b-151 to 46b-151g. (Formerly Secs. 17-75 to 17-81). Declaration of policy. Compact. Amendment to compact concerning interstate rendition of juveniles alleged to be delinquent. Compact administrator. Supplementary agreements. Payments by state. Enforcement of compact. Additional procedure for return of juveniles.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815t.htm#secs_46b-151_to_46b-151g",
+          "grouped": true,
+          "section_keys": [
+            "46b-151",
+            "46b-151a",
+            "46b-151b",
+            "46b-151c",
+            "46b-151d",
+            "46b-151e",
+            "46b-151f",
+            "46b-151g"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 46b-151 to 46b-151g , inclusive, are repealed, effective August 26, 2008.*"
+            ],
+            "source": [
+              "(1957, P.A. 363, S. 1–7; P.A. 83-281, S. 1, 2; P.A. 88-214, S. 3, 4; P.A. 90-230, S. 24, 101; P.A. 91-406, S. 19, 29; June Sp. Sess. P.A. 98-1, S. 72, 121; P.A. 03-255, S. 5.)",
+              "*Note: P.A. 03-255 repealed these sections effective “July 1, 2004, or upon enactment of the Interstate Compact for Juveniles by thirty-five jurisdictions, whichever is later”; Illinois became the thirty-fifth enacting jurisdiction on August 26, 2008."
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 46b-151 to 46b-151g , inclusive, are repealed, effective August 26, 2008.*",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8781,12 +9123,30 @@
           "section_key": "",
           "label": "Secs. 46b-152 to 46b-159.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815t.htm#secs_46b-152_to_46b-159",
+          "grouped": true,
+          "section_keys": [
+            "46b-152",
+            "46b-153",
+            "46b-154",
+            "46b-155",
+            "46b-156",
+            "46b-157",
+            "46b-158",
+            "46b-159"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use.",
+              "Note: Chapters 815u to 815x are also reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.\n\nNote: Chapters 815u to 815x are also reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8801,7 +9161,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46b-121i and 46b-121j. Duties and responsibilities of the Judicial Department in providing programs and services to the juvenile justice system. Programs and probation treatment services for juvenile offenders. Sections 46b-121i and 46b-121j are repealed, effective July 1, 2018.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8816,7 +9179,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46b-121i and 46b-121j. Duties and responsibilities of the Judicial Department in providing programs and services to the juvenile justice system. Programs and probation treatment services for juvenile offenders. Sections 46b-121i and 46b-121j are repealed, effective July 1, 2018.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8831,7 +9197,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46b-123c to 46b-123e. Commission on Child Protection; membership; duties. Chief Child Protection Attorney; duties; contracts for legal services. Eligibility for counsel in family relations or juvenile matters; procedure for appointment or assignment. Sections 46b-123c to 46b-123e , inclusive, are repealed, effective July 1, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8846,7 +9215,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46b-123c to 46b-123e. Commission on Child Protection; membership; duties. Chief Child Protection Attorney; duties; contracts for legal services. Eligibility for counsel in family relations or juvenile matters; procedure for appointment or assignment. Sections 46b-123c to 46b-123e , inclusive, are repealed, effective July 1, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8861,7 +9233,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46b-141 (Formerly Sec. 51-322) to 46b-141b. Length of commitments; motion for extension of commitment; permanency hearing; permanency plan; reopening and termination. Placement of delinquent child in alternative incarceration program. Probation treatment plan. Sections 46b-141 to 46b-141b are repealed, effective July 1, 2018.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8876,7 +9251,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46b-141 (Formerly Sec. 51-322) to 46b-141b. Length of commitments; motion for extension of commitment; permanency hearing; permanency plan; reopening and termination. Placement of delinquent child in alternative incarceration program. Probation treatment plan. Sections 46b-141 to 46b-141b are repealed, effective July 1, 2018.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8921,7 +9299,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46b-149e and 46b-149f. Family support centers. Child from family with service needs who violates valid court order or is in imminent risk of physical harm; petition; hearing; order. Sections 46b-149e and 46b-149f are repealed, effective July 1, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8936,7 +9317,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46b-149e and 46b-149f. Family support centers. Child from family with service needs who violates valid court order or is in imminent risk of physical harm; petition; hearing; order. Sections 46b-149e and 46b-149f are repealed, effective July 1, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8951,7 +9335,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46b-150f to 46b-150h. Youth in crisis; petition; court orders; violations. Duties of police officer re youth in crisis. Youth in crisis pilot program in Middletown probate district. Sections 46b-150f to 46b-150h , inclusive, are repealed, effective July 1, 2012.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8966,7 +9353,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46b-150f to 46b-150h. Youth in crisis; petition; court orders; violations. Duties of police officer re youth in crisis. Youth in crisis pilot program in Middletown probate district. Sections 46b-150f to 46b-150h , inclusive, are repealed, effective July 1, 2012.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9011,12 +9401,25 @@
           "section_key": "",
           "label": "Secs. 46b-160 to 46b-163.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815y.htm#secs_46b-160_to_46b-163",
+          "grouped": true,
+          "section_keys": [
+            "46b-160",
+            "46b-161",
+            "46b-162",
+            "46b-163"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 818, Part II, Secs. 46b-560 to 46b-563 ."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 818, Part II, Secs. 46b-560 to 46b-563 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9032,7 +9435,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-164 is repealed, effective July 1, 1997."
+            "text": "Section 46b-164 is repealed, effective July 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9046,7 +9453,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 818, Part II, Sec. 46b-564 ."
+            "text": "Transferred to Chapter 818, Part II, Sec. 46b-564 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9062,7 +9473,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-166 is repealed, effective January 1, 2022."
+            "text": "Section 46b-166 is repealed, effective January 1, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9078,19 +9493,34 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-167 is repealed, effective January 1, 2022."
+            "text": "Section 46b-167 is repealed, effective January 1, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 46b-168 to 46b-172a.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815y.htm#secs_46b-168_to_46b-172a",
+          "grouped": true,
+          "section_keys": [
+            "46b-168",
+            "46b-172a"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 818, Part II, Secs. 46b-565 to 46b-571 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 818, Part II, Secs. 46b-565 to 46b-571 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9106,7 +9536,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-173 is repealed."
+            "text": "Section 46b-173 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9120,7 +9554,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 818, Part II, Sec. 46b-572 ."
+            "text": "Transferred to Chapter 818, Part II, Sec. 46b-572 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -9136,19 +9574,34 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-175 is repealed."
+            "text": "Section 46b-175 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 46b-176 to 46b-179d.",
           "url": "https://www.cga.ct.gov/current/pub/chap_815y.htm#secs_46b-176_to_46b-179d",
+          "grouped": true,
+          "section_keys": [
+            "46b-176",
+            "46b-179d"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 818, Part II, Secs. 46b-573 to 46b-580 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 818, Part II, Secs. 46b-573 to 46b-580 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]
@@ -9163,12 +9616,30 @@
           "section_key": "",
           "label": "Secs. 46b-180 to 46b-186. (Formerly Secs. 17-327 to 17-333). Definitions. Remedies additional to existing remedies. Extent of duties of support. Remedies of a state or political subdivision thereof furnishing support. Choice of law. How duties of support are enforced. Attorney General to represent petitioner in support proceedings.",
           "url": "https://www.cga.ct.gov/current/pub/chap_816.htm#secs_46b-180_to_46b-186",
+          "grouped": true,
+          "section_keys": [
+            "46b-180",
+            "46b-181",
+            "46b-182",
+            "46b-183",
+            "46b-184",
+            "46b-185",
+            "46b-186"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 46b-180 to 46b-186 , inclusive, are repealed, effective January 1, 1998."
+            ],
+            "source": [
+              "(1949, 1395b; 1951, S. 1395b, 1400b; 1953, S. 3237d–3242d; 3244d; 1961, P.A. 475, S. 1, 2; 1969, P.A. 655, S. 1; P.A. 73-51; P.A. 76-17, S. 1; 76-436, S. 369, 371, 372, 681; P.A. 77-452, S. 22, 71, 72; P.A. 80-180, S. 1; P.A. 81-472, S. 85, 159; P.A. 86-359, S. 3–5, 44; P.A. 87-316, S. 4; June 18 Sp. Sess. P.A. 97-1, S. 74, 75.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 46b-180 to 46b-186 , inclusive, are repealed, effective January 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9184,19 +9655,53 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-187 is repealed."
+            "text": "Section 46b-187 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 46b-188 to 46b-206. (Formerly Secs. 17-335 to 17-353 et al). Contents of petition for support. Petition for a minor. Duty of Family Support Magistrate Division acting for state as initiating state. Costs and fees. Jurisdiction by arrest. State information agency. Duty of Support Enforcement Division of this state as responding state. Further duty of responding state if unable to obtain jurisdiction. Investigation; payment of support orders. Procedure. Order of support. “Support order” defined. Registration of support orders from other states. Enforcement and modification of registered support orders. Responding state to transmit copies to initiating state. Additional powers of Family Support Magistrate Division. Additional duties of Support Enforcement Division of this state when acting as a responding state. Additional duty of the court of this state when acting as an initiating state. Husband and wife privilege inapplicable. Application of payments. Temporary order. Appeal.",
           "url": "https://www.cga.ct.gov/current/pub/chap_816.htm#secs_46b-188_to_46b-206",
+          "grouped": true,
+          "section_keys": [
+            "46b-188",
+            "46b-189",
+            "46b-190",
+            "46b-191",
+            "46b-192",
+            "46b-193",
+            "46b-194",
+            "46b-195",
+            "46b-196",
+            "46b-197",
+            "46b-198",
+            "46b-199",
+            "46b-200",
+            "46b-201",
+            "46b-202",
+            "46b-203",
+            "46b-204",
+            "46b-205",
+            "46b-206"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 46b-188 to 46b-206 , inclusive, are repealed, effective January 1, 1998."
+            ],
+            "source": [
+              "(1949, S. 1399b(a),(f)–(i),(k),(n),(p), 1404b, 1405b; 1953, S. 3243d, 3243d, 3246d–3263d; 1957, P.A. 631; 1961, P.A. 475, S. 3, 4; 1967, P.A. 314, S. 13; 1969, P.A. 297; P.A. 73-373, S. 35; P.A. 76-436, S. 370, 681; P.A. 77-614, S. 486, 587, 614; P.A. 78-280, S. 26, 127; P.A. 78-303, S. 85, 136; P.A. 80-180, S. 2–4; P.A. 83-527, S. 3–8; P.A. 86-359, S. 6–23, 44; P.A. 87-316, S. 5; P.A. 90-188, S. 4; 90-213, S. 21–29; P.A. 91-76, S. 4, 7; P.A. 93-396, S. 3, 4; June 18 Sp. Sess. P.A. 97-1, S. 74, 75.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 46b-188 to 46b-206 , inclusive, are repealed, effective January 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9239,12 +9744,25 @@
           "section_key": "",
           "label": "Secs. 46b-209 and 46b-210. (Formerly Secs. 17-355 and 17-355a). Uniformity of interpretation. Proceedings not stayed by other pending actions.",
           "url": "https://www.cga.ct.gov/current/pub/chap_816.htm#secs_46b-209_and_46b-210",
+          "grouped": true,
+          "section_keys": [
+            "46b-209",
+            "46b-210"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 46b-209 and 46b-210 are repealed, effective January 1, 1998."
+            ],
+            "source": [
+              "(1949, S. 1403b; 1953, S. 3265d; 1961, P.A. 475, S. 5; June 18 Sp. Sess. P.A. 97-1, S. 74, 75.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 46b-209 and 46b-210 are repealed, effective January 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9269,12 +9787,25 @@
           "section_key": "",
           "label": "Secs. 46b-212 to 46b-213w. Short title: Uniform Interstate Family Support Act. Definitions. Tribunals of state. Remedies cumulative. Jurisdiction over nonresident. Procedure when exercising jurisdiction over nonresident. Family Support Magistrate Division as initiating and responding tribunal. Simultaneous proceedings in another state. Continuing, exclusive jurisdiction of Family Support Magistrate Division or Superior Court, when. Enforcement of support order by Family Support Magistrate Division. Recognition of controlling child support orders. Child support orders for two or more obligees. Credit for support payments. Applicable law; initiating a proceeding. Action by minor parent. Applicability of state law. Duties of the initiating tribunal; duties of the family support magistrate. Duties and powers of responding tribunal; duties of family support magistrate. Inappropriate tribunal. Duties of support enforcement agency. Legal services by Attorney General; private counsel. Duty of Commissioner of Social Services. Duties of state information agency. Pleadings and accompanying documents. Nondisclosure of information in exceptional circumstances. Costs and fees. Limited immunity of petitioner. Nonpaternity as defense. Special rules of evidence and procedure. Communication between tribunals. Assistance with discovery. Receipt, disbursement and redirection of support payments. Issuance of support order. Administrative enforcement of orders. Registration of order for enforcement. Procedure to register order for enforcement. Effect of registration for enforcement. Choice of law. Notice of registration of order. Procedure to contest validity or enforcement of registered order. Contest of registration or enforcement. Confirmation of registered order. Procedure re registration of child support order of another state for modification. Effect of registration for modification. Modification of child support order of another state. Enforcement and recognition of order modified in another state. Proceeding to determine paternity. Surrender and extradition of individual criminally charged with failure to provide support. Conditions of rendition. Uniformity in application and construction of the Uniform Interstate Family Support Act. Duties of employer re income withholding order issued in another state; notice and claim form distributed by Department of Social Services; contents of form; multiple income withholding orders; penalty for noncompliance; contest by obligor.",
           "url": "https://www.cga.ct.gov/current/pub/chap_816.htm#secs_46b-212_to_46b-213w",
+          "grouped": true,
+          "section_keys": [
+            "46b-212",
+            "46b-213w"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 46b-212 to 46b-213w , inclusive, are repealed, effective July 1, 2015."
+            ],
+            "source": [
+              "(June 18 Sp. Sess. P.A. 97-1, S. 1–50, 73, 75; P.A. 99-193, S. 8, 9, 16; P.A. 00-196, S. 28, 29; P.A. 01-91, S. 8–16; 01-207, S. 8, 12; P.A. 03-19, S. 109; P.A. 07-247, S. 14–56; P.A. 09-8, S. 12–15; P.A. 11-214, S. 17; 11-219, S. 13; P.A. 15-71, S. 94.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 46b-212 to 46b-213w , inclusive, are repealed, effective July 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9292,7 +9823,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use.\n\n*See Sec. 17b-745 re court orders for support of persons supported by state and re wage executions.\n\nSee Sec. 17b-746 re appeals from support orders.\n\nSecs. 46b-215 to 46b-219 cited. 178 C. 675.\n\nCited. 42 CS 562."
+            "text": "Reserved for future use.\n\n*See Sec. 17b-745 re court orders for support of persons supported by state and re wage executions.\n\nSee Sec. 17b-746 re appeals from support orders.\n\nSecs. 46b-215 to 46b-219 cited. 178 C. 675.\n\nCited. 42 CS 562.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -9792,12 +10327,26 @@
           "section_key": "",
           "label": "Secs. 46b-226 to 46b-230.",
           "url": "https://www.cga.ct.gov/current/pub/chap_816.htm#secs_46b-226_to_46b-230",
+          "grouped": true,
+          "section_keys": [
+            "46b-226",
+            "46b-227",
+            "46b-228",
+            "46b-229",
+            "46b-230"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -10047,7 +10596,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 46b-234 is repealed, effective June 23, 1999."
+            "text": "Section 46b-234 is repealed, effective June 23, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10093,12 +10646,85 @@
           "section_key": "",
           "label": "Secs. 46b-237 to 46b-300.",
           "url": "https://www.cga.ct.gov/current/pub/chap_816.htm#secs_46b-237_to_46b-300",
+          "grouped": true,
+          "section_keys": [
+            "46b-237",
+            "46b-238",
+            "46b-239",
+            "46b-240",
+            "46b-241",
+            "46b-242",
+            "46b-243",
+            "46b-244",
+            "46b-245",
+            "46b-246",
+            "46b-247",
+            "46b-248",
+            "46b-249",
+            "46b-250",
+            "46b-251",
+            "46b-252",
+            "46b-253",
+            "46b-254",
+            "46b-255",
+            "46b-256",
+            "46b-257",
+            "46b-258",
+            "46b-259",
+            "46b-260",
+            "46b-261",
+            "46b-262",
+            "46b-263",
+            "46b-264",
+            "46b-265",
+            "46b-266",
+            "46b-267",
+            "46b-268",
+            "46b-269",
+            "46b-270",
+            "46b-271",
+            "46b-272",
+            "46b-273",
+            "46b-274",
+            "46b-275",
+            "46b-276",
+            "46b-277",
+            "46b-278",
+            "46b-279",
+            "46b-280",
+            "46b-281",
+            "46b-282",
+            "46b-283",
+            "46b-284",
+            "46b-285",
+            "46b-286",
+            "46b-287",
+            "46b-288",
+            "46b-289",
+            "46b-290",
+            "46b-291",
+            "46b-292",
+            "46b-293",
+            "46b-294",
+            "46b-295",
+            "46b-296",
+            "46b-297",
+            "46b-298",
+            "46b-299",
+            "46b-300"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -10173,7 +10799,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46b-209 and 46b-210. (Formerly Secs. 17-355 and 17-355a). Uniformity of interpretation. Proceedings not stayed by other pending actions. Sections 46b-209 and 46b-210 are repealed, effective January 1, 1998.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10188,7 +10817,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 46b-209 and 46b-210. (Formerly Secs. 17-355 and 17-355a). Uniformity of interpretation. Proceedings not stayed by other pending actions. Sections 46b-209 and 46b-210 are repealed, effective January 1, 1998.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10356,12 +10988,26 @@
           "section_key": "",
           "label": "Secs. 46b-306 to 46b-310.",
           "url": "https://www.cga.ct.gov/current/pub/chap_817.htm#secs_46b-306_to_46b-310",
+          "grouped": true,
+          "section_keys": [
+            "46b-306",
+            "46b-307",
+            "46b-308",
+            "46b-309",
+            "46b-310"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -10585,12 +11231,26 @@
           "section_key": "",
           "label": "Secs. 46b-322 to 46b-326.",
           "url": "https://www.cga.ct.gov/current/pub/chap_817.htm#secs_46b-322_to_46b-326",
+          "grouped": true,
+          "section_keys": [
+            "46b-322",
+            "46b-323",
+            "46b-324",
+            "46b-325",
+            "46b-326"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -10969,12 +11629,26 @@
           "section_key": "",
           "label": "Secs. 46b-346 to 46b-350.",
           "url": "https://www.cga.ct.gov/current/pub/chap_817.htm#secs_46b-346_to_46b-350",
+          "grouped": true,
+          "section_keys": [
+            "46b-346",
+            "46b-347",
+            "46b-348",
+            "46b-349",
+            "46b-350"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11019,12 +11693,26 @@
           "section_key": "",
           "label": "Secs. 46b-353 to 46b-357.",
           "url": "https://www.cga.ct.gov/current/pub/chap_817.htm#secs_46b-353_to_46b-357",
+          "grouped": true,
+          "section_keys": [
+            "46b-353",
+            "46b-354",
+            "46b-355",
+            "46b-356",
+            "46b-357"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11162,12 +11850,26 @@
           "section_key": "",
           "label": "Secs. 46b-365 to 46b-369.",
           "url": "https://www.cga.ct.gov/current/pub/chap_817.htm#secs_46b-365_to_46b-369",
+          "grouped": true,
+          "section_keys": [
+            "46b-365",
+            "46b-366",
+            "46b-367",
+            "46b-368",
+            "46b-369"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11255,12 +11957,24 @@
           "section_key": "",
           "label": "Secs. 46b-374 to 46b-376.",
           "url": "https://www.cga.ct.gov/current/pub/chap_817.htm#secs_46b-374_to_46b-376",
+          "grouped": true,
+          "section_keys": [
+            "46b-374",
+            "46b-375",
+            "46b-376"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11346,12 +12060,24 @@
           "section_key": "",
           "label": "Secs. 46b-381 to 46b-383.",
           "url": "https://www.cga.ct.gov/current/pub/chap_817.htm#secs_46b-381_to_46b-383",
+          "grouped": true,
+          "section_keys": [
+            "46b-381",
+            "46b-382",
+            "46b-383"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11472,12 +12198,24 @@
           "section_key": "",
           "label": "Secs. 46b-390 to 46b-392.",
           "url": "https://www.cga.ct.gov/current/pub/chap_817.htm#secs_46b-390_to_46b-392",
+          "grouped": true,
+          "section_keys": [
+            "46b-390",
+            "46b-391",
+            "46b-392"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11521,12 +12259,24 @@
           "section_key": "",
           "label": "Secs. 46b-395 to 46b-397.",
           "url": "https://www.cga.ct.gov/current/pub/chap_817.htm#secs_46b-395_to_46b-397",
+          "grouped": true,
+          "section_keys": [
+            "46b-395",
+            "46b-396",
+            "46b-397"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11797,12 +12547,26 @@
           "section_key": "",
           "label": "Secs. 46b-411 to 46b-415.",
           "url": "https://www.cga.ct.gov/current/pub/chap_817.htm#secs_46b-411_to_46b-415",
+          "grouped": true,
+          "section_keys": [
+            "46b-411",
+            "46b-412",
+            "46b-413",
+            "46b-414",
+            "46b-415"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11849,12 +12613,26 @@
           "section_key": "",
           "label": "Secs. 46b-418 to 46b-422.",
           "url": "https://www.cga.ct.gov/current/pub/chap_817.htm#secs_46b-418_to_46b-422",
+          "grouped": true,
+          "section_keys": [
+            "46b-418",
+            "46b-419",
+            "46b-420",
+            "46b-421",
+            "46b-422"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12053,12 +12831,24 @@
           "section_key": "",
           "label": "Secs. 46b-455 to 46b-457.",
           "url": "https://www.cga.ct.gov/current/pub/chap_818.htm#secs_46b-455_to_46b-457",
+          "grouped": true,
+          "section_keys": [
+            "46b-455",
+            "46b-456",
+            "46b-457"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12786,12 +13576,24 @@
           "section_key": "",
           "label": "Secs. 46b-492 to 46b-494.",
           "url": "https://www.cga.ct.gov/current/pub/chap_818.htm#secs_46b-492_to_46b-494",
+          "grouped": true,
+          "section_keys": [
+            "46b-492",
+            "46b-493",
+            "46b-494"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -13040,12 +13842,24 @@
           "section_key": "",
           "label": "Secs. 46b-506 to 46b-508.",
           "url": "https://www.cga.ct.gov/current/pub/chap_818.htm#secs_46b-506_to_46b-508",
+          "grouped": true,
+          "section_keys": [
+            "46b-506",
+            "46b-507",
+            "46b-508"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -13228,12 +14042,24 @@
           "section_key": "",
           "label": "Secs. 46b-518 to 46b-520.",
           "url": "https://www.cga.ct.gov/current/pub/chap_818.htm#secs_46b-518_to_46b-520",
+          "grouped": true,
+          "section_keys": [
+            "46b-518",
+            "46b-519",
+            "46b-520"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -13646,12 +14472,24 @@
           "section_key": "",
           "label": "Secs. 46b-539 to 46b-541.",
           "url": "https://www.cga.ct.gov/current/pub/chap_818.htm#secs_46b-539_to_46b-541",
+          "grouped": true,
+          "section_keys": [
+            "46b-539",
+            "46b-540",
+            "46b-541"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -13776,12 +14614,24 @@
           "section_key": "",
           "label": "Secs. 46b-548 to 46b-550.",
           "url": "https://www.cga.ct.gov/current/pub/chap_818.htm#secs_46b-548_to_46b-550",
+          "grouped": true,
+          "section_keys": [
+            "46b-548",
+            "46b-549",
+            "46b-550"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -13842,12 +14692,27 @@
           "section_key": "",
           "label": "Secs. 46b-554 to 46b-559.",
           "url": "https://www.cga.ct.gov/current/pub/chap_818.htm#secs_46b-554_to_46b-559",
+          "grouped": true,
+          "section_keys": [
+            "46b-554",
+            "46b-555",
+            "46b-556",
+            "46b-557",
+            "46b-558",
+            "46b-559"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {

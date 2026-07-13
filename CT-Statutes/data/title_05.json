@@ -14,12 +14,25 @@
           "section_key": "",
           "label": "Secs. 5-1 to 5-93b. State employment.",
           "url": "https://www.cga.ct.gov/current/pub/chap_063.htm#secs_5-1_to_5-93b",
+          "grouped": true,
+          "section_keys": [
+            "5-1",
+            "5-93b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 5-1 to 5-93b , inclusive, are repealed."
+            ],
+            "source": [
+              "(1967, P.A. 657, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 5-1 to 5-93b , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -34,7 +47,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 5-1 to 5-93b. State employment. Sections 5-1 to 5-93b , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -49,7 +65,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 5-1 to 5-93b. State employment. Sections 5-1 to 5-93b , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -64,12 +83,71 @@
           "section_key": "",
           "label": "Secs. 5-94 to 5-141. Retirement.",
           "url": "https://www.cga.ct.gov/current/pub/chap_064.htm#secs_5-94_to_5-141",
+          "grouped": true,
+          "section_keys": [
+            "5-94",
+            "5-95",
+            "5-96",
+            "5-97",
+            "5-98",
+            "5-99",
+            "5-100",
+            "5-101",
+            "5-102",
+            "5-103",
+            "5-104",
+            "5-105",
+            "5-106",
+            "5-107",
+            "5-108",
+            "5-109",
+            "5-110",
+            "5-111",
+            "5-112",
+            "5-113",
+            "5-114",
+            "5-115",
+            "5-116",
+            "5-117",
+            "5-118",
+            "5-119",
+            "5-120",
+            "5-121",
+            "5-122",
+            "5-123",
+            "5-124",
+            "5-125",
+            "5-126",
+            "5-127",
+            "5-128",
+            "5-129",
+            "5-130",
+            "5-131",
+            "5-132",
+            "5-133",
+            "5-134",
+            "5-135",
+            "5-136",
+            "5-137",
+            "5-138",
+            "5-139",
+            "5-140",
+            "5-141"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 5-94 to 5-141 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1961, P.A. 234, S. 34.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 5-94 to 5-141 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -84,7 +162,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 5-94 to 5-141. Retirement. Sections 5-94 to 5-141 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -99,7 +180,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 5-94 to 5-141. Retirement. Sections 5-94 to 5-141 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -123,7 +207,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-141a is repealed."
+            "text": "Section 5-141a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -492,7 +580,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-148 is repealed."
+            "text": "Section 5-148 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -668,7 +760,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-155 is repealed."
+            "text": "Section 5-155 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -938,7 +1034,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-156f is repealed, effective October 1, 2002."
+            "text": "Section 5-156f is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1402,7 +1502,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-162a is repealed."
+            "text": "Section 5-162a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1436,7 +1540,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-162c is repealed."
+            "text": "Section 5-162c is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1473,7 +1581,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-162e is repealed."
+            "text": "Section 5-162e is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1802,7 +1914,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-165b is repealed, effective October 1, 2002."
+            "text": "Section 5-165b is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2044,7 +2160,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-172a is repealed, effective October 1, 2002."
+            "text": "Section 5-172a is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2404,7 +2524,11 @@
                 "text": "Cited. 1 CA 454."
               }
             ],
-            "text": "(a) The employees of any county participating in chapter 48 of the general statutes, revision of 1949, who were taken into state service under the provisions of section 1464d of the 1955 supplement thereto shall be credited with their entire period of service as employees of such county for retirement purposes; provided there has been transferred to the retirement fund from the Municipal Employees' Retirement Fund the amount paid into said municipal fund under the provisions of section 894 and subsections (b) and (c) of section 895 of the general statutes, revision of 1949, on account of the service of such employees as county employees, plus such amount as the Retirement Commission determined, on sound actuarial principles, represented the contributions to said municipal fund made by such county under subsection (a) of section 895 on account of the prior service of such employees, together with interest at the rate of two and one-half per cent compounded annually from the date of each such payment into said municipal fund to the date of transfer of such employees into state service, less any amount expended from said municipal fund by the Retirement Commission as compensation for actuarial services in connection with the computation of such amount.\n\n(b) The contributions made by any such employee to the Municipal Employees' Retirement Fund and so transferred under the provisions of this section may, if such employee leaves the employment of the state before becoming eligible to retire, be withdrawn by him, on request, without interest, in the same manner as is provided in section 5-166 for the withdrawal of his contributions to the State Employees Retirement Fund."
+            "text": "(a) The employees of any county participating in chapter 48 of the general statutes, revision of 1949, who were taken into state service under the provisions of section 1464d of the 1955 supplement thereto shall be credited with their entire period of service as employees of such county for retirement purposes; provided there has been transferred to the retirement fund from the Municipal Employees' Retirement Fund the amount paid into said municipal fund under the provisions of section 894 and subsections (b) and (c) of section 895 of the general statutes, revision of 1949, on account of the service of such employees as county employees, plus such amount as the Retirement Commission determined, on sound actuarial principles, represented the contributions to said municipal fund made by such county under subsection (a) of section 895 on account of the prior service of such employees, together with interest at the rate of two and one-half per cent compounded annually from the date of each such payment into said municipal fund to the date of transfer of such employees into state service, less any amount expended from said municipal fund by the Retirement Commission as compensation for actuarial services in connection with the computation of such amount.\n\n(b) The contributions made by any such employee to the Municipal Employees' Retirement Fund and so transferred under the provisions of this section may, if such employee leaves the employment of the state before becoming eligible to retire, be withdrawn by him, on request, without interest, in the same manner as is provided in section 5-166 for the withdrawal of his contributions to the State Employees Retirement Fund.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -2679,7 +2803,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-191a is repealed, effective October 1, 2002."
+            "text": "Section 5-191a is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3218,12 +3346,36 @@
           "section_key": "",
           "label": "Secs. 5-192y to 5-192mm.",
           "url": "https://www.cga.ct.gov/current/pub/chap_066.htm#secs_5-192y_to_5-192mm",
+          "grouped": true,
+          "section_keys": [
+            "5-192y",
+            "5-192z",
+            "5-192aa",
+            "5-192bb",
+            "5-192cc",
+            "5-192dd",
+            "5-192ee",
+            "5-192ff",
+            "5-192gg",
+            "5-192hh",
+            "5-192ii",
+            "5-192jj",
+            "5-192kk",
+            "5-192ll",
+            "5-192mm"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -3384,12 +3536,25 @@
           "section_key": "",
           "label": "Secs. 5-196a and 5-196b. “Commissioner” and “department” defined. “Personnel Commissioner” and “Personnel Department”, terminology change.",
           "url": "https://www.cga.ct.gov/current/pub/chap_067.htm#secs_5-196a_and_5-196b",
+          "grouped": true,
+          "section_keys": [
+            "5-196a",
+            "5-196b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 5-196a and 5-196b are repealed."
+            ],
+            "source": [
+              "(P.A. 73-677, S. 1; P.A. 75-519, S. 1, 7, 12; P.A. 77-614, S. 66, 609, 610.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 5-196a and 5-196b are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3483,19 +3648,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-199 is repealed, effective July 1, 1996."
+            "text": "Section 5-199 is repealed, effective July 1, 1996.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 5-199a and 5-199b. Bureaus established. Deputy commissioners; qualifications; appointment; powers. Exempt positions.",
           "url": "https://www.cga.ct.gov/current/pub/chap_067.htm#secs_5-199a_and_5-199b",
+          "grouped": true,
+          "section_keys": [
+            "5-199a",
+            "5-199b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 5-199a and 5-199b are repealed."
+            ],
+            "source": [
+              "(P.A. 73-677, S. 4, 5; P.A. 75-519, S. 11, 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 5-199a and 5-199b are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3676,7 +3858,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-200d is repealed, effective July 13, 2005."
+            "text": "Section 5-200d is repealed, effective July 13, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3717,7 +3903,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-201a is repealed."
+            "text": "Section 5-201a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3847,7 +4037,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-205 is repealed."
+            "text": "Section 5-205 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4041,12 +4235,26 @@
           "section_key": "",
           "label": "Secs. 5-210a, 5-210b and 5-211. Employee anniversary dates for fiscal 1975-76. Payment of partial increments for fiscal 1975-76. Meritorious service award; exceptions.",
           "url": "https://www.cga.ct.gov/current/pub/chap_067.htm#secs_5-210a_5-210b_and_5-211",
+          "grouped": true,
+          "section_keys": [
+            "5-210a",
+            "5-210b",
+            "5-211"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 5-210a , 5-210b and 5-211 are repealed."
+            ],
+            "source": [
+              "(1967, P.A. 657, S. 20; 1969, P.A. 658, S. 4; 1971, P.A. 289; 1972, P.A. 93, S. 1; P.A. 73-616, S. 50, 67; 73-679, S. 26, 43; P.A. 75-537, S. 39, 55; 75-567, S. 20, 80; 75-581, S. 2, 6; P.A. 77-3, S. 1, 2; 77-614, S. 19, 67, 610; P.A. 78-231, S. 5, 10; P.A. 80-57, S. 4; P.A. 81-457, S. 13.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 5-210a , 5-210b and 5-211 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4080,7 +4288,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-212a is repealed."
+            "text": "Section 5-212a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4111,12 +4323,25 @@
           "section_key": "",
           "label": "Secs. 5-213a and 5-213b. Salary increase for managerial employees in lieu of longevity payments. Conferring of benefits upon managerial or confidential employees and appointed officials not included in collective bargaining units.",
           "url": "https://www.cga.ct.gov/current/pub/chap_067.htm#secs_5-213a_and_5-213b",
+          "grouped": true,
+          "section_keys": [
+            "5-213a",
+            "5-213b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 5-213a and 5-213b are repealed."
+            ],
+            "source": [
+              "(P.A. 78-231, S. 7, 10; 78-367, S. 2, 3; P.A. 79-621, S. 23, 24; P.A. 81-457, S. 13.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 5-213a and 5-213b are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4388,7 +4613,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-222 is repealed."
+            "text": "Section 5-222 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4472,12 +4701,26 @@
           "section_key": "",
           "label": "Secs. 5-226a to 5-226e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_067.htm#secs_5-226a_to_5-226e",
+          "grouped": true,
+          "section_keys": [
+            "5-226a",
+            "5-226b",
+            "5-226c",
+            "5-226d",
+            "5-226e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4645,12 +4888,25 @@
           "section_key": "",
           "label": "Secs. 5-232 and 5-232a. Appointments of noncitizens. Citizenship requirement may be waived.",
           "url": "https://www.cga.ct.gov/current/pub/chap_067.htm#secs_5-232_and_5-232a",
+          "grouped": true,
+          "section_keys": [
+            "5-232",
+            "5-232a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 5-232 and 5-232a are repealed."
+            ],
+            "source": [
+              "(1967, P.A. 233; 657, S. 41; 1969, P.A. 658, S. 9, 10; 768, S. 63; P.A. 74-166, S. 2, 3.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 5-232 and 5-232a are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4775,7 +5031,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-237a is repealed."
+            "text": "Section 5-237a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4791,7 +5051,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-237b is repealed, effective July 1, 2012."
+            "text": "Section 5-237b is repealed, effective July 1, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4848,7 +5112,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-238b is repealed, effective July 1, 2013."
+            "text": "Section 5-238b is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5251,12 +5519,26 @@
           "section_key": "",
           "label": "Secs. 5-248d to 5-248h.",
           "url": "https://www.cga.ct.gov/current/pub/chap_067.htm#secs_5-248d_to_5-248h",
+          "grouped": true,
+          "section_keys": [
+            "5-248d",
+            "5-248e",
+            "5-248f",
+            "5-248g",
+            "5-248h"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5895,7 +6177,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-258 is repealed."
+            "text": "Section 5-258 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6132,7 +6418,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-262 is repealed, effective July 1, 2023."
+            "text": "Section 5-262 is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6148,7 +6438,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-263 is repealed."
+            "text": "Section 5-263 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6164,7 +6458,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-263a is repealed, effective October 1, 2019."
+            "text": "Section 5-263a is repealed, effective October 1, 2019.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6343,7 +6641,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-266 is repealed."
+            "text": "Section 5-266 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6400,7 +6702,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-266c is repealed, effective June 11, 2014."
+            "text": "Section 5-266c is repealed, effective June 11, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6468,7 +6774,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-269 is repealed, effective June 3, 1996."
+            "text": "Section 5-269 is repealed, effective June 3, 1996.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6483,7 +6793,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 5-196a and 5-196b. “Commissioner” and “department” defined. “Personnel Commissioner” and “Personnel Department”, terminology change. Sections 5-196a and 5-196b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6498,7 +6811,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 5-196a and 5-196b. “Commissioner” and “department” defined. “Personnel Commissioner” and “Personnel Department”, terminology change. Sections 5-196a and 5-196b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6513,7 +6829,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 5-199a and 5-199b. Bureaus established. Deputy commissioners; qualifications; appointment; powers. Exempt positions. Sections 5-199a and 5-199b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6528,7 +6847,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 5-199a and 5-199b. Bureaus established. Deputy commissioners; qualifications; appointment; powers. Exempt positions. Sections 5-199a and 5-199b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6543,7 +6865,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 5-210a, 5-210b and 5-211. Employee anniversary dates for fiscal 1975-76. Payment of partial increments for fiscal 1975-76. Meritorious service award; exceptions. Sections 5-210a , 5-210b and 5-211 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6558,7 +6883,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 5-210a, 5-210b and 5-211. Employee anniversary dates for fiscal 1975-76. Payment of partial increments for fiscal 1975-76. Meritorious service award; exceptions. Sections 5-210a , 5-210b and 5-211 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6573,7 +6901,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 5-210a, 5-210b and 5-211. Employee anniversary dates for fiscal 1975-76. Payment of partial increments for fiscal 1975-76. Meritorious service award; exceptions. Sections 5-210a , 5-210b and 5-211 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6588,7 +6919,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 5-213a and 5-213b. Salary increase for managerial employees in lieu of longevity payments. Conferring of benefits upon managerial or confidential employees and appointed officials not included in collective bargaining units. Sections 5-213a and 5-213b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6603,7 +6937,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 5-213a and 5-213b. Salary increase for managerial employees in lieu of longevity payments. Conferring of benefits upon managerial or confidential employees and appointed officials not included in collective bargaining units. Sections 5-213a and 5-213b are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6618,7 +6955,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 5-232 and 5-232a. Appointments of noncitizens. Citizenship requirement may be waived. Sections 5-232 and 5-232a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6633,7 +6973,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 5-232 and 5-232a. Appointments of noncitizens. Citizenship requirement may be waived. Sections 5-232 and 5-232a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -6938,7 +7281,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 5-277 is repealed."
+            "text": "Section 5-277 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {

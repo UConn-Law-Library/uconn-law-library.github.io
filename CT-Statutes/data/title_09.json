@@ -330,7 +330,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-6a is repealed, effective May 24, 2011."
+            "text": "Section 9-6a is repealed, effective May 24, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -543,7 +547,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-8a is repealed."
+            "text": "Section 9-8a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -590,7 +598,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-10 is repealed."
+            "text": "Section 9-10 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -617,12 +629,26 @@
           "section_key": "",
           "label": "Secs. 9-10b to 9-10d. State representatives. Assembly districts. Boundaries of local voting districts.",
           "url": "https://www.cga.ct.gov/current/pub/chap_142.htm#secs_9-10b_to_9-10d",
+          "grouped": true,
+          "section_keys": [
+            "9-10b",
+            "9-10c",
+            "9-10d"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Obsolete."
+            ],
+            "source": [
+              "(November, 1964, P.A. 2, S. 1, 2, 6; December, 1965, P.A. 2, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
@@ -638,7 +664,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-11 is repealed."
+            "text": "Section 9-11 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -686,7 +716,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-12a is repealed."
+            "text": "Section 9-12a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -773,7 +807,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-15 is repealed, effective October 1, 2002."
+            "text": "Section 9-15 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -878,12 +916,26 @@
           "section_key": "",
           "label": "Secs. 9-18, 9-18a and 9-19. Sessions of board during even-numbered years. Required monthly sessions. Additional sessions.",
           "url": "https://www.cga.ct.gov/current/pub/chap_143.htm#secs_9-18_9-18a_and_9-19",
+          "grouped": true,
+          "section_keys": [
+            "9-18",
+            "9-18a",
+            "9-19"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-18 , 9-18a and 9-19 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 1014, 1016; 1953, S. 519d, 520d; March, 1958, P.A. 27, S. 5; 1963, P.A. 530, S. 2–4; 1971, P.A. 768, S. 3; P.A. 76-128, S. 10, 11; P.A. 83-391, S. 23, 24.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-18 , 9-18a and 9-19 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1283,7 +1335,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-22 is repealed."
+            "text": "Section 9-22 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1330,12 +1386,26 @@
           "section_key": "",
           "label": "Secs. 9-23b to 9-23f.",
           "url": "https://www.cga.ct.gov/current/pub/chap_143.htm#secs_9-23b_to_9-23f",
+          "grouped": true,
+          "section_keys": [
+            "9-23b",
+            "9-23c",
+            "9-23d",
+            "9-23e",
+            "9-23f"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1398,7 +1468,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-23i is repealed, effective January 1, 1994."
+            "text": "Section 9-23i is repealed, effective January 1, 1994.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1656,7 +1730,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-27 is repealed, effective January 1, 1995."
+            "text": "Section 9-27 is repealed, effective January 1, 1995.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1672,7 +1750,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-27a is repealed."
+            "text": "Section 9-27a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1804,7 +1886,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-31c is repealed."
+            "text": "Section 9-31c is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1829,12 +1915,30 @@
           "section_key": "",
           "label": "Secs. 9-31e to 9-31k. Transfer of voting privileges between towns. Application for transfer and enrollment. Cancellation of registration in prior town. Town clerk's compensation. Reexamination of rejected applicant. Appeal from decision of admitting official.",
           "url": "https://www.cga.ct.gov/current/pub/chap_143.htm#secs_9-31e_to_9-31k",
+          "grouped": true,
+          "section_keys": [
+            "9-31e",
+            "9-31f",
+            "9-31g",
+            "9-31h",
+            "9-31i",
+            "9-31j",
+            "9-31k"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-31e to 9-31k , inclusive, are repealed."
+            ],
+            "source": [
+              "(1963, P.A. 392, S. 1–5; 1971, P.A. 768, S. 14–16; P.A. 79-143, S. 4; P.A. 81-350, S. 16, 17.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-31e to 9-31k , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1893,12 +1997,25 @@
           "section_key": "",
           "label": "Secs. 9-33 and 9-34. Record of applicants; change of name of married woman. Hours of sessions of registrars.",
           "url": "https://www.cga.ct.gov/current/pub/chap_143.htm#secs_9-33_and_9-34",
+          "grouped": true,
+          "section_keys": [
+            "9-33",
+            "9-34"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-33 and 9-34 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 1010, 1013; 1953, S. 535d, 536d; 1963, P.A. 645, S. 4; 1967, P.A. 559, S. 4; P.A. 79-363, S. 37, 38; P.A. 83-213, S. 11.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-33 and 9-34 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2060,12 +2177,25 @@
           "section_key": "",
           "label": "Secs. 9-39a and 9-40. Designation of party affiliation on registry list. Privileges after removal to another municipality.",
           "url": "https://www.cga.ct.gov/current/pub/chap_143.htm#secs_9-39a_and_9-40",
+          "grouped": true,
+          "section_keys": [
+            "9-39a",
+            "9-40"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-39a and 9-40 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 999; 1953, S. 542d; 1967, P.A. 512; 1969, P.A. 69, S. 1; 694, S. 5; 1971, P.A. 685, S. 3; P.A. 73-630, S. 13, 19; P.A. 79-189, S. 8, 9.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-39a and 9-40 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2100,19 +2230,37 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-40b is repealed."
+            "text": "Section 9-40b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 9-41 to 9-41b. Application for restoration of name to registry list. Restoration to registry list of physically disabled person. Certificate of physician.",
           "url": "https://www.cga.ct.gov/current/pub/chap_143.htm#secs_9-41_to_9-41b",
+          "grouped": true,
+          "section_keys": [
+            "9-41",
+            "9-41a",
+            "9-41b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-41 to 9-41b , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 998; 1953, 1955, S. 543d; 1961, P.A. 73; 105, S. 1; 215, S. 1, 2; February, 1965, P.A. 407, S. 5; 1971, P.A. 768, S. 16; 871, S. 67.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-41 to 9-41b , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2197,7 +2345,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-44 is repealed."
+            "text": "Section 9-44 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2295,12 +2447,27 @@
           "section_key": "",
           "label": "Secs. 9-47 to 9-50. Commission on forfeited rights. Petitions for restoration of electoral rights; investigation. Hearings; no appeal. Notice to registrars and petitioner of action.",
           "url": "https://www.cga.ct.gov/current/pub/chap_143.htm#secs_9-47_to_9-50",
+          "grouped": true,
+          "section_keys": [
+            "9-47",
+            "9-48",
+            "9-49",
+            "9-50"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-47 to 9-50 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 16; 1949, S. 4b–8b; 1953, S. 549d–552d; 1959, P.A. 382, S. 1; 1961, P.A. 517, S. 6; 1963, P.A. 645, S. 7; P.A. 73-465, S. 2, 3; P.A. 74-183, S. 182, 291; P.A. 75-354, S. 2, 3.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-47 to 9-50 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2565,7 +2732,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-57a is repealed."
+            "text": "Section 9-57a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2824,7 +2995,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-18, 9-18a and 9-19. Sessions of board during even-numbered years. Required monthly sessions. Additional sessions. Sections 9-18 , 9-18a and 9-19 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2839,7 +3013,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-18, 9-18a and 9-19. Sessions of board during even-numbered years. Required monthly sessions. Additional sessions. Sections 9-18 , 9-18a and 9-19 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2854,7 +3031,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-18, 9-18a and 9-19. Sessions of board during even-numbered years. Required monthly sessions. Additional sessions. Sections 9-18 , 9-18a and 9-19 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2869,7 +3049,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-31e to 9-31k. Transfer of voting privileges between towns. Application for transfer and enrollment. Cancellation of registration in prior town. Town clerk's compensation. Reexamination of rejected applicant. Appeal from decision of admitting official. Sections 9-31e to 9-31k , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2884,7 +3067,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-31e to 9-31k. Transfer of voting privileges between towns. Application for transfer and enrollment. Cancellation of registration in prior town. Town clerk's compensation. Reexamination of rejected applicant. Appeal from decision of admitting official. Sections 9-31e to 9-31k , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2899,7 +3085,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-33 and 9-34. Record of applicants; change of name of married woman. Hours of sessions of registrars. Sections 9-33 and 9-34 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2914,7 +3103,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-33 and 9-34. Record of applicants; change of name of married woman. Hours of sessions of registrars. Sections 9-33 and 9-34 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2929,7 +3121,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-39a and 9-40. Designation of party affiliation on registry list. Privileges after removal to another municipality. Sections 9-39a and 9-40 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2944,7 +3139,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-39a and 9-40. Designation of party affiliation on registry list. Privileges after removal to another municipality. Sections 9-39a and 9-40 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2959,7 +3157,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-41 to 9-41b. Application for restoration of name to registry list. Restoration to registry list of physically disabled person. Certificate of physician. Sections 9-41 to 9-41b , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2974,7 +3175,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-41 to 9-41b. Application for restoration of name to registry list. Restoration to registry list of physically disabled person. Certificate of physician. Sections 9-41 to 9-41b , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2989,7 +3193,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-47 to 9-50. Commission on forfeited rights. Petitions for restoration of electoral rights; investigation. Hearings; no appeal. Notice to registrars and petitioner of action. Sections 9-47 to 9-50 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3004,7 +3211,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-47 to 9-50. Commission on forfeited rights. Petitions for restoration of electoral rights; investigation. Hearings; no appeal. Notice to registrars and petitioner of action. Sections 9-47 to 9-50 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3019,12 +3229,89 @@
           "section_key": "",
           "label": "Secs. 9-68 to 9-133. Nominations and political parties.",
           "url": "https://www.cga.ct.gov/current/pub/chap_144.htm#secs_9-68_to_9-133",
+          "grouped": true,
+          "section_keys": [
+            "9-68",
+            "9-69",
+            "9-70",
+            "9-71",
+            "9-72",
+            "9-73",
+            "9-74",
+            "9-75",
+            "9-76",
+            "9-77",
+            "9-78",
+            "9-79",
+            "9-80",
+            "9-81",
+            "9-82",
+            "9-83",
+            "9-84",
+            "9-85",
+            "9-86",
+            "9-87",
+            "9-88",
+            "9-89",
+            "9-90",
+            "9-91",
+            "9-92",
+            "9-93",
+            "9-94",
+            "9-95",
+            "9-96",
+            "9-97",
+            "9-98",
+            "9-99",
+            "9-100",
+            "9-101",
+            "9-102",
+            "9-103",
+            "9-104",
+            "9-105",
+            "9-106",
+            "9-107",
+            "9-108",
+            "9-109",
+            "9-110",
+            "9-111",
+            "9-112",
+            "9-113",
+            "9-114",
+            "9-115",
+            "9-116",
+            "9-117",
+            "9-118",
+            "9-119",
+            "9-120",
+            "9-121",
+            "9-122",
+            "9-123",
+            "9-124",
+            "9-125",
+            "9-126",
+            "9-127",
+            "9-128",
+            "9-129",
+            "9-130",
+            "9-131",
+            "9-132",
+            "9-133"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-68 to 9-133 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 1044, 1045, 1185; 1953, S. 569d, 570d, 617d, 618d; 1953, June, 1955, S. 615d; June, 1955, S. 571d, 572d, 574d–583d, 585d–612d, 616d; November, 1955, S. N42, N44–N46, N48–N59, N61–N98, N103, N106–N110; 1957, P.A. 119, S. 1; 410, S. 1, 2; 518, S. 1–35, 37, 38, 40, 41; September, 1957, P.A. 1, S. 1, 4, 5; March, 1958, P.A. 27, S. 22, 36; 1959, P.A. 49; 476, S. 1; 675, S. 1; 1961, P.A. 72, S. 1, 2; 119; 147; 148; 202; 230; 1963, P.A. 17, S. 92.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-68 to 9-133 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3039,7 +3326,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-68 to 9-133. Nominations and political parties. Sections 9-68 to 9-133 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3054,7 +3344,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-68 to 9-133. Nominations and political parties. Sections 9-68 to 9-133 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3069,12 +3362,28 @@
           "section_key": "",
           "label": "Secs. 9-133a to 9-133e. Eligibility for absentee voting. Application for ballot; distribution. Votes to be restricted to candidates appearing on ballot label. Voting and counting procedures. Form and printing of primary absentee ballot; filing of ballot and affidavit with secretary; vacancies occurring after ballot printed; envelopes.",
           "url": "https://www.cga.ct.gov/current/pub/chap_144a.htm#secs_9-133a_to_9-133e",
+          "grouped": true,
+          "section_keys": [
+            "9-133a",
+            "9-133b",
+            "9-133c",
+            "9-133d",
+            "9-133e"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-133a to 9-133e , inclusive, are repealed."
+            ],
+            "source": [
+              "(1971, P.A. 819, S. 1–5; 1972, P.A. 13, S. 1, 2; P.A. 73-630, S. 15, 19; P.A. 74-25, S. 1, 13; P.A. 75-310, S. 3, 4, 11; 75-595, S. 1, 5; P.A. 76-50, S. 1, 7; P.A. 77-97; 77-245, S. 14; P.A. 78-168, S. 1; P.A. 81-238, S. 1; 81-472, S. 118, 159; P.A. 82-472, S. 26, 183; P.A. 83-254, S. 1, 4; P.A. 84-319, S. 10, 49; P.A. 85-577, S. 3, 4; P.A. 86-179, S. 52, 53.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-133a to 9-133e , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3220,12 +3529,25 @@
           "section_key": "",
           "label": "Secs. 9-136 and 9-136a. Form of absentee ballot. Form for municipal election to fill partisan and nonpartisan offices.",
           "url": "https://www.cga.ct.gov/current/pub/chap_145.htm#secs_9-136_and_9-136a",
+          "grouped": true,
+          "section_keys": [
+            "9-136",
+            "9-136a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-136 and 9-136a are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 1140; 1953, S. 623d; 1957, P.A. 517, S. 1; 1961, P.A. 395, S. 1; 1963, P.A. 224, S. 1; 374, S. 1; 1971, P.A. 631; P.A. 75-310, S. 10, 11; P.A. 86-179, S. 52, 53.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-136 and 9-136a are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3239,7 +3561,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 9-153c ."
+            "text": "Transferred to Sec. 9-153c .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3284,7 +3610,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 9-140a ."
+            "text": "Transferred to Sec. 9-140a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3617,36 +3947,72 @@
           "section_key": "",
           "label": "Secs. 9-141 and 9-142.",
           "url": "https://www.cga.ct.gov/current/pub/chap_145.htm#secs_9-141_and_9-142",
+          "grouped": true,
+          "section_keys": [
+            "9-141",
+            "9-142"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Secs. 9-153a and 9-153b , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Secs. 9-153a and 9-153b , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 9-143 to 9-143b.",
           "url": "https://www.cga.ct.gov/current/pub/chap_145.htm#secs_9-143_to_9-143b",
+          "grouped": true,
+          "section_keys": [
+            "9-143",
+            "9-143a",
+            "9-143b"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Secs. 9-153d to 9-153f , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Secs. 9-153d to 9-153f , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 9-144 and 9-145. Materials to be furnished to absentee ballot applicants. Marking of ballots.",
           "url": "https://www.cga.ct.gov/current/pub/chap_145.htm#secs_9-144_and_9-145",
+          "grouped": true,
+          "section_keys": [
+            "9-144",
+            "9-145"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-144 and 9-145 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 1137, 1151; 1953, S. 631d, 632d; 1955, S. 631d; 1957, P.A. 517, S. 5, 6; 1959, P.A. 592, S. 1; 1963, P.A. 213; 224, S. 2; 374, S. 2; February, 1965, P.A. 59, S. 2; 1967, P.A. 174; 303, S. 2; 1969, P.A. 694, S. 7; P.A. 74-11, S. 1, 4; P.A. 75-310, S. 7, 8, 11; 75-349, S. 2; P.A. 85-514, S. 2; P.A. 86-179, S. 52, 53.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-144 and 9-145 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3660,7 +4026,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 9-140b ."
+            "text": "Transferred to Sec. 9-140b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3674,7 +4044,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 9-159q ."
+            "text": "Transferred to Sec. 9-159q .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3688,7 +4062,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 9-140c ."
+            "text": "Transferred to Sec. 9-140c .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3721,7 +4099,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 9-151a ."
+            "text": "Transferred to Sec. 9-151a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3755,7 +4137,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-147d is repealed."
+            "text": "Section 9-147d is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3785,12 +4171,25 @@
           "section_key": "",
           "label": "Secs. 9-149 and 9-150. Counting of ballots, procedure; ballot rejected if inner-envelope statement not executed; public may observe central counting; questions decided by moderator, intent of elector to govern, presumptions when intent not clear, invalid votes. Placing of ballots in depository envelopes; presentation of envelopes; declaration of count.",
           "url": "https://www.cga.ct.gov/current/pub/chap_145.htm#secs_9-149_and_9-150",
+          "grouped": true,
+          "section_keys": [
+            "9-149",
+            "9-150"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-149 and 9-150 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 1144, 1146; 1953, 1955, S. 635d, 636d; 1957, P.A. 517, S. 8; 1959, P.A. 527, S. 2; February, 1965, P.A. 37; 1967, P.A. 885, S. 1; 1969, P.A. 8, S. 1; 694, S. 17; 1972, P.A. 196, S. 16; P.A. 75-300, S. 6, 7, 9; P.A. 76-295, S. 16, 18; P.A. 77-187, S. 3, 9; 77-202, S. 1, 4; 77-286; P.A. 79-363, S. 21, 38; P.A. 84-319, S. 20, 49; P.A. 85-489, S. 2; 85-592, S. 7, 8; P.A. 86-179, S. 52, 53.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-149 and 9-150 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3915,7 +4314,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-150e is repealed, effective October 1, 2023."
+            "text": "Section 9-150e is repealed, effective October 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3931,7 +4334,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-151 is repealed."
+            "text": "Section 9-151 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3945,7 +4352,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 9-159o ."
+            "text": "Transferred to Sec. 9-159o .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3959,7 +4370,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 9-140d ."
+            "text": "Transferred to Sec. 9-140d .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -3975,7 +4390,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-153 is repealed."
+            "text": "Section 9-153 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4123,7 +4542,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 9-139c ."
+            "text": "Transferred to Sec. 9-139c .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -4137,7 +4560,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 9-139a ."
+            "text": "Transferred to Sec. 9-139a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -4153,7 +4580,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-156 is repealed."
+            "text": "Section 9-156 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4167,7 +4598,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 9-139b ."
+            "text": "Transferred to Sec. 9-139b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -4183,7 +4618,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-158 is repealed."
+            "text": "Section 9-158 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4435,7 +4874,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-158k is repealed, effective July 1, 2013."
+            "text": "Section 9-158k is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4487,19 +4930,48 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-158n is repealed."
+            "text": "Section 9-158n is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 9-159 to 9-159m. Ballots. Overseas ballots.",
           "url": "https://www.cga.ct.gov/current/pub/chap_145.htm#secs_9-159_to_9-159m",
+          "grouped": true,
+          "section_keys": [
+            "9-159",
+            "9-159a",
+            "9-159b",
+            "9-159c",
+            "9-159d",
+            "9-159e",
+            "9-159f",
+            "9-159g",
+            "9-159h",
+            "9-159i",
+            "9-159j",
+            "9-159k",
+            "9-159l",
+            "9-159m"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-159 to 9-159m , inclusive, are repealed."
+            ],
+            "source": [
+              "(September, 1957, P.A. 25, S. 2; March, 1958, P.A. 27, S. 23; 1972, P.A. 196, S. 18; P.A. 76-295, S. 1–13, 18; P.A. 78-79, S. 2, 4; 78-153, S. 10–17, 32; P.A. 79-363, S. 20, 38; P.A. 80-281, S. 9, 10, 31; P.A. 83-544, S. 2, 4; P.A. 84-319, S. 24, 49; P.A. 86-179, S. 52, 53.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-159 to 9-159m , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4513,7 +4985,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 9-159q ."
+            "text": "Transferred to Sec. 9-159q .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -4646,12 +5122,25 @@
           "section_key": "",
           "label": "Secs. 9-160 to 9-163j. Affidavit; envelopes. Application for absentee ballot. Procedure for voting. Notice to registrars of voters; delivery and counting of ballots. Voting by new residents in presidential elections.",
           "url": "https://www.cga.ct.gov/current/pub/chap_145.htm#secs_9-160_to_9-163j",
+          "grouped": true,
+          "section_keys": [
+            "9-160",
+            "9-163j"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-160 to 9-163j , inclusive, are repealed."
+            ],
+            "source": [
+              "(September, 1957, P.A. 25, S. 3–6; 1959, P.A. 493; 1963, P.A. 53, S. 1; 92, S. 1; 245, S. 1–11; February, 1965, P.A. 407, S. 7, 8; 618, S. 2–5; 1972, P.A. 196, S. 18.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-160 to 9-163j , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4692,12 +5181,48 @@
           "section_key": "",
           "label": "Secs. 9-163 l to 9-163z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_145.htm#secs_9-163l_to_9-163z",
+          "grouped": true,
+          "section_keys": [
+            "9-163",
+            "9-163a",
+            "9-163b",
+            "9-163c",
+            "9-163d",
+            "9-163e",
+            "9-163f",
+            "9-163g",
+            "9-163h",
+            "9-163i",
+            "9-163j",
+            "9-163k",
+            "9-163l",
+            "9-163m",
+            "9-163n",
+            "9-163o",
+            "9-163p",
+            "9-163q",
+            "9-163r",
+            "9-163s",
+            "9-163t",
+            "9-163u",
+            "9-163v",
+            "9-163w",
+            "9-163x",
+            "9-163y",
+            "9-163z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4712,7 +5237,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-136 and 9-136a. Form of absentee ballot. Form for municipal election to fill partisan and nonpartisan offices. Sections 9-136 and 9-136a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4727,7 +5255,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-136 and 9-136a. Form of absentee ballot. Form for municipal election to fill partisan and nonpartisan offices. Sections 9-136 and 9-136a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4742,7 +5273,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-144 and 9-145. Materials to be furnished to absentee ballot applicants. Marking of ballots. Sections 9-144 and 9-145 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4757,7 +5291,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-144 and 9-145. Materials to be furnished to absentee ballot applicants. Marking of ballots. Sections 9-144 and 9-145 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4802,7 +5339,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-159 to 9-159m. Ballots. Overseas ballots. Sections 9-159 to 9-159m , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4817,7 +5357,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-159 to 9-159m. Ballots. Overseas ballots. Sections 9-159 to 9-159m , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4832,7 +5375,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-160 to 9-163j. Affidavit; envelopes. Application for absentee ballot. Procedure for voting. Notice to registrars of voters; delivery and counting of ballots. Voting by new residents in presidential elections. Sections 9-160 to 9-163j , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4847,7 +5393,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-160 to 9-163j. Affidavit; envelopes. Application for absentee ballot. Procedure for voting. Notice to registrars of voters; delivery and counting of ballots. Voting by new residents in presidential elections. Sections 9-160 to 9-163j , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -4995,7 +5544,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-164a is repealed, effective January 1, 2022."
+            "text": "Section 9-164a is repealed, effective January 1, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5090,12 +5643,26 @@
           "section_key": "",
           "label": "Secs. 9-165 to 9-167. Biennial town elections: Change to from annual elections, unexpired terms; term and method of rotation of board members.",
           "url": "https://www.cga.ct.gov/current/pub/chap_146.htm#secs_9-165_to_9-167",
+          "grouped": true,
+          "section_keys": [
+            "9-165",
+            "9-166",
+            "9-167"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-165 to 9-167 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 497–499; 1953, S. 647d–649d; 1959, P.A. 630, S. 3; P.A. 76-173, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-165 to 9-167 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5239,7 +5806,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-168c is repealed."
+            "text": "Section 9-168c is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5810,7 +6381,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-180 is repealed."
+            "text": "Section 9-180 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5844,7 +6419,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-182 is repealed, effective December 1, 2000."
+            "text": "Section 9-182 is repealed, effective December 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5860,7 +6439,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-183 is repealed."
+            "text": "Section 9-183 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5957,12 +6540,23 @@
           "section_key": "",
           "label": "Secs. 9-184a and 9-184b.",
           "url": "https://www.cga.ct.gov/current/pub/chap_146.htm#secs_9-184a_and_9-184b",
+          "grouped": true,
+          "section_keys": [
+            "9-184a",
+            "9-184b"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6397,12 +6991,25 @@
           "section_key": "",
           "label": "Secs. 9-196 and 9-197. Assessors. Minority representation for assessors in towns holding annual elections.",
           "url": "https://www.cga.ct.gov/current/pub/chap_146.htm#secs_9-196_and_9-197",
+          "grouped": true,
+          "section_keys": [
+            "9-196",
+            "9-197"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-196 and 9-197 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 502, 503, 515; 1951, S. 106b; 1953, S. 677d, 678d; P.A. 76-173, S. 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-196 and 9-197 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6418,7 +7025,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-198 is repealed, effective October 1, 2010."
+            "text": "Section 9-198 is repealed, effective October 1, 2010.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6715,7 +7326,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-208 is repealed."
+            "text": "Section 9-208 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6861,7 +7476,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-214 is repealed."
+            "text": "Section 9-214 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6962,7 +7581,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-219 is repealed."
+            "text": "Section 9-219 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7183,7 +7806,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-227 is repealed."
+            "text": "Section 9-227 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7265,7 +7892,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-229a is repealed, effective July 13, 2011."
+            "text": "Section 9-229a is repealed, effective July 13, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7492,7 +8123,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 145, Sec. 9-159p ."
+            "text": "Transferred to Chapter 145, Sec. 9-159p .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -7506,7 +8141,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7926,7 +8565,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-165 to 9-167. Biennial town elections: Change to from annual elections, unexpired terms; term and method of rotation of board members. Sections 9-165 to 9-167 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7941,7 +8583,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-165 to 9-167. Biennial town elections: Change to from annual elections, unexpired terms; term and method of rotation of board members. Sections 9-165 to 9-167 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7956,7 +8601,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-196 and 9-197. Assessors. Minority representation for assessors in towns holding annual elections. Sections 9-196 and 9-197 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7971,7 +8619,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-196 and 9-197. Assessors. Minority representation for assessors in towns holding annual elections. Sections 9-196 and 9-197 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -8182,7 +8833,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-242c is repealed, effective May 24, 2011."
+            "text": "Section 9-242c is repealed, effective May 24, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8198,7 +8853,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-243 is repealed, effective May 24, 2011."
+            "text": "Section 9-243 is repealed, effective May 24, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8450,7 +9109,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 146, Part II, Sec. 9-183b ."
+            "text": "Transferred to Chapter 146, Part II, Sec. 9-183b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -8761,7 +9424,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-263 is repealed, effective October 1, 2007."
+            "text": "Section 9-263 is repealed, effective October 1, 2007.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8879,12 +9546,25 @@
           "section_key": "",
           "label": "Secs. 9-270 and 9-271. Votes by paper ballots. Referenda by paper ballots.",
           "url": "https://www.cga.ct.gov/current/pub/chap_147.htm#secs_9-270_and_9-271",
+          "grouped": true,
+          "section_keys": [
+            "9-270",
+            "9-271"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-270 and 9-271 are repealed, effective May 24, 2011."
+            ],
+            "source": [
+              "(1949 Rev., S. 1193; 1951, S. 259b; 1953, S. 746d, 747d; P.A. 11-20, S. 39.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-270 and 9-271 are repealed, effective May 24, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8909,36 +9589,103 @@
           "section_key": "",
           "label": "Secs. 9-273 to 9-276. Preparation of ballots. Secretary may prescribe forms. Secret ballot. Form for printing ballots.",
           "url": "https://www.cga.ct.gov/current/pub/chap_147.htm#secs_9-273_to_9-276",
+          "grouped": true,
+          "section_keys": [
+            "9-273",
+            "9-274",
+            "9-275",
+            "9-276"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-273 to 9-276 , inclusive, are repealed, effective May 24, 2011."
+            ],
+            "source": [
+              "(1949 Rev., S. 1035, 1039, 1042, 1063; 1953, S. 749d–752d; 1963, P.A. 223, S. 1; P.A. 87-382, S. 30, 55; P.A. 11-20, S. 39.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-273 to 9-276 , inclusive, are repealed, effective May 24, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 9-277 and 9-278. Straight and split ticket sections. Form of straight ticket section.",
           "url": "https://www.cga.ct.gov/current/pub/chap_147.htm#secs_9-277_and_9-278",
+          "grouped": true,
+          "section_keys": [
+            "9-277",
+            "9-278"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-277 and 9-278 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 1036, 1037, 1042; 1953, S. 753d, 754d; 1963, P.A. 223, S. 2; P.A. 87-382, S. 54, 55.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-277 and 9-278 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 9-279 to 9-306. Form of ballot. Sample ballots. Insertion on ballot on death of nominee. Ballot to resolve tie vote. Secretary to transmit ballots. Clerks to obtain ballots if not received two days before election. Packaging of ballots, method of opening. Ballot box sealing stamp. Ballot box lock. Clerks to be custodians of keys. Registrars of voters to provide rooms or booths and ballot boxes. Ballot table; process of voting. Arrangement of and admission to voting place. Method of voting. Method of balloting. Deposit of ballots; booth tenders. Improper markings of ballot. Box-tenders. Interference prohibited; assistance of physically disabled persons. Removal of officials. Counters; certificates; declaration of vote. Deposit of certificates. Ballot return by moderators for state elections. Return of ballots to box, sealing and preservation. Destruction of unused official ballots. Fraudulent abstracting or intermingling of votes. Failure of moderator to return keys. Penalties.",
           "url": "https://www.cga.ct.gov/current/pub/chap_147.htm#secs_9-279_to_9-306",
+          "grouped": true,
+          "section_keys": [
+            "9-279",
+            "9-280",
+            "9-281",
+            "9-282",
+            "9-283",
+            "9-284",
+            "9-285",
+            "9-286",
+            "9-287",
+            "9-288",
+            "9-289",
+            "9-290",
+            "9-291",
+            "9-292",
+            "9-293",
+            "9-294",
+            "9-295",
+            "9-296",
+            "9-297",
+            "9-298",
+            "9-299",
+            "9-300",
+            "9-301",
+            "9-302",
+            "9-303",
+            "9-304",
+            "9-305",
+            "9-306"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-279 to 9-306 , inclusive, are repealed, effective May 24, 2011."
+            ],
+            "source": [
+              "(1949 Rev., S. 519, 520, 1034, 1038, 1040, 1042, 1046–1050, 1054–1056, 1058, 1061, 1064, 1066, 1067, 1071–1079, 1081, 1082, 1085, 1124, 1127, 1146; 1953, S. 755d–783d; 1963, P.A. 17, S. 90; 1963, P.A. 223, S. 3, 4; P.A. 87-251, S. 3; 87-382, S. 31–34, 55; P.A. 97-154, S. 19, 27; P.A. 00-99, S. 29, 154; P.A. 02-130, S. 1–3; P.A. 07-194, S. 28–35; P.A. 11-20, S. 39.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-279 to 9-306 , inclusive, are repealed, effective May 24, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8953,7 +9700,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-270 and 9-271. Votes by paper ballots. Referenda by paper ballots. Sections 9-270 and 9-271 are repealed, effective May 24, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8968,7 +9718,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-270 and 9-271. Votes by paper ballots. Referenda by paper ballots. Sections 9-270 and 9-271 are repealed, effective May 24, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8983,7 +9736,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-273 to 9-276. Preparation of ballots. Secretary may prescribe forms. Secret ballot. Form for printing ballots. Sections 9-273 to 9-276 , inclusive, are repealed, effective May 24, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8998,7 +9754,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-273 to 9-276. Preparation of ballots. Secretary may prescribe forms. Secret ballot. Form for printing ballots. Sections 9-273 to 9-276 , inclusive, are repealed, effective May 24, 2011.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9013,7 +9772,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-277 and 9-278. Straight and split ticket sections. Form of straight ticket section. Sections 9-277 and 9-278 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9028,7 +9790,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-277 and 9-278. Straight and split ticket sections. Form of straight ticket section. Sections 9-277 and 9-278 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9450,12 +10215,26 @@
           "section_key": "",
           "label": "Secs. 9-320a to 9-320e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_148.htm#secs_9-320a_to_9-320e",
+          "grouped": true,
+          "section_keys": [
+            "9-320a",
+            "9-320b",
+            "9-320c",
+            "9-320d",
+            "9-320e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -9521,7 +10300,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-321 is repealed."
+            "text": "Section 9-321 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9671,7 +10454,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-326 is repealed."
+            "text": "Section 9-326 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9732,7 +10519,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-329 is repealed."
+            "text": "Section 9-329 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9834,7 +10625,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-331 is repealed, effective December 1, 2000."
+            "text": "Section 9-331 is repealed, effective December 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9876,24 +10671,80 @@
           "section_key": "",
           "label": "Secs. 9-333 to 9-333y.",
           "url": "https://www.cga.ct.gov/current/pub/chap_150.htm#secs_9-333_to_9-333y",
+          "grouped": true,
+          "section_keys": [
+            "9-333",
+            "9-333a",
+            "9-333b",
+            "9-333c",
+            "9-333d",
+            "9-333e",
+            "9-333f",
+            "9-333g",
+            "9-333h",
+            "9-333i",
+            "9-333j",
+            "9-333k",
+            "9-333l",
+            "9-333m",
+            "9-333n",
+            "9-333o",
+            "9-333p",
+            "9-333q",
+            "9-333r",
+            "9-333s",
+            "9-333t",
+            "9-333u",
+            "9-333v",
+            "9-333w",
+            "9-333x",
+            "9-333y"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 155, Secs. 9-600 to 9-623 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 155, Secs. 9-600 to 9-623 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 9-334 to 9-343. Forms for statements. Definitions. Principal campaign treasurer and campaign treasurers, appointment, duties. Contributions. Filing of statements and reports, fee. Contributions or expenditures by: Stock corporations and other business organizations to candidates, parties, committees, organizations, political committees established by organizations, individuals, party committees and ongoing political committees, candidate committees, political committees formed solely to aid or promote success or defeat of a constitutional amendment or referendum question. Statement of organization by political committees, filing, contents. Regulation of campaign expenditures, generally.",
           "url": "https://www.cga.ct.gov/current/pub/chap_150.htm#secs_9-334_to_9-343",
+          "grouped": true,
+          "section_keys": [
+            "9-334",
+            "9-335",
+            "9-336",
+            "9-337",
+            "9-338",
+            "9-339",
+            "9-340",
+            "9-341",
+            "9-342",
+            "9-343"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-334 to 9-343 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 1156–1161, 1163–65; 1953, S. 811d–820d; 1957, P.A. 400, S. 1–3; 1961, P.A. 15; 263; 517, S. 74; 1963, P.A. 473; 1967, P.A. 592, S. 17–25; 1971, P.A. 736, S. 1; 844, S. 1; 1972, P.A. 67; P.A. 73-61, S. 1; P.A. 74-183, S. 184, 291; 74-189, S. 2–9, 24; 74-213, S. 5, 9; 74-338, S. 81, 83, 94; P.A. 75-273, S. 1, 3; 75-571, S. 2–12, 33, 34; P.A. 76-154, S. 1; 76-157, S. 1, 2; 76-275, S. 6, 9; 76-435, S. 14, 82; P.A. 77-158; 77-201, S. 1, 2; 77-471, S. 1, 4; 77-583, S. 1; P.A. 79-616, S. 1, 2, 24; 79-620, S. 2; P.A. 80-272, S. 1, 2; 80-281, S. 16–19; 80-432, S. 2, 3; P.A. 81-325, S. 1; 81-357, S. 1–12, 27; 81-360, S. 1, 4; 81-395, S. 1–3, 9; 81-434, S. 2, 3; 81-472, S. 8, 159; P.A. 82-39, S. 1–3, 6–8, 12; 82-54, S. 1, 6, 9; 82-122, S. 1, 2; 82-247, S. 13, 14; 82-472, S. 171, 172, 183; P.A. 83-336, S. 1, 2, 3, 4, 6; 83-560, S. 1, 6; P.A. 84-437, S. 2, 4; 84-511, S. 8, 15; P.A. 85-270, S. 1, 2, 7; 85-598, S. 1, 2, 8, 10; P.A. 86-99, S. 33, 34; 86-240, S. 1, 2, 11, 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-334 to 9-343 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9907,43 +10758,84 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 151, Sec. 9-364a ."
+            "text": "Transferred to Chapter 151, Sec. 9-364a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 9-345 and 9-346. Penalties. Powers of state referees and judges.",
           "url": "https://www.cga.ct.gov/current/pub/chap_150.htm#secs_9-345_and_9-346",
+          "grouped": true,
+          "section_keys": [
+            "9-345",
+            "9-346"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-345 and 9-346 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 1167, 1170; 1953, S. 822d, 823d; 1961, P.A. 517, S. 97; 1972, P.A. 31; P.A. 74-183, S. 185, 291; 74-213, S. 6, 9; P.A. 75-571, S. 33, 34; P.A. 76-436, S. 351, 681; P.A. 86-99, S. 33, 34.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-345 and 9-346 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 9-346a and 9-346b.",
           "url": "https://www.cga.ct.gov/current/pub/chap_150.htm#secs_9-346a_and_9-346b",
+          "grouped": true,
+          "section_keys": [
+            "9-346a",
+            "9-346b"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 155, Secs. 9-624 and 9-625 ."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 155, Secs. 9-624 and 9-625 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 9-347 to 9-348dd. Preservation of testimony and securing of witnesses. Expenses of inquiry. Application of provisions. Formation of committees; designation and responsibilities of campaign treasurer and deputy treasurer; appointment and responsibilities of solicitor. Contributions. Deposit of contributions; anonymous contributions, disposition. Authorization of expenditures; liability for debt incurred; election day expenditures. Payment of authorized political expenses by checks of authorized banks, petty cash fund, reimbursement of committee workers for authorized expenditures from personal funds; preservation of records. Payment of permitted expenses by campaign treasurers; charitable and memorial contributions; honorariums for elected officials prohibited. Statements and reports required of campaign treasurers, generally; disposition of surpluses. Who may contribute for political purposes. Payment of election contest expenses. Acts prohibited as corrupt practices. Penalty. Forms, distribution, town clerk's fee. Testimonial affairs limited. Principal campaign treasurer for each candidate and campaign treasurer for each committee, duties. Committees: Party; political, organized for ongoing political activities; political, established by organizations, generally. Contributions from joint bank accounts. Limit on contributions to candidates by individuals; unlimited expenditures by individuals permitted. Limits on contributions to committees by individuals. Limitation on campaign contributions and expenditures; expenditures defined. Expenditures by candidate on behalf of his own campaign, reimbursement of candidate by campaign treasurer for certain expenses. Political advertising.",
           "url": "https://www.cga.ct.gov/current/pub/chap_150.htm#secs_9-347_to_9-348dd",
+          "grouped": true,
+          "section_keys": [
+            "9-347",
+            "9-348dd"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-347 to 9-348dd , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 1168, 1169; 1953, S. 824d. 825d; 1967, P.A. 592, S. 1–15; 1971, P.A. 161, S. 1; 736, S. 2; 844, S. 2; 1972, P.A. 32; P.A. 73-61, S. 2; 73-604; P.A. 74-183, S. 186, 291; 74-189, S. 1, 11–24; 74-198, S. 1–6; 74-202, S. 1–7; 74-213, S. 7, 9; 74-338, S. 79, 80, 82, 83, 94; P.A. 75-273, S. 2, 3; 75-482, S. 1–5; 75-506, S. 1, 2; 75-571, S. 13–31, 33, 34; P.A. 76-154, S. 2, 3; 76-156, S. 1, 2; 76-264, S. 1–3; 76-270, S. 1, 2; 76-275, S. 1–5, 7, 9; P.A. 77-58; 77-64; 77-180; 77-471, S. 2, 3; 77-583, S. 2; 77-604, S. 57, 84; P.A. 78-51; 78-153, S. 31, 32; 78-280, S. 2, 16, 17, 127; P.A. 79-351; 79-377, S. 1, 2; 79-381, S. 1–4; 79-438; 79-616, S. 3, 4, 24; 79-620, S. 1; 79-631, S. 99, 111; P.A. 80-212, S. 2–4; 80-223; 80-271, S. 1–3; 80-281, S. 20–27, 31; 80-289, S. 1, 2; 80-483, S. 35, 186; P.A. 81-325, S. 2–16; 81-357, S. 13–27; 81-360, S. 2–4; 81-395, S. 4, 5, 8, 9; 81-467, S. 6, 8; 81-472, S. 121, 159; P.A. 82-39, S. 4, 5, 9–12; 82-54, S. 2–5, 7–9; 82-426, S. 8, 14; 82-472, S. 28, 183; P.A. 83-336, S. 5, 6; 83-410; 83-560, S. 2–6; P.A. 84-192, S. 1–3; 84-511, S. 9–15; P.A. 85-270, S. 3–7; 85-598, S. 3–7, 10; 85-613, S. 21, 154; P.A. 86-99, S. 33, 34; 86-240, S. 3, 4, 11, 12.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-347 to 9-348dd , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9988,7 +10880,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-345 and 9-346. Penalties. Powers of state referees and judges. Sections 9-345 and 9-346 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10003,7 +10898,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-345 and 9-346. Penalties. Powers of state referees and judges. Sections 9-345 and 9-346 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10048,12 +10946,24 @@
           "section_key": "",
           "label": "Secs. 9-348ee to 9-348gg.",
           "url": "https://www.cga.ct.gov/current/pub/chap_150a.htm#secs_9-348ee_to_9-348gg",
+          "grouped": true,
+          "section_keys": [
+            "9-348ee",
+            "9-348ff",
+            "9-348gg"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 156, Secs. 9-675 to 9-677 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 156, Secs. 9-675 to 9-677 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]
@@ -10077,7 +10987,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-349 is repealed."
+            "text": "Section 9-349 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10203,7 +11117,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-356 is repealed."
+            "text": "Section 9-356 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10408,7 +11326,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-364b is repealed."
+            "text": "Section 9-364b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10493,12 +11415,23 @@
           "section_key": "",
           "label": "Secs. 9-368a and 9-368b.",
           "url": "https://www.cga.ct.gov/current/pub/chap_151.htm#secs_9-368a_and_9-368b",
+          "grouped": true,
+          "section_keys": [
+            "9-368a",
+            "9-368b"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 141, Secs. 9-7a and 9-7b , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 141, Secs. 9-7a and 9-7b , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -10529,12 +11462,26 @@
           "section_key": "",
           "label": "Secs. 9-368d to 9-368h.",
           "url": "https://www.cga.ct.gov/current/pub/chap_151.htm#secs_9-368d_to_9-368h",
+          "grouped": true,
+          "section_keys": [
+            "9-368d",
+            "9-368e",
+            "9-368f",
+            "9-368g",
+            "9-368h"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -11234,7 +12181,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-375a is repealed."
+            "text": "Section 9-375a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11314,12 +12265,33 @@
           "section_key": "",
           "label": "Secs. 9-378a to 9-378 l .",
           "url": "https://www.cga.ct.gov/current/pub/chap_153.htm#secs_9-378a_to_9-378l",
+          "grouped": true,
+          "section_keys": [
+            "9-378a",
+            "9-378b",
+            "9-378c",
+            "9-378d",
+            "9-378e",
+            "9-378f",
+            "9-378g",
+            "9-378h",
+            "9-378i",
+            "9-378j",
+            "9-378k",
+            "9-378l"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11333,7 +12305,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 9-453u ."
+            "text": "Transferred to Sec. 9-453u .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -11485,7 +12461,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-384a is repealed."
+            "text": "Section 9-384a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11600,7 +12580,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-389 is repealed."
+            "text": "Section 9-389 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11652,7 +12636,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-390a is repealed."
+            "text": "Section 9-390a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11813,12 +12801,25 @@
           "section_key": "",
           "label": "Secs. 9-398 and 9-399. Dispute as to endorsement. Time for filing candidacies.",
           "url": "https://www.cga.ct.gov/current/pub/chap_153.htm#secs_9-398_and_9-399",
+          "grouped": true,
+          "section_keys": [
+            "9-398",
+            "9-399"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-398 and 9-399 are repealed."
+            ],
+            "source": [
+              "(June, 1955, S. 576d; November, 1955, S. N48, N64; 1957, P.A. 518, S. 3, 11; 1958 Rev., S. 9-77, 9-91; 1963, P.A. 17, S. 26, 27; P.A. 74-25, S. 5, 13; P.A. 79-616, S. 23; P.A. 81-447, S. 22, 23.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-398 and 9-399 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11847,12 +12848,27 @@
           "section_key": "",
           "label": "Secs. 9-401 to 9-404. Availability of petition forms. Petition form; circulation of petitions for state or district office; prohibited acts. Registrar's receipt and verification of petitions for state or district office; rejection by Secretary of the State, when; preservation of petitions by secretary. Return of deposit; state or district office.",
           "url": "https://www.cga.ct.gov/current/pub/chap_153.htm#secs_9-401_to_9-404",
+          "grouped": true,
+          "section_keys": [
+            "9-401",
+            "9-402",
+            "9-403",
+            "9-404"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-401 to 9-404 , inclusive, are repealed."
+            ],
+            "source": [
+              "(June, 1955, S. 591d–594d; November, 1955, S. N74–N77; 1957, P.A. 518, S. 21–24; March, 1958, P.A. 27, S. 22; 1958 Rev., S. 9-102–9-105; 1963, P.A. 17, S. 29–32; 312, S. 1; 525, S. 1; 1969, P.A. 694, S. 14; 1971, P.A. 871, S. 75; P.A. 74-25, S. 6, 13; P.A. 78-125, S. 1, 2; 78-153, S. 1, 32; P.A. 79-363, S. 30, 38; 79-616, S. 23.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-401 to 9-404 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11985,12 +13001,25 @@
           "section_key": "",
           "label": "Secs. 9-407 and 9-408. Filing of candidacies; delegates. Filing of primary petition candidacies for district delegates.",
           "url": "https://www.cga.ct.gov/current/pub/chap_153.htm#secs_9-407_and_9-408",
+          "grouped": true,
+          "section_keys": [
+            "9-407",
+            "9-408"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-407 and 9-408 are repealed, effective January 1, 2004, and applicable to primaries and elections held on or after that date."
+            ],
+            "source": [
+              "(June, 1955, S. 590d; November, 1955, S. N72, N73; 1957, P.A. 518, S. 19, 20; 1958 Rev., S. 9-100, 9-101; 1963, P.A. 17, S. 35, 36; 1967, P.A. 557, S. 15, 16; P.A. 73-657, S. 10, 13; P.A. 75-269, S. 7, 8; P.A. 79-616, S. 7, 8; P.A. 80-483, S. 37, 186; P.A. 83-213, S. 10; P.A. 99-276, S. 8, 9, 15; P.A. 03-241, S. 67.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-407 and 9-408 are repealed, effective January 1, 2004, and applicable to primaries and elections held on or after that date.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12101,7 +13130,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-413 is repealed."
+            "text": "Section 9-413 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12343,7 +13376,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-424 is repealed, effective January 1, 2004, and applicable to primaries and elections held on or after that date."
+            "text": "Section 9-424 is repealed, effective January 1, 2004, and applicable to primaries and elections held on or after that date.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12397,7 +13434,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-427 is repealed, effective January 1, 2004, and applicable to primaries and elections held on or after that date."
+            "text": "Section 9-427 is repealed, effective January 1, 2004, and applicable to primaries and elections held on or after that date.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12505,7 +13546,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-431b is repealed."
+            "text": "Section 9-431b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12521,7 +13566,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-432 is repealed."
+            "text": "Section 9-432 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12906,7 +13955,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 149, Sec. 9-329a ."
+            "text": "Transferred to Chapter 149, Sec. 9-329a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -12954,7 +14007,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-450a is repealed.\n\nB\n\nMINOR PARTIES"
+            "text": "Section 9-450a is repealed.\n\nB\n\nMINOR PARTIES",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13031,7 +14088,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-453 is repealed."
+            "text": "Section 9-453 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13343,7 +14404,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 9-453q is repealed."
+            "text": "Section 9-453q is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13431,12 +14496,28 @@
           "section_key": "",
           "label": "Secs. 9-454 to 9-458. Petition: Form; signatures; circulation and filing; town clerk's duties; platform statement required, when; false signing.",
           "url": "https://www.cga.ct.gov/current/pub/chap_153.htm#secs_9-454_to_9-458",
+          "grouped": true,
+          "section_keys": [
+            "9-454",
+            "9-455",
+            "9-456",
+            "9-457",
+            "9-458"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-454 to 9-458 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 1044; 1953, S. 569d; 1957, P.A. 410, S. 1; 1958 Rev., S. 9-72; 1959, P.A. 476, S. 1; 675, S. 1; 1963, P.A. 17, S. 78–81; 113; 343; 376, S. 1; February, 1965, P.A. 600, S. 2; 1967, P.A. 856; 1969; 1969, P.A. 715; 1971, P.A. 806, S. 1; 871, S. 79.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-454 to 9-458 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13528,7 +14609,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-398 and 9-399. Dispute as to endorsement. Time for filing candidacies. Sections 9-398 and 9-399 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -13543,7 +14627,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-398 and 9-399. Dispute as to endorsement. Time for filing candidacies. Sections 9-398 and 9-399 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -13588,7 +14675,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-407 and 9-408. Filing of candidacies; delegates. Filing of primary petition candidacies for district delegates. Sections 9-407 and 9-408 are repealed, effective January 1, 2004, and applicable to primaries and elections held on or after that date.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -13603,7 +14693,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-407 and 9-408. Filing of candidacies; delegates. Filing of primary petition candidacies for district delegates. Sections 9-407 and 9-408 are repealed, effective January 1, 2004, and applicable to primaries and elections held on or after that date.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -13618,7 +14711,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-454 to 9-458. Petition: Form; signatures; circulation and filing; town clerk's duties; platform statement required, when; false signing. Sections 9-454 to 9-458 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -13633,7 +14729,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-454 to 9-458. Petition: Form; signatures; circulation and filing; town clerk's duties; platform statement required, when; false signing. Sections 9-454 to 9-458 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -13856,12 +14955,25 @@
           "section_key": "",
           "label": "Secs. 9-474 and 9-475. Candidate caucuses. Selection of delegate slates.",
           "url": "https://www.cga.ct.gov/current/pub/chap_154.htm#secs_9-474_and_9-475",
+          "grouped": true,
+          "section_keys": [
+            "9-474",
+            "9-475"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-474 and 9-475 are repealed."
+            ],
+            "source": [
+              "(P.A. 77-535, S. 12, 13; P.A. 79-481, S. 18.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-474 and 9-475 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13886,12 +14998,28 @@
           "section_key": "",
           "label": "Secs. 9-477 to 9-481. Tabulation of votes. Delegate affidavit. Convention certification. Vacancy in delegate slate prior to primary. Vacancy in delegate slate following primary.",
           "url": "https://www.cga.ct.gov/current/pub/chap_154.htm#secs_9-477_to_9-481",
+          "grouped": true,
+          "section_keys": [
+            "9-477",
+            "9-478",
+            "9-479",
+            "9-480",
+            "9-481"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-477 to 9-481 , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 77-535, S. 15–19; P.A. 79-481, S. 18.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-477 to 9-481 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13987,12 +15115,134 @@
           "section_key": "",
           "label": "Secs. 9-487 to 9-599.",
           "url": "https://www.cga.ct.gov/current/pub/chap_154.htm#secs_9-487_to_9-599",
+          "grouped": true,
+          "section_keys": [
+            "9-487",
+            "9-488",
+            "9-489",
+            "9-490",
+            "9-491",
+            "9-492",
+            "9-493",
+            "9-494",
+            "9-495",
+            "9-496",
+            "9-497",
+            "9-498",
+            "9-499",
+            "9-500",
+            "9-501",
+            "9-502",
+            "9-503",
+            "9-504",
+            "9-505",
+            "9-506",
+            "9-507",
+            "9-508",
+            "9-509",
+            "9-510",
+            "9-511",
+            "9-512",
+            "9-513",
+            "9-514",
+            "9-515",
+            "9-516",
+            "9-517",
+            "9-518",
+            "9-519",
+            "9-520",
+            "9-521",
+            "9-522",
+            "9-523",
+            "9-524",
+            "9-525",
+            "9-526",
+            "9-527",
+            "9-528",
+            "9-529",
+            "9-530",
+            "9-531",
+            "9-532",
+            "9-533",
+            "9-534",
+            "9-535",
+            "9-536",
+            "9-537",
+            "9-538",
+            "9-539",
+            "9-540",
+            "9-541",
+            "9-542",
+            "9-543",
+            "9-544",
+            "9-545",
+            "9-546",
+            "9-547",
+            "9-548",
+            "9-549",
+            "9-550",
+            "9-551",
+            "9-552",
+            "9-553",
+            "9-554",
+            "9-555",
+            "9-556",
+            "9-557",
+            "9-558",
+            "9-559",
+            "9-560",
+            "9-561",
+            "9-562",
+            "9-563",
+            "9-564",
+            "9-565",
+            "9-566",
+            "9-567",
+            "9-568",
+            "9-569",
+            "9-570",
+            "9-571",
+            "9-572",
+            "9-573",
+            "9-574",
+            "9-575",
+            "9-576",
+            "9-577",
+            "9-578",
+            "9-579",
+            "9-580",
+            "9-581",
+            "9-582",
+            "9-583",
+            "9-584",
+            "9-585",
+            "9-586",
+            "9-587",
+            "9-588",
+            "9-589",
+            "9-590",
+            "9-591",
+            "9-592",
+            "9-593",
+            "9-594",
+            "9-595",
+            "9-596",
+            "9-597",
+            "9-598",
+            "9-599"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -14007,7 +15257,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-474 and 9-475. Candidate caucuses. Selection of delegate slates. Sections 9-474 and 9-475 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -14022,7 +15275,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-474 and 9-475. Candidate caucuses. Selection of delegate slates. Sections 9-474 and 9-475 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -14037,7 +15293,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-477 to 9-481. Tabulation of votes. Delegate affidavit. Convention certification. Vacancy in delegate slate prior to primary. Vacancy in delegate slate following primary. Sections 9-477 to 9-481 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -14052,7 +15311,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-477 to 9-481. Tabulation of votes. Delegate affidavit. Convention certification. Vacancy in delegate slate prior to primary. Vacancy in delegate slate following primary. Sections 9-477 to 9-481 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -15020,12 +16282,70 @@
           "section_key": "",
           "label": "Secs. 9-626 to 9-674.",
           "url": "https://www.cga.ct.gov/current/pub/chap_155.htm#secs_9-626_to_9-674",
+          "grouped": true,
+          "section_keys": [
+            "9-626",
+            "9-627",
+            "9-628",
+            "9-629",
+            "9-630",
+            "9-631",
+            "9-632",
+            "9-633",
+            "9-634",
+            "9-635",
+            "9-636",
+            "9-637",
+            "9-638",
+            "9-639",
+            "9-640",
+            "9-641",
+            "9-642",
+            "9-643",
+            "9-644",
+            "9-645",
+            "9-646",
+            "9-647",
+            "9-648",
+            "9-649",
+            "9-650",
+            "9-651",
+            "9-652",
+            "9-653",
+            "9-654",
+            "9-655",
+            "9-656",
+            "9-657",
+            "9-658",
+            "9-659",
+            "9-660",
+            "9-661",
+            "9-662",
+            "9-663",
+            "9-664",
+            "9-665",
+            "9-666",
+            "9-667",
+            "9-668",
+            "9-669",
+            "9-670",
+            "9-671",
+            "9-672",
+            "9-673",
+            "9-674"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -15097,12 +16417,43 @@
           "section_key": "",
           "label": "Secs. 9-678 to 9-699.",
           "url": "https://www.cga.ct.gov/current/pub/chap_156.htm#secs_9-678_to_9-699",
+          "grouped": true,
+          "section_keys": [
+            "9-678",
+            "9-679",
+            "9-680",
+            "9-681",
+            "9-682",
+            "9-683",
+            "9-684",
+            "9-685",
+            "9-686",
+            "9-687",
+            "9-688",
+            "9-689",
+            "9-690",
+            "9-691",
+            "9-692",
+            "9-693",
+            "9-694",
+            "9-695",
+            "9-696",
+            "9-697",
+            "9-698",
+            "9-699"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -15496,12 +16847,25 @@
           "section_key": "",
           "label": "Secs. 9-713 and 9-714. Excess expenditures: Payment of additional moneys to opposing participating candidates. Independent expenditures: Payment of additional matching moneys to participating candidates.",
           "url": "https://www.cga.ct.gov/current/pub/chap_157.htm#secs_9-713_and_9-714",
+          "grouped": true,
+          "section_keys": [
+            "9-713",
+            "9-714"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 9-713 and 9-714 are repealed, effective August 13, 2010."
+            ],
+            "source": [
+              "(Oct. 25 Sp. Sess. P.A. 05-5, S. 14, 15; P.A. 06-137, S. 29; P.A. 08-2, S. 19; July Sp. Sess. P.A. 10-1, S. 15.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 9-713 and 9-714 are repealed, effective August 13, 2010.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -15619,12 +16983,51 @@
           "section_key": "",
           "label": "Secs. 9-720 to 9-749.",
           "url": "https://www.cga.ct.gov/current/pub/chap_157.htm#secs_9-720_to_9-749",
+          "grouped": true,
+          "section_keys": [
+            "9-720",
+            "9-721",
+            "9-722",
+            "9-723",
+            "9-724",
+            "9-725",
+            "9-726",
+            "9-727",
+            "9-728",
+            "9-729",
+            "9-730",
+            "9-731",
+            "9-732",
+            "9-733",
+            "9-734",
+            "9-735",
+            "9-736",
+            "9-737",
+            "9-738",
+            "9-739",
+            "9-740",
+            "9-741",
+            "9-742",
+            "9-743",
+            "9-744",
+            "9-745",
+            "9-746",
+            "9-747",
+            "9-748",
+            "9-749"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -15671,12 +17074,29 @@
           "section_key": "",
           "label": "Secs. 9-752 to 9-759.",
           "url": "https://www.cga.ct.gov/current/pub/chap_157.htm#secs_9-752_to_9-759",
+          "grouped": true,
+          "section_keys": [
+            "9-752",
+            "9-753",
+            "9-754",
+            "9-755",
+            "9-756",
+            "9-757",
+            "9-758",
+            "9-759"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -15691,7 +17111,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-713 and 9-714. Excess expenditures: Payment of additional moneys to opposing participating candidates. Independent expenditures: Payment of additional matching moneys to participating candidates. Sections 9-713 and 9-714 are repealed, effective August 13, 2010.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -15706,7 +17129,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 9-713 and 9-714. Excess expenditures: Payment of additional moneys to opposing participating candidates. Independent expenditures: Payment of additional matching moneys to participating candidates. Sections 9-713 and 9-714 are repealed, effective August 13, 2010.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]

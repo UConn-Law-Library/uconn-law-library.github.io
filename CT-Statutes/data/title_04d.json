@@ -46,7 +46,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4d-1a is repealed, effective July 1, 2013."
+            "text": "Section 4d-1a is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -100,7 +104,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4d-4 is repealed, effective July 1, 2011."
+            "text": "Section 4d-4 is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -138,7 +146,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4d-6 is repealed, effective October 1, 2002."
+            "text": "Section 4d-6 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -232,7 +244,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4d-10 is repealed, effective July 1, 2015."
+            "text": "Section 4d-10 is repealed, effective July 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -285,7 +301,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4d-13 is repealed, effective July 1, 2012."
+            "text": "Section 4d-13 is repealed, effective July 1, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -301,7 +321,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4d-14 is repealed, effective June 12, 2014."
+            "text": "Section 4d-14 is repealed, effective June 12, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -317,19 +341,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4d-15 is repealed, effective October 1, 1999."
+            "text": "Section 4d-15 is repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4d-16 and 4d-16a. Century date change effect. Management of century date change effect by municipalities; municipal authority to contract for services; cooperative purchasing plans.",
           "url": "https://www.cga.ct.gov/current/pub/chap_061.htm#secs_4d-16_and_4d-16a",
+          "grouped": true,
+          "section_keys": [
+            "4d-16",
+            "4d-16a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4d-16 and 4d-16a are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(June 18 Sp. Sess. P.A. 97-9, S. 24, 50; P.A. 99-66, S. 1, 4, 5; P.A. 02-89, S. 90; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4d-16 and 4d-16a are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -345,19 +386,44 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4d-17 is repealed, effective July 1, 2011."
+            "text": "Section 4d-17 is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4d-18 to 4d-29.",
           "url": "https://www.cga.ct.gov/current/pub/chap_061.htm#secs_4d-18_to_4d-29",
+          "grouped": true,
+          "section_keys": [
+            "4d-18",
+            "4d-19",
+            "4d-20",
+            "4d-21",
+            "4d-22",
+            "4d-23",
+            "4d-24",
+            "4d-25",
+            "4d-26",
+            "4d-27",
+            "4d-28",
+            "4d-29"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -643,12 +709,25 @@
           "section_key": "",
           "label": "Secs. 4d-45 and 4d-46. Review of contracts and amendments entered into pursuant to Department of Administrative Services requests for proposals. Disqualification of potential contractors and subcontractors which participate in Department of Administrative Services requests for proposals process.",
           "url": "https://www.cga.ct.gov/current/pub/chap_061.htm#secs_4d-45_and_4d-46",
+          "grouped": true,
+          "section_keys": [
+            "4d-45",
+            "4d-46"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4d-45 and 4d-46 are repealed, effective June 12, 2014."
+            ],
+            "source": [
+              "(S.A. 97-21, S. 83, 84, 106; P.A. 97-322, S. 2, 9; June 18 Sp. Sess. P.A. 97-9, S. 45, 46, 50; P.A. 11-51, S. 84; P.A. 14-202, S. 7.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4d-45 and 4d-46 are repealed, effective June 12, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -691,12 +770,52 @@
           "section_key": "",
           "label": "Secs. 4d-49 to 4d-79.",
           "url": "https://www.cga.ct.gov/current/pub/chap_061.htm#secs_4d-49_to_4d-79",
+          "grouped": true,
+          "section_keys": [
+            "4d-49",
+            "4d-50",
+            "4d-51",
+            "4d-52",
+            "4d-53",
+            "4d-54",
+            "4d-55",
+            "4d-56",
+            "4d-57",
+            "4d-58",
+            "4d-59",
+            "4d-60",
+            "4d-61",
+            "4d-62",
+            "4d-63",
+            "4d-64",
+            "4d-65",
+            "4d-66",
+            "4d-67",
+            "4d-68",
+            "4d-69",
+            "4d-70",
+            "4d-71",
+            "4d-72",
+            "4d-73",
+            "4d-74",
+            "4d-75",
+            "4d-76",
+            "4d-77",
+            "4d-78",
+            "4d-79"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -711,7 +830,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4d-16 and 4d-16a. Century date change effect. Management of century date change effect by municipalities; municipal authority to contract for services; cooperative purchasing plans. Sections 4d-16 and 4d-16a are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -726,7 +848,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4d-16 and 4d-16a. Century date change effect. Management of century date change effect by municipalities; municipal authority to contract for services; cooperative purchasing plans. Sections 4d-16 and 4d-16a are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -901,24 +1026,50 @@
           "section_key": "",
           "label": "Secs. 4d-84 and 4d-85. Technology standards. State-wide standard for teacher and administrator competency in the use of technology for instructional purposes.",
           "url": "https://www.cga.ct.gov/current/pub/chap_061a.htm#secs_4d-84_and_4d-85",
+          "grouped": true,
+          "section_keys": [
+            "4d-84",
+            "4d-85"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4d-84 and 4d-85 are repealed, effective July 1, 2013."
+            ],
+            "source": [
+              "(P.A. 00-187, S. 38, 42, 75; P.A. 04-157, S. 3; P.A. 11-51, S. 76; P.A. 13-247, S. 389.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4d-84 and 4d-85 are repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 4d-86 to 4d-89.",
           "url": "https://www.cga.ct.gov/current/pub/chap_061a.htm#secs_4d-86_to_4d-89",
+          "grouped": true,
+          "section_keys": [
+            "4d-86",
+            "4d-87",
+            "4d-88",
+            "4d-89"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -933,7 +1084,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4d-84 and 4d-85. Technology standards. State-wide standard for teacher and administrator competency in the use of technology for instructional purposes. Sections 4d-84 and 4d-85 are repealed, effective July 1, 2013.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -948,7 +1102,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 4d-84 and 4d-85. Technology standards. State-wide standard for teacher and administrator competency in the use of technology for instructional purposes. Sections 4d-84 and 4d-85 are repealed, effective July 1, 2013.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -1032,12 +1189,28 @@
           "section_key": "",
           "label": "Secs. 4d-93 to 4d-99.",
           "url": "https://www.cga.ct.gov/current/pub/chap_061b.htm#secs_4d-93_to_4d-99",
+          "grouped": true,
+          "section_keys": [
+            "4d-93",
+            "4d-94",
+            "4d-95",
+            "4d-96",
+            "4d-97",
+            "4d-98",
+            "4d-99"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -1061,7 +1234,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4d-100 is repealed, effective July 1, 2011."
+            "text": "Section 4d-100 is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]

@@ -202,12 +202,41 @@
           "section_key": "",
           "label": "Secs. 50a-10 to 50a-29.",
           "url": "https://www.cga.ct.gov/current/pub/chap_860.htm#secs_50a-10_to_50a-29",
+          "grouped": true,
+          "section_keys": [
+            "50a-10",
+            "50a-11",
+            "50a-12",
+            "50a-13",
+            "50a-14",
+            "50a-15",
+            "50a-16",
+            "50a-17",
+            "50a-18",
+            "50a-19",
+            "50a-20",
+            "50a-21",
+            "50a-22",
+            "50a-23",
+            "50a-24",
+            "50a-25",
+            "50a-26",
+            "50a-27",
+            "50a-28",
+            "50a-29"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -440,12 +469,32 @@
           "section_key": "",
           "label": "Secs. 50a-39 to 50a-49.",
           "url": "https://www.cga.ct.gov/current/pub/chap_861.htm#secs_50a-39_to_50a-49",
+          "grouped": true,
+          "section_keys": [
+            "50a-39",
+            "50a-40",
+            "50a-41",
+            "50a-42",
+            "50a-43",
+            "50a-44",
+            "50a-45",
+            "50a-46",
+            "50a-47",
+            "50a-48",
+            "50a-49"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -634,7 +683,7 @@
           "url": "https://www.cga.ct.gov/current/pub/chap_861a.htm#sec_50a-59",
           "content": {
             "body_paragraphs": [
-              "Sec. 50a-59. Prejudgment and judgment interest. (a) With respect to a foreign-money claim, recovery of prejudgment interest and the rate of interest to be applied in the case are matters of the substantive law governing the right to recovery under the conflict of laws rules of this state.",
+              "(a) With respect to a foreign-money claim, recovery of prejudgment interest and the rate of interest to be applied in the case are matters of the substantive law governing the right to recovery under the conflict of laws rules of this state.",
               "(b) Notwithstanding subsection (a) of this section, an increase or decrease in calculated prejudgment interest may be made in a foreign-money claim to the extent required by the law of this state applicable in an action or distribution proceeding for United States dollars, if there is a failure to make or accept an offer of settlement, an offer of judgment, or conduct by a party or its attorney causing undue delay or expense.",
               "(c) A judgment shall bear interest at the rate applicable for a judgment under the law of this state."
             ],
@@ -645,7 +694,7 @@
               "History: P.A. 07-217 made a technical change in Subsec. (b), effective July 12, 2007."
             ],
             "annotations": [],
-            "text": "Sec. 50a-59. Prejudgment and judgment interest. (a) With respect to a foreign-money claim, recovery of prejudgment interest and the rate of interest to be applied in the case are matters of the substantive law governing the right to recovery under the conflict of laws rules of this state.\n\n(b) Notwithstanding subsection (a) of this section, an increase or decrease in calculated prejudgment interest may be made in a foreign-money claim to the extent required by the law of this state applicable in an action or distribution proceeding for United States dollars, if there is a failure to make or accept an offer of settlement, an offer of judgment, or conduct by a party or its attorney causing undue delay or expense.\n\n(c) A judgment shall bear interest at the rate applicable for a judgment under the law of this state."
+            "text": "(a) With respect to a foreign-money claim, recovery of prejudgment interest and the rate of interest to be applied in the case are matters of the substantive law governing the right to recovery under the conflict of laws rules of this state.\n\n(b) Notwithstanding subsection (a) of this section, an increase or decrease in calculated prejudgment interest may be made in a foreign-money claim to the extent required by the law of this state applicable in an action or distribution proceeding for United States dollars, if there is a failure to make or accept an offer of settlement, an offer of judgment, or conduct by a party or its attorney causing undue delay or expense.\n\n(c) A judgment shall bear interest at the rate applicable for a judgment under the law of this state."
           }
         },
         {
@@ -758,32 +807,55 @@
           "section_key": "",
           "label": "Secs. 50a-66 to 50a-99.",
           "url": "https://www.cga.ct.gov/current/pub/chap_861a.htm#secs_50a-66_to_50a-99",
+          "grouped": true,
+          "section_keys": [
+            "50a-66",
+            "50a-67",
+            "50a-68",
+            "50a-69",
+            "50a-70",
+            "50a-71",
+            "50a-72",
+            "50a-73",
+            "50a-74",
+            "50a-75",
+            "50a-76",
+            "50a-77",
+            "50a-78",
+            "50a-79",
+            "50a-80",
+            "50a-81",
+            "50a-82",
+            "50a-83",
+            "50a-84",
+            "50a-85",
+            "50a-86",
+            "50a-87",
+            "50a-88",
+            "50a-89",
+            "50a-90",
+            "50a-91",
+            "50a-92",
+            "50a-93",
+            "50a-94",
+            "50a-95",
+            "50a-96",
+            "50a-97",
+            "50a-98",
+            "50a-99"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
-          }
-        },
-        {
-          "section_key": "50a-59",
-          "label": "50a-59)",
-          "url": "https://www.cga.ct.gov/current/pub/chap_861a.htm#sec_50a-59)",
-          "content": {
-            "body_paragraphs": [
-              "Sec. 50a-59. Prejudgment and judgment interest. (a) With respect to a foreign-money claim, recovery of prejudgment interest and the rate of interest to be applied in the case are matters of the substantive law governing the right to recovery under the conflict of laws rules of this state.",
-              "(b) Notwithstanding subsection (a) of this section, an increase or decrease in calculated prejudgment interest may be made in a foreign-money claim to the extent required by the law of this state applicable in an action or distribution proceeding for United States dollars, if there is a failure to make or accept an offer of settlement, an offer of judgment, or conduct by a party or its attorney causing undue delay or expense.",
-              "(c) A judgment shall bear interest at the rate applicable for a judgment under the law of this state."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
             ],
-            "source": [
-              "(P.A. 89-134, S. 9; P.A. 07-217, S. 185.)"
-            ],
-            "history": [
-              "History: P.A. 07-217 made a technical change in Subsec. (b), effective July 12, 2007."
-            ],
-            "annotations": [],
-            "text": "Sec. 50a-59. Prejudgment and judgment interest. (a) With respect to a foreign-money claim, recovery of prejudgment interest and the rate of interest to be applied in the case are matters of the substantive law governing the right to recovery under the conflict of laws rules of this state.\n\n(b) Notwithstanding subsection (a) of this section, an increase or decrease in calculated prejudgment interest may be made in a foreign-money claim to the extent required by the law of this state applicable in an action or distribution proceeding for United States dollars, if there is a failure to make or accept an offer of settlement, an offer of judgment, or conduct by a party or its attorney causing undue delay or expense.\n\n(c) A judgment shall bear interest at the rate applicable for a judgment under the law of this state."
+            "status": "reserved"
           }
         }
       ]
@@ -1491,12 +1563,24 @@
           "section_key": "",
           "label": "Secs. 50a-137 to 50a-139.",
           "url": "https://www.cga.ct.gov/current/pub/chap_862.htm#secs_50a-137_to_50a-139",
+          "grouped": true,
+          "section_keys": [
+            "50a-137",
+            "50a-138",
+            "50a-139"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -1532,12 +1616,80 @@
           "section_key": "",
           "label": "Secs. 50a-141 to 50a-199.",
           "url": "https://www.cga.ct.gov/current/pub/chap_862a.htm#secs_50a-141_to_50a-199",
+          "grouped": true,
+          "section_keys": [
+            "50a-141",
+            "50a-142",
+            "50a-143",
+            "50a-144",
+            "50a-145",
+            "50a-146",
+            "50a-147",
+            "50a-148",
+            "50a-149",
+            "50a-150",
+            "50a-151",
+            "50a-152",
+            "50a-153",
+            "50a-154",
+            "50a-155",
+            "50a-156",
+            "50a-157",
+            "50a-158",
+            "50a-159",
+            "50a-160",
+            "50a-161",
+            "50a-162",
+            "50a-163",
+            "50a-164",
+            "50a-165",
+            "50a-166",
+            "50a-167",
+            "50a-168",
+            "50a-169",
+            "50a-170",
+            "50a-171",
+            "50a-172",
+            "50a-173",
+            "50a-174",
+            "50a-175",
+            "50a-176",
+            "50a-177",
+            "50a-178",
+            "50a-179",
+            "50a-180",
+            "50a-181",
+            "50a-182",
+            "50a-183",
+            "50a-184",
+            "50a-185",
+            "50a-186",
+            "50a-187",
+            "50a-188",
+            "50a-189",
+            "50a-190",
+            "50a-191",
+            "50a-192",
+            "50a-193",
+            "50a-194",
+            "50a-195",
+            "50a-196",
+            "50a-197",
+            "50a-198",
+            "50a-199"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]

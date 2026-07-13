@@ -263,7 +263,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4e-9 is repealed, effective July 1, 2023."
+            "text": "Section 4e-9 is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1110,12 +1114,40 @@
           "section_key": "",
           "label": "Secs. 4e-51 to 4e-69.",
           "url": "https://www.cga.ct.gov/current/pub/chap_062.htm#secs_4e-51_to_4e-69",
+          "grouped": true,
+          "section_keys": [
+            "4e-51",
+            "4e-52",
+            "4e-53",
+            "4e-54",
+            "4e-55",
+            "4e-56",
+            "4e-57",
+            "4e-58",
+            "4e-59",
+            "4e-60",
+            "4e-61",
+            "4e-62",
+            "4e-63",
+            "4e-64",
+            "4e-65",
+            "4e-66",
+            "4e-67",
+            "4e-68",
+            "4e-69"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -1242,12 +1274,23 @@
           "section_key": "",
           "label": "Secs. 4e-74 and 4e-75.",
           "url": "https://www.cga.ct.gov/current/pub/chap_062a.htm#secs_4e-74_and_4e-75",
+          "grouped": true,
+          "section_keys": [
+            "4e-74",
+            "4e-75"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {

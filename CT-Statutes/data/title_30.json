@@ -69,12 +69,25 @@
           "section_key": "",
           "label": "Secs. 30-1a and 30-1b. Term “Liquor Control Commission” deemed to mean Division of Liquor Control within the Department of Business Regulation, exception. Term “Division of Liquor Control” or “Division of Liquor Control within the Department of Public Safety” deemed to mean “Department of Liquor Control”, when.",
           "url": "https://www.cga.ct.gov/current/pub/chap_545.htm#secs_30-1a_and_30-1b",
+          "grouped": true,
+          "section_keys": [
+            "30-1a",
+            "30-1b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 30-1a and 30-1b are repealed."
+            ],
+            "source": [
+              "(P.A. 77-614, S. 165, 610; P.A. 78-303, S. 80, 136; P.A. 80-482, S. 170, 346, 348; P.A. 93-139, S. 73.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 30-1a and 30-1b are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -241,7 +254,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-6c is repealed, effective July 1, 2021."
+            "text": "Section 30-6c is repealed, effective July 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -449,7 +466,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-13b is repealed."
+            "text": "Section 30-13b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -782,7 +803,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-17b is repealed, effective January 1, 2018."
+            "text": "Section 30-17b is repealed, effective January 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -931,12 +956,26 @@
           "section_key": "",
           "label": "Secs. 30-19a to 30-19e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_545.htm#secs_30-19a_to_30-19e",
+          "grouped": true,
+          "section_keys": [
+            "30-19a",
+            "30-19b",
+            "30-19c",
+            "30-19d",
+            "30-19e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1008,7 +1047,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-20a is repealed, effective July 1, 2020."
+            "text": "Section 30-20a is repealed, effective July 1, 2020.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1072,7 +1115,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-21a is repealed."
+            "text": "Section 30-21a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1298,12 +1345,40 @@
           "section_key": "",
           "label": "Secs. 30-22h to 30-22z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_545.htm#secs_30-22h_to_30-22z",
+          "grouped": true,
+          "section_keys": [
+            "30-22h",
+            "30-22i",
+            "30-22j",
+            "30-22k",
+            "30-22l",
+            "30-22m",
+            "30-22n",
+            "30-22o",
+            "30-22p",
+            "30-22q",
+            "30-22r",
+            "30-22s",
+            "30-22t",
+            "30-22u",
+            "30-22v",
+            "30-22w",
+            "30-22x",
+            "30-22y",
+            "30-22z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1357,7 +1432,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-23 is repealed, effective July 1, 2020."
+            "text": "Section 30-23 is repealed, effective July 1, 2020.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1391,7 +1470,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-23b is repealed, effective June 1, 2004."
+            "text": "Section 30-23b is repealed, effective June 1, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1431,7 +1514,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-24a is repealed, effective July 1, 2020."
+            "text": "Section 30-24a is repealed, effective July 1, 2020.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1466,7 +1553,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-25 is repealed, effective July 1, 2023."
+            "text": "Section 30-25 is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1500,7 +1591,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-26 is repealed, effective July 1, 2020."
+            "text": "Section 30-26 is repealed, effective July 1, 2020.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1516,7 +1611,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-27 is repealed."
+            "text": "Section 30-27 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1532,7 +1631,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-28 is repealed, effective July 1, 2020."
+            "text": "Section 30-28 is repealed, effective July 1, 2020.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1568,7 +1671,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-29 is repealed, effective July 1, 2020."
+            "text": "Section 30-29 is repealed, effective July 1, 2020.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1688,12 +1795,25 @@
           "section_key": "",
           "label": "Secs. 30-33b and 30-33c. Special sporting facility permits.",
           "url": "https://www.cga.ct.gov/current/pub/chap_545.htm#secs_30-33b_and_30-33c",
+          "grouped": true,
+          "section_keys": [
+            "30-33b",
+            "30-33c"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 30-33b and 30-33c are repealed, effective July 1, 2020."
+            ],
+            "source": [
+              "(P.A. 74-307, S. 2; P.A. 78-344, S. 3, 4; P.A. 80-247, S. 1, 2; P.A. 93-139, S. 33, 37; June Sp. Sess. P.A. 09-3, S. 351, 352; P.A. 13-299, S. 83; P.A. 19-24, S. 27.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 30-33b and 30-33c are repealed, effective July 1, 2020.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1860,7 +1980,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-37b is repealed, effective July 1, 2023."
+            "text": "Section 30-37b is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1876,7 +2000,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-37c is repealed, effective July 1, 2020."
+            "text": "Section 30-37c is repealed, effective July 1, 2020.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1892,7 +2020,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-37d is repealed, effective July 1, 2023."
+            "text": "Section 30-37d is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1908,7 +2040,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-37e is repealed, effective July 1, 2020."
+            "text": "Section 30-37e is repealed, effective July 1, 2020.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1961,7 +2097,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-37h is repealed, effective July 1, 2023."
+            "text": "Section 30-37h is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2033,12 +2173,38 @@
           "section_key": "",
           "label": "Secs. 30-37 l to 30-37n. Wine festival permit. Out-of-state entity wine festival permit. Wine festival and out-of-state entity wine festival permits. Notification to chief municipal law enforcement official.",
           "url": "https://www.cga.ct.gov/current/pub/chap_545.htm#secs_30-37l_to_30-37n",
+          "grouped": true,
+          "section_keys": [
+            "30-37",
+            "30-37a",
+            "30-37b",
+            "30-37c",
+            "30-37d",
+            "30-37e",
+            "30-37f",
+            "30-37g",
+            "30-37h",
+            "30-37i",
+            "30-37j",
+            "30-37k",
+            "30-37l",
+            "30-37m",
+            "30-37n"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 30-37 l to 30-37n , inclusive, are repealed, effective May 23, 2022."
+            ],
+            "source": [
+              "(P.A. 09-47, S. 3, 4, 7; Oct. Sp. Sess. P.A. 11-1, S. 16; P.A. 19-24, S. 13; P.A. 22-56, S. 10.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 30-37 l to 30-37n , inclusive, are repealed, effective May 23, 2022.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2117,7 +2283,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-37r is repealed, effective July 1, 2020."
+            "text": "Section 30-37r is repealed, effective July 1, 2020.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2316,7 +2486,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-39a is repealed."
+            "text": "Section 30-39a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2366,12 +2540,25 @@
           "section_key": "",
           "label": "Secs. 30-41 and 30-42. Permit fees. Rebate of permit fees.",
           "url": "https://www.cga.ct.gov/current/pub/chap_545.htm#secs_30-41_and_30-42",
+          "grouped": true,
+          "section_keys": [
+            "30-41",
+            "30-42"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 30-41 and 30-42 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4260, 4279; 1951, 1953, S. 2153d, 2162d; November, 1955, S. N197; March, 1958, P.A. 21, S. 2; 1959, P.A. 152, S. 55; 1961, P.A. 567, S. 1; February, 1965, P.A. 179, S. 1; 553, S. 9; 1967, P.A. 365, S. 3; 725, S. 4; 1969, P.A. 724, S. 4; 1971, P.A. 254, S. 4; 1972, P.A. 68, S. 2; P.A. 73-104, S. 1, 2; 73-400; 73-533, S. 4; 73-543, S. 4, 14; P.A. 74-307, S. 7; 74-338, S. 33, 94; P.A. 75-598, S. 2; 75-641, S. 11; P.A. 76-347, S. 4; 76-370, S. 2; 76-394, S. 3, 4; P.A. 77-614, S. 165, 587, 614; P.A. 78-82, S. 4; 78-202, S. 4, 5; 78-279, S. 5, 6; 78-294, S. 4, 5; 78-303, S. 80, 85, 136; 80-482, S. 4, 170, 191, 345, 348; P.A. 81-119, S. 2, 3; 81-184; 81-287, S. 4; 81-367, S. 5, 9; 81-472, S. 108, 159; P.A. 82-299, S. 4, 6; P.A. 83-152, S. 5; 83-283, S. 3, 5; 83-434, S. 3, 4; P.A. 84-494, S. 6, 7, 11; P.A. 85-380, S. 2, 8, 12; P.A. 87-321, S. 4, 6; P.A. 88-364, S. 100, 123; P.A. 89-181, S. 4, 6; P.A. 91-118, S. 3; 91-353, S. 5, 7; June Sp. Sess. P.A. 91-14, S. 28, 30; P.A. 93-139, S. 73.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 30-41 and 30-42 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2657,12 +2844,25 @@
           "section_key": "",
           "label": "Secs. 30-49 and 30-50. Sale of liquor on credit. Period of credit. Suspension of credit restrictions in case of disaster.",
           "url": "https://www.cga.ct.gov/current/pub/chap_545.htm#secs_30-49_and_30-50",
+          "grouped": true,
+          "section_keys": [
+            "30-49",
+            "30-50"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 30-49 and 30-50 are repealed."
+            ],
+            "source": [
+              "(1951, S. 2168d; November, 1955, S. N199; February, 1965, P.A. 598; P.A. 75-641, S. 14; P.A. 77-438, S. 6.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 30-49 and 30-50 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2935,7 +3135,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-58b is repealed, effective July 1, 2021."
+            "text": "Section 30-58b is repealed, effective July 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3185,12 +3389,27 @@
           "section_key": "",
           "label": "Secs. 30-63a to 30-63d. Prices charged by manufacturers and out-of-state shippers to Connecticut wholesalers. Affirmation re price. Determination of price. Enforcement; regulations.",
           "url": "https://www.cga.ct.gov/current/pub/chap_545.htm#secs_30-63a_to_30-63d",
+          "grouped": true,
+          "section_keys": [
+            "30-63a",
+            "30-63b",
+            "30-63c",
+            "30-63d"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 30-63a to 30-63d , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 73-387, S. 1–5; P.A. 75-259, S. 5, 8; 75-641, S. 16; P.A. 77-614, S. 165, 587, 610; P.A. 75-303, S. 80, 85, 136; P.A. 80-482, S. 4, 170, 191, 345, 348; P.A. 81-294, S. 11–14, 22; P.A. 82-330, S. 2–4; P.A. 84-332, S. 2–4; 84-432, S. 1, 3; P.A. 85-613, S. 70, 154; P.A. 91-67, S. 1, 2; P.A. 93-139, S. 73.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 30-63a to 30-63d , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3305,7 +3524,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-65 is repealed."
+            "text": "Section 30-65 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3321,7 +3544,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-66 is repealed, effective October 1, 2011."
+            "text": "Section 30-66 is repealed, effective October 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3369,12 +3596,31 @@
           "section_key": "",
           "label": "Secs. 30-68a to 30-68h. Minimum retail markups; definitions. Minimum selling price. Suggested consumer resale price. Enforcement; regulations. Minimum wholesale markups; definitions. Minimum selling price. Minimum wholesale price. Enforcement; regulations.",
           "url": "https://www.cga.ct.gov/current/pub/chap_545.htm#secs_30-68a_to_30-68h",
+          "grouped": true,
+          "section_keys": [
+            "30-68a",
+            "30-68b",
+            "30-68c",
+            "30-68d",
+            "30-68e",
+            "30-68f",
+            "30-68g",
+            "30-68h"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 30-68a to 30-68h , inclusive, are repealed."
+            ],
+            "source": [
+              "(1963, P.A. 267, S. 1–4; 268, S. 1–4; 1969, P.A. 135, S. 2, 3; P.A. 75-240, S. 2, 3; 75-641, S. 20, 21; P.A. 77-438, S. 3; 77-614, S. 165, 587, 610; P.A. 78-303, S. 80, 85, 136; P.A. 79-254; 79-604, S. 4, 5; P.A. 80-482, S. 4, 170, 191, 345, 348; P.A. 81-294, S. 16, 21, 22; P.A. 85-220, S. 1, 2; P.A. 93-139, S. 73.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 30-68a to 30-68h , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3408,7 +3654,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-68j is repealed."
+            "text": "Section 30-68j is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3492,12 +3742,28 @@
           "section_key": "",
           "label": "Secs. 30-69 to 30-73. Seizures.",
           "url": "https://www.cga.ct.gov/current/pub/chap_545.htm#secs_30-69_to_30-73",
+          "grouped": true,
+          "section_keys": [
+            "30-69",
+            "30-70",
+            "30-71",
+            "30-72",
+            "30-73"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 30-69 to 30-73 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4281–4285; 1959, P.A. 28, S. 64, 65; 1961, P.A. 517, S. 33; 1963, P.A. 642, S. 33; 652, S. 10.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 30-69 to 30-73 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3681,7 +3947,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-79 is repealed."
+            "text": "Section 30-79 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3755,12 +4025,26 @@
           "section_key": "",
           "label": "Secs. 30-83 to 30-85. Selectmen to give permittees lists of drinkers receiving town aid. Sales to relatives. Liquors not to be sent to certain persons or their abodes.",
           "url": "https://www.cga.ct.gov/current/pub/chap_545.htm#secs_30-83_to_30-85",
+          "grouped": true,
+          "section_keys": [
+            "30-83",
+            "30-84",
+            "30-85"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 30-83 to 30-85 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4290–4292; 1971, P.A. 343, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 30-83 to 30-85 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3918,7 +4202,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-88 is repealed."
+            "text": "Section 30-88 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4123,7 +4411,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-92 is repealed."
+            "text": "Section 30-92 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4287,7 +4579,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-96 is repealed."
+            "text": "Section 30-96 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4303,7 +4599,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-97 is repealed, effective October 1, 2002."
+            "text": "Section 30-97 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4455,7 +4755,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 30-104 is repealed."
+            "text": "Section 30-104 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4809,7 +5113,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 30-33b and 30-33c. Special sporting facility permits. Sections 30-33b and 30-33c are repealed, effective July 1, 2020.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4824,7 +5131,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 30-33b and 30-33c. Special sporting facility permits. Sections 30-33b and 30-33c are repealed, effective July 1, 2020.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4839,7 +5149,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 30-37 l to 30-37n. Wine festival permit. Out-of-state entity wine festival permit. Wine festival and out-of-state entity wine festival permits. Notification to chief municipal law enforcement official. Sections 30-37 l to 30-37n , inclusive, are repealed, effective May 23, 2022.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4854,7 +5167,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 30-37 l to 30-37n. Wine festival permit. Out-of-state entity wine festival permit. Wine festival and out-of-state entity wine festival permits. Notification to chief municipal law enforcement official. Sections 30-37 l to 30-37n , inclusive, are repealed, effective May 23, 2022.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4869,7 +5185,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 30-41 and 30-42. Permit fees. Rebate of permit fees. Sections 30-41 and 30-42 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4884,7 +5203,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 30-41 and 30-42. Permit fees. Rebate of permit fees. Sections 30-41 and 30-42 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4899,7 +5221,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 30-49 and 30-50. Sale of liquor on credit. Period of credit. Suspension of credit restrictions in case of disaster. Sections 30-49 and 30-50 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4914,7 +5239,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 30-49 and 30-50. Sale of liquor on credit. Period of credit. Suspension of credit restrictions in case of disaster. Sections 30-49 and 30-50 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4929,7 +5257,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 30-63a to 30-63d. Prices charged by manufacturers and out-of-state shippers to Connecticut wholesalers. Affirmation re price. Determination of price. Enforcement; regulations. Sections 30-63a to 30-63d , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4944,7 +5275,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 30-63a to 30-63d. Prices charged by manufacturers and out-of-state shippers to Connecticut wholesalers. Affirmation re price. Determination of price. Enforcement; regulations. Sections 30-63a to 30-63d , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4959,7 +5293,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 30-68a to 30-68h. Minimum retail markups; definitions. Minimum selling price. Suggested consumer resale price. Enforcement; regulations. Minimum wholesale markups; definitions. Minimum selling price. Minimum wholesale price. Enforcement; regulations. Sections 30-68a to 30-68h , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4974,7 +5311,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 30-68a to 30-68h. Minimum retail markups; definitions. Minimum selling price. Suggested consumer resale price. Enforcement; regulations. Minimum wholesale markups; definitions. Minimum selling price. Minimum wholesale price. Enforcement; regulations. Sections 30-68a to 30-68h , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4989,7 +5329,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 30-69 to 30-73. Seizures. Sections 30-69 to 30-73 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5004,7 +5347,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 30-69 to 30-73. Seizures. Sections 30-69 to 30-73 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5019,7 +5365,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 30-83 to 30-85. Selectmen to give permittees lists of drinkers receiving town aid. Sales to relatives. Liquors not to be sent to certain persons or their abodes. Sections 30-83 to 30-85 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -5034,7 +5383,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 30-83 to 30-85. Selectmen to give permittees lists of drinkers receiving town aid. Sales to relatives. Liquors not to be sent to certain persons or their abodes. Sections 30-83 to 30-85 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]

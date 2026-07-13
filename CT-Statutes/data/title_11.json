@@ -107,7 +107,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 185b, Part III, Sec. 10a-111a ."
+            "text": "Transferred to Chapter 185b, Part III, Sec. 10a-111a .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -195,7 +199,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 11-4 is repealed."
+            "text": "Section 11-4 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -227,7 +235,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 189, Sec. 11-19e ."
+            "text": "Transferred to Chapter 189, Sec. 11-19e .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -277,7 +289,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 11-5 is repealed."
+            "text": "Section 11-5 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -331,7 +347,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 11-7 is repealed."
+            "text": "Section 11-7 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -443,12 +463,26 @@
           "section_key": "",
           "label": "Secs. 11-8d to 11-8h.",
           "url": "https://www.cga.ct.gov/current/pub/chap_188.htm#secs_11-8d_to_11-8h",
+          "grouped": true,
+          "section_keys": [
+            "11-8d",
+            "11-8e",
+            "11-8f",
+            "11-8g",
+            "11-8h"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -602,7 +636,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 11-9a is repealed."
+            "text": "Section 11-9a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -720,7 +758,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 11-9f is repealed."
+            "text": "Section 11-9f is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -742,7 +784,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Sec. 11-19b ."
+            "text": "Transferred to Sec. 11-19b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -785,12 +831,32 @@
           "section_key": "",
           "label": "Secs. 11-11 to 11-19. New Haven, New London, Fairfield, Middlesex, Hartford, Litchfield, Windham and Tolland County law libraries. Payments to law libraries. Treasurer's bond.",
           "url": "https://www.cga.ct.gov/current/pub/chap_189.htm#secs_11-11_to_11-19",
+          "grouped": true,
+          "section_keys": [
+            "11-11",
+            "11-12",
+            "11-13",
+            "11-14",
+            "11-15",
+            "11-16",
+            "11-17",
+            "11-18",
+            "11-19"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 11-11 to 11-19 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 1647–1655; 1949, 1951, 1953, 1955, S. 1013d, 1015d; 1949, S. 1017d, 1019d; 1951, S. 1014d, 1016d, 1018d; 1957, P.A. 6, S. 1; 7; 317; 335; 346; 1959, P.A. 152, S. 26–34; 167; 305, S. 1; 399; 402; 406; 1961, P.A. 554; 1963, P.A. 621; 1967, P.A. 644, S. 1, 2; 1969, P.A. 745, S. 1; 1972, S.A. 53, S. 14; P.A. 73-471, S. 4, 5; P.A. 75-530, S. 33, 35.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 11-11 to 11-19 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -844,7 +910,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 11-19c is repealed."
+            "text": "Section 11-19c is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -893,7 +963,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 11-11 to 11-19. New Haven, New London, Fairfield, Middlesex, Hartford, Litchfield, Windham and Tolland County law libraries. Payments to law libraries. Treasurer's bond. Sections 11-11 to 11-19 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -908,7 +981,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 11-11 to 11-19. New Haven, New London, Fairfield, Middlesex, Hartford, Litchfield, Windham and Tolland County law libraries. Payments to law libraries. Treasurer's bond. Sections 11-11 to 11-19 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -1067,7 +1143,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 11-24 is repealed."
+            "text": "Section 11-24 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1210,7 +1290,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 11-26 is repealed, effective July 1, 2007."
+            "text": "Section 11-26 is repealed, effective July 1, 2007.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1625,12 +1709,58 @@
           "section_key": "",
           "label": "Secs. 11-44 to 11-79.",
           "url": "https://www.cga.ct.gov/current/pub/chap_191.htm#secs_11-44_to_11-79",
+          "grouped": true,
+          "section_keys": [
+            "11-44",
+            "11-45",
+            "11-46",
+            "11-47",
+            "11-48",
+            "11-49",
+            "11-50",
+            "11-51",
+            "11-52",
+            "11-53",
+            "11-54",
+            "11-55",
+            "11-56",
+            "11-57",
+            "11-58",
+            "11-59",
+            "11-60",
+            "11-61",
+            "11-62",
+            "11-63",
+            "11-64",
+            "11-65",
+            "11-66",
+            "11-67",
+            "11-68",
+            "11-69",
+            "11-70",
+            "11-71",
+            "11-72",
+            "11-73",
+            "11-74",
+            "11-75",
+            "11-76",
+            "11-77",
+            "11-78",
+            "11-79"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use.",
+              "Note: Chapters 192 and 193 are also reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.\n\nNote: Chapters 192 and 193 are also reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]

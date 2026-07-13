@@ -207,12 +207,28 @@
           "section_key": "",
           "label": "Secs. 13b-5 to 13b-9. Deputy commissioner. Departmental organization. Deputy commissioners of bureaus. Bureau of Planning and Research. Bureau of Administration.",
           "url": "https://www.cga.ct.gov/current/pub/chap_242.htm#secs_13b-5_to_13b-9",
+          "grouped": true,
+          "section_keys": [
+            "13b-5",
+            "13b-6",
+            "13b-7",
+            "13b-8",
+            "13b-9"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-5 to 13b-9 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1969, P.A. 768, S. 5–7, 16, 51; P.A. 75-247, S. 2, 4; P.A. 77-614, S. 609, 610.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-5 to 13b-9 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -335,7 +351,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-11 is repealed."
+            "text": "Section 13b-11 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -351,7 +371,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-11a is repealed, effective July 1, 2013."
+            "text": "Section 13b-11a is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -386,19 +410,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-11c is repealed, effective July 1, 2016."
+            "text": "Section 13b-11c is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 13b-12 and 13b-13. Connecticut Aeronautics Commission. Steamship Terminals Commission.",
           "url": "https://www.cga.ct.gov/current/pub/chap_242.htm#secs_13b-12_and_13b-13",
+          "grouped": true,
+          "section_keys": [
+            "13b-12",
+            "13b-13"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-12 and 13b-13 are repealed."
+            ],
+            "source": [
+              "(1969, P.A. 768, S. 10, 11; 1972, P.A. 134, S. 6; 238, S. 3.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-12 and 13b-13 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -582,7 +623,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-15 is repealed, effective July 1, 2013."
+            "text": "Section 13b-15 is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -655,7 +700,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-16b is repealed, effective July 1, 2013."
+            "text": "Section 13b-16b is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -778,7 +827,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-20a is repealed."
+            "text": "Section 13b-20a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -996,7 +1049,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-20 l is repealed, effective July 1, 1998."
+            "text": "Section 13b-20 l is repealed, effective July 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1100,7 +1157,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-22 is repealed, effective July 1, 2016."
+            "text": "Section 13b-22 is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1275,7 +1336,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-25 is repealed."
+            "text": "Section 13b-25 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1635,7 +1700,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-33 is repealed."
+            "text": "Section 13b-33 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1706,7 +1775,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-34b is repealed, effective June 29, 1993."
+            "text": "Section 13b-34b is repealed, effective June 29, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1722,7 +1795,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-35 is repealed, effective October 1, 2018."
+            "text": "Section 13b-35 is repealed, effective October 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1771,7 +1848,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-37 is repealed, effective June 18, 2003."
+            "text": "Section 13b-37 is repealed, effective June 18, 2003.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1827,7 +1908,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-38b is repealed, effective June 11, 2014."
+            "text": "Section 13b-38b is repealed, effective June 11, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1852,12 +1937,23 @@
           "section_key": "",
           "label": "Secs. 13b-38d and 13b-38e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_242.htm#secs_13b-38d_and_13b-38e",
+          "grouped": true,
+          "section_keys": [
+            "13b-38d",
+            "13b-38e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1873,7 +1969,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-38f is repealed, effective July 1, 1998."
+            "text": "Section 13b-38f is repealed, effective July 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1939,7 +2039,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1975,19 +2079,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-38 l is repealed, effective October 1, 1999."
+            "text": "Section 13b-38 l is repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 13b-38m and 13b-38n. Survey of special transportation services. Contracts for the regionalization and coordination of special transportation services.",
           "url": "https://www.cga.ct.gov/current/pub/chap_242.htm#secs_13b-38m_and_13b-38n",
+          "grouped": true,
+          "section_keys": [
+            "13b-38m",
+            "13b-38n"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-38m and 13b-38n are repealed, effective June 7, 2002."
+            ],
+            "source": [
+              "(P.A. 92-68, S. 1–3; P.A. 93-262, S. 1, 87; 93-381, S. 9, 39; P.A. 95-257, S. 11, 12, 21, 58; P.A. 96-268, S. 14, 34; P.A. 02-123, S. 30.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-38m and 13b-38n are repealed, effective June 7, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2039,12 +2160,26 @@
           "section_key": "",
           "label": "Secs. 13b-38q to 13b-38s. Average vehicle occupancy. Consolidation of traffic management plans. Information to be sent to new affected employers.",
           "url": "https://www.cga.ct.gov/current/pub/chap_242.htm#secs_13b-38q_to_13b-38s",
+          "grouped": true,
+          "section_keys": [
+            "13b-38q",
+            "13b-38r",
+            "13b-38s"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-38q to 13b-38s , inclusive, are repealed, effective July 1, 1996."
+            ],
+            "source": [
+              "(May Sp. Sess. P.A. 92-13, S. 3–5, 18; P.A. 94-166; P.A. 96-223, S. 7, 8.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-38q to 13b-38s , inclusive, are repealed, effective July 1, 1996.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2079,7 +2214,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-38u is repealed, effective July 1, 1996."
+            "text": "Section 13b-38u is repealed, effective July 1, 1996.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2114,7 +2253,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-38w is repealed, effective July 1, 1996."
+            "text": "Section 13b-38w is repealed, effective July 1, 1996.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2149,19 +2292,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-38y is repealed, effective July 1, 1996."
+            "text": "Section 13b-38y is repealed, effective July 1, 1996.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 13b-38z and 13b-38aa. State-wide objectives for providing special transportation services. Progress reports of special transportation services.",
           "url": "https://www.cga.ct.gov/current/pub/chap_242.htm#secs_13b-38z_and_13b-38aa",
+          "grouped": true,
+          "section_keys": [
+            "13b-38z",
+            "13b-38aa"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-38z and 13b-38aa are repealed, effective June 7, 2002."
+            ],
+            "source": [
+              "(P.A. 99-265, S. 1, 2; P.A. 02-123, S. 30.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-38z and 13b-38aa are repealed, effective June 7, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2464,19 +2624,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-39h is repealed, effective July 1, 2011."
+            "text": "Section 13b-39h is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 13b-40 and 13b-41. Bureau of Aeronautics. State airways system.",
           "url": "https://www.cga.ct.gov/current/pub/chap_242.htm#secs_13b-40_and_13b-41",
+          "grouped": true,
+          "section_keys": [
+            "13b-40",
+            "13b-41"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-40 and 13b-41 are repealed."
+            ],
+            "source": [
+              "(1969, P.A. 768, S. 35, 36; P.A. 77-614, S. 609, 610; P.A. 85-130.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-40 and 13b-41 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2585,7 +2762,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-44a is repealed, effective July 1, 2023."
+            "text": "Section 13b-44a is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2643,7 +2824,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 266a, Sec. 15-101q ."
+            "text": "Transferred to Chapter 266a, Sec. 15-101q .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -2795,7 +2980,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-50b is repealed, effective July 1, 2023."
+            "text": "Section 13b-50b is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2822,12 +3011,33 @@
           "section_key": "",
           "label": "Secs. 13b-50d to 13b-50o.",
           "url": "https://www.cga.ct.gov/current/pub/chap_242.htm#secs_13b-50d_to_13b-50o",
+          "grouped": true,
+          "section_keys": [
+            "13b-50d",
+            "13b-50e",
+            "13b-50f",
+            "13b-50g",
+            "13b-50h",
+            "13b-50i",
+            "13b-50j",
+            "13b-50k",
+            "13b-50l",
+            "13b-50m",
+            "13b-50n",
+            "13b-50o"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2882,7 +3092,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-51a is repealed, effective July 1, 2015."
+            "text": "Section 13b-51a is repealed, effective July 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2898,7 +3112,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-51b is repealed, effective July 1, 2016."
+            "text": "Section 13b-51b is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2914,7 +3132,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-52 is repealed."
+            "text": "Section 13b-52 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2964,7 +3186,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-55 is repealed, effective July 1, 2016."
+            "text": "Section 13b-55 is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3089,12 +3315,26 @@
           "section_key": "",
           "label": "Secs. 13b-57a to 13b-57c. Reference by court to arbitration panel. Attorney General to represent state. Actions pending on June 14, 1977.",
           "url": "https://www.cga.ct.gov/current/pub/chap_242.htm#secs_13b-57a_to_13b-57c",
+          "grouped": true,
+          "section_keys": [
+            "13b-57a",
+            "13b-57b",
+            "13b-57c"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-57a to 13b-57c , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 77-448, S. 1–4; P.A. 78-333; P.A. 88-317, S. 59, 107; P.A. 90-95, S. 3; P.A. 91-284, S. 3, 4.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-57a to 13b-57c , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3109,7 +3349,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-5 to 13b-9. Deputy commissioner. Departmental organization. Deputy commissioners of bureaus. Bureau of Planning and Research. Bureau of Administration. Sections 13b-5 to 13b-9 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3124,7 +3367,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-5 to 13b-9. Deputy commissioner. Departmental organization. Deputy commissioners of bureaus. Bureau of Planning and Research. Bureau of Administration. Sections 13b-5 to 13b-9 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3139,7 +3385,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-12 and 13b-13. Connecticut Aeronautics Commission. Steamship Terminals Commission. Sections 13b-12 and 13b-13 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3154,7 +3403,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-12 and 13b-13. Connecticut Aeronautics Commission. Steamship Terminals Commission. Sections 13b-12 and 13b-13 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3169,7 +3421,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-38m and 13b-38n. Survey of special transportation services. Contracts for the regionalization and coordination of special transportation services. Sections 13b-38m and 13b-38n are repealed, effective June 7, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3184,7 +3439,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-38m and 13b-38n. Survey of special transportation services. Contracts for the regionalization and coordination of special transportation services. Sections 13b-38m and 13b-38n are repealed, effective June 7, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3199,7 +3457,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-38q to 13b-38s. Average vehicle occupancy. Consolidation of traffic management plans. Information to be sent to new affected employers. Sections 13b-38q to 13b-38s , inclusive, are repealed, effective July 1, 1996.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3214,7 +3475,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-38q to 13b-38s. Average vehicle occupancy. Consolidation of traffic management plans. Information to be sent to new affected employers. Sections 13b-38q to 13b-38s , inclusive, are repealed, effective July 1, 1996.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3229,7 +3493,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-38z and 13b-38aa. State-wide objectives for providing special transportation services. Progress reports of special transportation services. Sections 13b-38z and 13b-38aa are repealed, effective June 7, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3244,7 +3511,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-38z and 13b-38aa. State-wide objectives for providing special transportation services. Progress reports of special transportation services. Sections 13b-38z and 13b-38aa are repealed, effective June 7, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3259,7 +3529,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-40 and 13b-41. Bureau of Aeronautics. State airways system. Sections 13b-40 and 13b-41 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3274,7 +3547,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-40 and 13b-41. Bureau of Aeronautics. State airways system. Sections 13b-40 and 13b-41 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3289,7 +3565,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-57a to 13b-57c. Reference by court to arbitration panel. Attorney General to represent state. Actions pending on June 14, 1977. Sections 13b-57a to 13b-57c , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3304,7 +3583,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-57a to 13b-57c. Reference by court to arbitration panel. Attorney General to represent state. Actions pending on June 14, 1977. Sections 13b-57a to 13b-57c , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3363,7 +3645,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-57e is repealed, effective July 1, 2011."
+            "text": "Section 13b-57e is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3399,7 +3685,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-57g is repealed, effective July 1, 2011."
+            "text": "Section 13b-57g is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3464,19 +3754,37 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-57i is repealed, effective July 1, 2006."
+            "text": "Section 13b-57i is repealed, effective July 1, 2006.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 13b-57j to 13b-57 l . Analysis of effects of initial strategy; analysis to accompany recommended updates or revisions to TSB projects or to strategy. Commissioner of Transportation to submit annual report re non-TSB projects. Commissioner of Transportation to submit TSB projects, updates and revisions to metropolitan planning organizations.",
           "url": "https://www.cga.ct.gov/current/pub/chap_242a.htm#secs_13b-57j_to_13b-57l",
+          "grouped": true,
+          "section_keys": [
+            "13b-57j",
+            "13b-57k",
+            "13b-57l"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-57j to 13b-57 l , inclusive, are repealed, effective July 1, 2011."
+            ],
+            "source": [
+              "(June 30 Sp. Sess. P.A. 03-4, S. 5, 7, 11; P.A. 06-136, S. 30, 31, 35; P.A. 11-61, S. 188.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-57j to 13b-57 l , inclusive, are repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3501,12 +3809,25 @@
           "section_key": "",
           "label": "Secs. 13b-57n and 13b-57o. Definitions. Authorization for bonds and bond anticipation notes; authorized funding amounts.",
           "url": "https://www.cga.ct.gov/current/pub/chap_242a.htm#secs_13b-57n_and_13b-57o",
+          "grouped": true,
+          "section_keys": [
+            "13b-57n",
+            "13b-57o"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-57n and 13b-57o are repealed, effective July 1, 2005."
+            ],
+            "source": [
+              "(June 30 Sp. Sess. P.A. 03-4, S. 14, 15; P.A. 04-4, S. 8; 04-143, S. 14; 04-182, S. 16; June Sp. Sess. P.A. 05-4, S. 53.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-57n and 13b-57o are repealed, effective July 1, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3522,7 +3843,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-57p is repealed, effective July 1, 2006."
+            "text": "Section 13b-57p is repealed, effective July 1, 2006.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3538,7 +3863,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-57q is repealed, effective July 1, 2016."
+            "text": "Section 13b-57q is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3643,7 +3972,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-57n and 13b-57o. Definitions. Authorization for bonds and bond anticipation notes; authorized funding amounts. Sections 13b-57n and 13b-57o are repealed, effective July 1, 2005.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3658,7 +3990,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-57n and 13b-57o. Definitions. Authorization for bonds and bond anticipation notes; authorized funding amounts. Sections 13b-57n and 13b-57o are repealed, effective July 1, 2005.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3682,7 +4017,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-58 is repealed."
+            "text": "Section 13b-58 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3727,7 +4066,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-60 is repealed."
+            "text": "Section 13b-60 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3825,19 +4168,40 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Obsolete."
+            "text": "Obsolete.",
+            "statuses": [
+              "obsolete"
+            ],
+            "status": "obsolete"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 13b-62 to 13b-67. Moneys in Transportation Fund from state securities or federal grants to be paid into General Fund. Fund only for transportation purposes; appropriations for mass transportation controlled. Percentage of appropriations required for mass transportation. Expenditures payable from Transportation Fund to be paid from General Fund. Appropriations for mass transportation. Amount required.",
           "url": "https://www.cga.ct.gov/current/pub/chap_243.htm#secs_13b-62_to_13b-67",
+          "grouped": true,
+          "section_keys": [
+            "13b-62",
+            "13b-63",
+            "13b-64",
+            "13b-65",
+            "13b-66",
+            "13b-67"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-62 to 13b-67 , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 74-342, S. 5–8, 43; P.A. 75-568, S. 39, 40, 42–45; 75-596, S. 1–3; P.A. 84-254, S. 61, 62.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-62 to 13b-67 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3908,12 +4272,24 @@
           "section_key": "",
           "label": "Secs. 13b-71 to 13b-73.",
           "url": "https://www.cga.ct.gov/current/pub/chap_243.htm#secs_13b-71_to_13b-73",
+          "grouped": true,
+          "section_keys": [
+            "13b-71",
+            "13b-72",
+            "13b-73"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4032,7 +4408,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-77a is repealed, effective July 1, 2016."
+            "text": "Section 13b-77a is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4071,12 +4451,31 @@
           "section_key": "",
           "label": "Secs. 13b-78a to 13b-78j.",
           "url": "https://www.cga.ct.gov/current/pub/chap_243.htm#secs_13b-78a_to_13b-78j",
+          "grouped": true,
+          "section_keys": [
+            "13b-78a",
+            "13b-78b",
+            "13b-78c",
+            "13b-78d",
+            "13b-78e",
+            "13b-78f",
+            "13b-78g",
+            "13b-78h",
+            "13b-78i",
+            "13b-78j"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4181,7 +4580,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-78o is repealed, effective July 1, 2016."
+            "text": "Section 13b-78o is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4330,12 +4733,26 @@
           "section_key": "",
           "label": "Secs. 13b-79 to 13b-79b. Updating of ten-year plan for bridge repair and road resurfacing; annual report to General Assembly. Reports concerning the transportation program authorized pursuant to special act 84-52 and public act 84-254. Reports concerning the Special Transportation Fund.",
           "url": "https://www.cga.ct.gov/current/pub/chap_243.htm#secs_13b-79_to_13b-79b",
+          "grouped": true,
+          "section_keys": [
+            "13b-79",
+            "13b-79a",
+            "13b-79b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-79 to 13b-79b , inclusive, are repealed, effective July 1, 2016."
+            ],
+            "source": [
+              "(Oct. Sp. Sess. S.A. 83-1, S. 4, 5; June Sp. Sess. P.A. 83-30, S. 7, 8; S.A. 84-40, S. 5; S.A. 84-52, S. 7, 8; P.A. 86-300, S. 2, 3; P.A. 91-34, S. 1, 2; P.A. 93-307, S. 18, 34; P.A. 96-222, S. 4, 5; P.A. 97-304, S. 5, 6, 31; P.A. 98-222, S. 4, 5; P.A. 02-70, S. 76; P.A. 03-278, S. 34; P.A. 05-218, S. 34; P.A. 11-6, S. 118; P.A. 16-151, S. 19.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-79 to 13b-79b , inclusive, are repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4379,24 +4796,54 @@
           "section_key": "",
           "label": "Secs. 13b-79e to 13b-79 l .",
           "url": "https://www.cga.ct.gov/current/pub/chap_243.htm#secs_13b-79e_to_13b-79l",
+          "grouped": true,
+          "section_keys": [
+            "13b-79e",
+            "13b-79f",
+            "13b-79g",
+            "13b-79h",
+            "13b-79i",
+            "13b-79j",
+            "13b-79k",
+            "13b-79l"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 13b-79m and 13b-79n. Transportation Accountability Board established; duties. Reports of board.",
           "url": "https://www.cga.ct.gov/current/pub/chap_243.htm#secs_13b-79m_and_13b-79n",
+          "grouped": true,
+          "section_keys": [
+            "13b-79m",
+            "13b-79n"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-79m and 13b-79n are repealed."
+            ],
+            "source": [
+              "(July Sp. Sess. P.A. 85-1, S. 8, 9, 15; P.A. 86-403, S. 26–29, 132; P.A. 87-300, S. 2, 3; 87-442, S. 3, 8.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-79m and 13b-79n are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4699,19 +5146,42 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-79z is repealed, effective July 1, 2016."
+            "text": "Section 13b-79z is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 13b-79aa to 13b-79jj.",
           "url": "https://www.cga.ct.gov/current/pub/chap_243.htm#secs_13b-79aa_to_13b-79jj",
+          "grouped": true,
+          "section_keys": [
+            "13b-79aa",
+            "13b-79bb",
+            "13b-79cc",
+            "13b-79dd",
+            "13b-79ee",
+            "13b-79ff",
+            "13b-79gg",
+            "13b-79hh",
+            "13b-79ii",
+            "13b-79jj"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4882,7 +5352,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-79m and 13b-79n. Transportation Accountability Board established; duties. Reports of board. Sections 13b-79m and 13b-79n are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4897,7 +5370,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-79m and 13b-79n. Transportation Accountability Board established; duties. Reports of board. Sections 13b-79m and 13b-79n are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -5009,7 +5485,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-84 is repealed, effective July 1, 1997."
+            "text": "Section 13b-84 is repealed, effective July 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5226,7 +5706,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-94 is repealed."
+            "text": "Section 13b-94 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5402,7 +5886,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-98 is repealed, effective July 1, 1997."
+            "text": "Section 13b-98 is repealed, effective July 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5722,7 +6210,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-109a is repealed, effective July 1, 1997."
+            "text": "Section 13b-109a is repealed, effective July 1, 1997.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5745,12 +6237,26 @@
           "section_key": "",
           "label": "Secs. 13b-111 to 13b-115.",
           "url": "https://www.cga.ct.gov/current/pub/chap_244b.htm#secs_13b-111_to_13b-115",
+          "grouped": true,
+          "section_keys": [
+            "13b-111",
+            "13b-112",
+            "13b-113",
+            "13b-114",
+            "13b-115"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -5932,12 +6438,26 @@
           "section_key": "",
           "label": "Secs. 13b-122 to 13b-126.",
           "url": "https://www.cga.ct.gov/current/pub/chap_244c.htm#secs_13b-122_to_13b-126",
+          "grouped": true,
+          "section_keys": [
+            "13b-122",
+            "13b-123",
+            "13b-124",
+            "13b-125",
+            "13b-126"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -6226,12 +6746,92 @@
           "section_key": "",
           "label": "Secs. 13b-128 to 13b-198.",
           "url": "https://www.cga.ct.gov/current/pub/chap_244d.htm#secs_13b-128_to_13b-198",
+          "grouped": true,
+          "section_keys": [
+            "13b-128",
+            "13b-129",
+            "13b-130",
+            "13b-131",
+            "13b-132",
+            "13b-133",
+            "13b-134",
+            "13b-135",
+            "13b-136",
+            "13b-137",
+            "13b-138",
+            "13b-139",
+            "13b-140",
+            "13b-141",
+            "13b-142",
+            "13b-143",
+            "13b-144",
+            "13b-145",
+            "13b-146",
+            "13b-147",
+            "13b-148",
+            "13b-149",
+            "13b-150",
+            "13b-151",
+            "13b-152",
+            "13b-153",
+            "13b-154",
+            "13b-155",
+            "13b-156",
+            "13b-157",
+            "13b-158",
+            "13b-159",
+            "13b-160",
+            "13b-161",
+            "13b-162",
+            "13b-163",
+            "13b-164",
+            "13b-165",
+            "13b-166",
+            "13b-167",
+            "13b-168",
+            "13b-169",
+            "13b-170",
+            "13b-171",
+            "13b-172",
+            "13b-173",
+            "13b-174",
+            "13b-175",
+            "13b-176",
+            "13b-177",
+            "13b-178",
+            "13b-179",
+            "13b-180",
+            "13b-181",
+            "13b-182",
+            "13b-183",
+            "13b-184",
+            "13b-185",
+            "13b-186",
+            "13b-187",
+            "13b-188",
+            "13b-189",
+            "13b-190",
+            "13b-191",
+            "13b-192",
+            "13b-193",
+            "13b-194",
+            "13b-195",
+            "13b-196",
+            "13b-197",
+            "13b-198"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -6439,12 +7039,25 @@
           "section_key": "",
           "label": "Secs. 13b-206 and 13b-207. (Formerly Secs. 16-57 and 16-58). Contracts with connecting roads. Leases to be approved by stockholders.",
           "url": "https://www.cga.ct.gov/current/pub/chap_245.htm#secs_13b-206_and_13b-207",
+          "grouped": true,
+          "section_keys": [
+            "13b-206",
+            "13b-207"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-206 and 13b-207 are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 5447, 5448; P.A. 02-89, S. 90; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-206 and 13b-207 are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6469,12 +7082,25 @@
           "section_key": "",
           "label": "Secs. 13b-209 and 13b-210. (Formerly Secs. 16-59a and 16-60). Elimination of passenger train service. Mutual facilities.",
           "url": "https://www.cga.ct.gov/current/pub/chap_245.htm#secs_13b-209_and_13b-210",
+          "grouped": true,
+          "section_keys": [
+            "13b-209",
+            "13b-210"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-209 and 13b-210 are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 5450; 1959, P.A. 285; 1961, P.A. 88; 1969, P.A. 768, S. 209; P.A. 75-486, S. 1, 69; P.A. 77-614, S. 560, 571, 610; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-209 and 13b-210 are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6506,7 +7132,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-212 is repealed, effective October 1, 2002."
+            "text": "Section 13b-212 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6644,12 +7274,29 @@
           "section_key": "",
           "label": "Secs. 13b-215 to 13b-220. (Formerly Secs. 16-64 to 16-69). Order as to connections; penalty. Facilities for connecting roads; penalty. Through routes or transportation. Condemnation of corporate stock. Stockholder may begin proceedings. Freight charges; penalty.",
           "url": "https://www.cga.ct.gov/current/pub/chap_245.htm#secs_13b-215_to_13b-220",
+          "grouped": true,
+          "section_keys": [
+            "13b-215",
+            "13b-216",
+            "13b-217",
+            "13b-218",
+            "13b-219",
+            "13b-220"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-215 to 13b-220 , inclusive, are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 5454–5459; 1969, P.A. 768, S. 211; P.A. 75-486, S. 1, 69; P.A. 77-614, S. 562, 571, 587, 610; P.A. 78-280, S. 2, 127; P.A. 85-246, S. 7; P.A. 96-180, S. 34, 166; P.A. 00-148, S. 39; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-215 to 13b-220 , inclusive, are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6728,7 +7375,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-224 is repealed, effective October 1, 2002."
+            "text": "Section 13b-224 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6980,12 +7631,27 @@
           "section_key": "",
           "label": "Secs. 13b-238 to 13b-243.",
           "url": "https://www.cga.ct.gov/current/pub/chap_245.htm#secs_13b-238_to_13b-243",
+          "grouped": true,
+          "section_keys": [
+            "13b-238",
+            "13b-239",
+            "13b-240",
+            "13b-241",
+            "13b-242",
+            "13b-243"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7000,7 +7666,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-206 and 13b-207. (Formerly Secs. 16-57 and 16-58). Contracts with connecting roads. Leases to be approved by stockholders. Sections 13b-206 and 13b-207 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7015,7 +7684,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-206 and 13b-207. (Formerly Secs. 16-57 and 16-58). Contracts with connecting roads. Leases to be approved by stockholders. Sections 13b-206 and 13b-207 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7030,7 +7702,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-209 and 13b-210. (Formerly Secs. 16-59a and 16-60). Elimination of passenger train service. Mutual facilities. Sections 13b-209 and 13b-210 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7045,7 +7720,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-209 and 13b-210. (Formerly Secs. 16-59a and 16-60). Elimination of passenger train service. Mutual facilities. Sections 13b-209 and 13b-210 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7060,7 +7738,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-215 to 13b-220. (Formerly Secs. 16-64 to 16-69). Order as to connections; penalty. Facilities for connecting roads; penalty. Through routes or transportation. Condemnation of corporate stock. Stockholder may begin proceedings. Freight charges; penalty. Sections 13b-215 to 13b-220 , inclusive, are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7075,7 +7756,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-215 to 13b-220. (Formerly Secs. 16-64 to 16-69). Order as to connections; penalty. Facilities for connecting roads; penalty. Through routes or transportation. Condemnation of corporate stock. Stockholder may begin proceedings. Freight charges; penalty. Sections 13b-215 to 13b-220 , inclusive, are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -7171,7 +7855,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-247 is repealed, effective October 1, 2000."
+            "text": "Section 13b-247 is repealed, effective October 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7337,12 +8025,28 @@
           "section_key": "",
           "label": "Secs. 13b-255 to 13b-259. (Formerly Secs. 16-85 to 16-89). Land for electrification of railroad. Procedure for appraisal of land taken. Land in highway or private way. Abandonment of road; damages. Owner may require description of land.",
           "url": "https://www.cga.ct.gov/current/pub/chap_245a.htm#secs_13b-255_to_13b-259",
+          "grouped": true,
+          "section_keys": [
+            "13b-255",
+            "13b-256",
+            "13b-257",
+            "13b-258",
+            "13b-259"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-255 to 13b-259 , inclusive, are repealed, effective October 1, 2000."
+            ],
+            "source": [
+              "(1949 Rev., S. 5474–5478; P.A. 75-486, S. 1, 69; P.A. 77-614, S. 571, 610; P.A. 78-280, S. 2, 127; P.A. 84-146, S. 11; P.A. 00-148, S. 39.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-255 to 13b-259 , inclusive, are repealed, effective October 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7496,7 +8200,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-266 is repealed, effective October 1, 2000."
+            "text": "Section 13b-266 is repealed, effective October 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7974,7 +8682,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-286 is repealed, effective October 1, 2002."
+            "text": "Section 13b-286 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8420,7 +9132,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-305 is repealed, effective October 1, 2019."
+            "text": "Section 13b-305 is repealed, effective October 1, 2019.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8436,7 +9152,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-306 is repealed, effective October 1, 2000."
+            "text": "Section 13b-306 is repealed, effective October 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8452,7 +9172,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-307 is repealed, effective October 1, 2002."
+            "text": "Section 13b-307 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8576,7 +9300,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-313 is repealed, effective October 1, 2002."
+            "text": "Section 13b-313 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8619,12 +9347,29 @@
           "section_key": "",
           "label": "Secs. 13b-316 to 13b-323.",
           "url": "https://www.cga.ct.gov/current/pub/chap_245a.htm#secs_13b-316_to_13b-323",
+          "grouped": true,
+          "section_keys": [
+            "13b-316",
+            "13b-317",
+            "13b-318",
+            "13b-319",
+            "13b-320",
+            "13b-321",
+            "13b-322",
+            "13b-323"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8639,7 +9384,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-255 to 13b-259. (Formerly Secs. 16-85 to 16-89). Land for electrification of railroad. Procedure for appraisal of land taken. Land in highway or private way. Abandonment of road; damages. Owner may require description of land. Sections 13b-255 to 13b-259 , inclusive, are repealed, effective October 1, 2000.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -8654,7 +9402,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-255 to 13b-259. (Formerly Secs. 16-85 to 16-89). Land for electrification of railroad. Procedure for appraisal of land taken. Land in highway or private way. Abandonment of road; damages. Owner may require description of land. Sections 13b-255 to 13b-259 , inclusive, are repealed, effective October 1, 2000.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -8706,12 +9457,26 @@
           "section_key": "",
           "label": "Secs. 13b-326 to 13b-328. (Formerly Secs. 16-142 to 16-144). Operation: Of gasoline cars; by electricity; of aircraft.",
           "url": "https://www.cga.ct.gov/current/pub/chap_245b.htm#secs_13b-326_to_13b-328",
+          "grouped": true,
+          "section_keys": [
+            "13b-326",
+            "13b-327",
+            "13b-328"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-326 to 13b-328 , inclusive, are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 5527–5529; P.A. 75-486, S. 1, 69; P.A. 77-614, S. 571, 610; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-326 to 13b-328 , inclusive, are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8824,7 +9589,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-333 is repealed, effective October 1, 2002."
+            "text": "Section 13b-333 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8867,7 +9636,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-335 is repealed, effective October 1, 2002."
+            "text": "Section 13b-335 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9220,7 +9993,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-345b is repealed, effective July 1, 1998."
+            "text": "Section 13b-345b is repealed, effective July 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9236,7 +10013,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-346 is repealed, effective October 1, 2012."
+            "text": "Section 13b-346 is repealed, effective October 1, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9252,7 +10033,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-347 is repealed, effective October 1, 2002."
+            "text": "Section 13b-347 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9305,7 +10090,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-350 is repealed, effective October 1, 2002."
+            "text": "Section 13b-350 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9339,7 +10128,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-352 is repealed, effective October 1, 2002."
+            "text": "Section 13b-352 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9436,12 +10229,27 @@
           "section_key": "",
           "label": "Secs. 13b-356 to 13b-359. (Formerly Secs. 16-171 to 16-174). Transportation of explosives; forfeiture. Charge for storage; forfeiture. Lien for transportation charges. Receipt; forfeiture.",
           "url": "https://www.cga.ct.gov/current/pub/chap_245b.htm#secs_13b-356_to_13b-359",
+          "grouped": true,
+          "section_keys": [
+            "13b-356",
+            "13b-357",
+            "13b-358",
+            "13b-359"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-356 to 13b-359 , inclusive, are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 5553–5556; P.A. 75-486, S. 1, 69; P.A. 77-614, S. 571, 610; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-356 to 13b-359 , inclusive, are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9521,12 +10329,25 @@
           "section_key": "",
           "label": "Secs. 13b-363 and 13b-364. (Formerly Secs. 16-178 and 16-179). Clearing land adjacent to railroad right-of-way. Land damages not affected by fire risk.",
           "url": "https://www.cga.ct.gov/current/pub/chap_245b.htm#secs_13b-363_and_13b-364",
+          "grouped": true,
+          "section_keys": [
+            "13b-363",
+            "13b-364"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-363 and 13b-364 are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 5560, 5561; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-363 and 13b-364 are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9551,12 +10372,32 @@
           "section_key": "",
           "label": "Secs. 13b-366 to 13b-374. (Formerly Secs. 16-182 to 16-190). Trains to stop before crossing drawbridge or railroad. Interference with navigation. Drawbridges. Passing switches, stations and crossings without stopping; forfeiture. Platforms for shipment of livestock. Hospital stretchers. Hours of labor of telegraph and telephone operators and train dispatchers. Passenger car regulations. Heating and lighting cars.",
           "url": "https://www.cga.ct.gov/current/pub/chap_245b.htm#secs_13b-366_to_13b-374",
+          "grouped": true,
+          "section_keys": [
+            "13b-366",
+            "13b-367",
+            "13b-368",
+            "13b-369",
+            "13b-370",
+            "13b-371",
+            "13b-372",
+            "13b-373",
+            "13b-374"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-366 to 13b-374 , inclusive, are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 5564–5572; P.A. 75-486, S. 1, 69; P.A. 77-614, S. 571, 587, 610; P.A. 78-303, S. 85, 136; P.A. 02-89, S. 90; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-366 to 13b-374 , inclusive, are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9604,12 +10445,31 @@
           "section_key": "",
           "label": "Secs. 13b-377 to 13b-386.",
           "url": "https://www.cga.ct.gov/current/pub/chap_245b.htm#secs_13b-377_to_13b-386",
+          "grouped": true,
+          "section_keys": [
+            "13b-377",
+            "13b-378",
+            "13b-379",
+            "13b-380",
+            "13b-381",
+            "13b-382",
+            "13b-383",
+            "13b-384",
+            "13b-385",
+            "13b-386"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -9624,7 +10484,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-326 to 13b-328. (Formerly Secs. 16-142 to 16-144). Operation: Of gasoline cars; by electricity; of aircraft. Sections 13b-326 to 13b-328 , inclusive, are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9639,7 +10502,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-326 to 13b-328. (Formerly Secs. 16-142 to 16-144). Operation: Of gasoline cars; by electricity; of aircraft. Sections 13b-326 to 13b-328 , inclusive, are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9654,7 +10520,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-356 to 13b-359. (Formerly Secs. 16-171 to 16-174). Transportation of explosives; forfeiture. Charge for storage; forfeiture. Lien for transportation charges. Receipt; forfeiture. Sections 13b-356 to 13b-359 , inclusive, are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9669,7 +10538,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-356 to 13b-359. (Formerly Secs. 16-171 to 16-174). Transportation of explosives; forfeiture. Charge for storage; forfeiture. Lien for transportation charges. Receipt; forfeiture. Sections 13b-356 to 13b-359 , inclusive, are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9684,7 +10556,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-363 and 13b-364. (Formerly Secs. 16-178 and 16-179). Clearing land adjacent to railroad right-of-way. Land damages not affected by fire risk. Sections 13b-363 and 13b-364 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9699,7 +10574,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 13b-363 and 13b-364. (Formerly Secs. 16-178 and 16-179). Clearing land adjacent to railroad right-of-way. Land damages not affected by fire risk. Sections 13b-363 and 13b-364 are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -9859,7 +10737,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 13b-390 is repealed, effective October 1, 2021."
+            "text": "Section 13b-390 is repealed, effective October 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10237,12 +11119,26 @@
           "section_key": "",
           "label": "Secs. 13b-404, 13b-404a and 13b-405. (Formerly Secs. 16-298, 16-298a and 16-299). Interstate carrier; permit; identification stamps; cab cards. Interstate carriers exempt from Interstate Commerce Commission regulation; registration. Application for certificate or permit; identification stamps; cab cards.",
           "url": "https://www.cga.ct.gov/current/pub/chap_245c.htm#secs_13b-404_13b-404a_and_13b-405",
+          "grouped": true,
+          "section_keys": [
+            "13b-404",
+            "13b-404a",
+            "13b-405"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 13b-404 , 13b-404a and 13b-405 are repealed, effective June 29, 1993."
+            ],
+            "source": [
+              "(1949 Rev., S. 5692, 5693; 1959, P.A. 414, S. 1; 1963, P.A. 21; 282; 1969, P.A. 668, S. 1; 768, S. 240; 1971, P.A. 785; 827; P.A. 75-486, S. 1, 69; P.A. 76-257, S. 1–4; P.A. 77-614, S. 162, 610; P.A. 80-482, S. 144–146, 348; P.A. 81-472, S. 26, 27, 159; P.A. 82-472, S. 52, 183; P.A. 83-29, S. 3, 4; P.A. 84-254, S. 58, 62; 84-342, S. 10–13; P.A. 85-552, S. 5, 6, 8; P.A. 88-249, S. 2, 8, 9; P.A. 93-307, S. 32, 34.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 13b-404 , 13b-404a and 13b-405 are repealed, effective June 29, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {

@@ -2002,18 +2002,7 @@
           "section_key": "",
           "label": "Secs. 20-341s to 20-341bb. Definitions. Certificate of registration required. Application for certificate of registration; fee. Powers of commissioner; issuance of certificate of registration; suspension, revocation, refusal to renew. Refusal to issue or renew a certificate of registration; notice and hearing. Investigations; subpoenas; court orders and injunctions. Display of certificate of registration; prohibited acts; unfair trade practice; duration of certificate; renewal fees; fines. Exemptions. Regulations. Appeals.",
           "url": "https://www.cga.ct.gov/2026/sup/chap_393b.htm#secs_20-341s_to_20-341bb",
-          "content": {
-            "body_paragraphs": [
-              "Sections 20-341s to 20-341bb, inclusive, are repealed, effective October 1, 2025."
-            ],
-            "source": [
-              "(P.A. 87-579, S. 1-11; P.A. 89-251, S. 134, 135, 203; P.A. 94-36, S. 20, 42; P.A. 98-3, S. 36-40; June 30 Sp. Sess. P.A. 03-6, S. 146(c); P.A. 04-189, S. 1; June Sp. Sess. P.A. 09-3, S. 248; P.A. 11-80, S. 1; P.A. 12-18, S. 1, 2; P.A. 25-111, S. 56.)"
-            ],
-            "history": [],
-            "annotations": [],
-            "text": "Sections 20-341s to 20-341bb, inclusive, are repealed, effective October 1, 2025.",
-            "status": "repealed"
-          },
+          "grouped": true,
           "section_keys": [
             "20-341s",
             "20-341t",
@@ -2025,7 +2014,22 @@
             "20-341z",
             "20-341aa",
             "20-341bb"
-          ]
+          ],
+          "content": {
+            "body_paragraphs": [
+              "Sections 20-341s to 20-341bb, inclusive, are repealed, effective October 1, 2025."
+            ],
+            "source": [
+              "(P.A. 87-579, S. 1-11; P.A. 89-251, S. 134, 135, 203; P.A. 94-36, S. 20, 42; P.A. 98-3, S. 36-40; June 30 Sp. Sess. P.A. 03-6, S. 146(c); P.A. 04-189, S. 1; June Sp. Sess. P.A. 09-3, S. 248; P.A. 11-80, S. 1; P.A. 12-18, S. 1, 2; P.A. 25-111, S. 56.)"
+            ],
+            "history": [],
+            "annotations": [],
+            "text": "Sections 20-341s to 20-341bb, inclusive, are repealed, effective October 1, 2025.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
+          }
         }
       ]
     },

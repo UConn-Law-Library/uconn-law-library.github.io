@@ -50,12 +50,25 @@
           "section_key": "",
           "label": "Secs. 21-3 and 21-4. License for sale of jewelry; fee; hours of sale. Penalty for fraudulent statements.",
           "url": "https://www.cga.ct.gov/current/pub/chap_403.htm#secs_21-3_and_21-4",
+          "grouped": true,
+          "section_keys": [
+            "21-3",
+            "21-4"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 21-3 and 21-4 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4641, 4642; 1949, S. 2329d; P.A. 73-15, S. 1, 2; P.A. 96-259, S. 19.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 21-3 and 21-4 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -102,7 +115,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 21-3 and 21-4. License for sale of jewelry; fee; hours of sale. Penalty for fraudulent statements. Sections 21-3 and 21-4 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -117,7 +133,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 21-3 and 21-4. License for sale of jewelry; fee; hours of sale. Penalty for fraudulent statements. Sections 21-3 and 21-4 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -158,7 +177,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21-7 is repealed, effective October 1, 2018."
+            "text": "Section 21-7 is repealed, effective October 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -366,12 +389,23 @@
           "section_key": "",
           "label": "Secs. 21-15 to 21-22a.",
           "url": "https://www.cga.ct.gov/current/pub/chap_406.htm#secs_21-15_to_21-22a",
+          "grouped": true,
+          "section_keys": [
+            "21-15",
+            "21-22a"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 246, Secs. 14-67g to 14-67r , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 246, Secs. 14-67g to 14-67r , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -387,19 +421,34 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21-22b is repealed."
+            "text": "Section 21-22b is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 21-23 to 21-26a.",
           "url": "https://www.cga.ct.gov/current/pub/chap_406.htm#secs_21-23_to_21-26a",
+          "grouped": true,
+          "section_keys": [
+            "21-23",
+            "21-26a"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 246, Secs. 14-67s to 14-67w , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 246, Secs. 14-67s to 14-67w , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]
@@ -414,12 +463,34 @@
           "section_key": "",
           "label": "Secs. 21-27 to 21-35. Definitions and exceptions. Itinerant vendor license; managing itinerant vendor license; application; license fee; Itinerant Vendor Guaranty Fund fee; conspicuous display in printed advertisements of license number and name under which license issued; list of participating vendors; participating vendors deemed agents; violations. Municipal license. Resident veteran licensed without fee. Duration of license, cancellation. Lost state license. Sworn statement before advertising special sale. Regulations. Connecticut Itinerant Vendors Guaranty Fund; funding claims; regulations. Action against itinerant vendor may be continued. Penalty for sale without license.",
           "url": "https://www.cga.ct.gov/current/pub/chap_407.htm#secs_21-27_to_21-35",
+          "grouped": true,
+          "section_keys": [
+            "21-27",
+            "21-28",
+            "21-29",
+            "21-30",
+            "21-31",
+            "21-32",
+            "21-33",
+            "21-34",
+            "21-35"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
-            "history": [],
+            "body_paragraphs": [
+              "Sections 21-27 to 21-35 , inclusive, are repealed, effective January 1, 2018."
+            ],
+            "source": [
+              "(1949 Rev., S. 4675–4682; 1953, S. 2334d; November, 1955, S. N202, N203; 1957, P.A. 163, S. 37; 1959, P.A. 117, S. 1–4; 1961, P.A. 265, S. 1–4; P.A. 76-304, S. 1–4; P.A. 91-184, S. 1–5; P.A. 95-135, S. 2, 3; June 30 Sp. Sess. P.A. 03-6, S. 146(c), (d); P.A. 04-169, S. 17; 04-189, S. 1; June Sp. Sess. P.A. 09-3, S. 277; P.A. 12-80, S. 125, 126; P.A. 13-196, S. 23; P.A. 17-75, S. 5.)"
+            ],
+            "history": [
+              "History: P.A. 76-304 exempted tag sales or garage sales on residential premises and where permitted by local law and deleted references to closing-out sales; P.A. 91-84 added definition of “managing itinerant vendor” and exempted any “governmental entity or any corporation which is exempt from taxation under Section 501(c)(3) of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as from time to time amended” from provisions of chapter."
+            ],
             "annotations": [],
-            "text": ""
+            "text": "Sections 21-27 to 21-35 , inclusive, are repealed, effective January 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1012,7 +1083,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21-46 is repealed."
+            "text": "Section 21-46 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1061,12 +1136,24 @@
           "section_key": "",
           "label": "Secs. 21-47a to 21-47c.",
           "url": "https://www.cga.ct.gov/current/pub/chap_409.htm#secs_21-47a_to_21-47c",
+          "grouped": true,
+          "section_keys": [
+            "21-47a",
+            "21-47b",
+            "21-47c"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1130,12 +1217,29 @@
           "section_key": "",
           "label": "Secs. 21-47f to 21-47m.",
           "url": "https://www.cga.ct.gov/current/pub/chap_409.htm#secs_21-47f_to_21-47m",
+          "grouped": true,
+          "section_keys": [
+            "21-47f",
+            "21-47g",
+            "21-47h",
+            "21-47i",
+            "21-47j",
+            "21-47k",
+            "21-47l",
+            "21-47m"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -1352,7 +1456,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21-49 is repealed."
+            "text": "Section 21-49 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1703,7 +1811,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21-65 is repealed."
+            "text": "Section 21-65 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1743,7 +1855,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21-66 is repealed."
+            "text": "Section 21-66 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2135,7 +2251,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2197,7 +2317,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21-74 is repealed."
+            "text": "Section 21-74 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2236,7 +2360,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21-76 is repealed."
+            "text": "Section 21-76 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2271,7 +2399,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21-77 is repealed."
+            "text": "Section 21-77 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2448,7 +2580,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 21-81 is repealed."
+            "text": "Section 21-81 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2765,12 +2901,24 @@
           "section_key": "",
           "label": "Secs. 21-87 to 21-89.",
           "url": "https://www.cga.ct.gov/current/pub/chap_413.htm#secs_21-87_to_21-89",
+          "grouped": true,
+          "section_keys": [
+            "21-87",
+            "21-88",
+            "21-89"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -2822,12 +2970,29 @@
           "section_key": "",
           "label": "Secs. 21-92 to 21-99.",
           "url": "https://www.cga.ct.gov/current/pub/chap_413a.htm#secs_21-92_to_21-99",
+          "grouped": true,
+          "section_keys": [
+            "21-92",
+            "21-93",
+            "21-94",
+            "21-95",
+            "21-96",
+            "21-97",
+            "21-98",
+            "21-99"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -2875,12 +3040,31 @@
           "section_key": "",
           "label": "Secs. 21-101 to 21-110.",
           "url": "https://www.cga.ct.gov/current/pub/chap_414.htm#secs_21-101_to_21-110",
+          "grouped": true,
+          "section_keys": [
+            "21-101",
+            "21-102",
+            "21-103",
+            "21-104",
+            "21-105",
+            "21-106",
+            "21-107",
+            "21-108",
+            "21-109",
+            "21-110"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -2895,12 +3079,30 @@
           "section_key": "",
           "label": "Secs. 21-111 to 21-119.",
           "url": "https://www.cga.ct.gov/current/pub/chap_414a.htm#secs_21-111_to_21-119",
+          "grouped": true,
+          "section_keys": [
+            "21-111",
+            "21-112",
+            "21-113",
+            "21-114",
+            "21-115",
+            "21-116",
+            "21-117",
+            "21-118",
+            "21-119"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 662d, Secs. 36-564 to 36-568 , inclusive, and 36-570 to 36-573 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 662d, Secs. 36-564 to 36-568 , inclusive, and 36-570 to 36-573 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]

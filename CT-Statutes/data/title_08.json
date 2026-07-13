@@ -154,12 +154,42 @@
           "section_key": "",
           "label": "Secs. 8-1e to 8-1y.",
           "url": "https://www.cga.ct.gov/current/pub/chap_124.htm#secs_8-1e_to_8-1y",
+          "grouped": true,
+          "section_keys": [
+            "8-1e",
+            "8-1f",
+            "8-1g",
+            "8-1h",
+            "8-1i",
+            "8-1j",
+            "8-1k",
+            "8-1l",
+            "8-1m",
+            "8-1n",
+            "8-1o",
+            "8-1p",
+            "8-1q",
+            "8-1r",
+            "8-1s",
+            "8-1t",
+            "8-1u",
+            "8-1v",
+            "8-1w",
+            "8-1x",
+            "8-1y"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -544,7 +574,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-2k is repealed, effective October 1, 2006."
+            "text": "Section 8-2k is repealed, effective October 1, 2006.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1007,7 +1041,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-3h is repealed, effective October 1, 2003."
+            "text": "Section 8-3h is repealed, effective October 1, 2003.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1125,7 +1163,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-4 is repealed."
+            "text": "Section 8-4 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1432,7 +1474,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-7b is repealed, effective October 1, 2003."
+            "text": "Section 8-7b is repealed, effective October 1, 2003.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1549,7 +1595,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-7e is repealed, effective October 1, 2003."
+            "text": "Section 8-7e is repealed, effective October 1, 2003.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1985,12 +2035,34 @@
           "section_key": "",
           "label": "Secs. 8-13b to 8-13 l . Planned unit development.",
           "url": "https://www.cga.ct.gov/current/pub/chap_124a.htm#secs_8-13b_to_8-13l",
+          "grouped": true,
+          "section_keys": [
+            "8-13b",
+            "8-13c",
+            "8-13d",
+            "8-13e",
+            "8-13f",
+            "8-13g",
+            "8-13h",
+            "8-13i",
+            "8-13j",
+            "8-13k",
+            "8-13l"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 8-13b to 8-13 l , inclusive, are repealed."
+            ],
+            "source": [
+              "(1969, P.A. 764, S. 1–10; P.A. 76-436, S. 291–293, 681; P.A. 78-280, S. 1, 127; 78-314, S. 2; P.A. 83-388, S. 7, 9; P.A. 84-395, S. 1, 3; P.A. 85-91, S. 3, 5; 85-409, S. 7, 8.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 8-13b to 8-13 l , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2005,7 +2077,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-13b to 8-13 l . Planned unit development. Sections 8-13b to 8-13 l , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2020,7 +2095,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-13b to 8-13 l . Planned unit development. Sections 8-13b to 8-13 l , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -2319,12 +2397,27 @@
           "section_key": "",
           "label": "Secs. 8-14 to 8-17. Purpose. License. Appeal. Exceptions.",
           "url": "https://www.cga.ct.gov/current/pub/chap_125.htm#secs_8-14_to_8-17",
+          "grouped": true,
+          "section_keys": [
+            "8-14",
+            "8-15",
+            "8-16",
+            "8-17"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 8-14 to 8-17 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 849–852; 1957, P.A. 13, S. 42; 1967, P.A. 69.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 8-14 to 8-17 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2339,7 +2432,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-14 to 8-17. Purpose. License. Appeal. Exceptions. Sections 8-14 to 8-17 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -2354,7 +2450,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-14 to 8-17. Purpose. License. Appeal. Exceptions. Sections 8-14 to 8-17 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -2493,7 +2592,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-20 is repealed."
+            "text": "Section 8-20 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2937,7 +3040,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-26f is repealed, effective October 1, 2003."
+            "text": "Section 8-26f is repealed, effective October 1, 2003.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3120,7 +3227,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-30 is repealed."
+            "text": "Section 8-30 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3150,12 +3261,26 @@
           "section_key": "",
           "label": "Secs. 8-30b to 8-30f.",
           "url": "https://www.cga.ct.gov/current/pub/chap_126.htm#secs_8-30b_to_8-30f",
+          "grouped": true,
+          "section_keys": [
+            "8-30b",
+            "8-30c",
+            "8-30d",
+            "8-30e",
+            "8-30f"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -3335,7 +3460,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-31 is repealed."
+            "text": "Section 8-31 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3351,7 +3480,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-31a is repealed, effective January 1, 2015."
+            "text": "Section 8-31a is repealed, effective January 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3405,7 +3538,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-32 is repealed."
+            "text": "Section 8-32 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3421,7 +3558,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-32a is repealed, effective January 1, 2015."
+            "text": "Section 8-32a is repealed, effective January 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3437,7 +3578,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-33 is repealed."
+            "text": "Section 8-33 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3453,7 +3598,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-33a is repealed, effective January 1, 2015."
+            "text": "Section 8-33a is repealed, effective January 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3469,7 +3618,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-34 is repealed."
+            "text": "Section 8-34 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3485,7 +3638,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-34a is repealed, effective January 1, 2015."
+            "text": "Section 8-34a is repealed, effective January 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3501,7 +3658,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-35 is repealed."
+            "text": "Section 8-35 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3576,7 +3737,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-35d is repealed."
+            "text": "Section 8-35d is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3611,7 +3776,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-36 is repealed."
+            "text": "Section 8-36 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3627,7 +3796,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-36a is repealed, effective January 1, 2015."
+            "text": "Section 8-36a is repealed, effective January 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3643,19 +3816,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-37 is repealed."
+            "text": "Section 8-37 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 8-37a and 8-37b. Termination of agency. Powers and duties of prior authorities.",
           "url": "https://www.cga.ct.gov/current/pub/chap_127.htm#secs_8-37a_and_8-37b",
+          "grouped": true,
+          "section_keys": [
+            "8-37a",
+            "8-37b"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 8-37a and 8-37b are repealed, effective January 1, 2015."
+            ],
+            "source": [
+              "(1959, P.A. 613, S. 8, 9; 1969, P.A. 628, S. 10; P.A. 73-679, S. 34, 43; P.A. 75-537, S. 47, 55; P.A. 77-614, S. 19, 610; P.A. 13-247, S. 390.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 8-37a and 8-37b are repealed, effective January 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3670,7 +3860,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-37a and 8-37b. Termination of agency. Powers and duties of prior authorities. Sections 8-37a and 8-37b are repealed, effective January 1, 2015.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3685,7 +3878,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-37a and 8-37b. Termination of agency. Powers and duties of prior authorities. Sections 8-37a and 8-37b are repealed, effective January 1, 2015.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3817,12 +4013,24 @@
           "section_key": "",
           "label": "Secs. 8-37f to 8-37h.",
           "url": "https://www.cga.ct.gov/current/pub/chap_127a.htm#secs_8-37f_to_8-37h",
+          "grouped": true,
+          "section_keys": [
+            "8-37f",
+            "8-37g",
+            "8-37h"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -3865,7 +4073,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3900,7 +4112,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3916,7 +4132,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-37m is repealed."
+            "text": "Section 8-37m is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3930,7 +4150,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3955,12 +4179,23 @@
           "section_key": "",
           "label": "Secs. 8-37p and 8-37q.",
           "url": "https://www.cga.ct.gov/current/pub/chap_127b.htm#secs_8-37p_and_8-37q",
+          "grouped": true,
+          "section_keys": [
+            "8-37p",
+            "8-37q"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -4326,7 +4561,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4414,12 +4653,23 @@
           "section_key": "",
           "label": "Secs. 8-37nn and 8-37oo.",
           "url": "https://www.cga.ct.gov/current/pub/chap_127c.htm#secs_8-37nn_and_8-37oo",
+          "grouped": true,
+          "section_keys": [
+            "8-37nn",
+            "8-37oo"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4621,12 +4871,25 @@
           "section_key": "",
           "label": "Secs. 8-37xx and 8-37yy. State-assisted housing sustainability: Definitions. State-Assisted Housing Sustainability Fund; financial assistance for preservation of eligible housing; regulations.",
           "url": "https://www.cga.ct.gov/current/pub/chap_127c.htm#secs_8-37xx_and_8-37yy",
+          "grouped": true,
+          "section_keys": [
+            "8-37xx",
+            "8-37yy"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 8-37xx and 8-37yy are repealed, effective October 1, 2024."
+            ],
+            "source": [
+              "(June Sp. Sess. P.A. 07-4, S. 103, 104; June Sp. Sess. P.A. 07-5, S. 1, 2; P.A. 11-168, S. 1; P.A. 13-234, S. 22; P.A. 23-204, S. 234; P.A. 24-89, S. 2.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 8-37xx and 8-37yy are repealed, effective October 1, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4642,7 +4905,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-37zz is repealed, effective July 1, 2023."
+            "text": "Section 8-37zz is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4668,12 +4935,31 @@
           "section_key": "",
           "label": "Secs. 8-37bbb to 8-37kkk.",
           "url": "https://www.cga.ct.gov/current/pub/chap_127c.htm#secs_8-37bbb_to_8-37kkk",
+          "grouped": true,
+          "section_keys": [
+            "8-37bbb",
+            "8-37ccc",
+            "8-37ddd",
+            "8-37eee",
+            "8-37fff",
+            "8-37ggg",
+            "8-37hhh",
+            "8-37iii",
+            "8-37jjj",
+            "8-37kkk"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4765,7 +5051,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4848,7 +5138,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-37sss is repealed, effective July 1, 2023."
+            "text": "Section 8-37sss is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4897,7 +5191,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-37xx and 8-37yy. State-assisted housing sustainability: Definitions. State-Assisted Housing Sustainability Fund; financial assistance for preservation of eligible housing; regulations. Sections 8-37xx and 8-37yy are repealed, effective October 1, 2024.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4912,7 +5209,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-37xx and 8-37yy. State-assisted housing sustainability: Definitions. State-Assisted Housing Sustainability Fund; financial assistance for preservation of eligible housing; regulations. Sections 8-37xx and 8-37yy are repealed, effective October 1, 2024.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -5300,7 +5600,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-45b is repealed, effective July 1, 2013."
+            "text": "Section 8-45b is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6177,7 +6481,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-70a is repealed, effective October 1, 2000."
+            "text": "Section 8-70a is repealed, effective October 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6508,7 +6816,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-81a is repealed, effective July 1, 2013.\n\n*See Sec. 8-69 for declaration of policy re moderate rental and moderate cost housing."
+            "text": "Section 8-81a is repealed, effective July 1, 2013.\n\n*See Sec. 8-69 for declaration of policy re moderate rental and moderate cost housing.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6670,7 +6982,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-90 is repealed."
+            "text": "Section 8-90 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6747,12 +7063,33 @@
           "section_key": "",
           "label": "Secs. 8-95 to 8-104. Flood relief housing, generally.",
           "url": "https://www.cga.ct.gov/current/pub/chap_128.htm#secs_8-95_to_8-104",
+          "grouped": true,
+          "section_keys": [
+            "8-95",
+            "8-96",
+            "8-97",
+            "8-98",
+            "8-99",
+            "8-100",
+            "8-101",
+            "8-102",
+            "8-103",
+            "8-104"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 8-95 to 8-104 , inclusive, are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(November, 1955, S. N20–N29; 1957, P.A. 646, S. 1; 1967, P.A. 522, S. 8; P.A. 77-614, S. 284, 610; P.A. 78-303, S. 81, 136; P.A. 79-598, S. 3, 4, 10; P.A. 80-483, S. 26, 186; P.A. 95-250, S. 1; P.A. 96-211, S. 1, 5, 6; P.A. 02-89, S. 90; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 8-95 to 8-104 , inclusive, are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6889,7 +7226,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-112 is repealed."
+            "text": "Section 8-112 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6926,7 +7267,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-113 is repealed."
+            "text": "Section 8-113 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -6974,7 +7319,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-114 is repealed."
+            "text": "Section 8-114 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7065,7 +7414,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-115 is repealed."
+            "text": "Section 8-115 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7120,7 +7473,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-116 is repealed."
+            "text": "Section 8-116 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7209,7 +7566,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-117 is repealed."
+            "text": "Section 8-117 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7262,7 +7623,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-118 is repealed."
+            "text": "Section 8-118 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7339,7 +7704,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-119 is repealed."
+            "text": "Section 8-119 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7623,12 +7992,26 @@
           "section_key": "",
           "label": "Secs. 8-119o to 8-119s.",
           "url": "https://www.cga.ct.gov/current/pub/chap_128.htm#secs_8-119o_to_8-119s",
+          "grouped": true,
+          "section_keys": [
+            "8-119o",
+            "8-119p",
+            "8-119q",
+            "8-119r",
+            "8-119s"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7654,12 +8037,24 @@
           "section_key": "",
           "label": "Secs. 8-119u to 8-119w.",
           "url": "https://www.cga.ct.gov/current/pub/chap_128.htm#secs_8-119u_to_8-119w",
+          "grouped": true,
+          "section_keys": [
+            "8-119u",
+            "8-119v",
+            "8-119w"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7684,12 +8079,23 @@
           "section_key": "",
           "label": "Secs. 8-119y and 8-119z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_128.htm#secs_8-119y_and_8-119z",
+          "grouped": true,
+          "section_keys": [
+            "8-119y",
+            "8-119z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7705,7 +8111,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-119aa is repealed."
+            "text": "Section 8-119aa is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7923,12 +8333,34 @@
           "section_key": "",
           "label": "Secs. 8-119mm to 8-119yy.",
           "url": "https://www.cga.ct.gov/current/pub/chap_128.htm#secs_8-119mm_to_8-119yy",
+          "grouped": true,
+          "section_keys": [
+            "8-119mm",
+            "8-119nn",
+            "8-119oo",
+            "8-119pp",
+            "8-119qq",
+            "8-119rr",
+            "8-119ss",
+            "8-119tt",
+            "8-119uu",
+            "8-119vv",
+            "8-119ww",
+            "8-119xx",
+            "8-119yy"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7943,7 +8375,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-95 to 8-104. Flood relief housing, generally. Sections 8-95 to 8-104 , inclusive, are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7958,7 +8393,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-95 to 8-104. Flood relief housing, generally. Sections 8-95 to 8-104 , inclusive, are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -8049,7 +8487,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-121a is repealed, effective May 25, 1994."
+            "text": "Section 8-121a is repealed, effective May 25, 1994.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8083,7 +8525,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-123 is repealed."
+            "text": "Section 8-123 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -8850,12 +9296,28 @@
           "section_key": "",
           "label": "Secs. 8-146 to 8-150. Finding and declaration of necessity. Contract for state assistance. Form of aid. Bond issue. Maximum amount of loan notes. Requirements of notes and bonds. Regulations.",
           "url": "https://www.cga.ct.gov/current/pub/chap_130.htm#secs_8-146_to_8-150",
+          "grouped": true,
+          "section_keys": [
+            "8-146",
+            "8-147",
+            "8-148",
+            "8-149",
+            "8-150"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 8-146 to 8-150 , inclusive, are repealed."
+            ],
+            "source": [
+              "(November, 1955, S. N34–37; 1957, P.A. 311, S. 1; 646, S. 2–4; 1959, P.A. 397, S. 7; P.A. 77-313, S. 8.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 8-146 to 8-150 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8880,12 +9342,26 @@
           "section_key": "",
           "label": "Secs. 8-152 to 8-154. Grants-in-aid for redevelopment or urban renewal. Bond issue. Commissioner of Community Affairs to administer program.",
           "url": "https://www.cga.ct.gov/current/pub/chap_130.htm#secs_8-152_to_8-154",
+          "grouped": true,
+          "section_keys": [
+            "8-152",
+            "8-153",
+            "8-154"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 8-152 to 8-154 , inclusive, are repealed."
+            ],
+            "source": [
+              "(March, 1958, P.A. 24, S. 2–4, 6–8; P.A. 77-313, S. 8.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 8-152 to 8-154 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -8957,7 +9433,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-154d is repealed."
+            "text": "Section 8-154d is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9002,12 +9482,30 @@
           "section_key": "",
           "label": "Secs. 8-155 to 8-159. Commercial or industrial development.",
           "url": "https://www.cga.ct.gov/current/pub/chap_130.htm#secs_8-155_to_8-159",
+          "grouped": true,
+          "section_keys": [
+            "8-155",
+            "8-156",
+            "8-157",
+            "8-158",
+            "8-159"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
-            "history": [],
+            "body_paragraphs": [
+              "Sections 8-155 to 8-159 , inclusive, are repealed; provided, that in any case where any municipality, on or before July 6, 1967, had entered into a contract with the Connecticut Development Commission for financial assistance to a commercial or industrial redevelopment project under said sections 8-155 to 8-159 , inclusive, or had otherwise taken substantial action under said sections, then such municipality, the state and any other interested person shall continue to be subject to said sections and be eligible for state financial assistance thereunder but only insofar as said sections relate to those projects that have been planned or commenced thereunder and such municipality, the state or such other interested person may make application to the Commissioner of Economic and Community Development for, and the Commissioner of Economic and Community Development may make grants for the purposes of such commercial or industrial redevelopment project from the funds available for the purposes of chapter 133, but subject to the provisions of section 8-154f ."
+            ],
+            "source": [
+              "(March, 1958, P.A. 8, S. 1–4, 6–9; 1959, P.A. 397, S. 9; 1967, P.A. 760, S. 14; 1971, P.A. 505, S. 1; P.A. 73-599, S. 25; P.A. 77-614, S. 284, 610; P.A. 78-303, S. 81, 136; P.A. 79-598, S. 3, 4, 10; P.A. 95-250, S. 1; P.A. 96-211, S. 1, 5, 6.)"
+            ],
+            "history": [
+              "History: 1967 act repealed sections; 1971 act substituted Connecticut development commission for commissioner of community affairs; P.A. 73-599 substituted department of commerce for Connecticut development commission; P.A. 77-614 substituted department of economic development for department of commerce, effective January 1, 1979; P.A. 78-303 required substitution of commissioner of economic development for department of same name in sections originally involving commissioner of community affairs which implies that 1971 and 1973 amendments were never enacted; P.A. 79-598 substituted commissioner of housing for commissioner of economic development; P.A. 95-250 and P.A. 96-211 replaced Commissioner and Department of Housing with Commissioner and Department of Economic and Community Development."
+            ],
             "annotations": [],
-            "text": ""
+            "text": "Sections 8-155 to 8-159 , inclusive, are repealed; provided, that in any case where any municipality, on or before July 6, 1967, had entered into a contract with the Connecticut Development Commission for financial assistance to a commercial or industrial redevelopment project under said sections 8-155 to 8-159 , inclusive, or had otherwise taken substantial action under said sections, then such municipality, the state and any other interested person shall continue to be subject to said sections and be eligible for state financial assistance thereunder but only insofar as said sections relate to those projects that have been planned or commenced thereunder and such municipality, the state or such other interested person may make application to the Commissioner of Economic and Community Development for, and the Commissioner of Economic and Community Development may make grants for the purposes of such commercial or industrial redevelopment project from the funds available for the purposes of chapter 133, but subject to the provisions of section 8-154f .",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9023,7 +9521,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-159a is repealed, effective July 1, 2024."
+            "text": "Section 8-159a is repealed, effective July 1, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9202,7 +9704,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-168 is repealed."
+            "text": "Section 8-168 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9235,7 +9741,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-169 is repealed.\n\n*Cited. 183 C. 523."
+            "text": "Section 8-169 is repealed.\n\n*Cited. 183 C. 523.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9488,7 +9998,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-169k is repealed."
+            "text": "Section 8-169k is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9543,7 +10057,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-169n is repealed."
+            "text": "Section 8-169n is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9736,12 +10254,24 @@
           "section_key": "",
           "label": "Secs. 8-169x to 8-169z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_130.htm#secs_8-169x_to_8-169z",
+          "grouped": true,
+          "section_keys": [
+            "8-169x",
+            "8-169y",
+            "8-169z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -9861,12 +10391,27 @@
           "section_key": "",
           "label": "Secs. 8-169bb to 8-169gg.",
           "url": "https://www.cga.ct.gov/current/pub/chap_130.htm#secs_8-169bb_to_8-169gg",
+          "grouped": true,
+          "section_keys": [
+            "8-169bb",
+            "8-169cc",
+            "8-169dd",
+            "8-169ee",
+            "8-169ff",
+            "8-169gg"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -10142,7 +10687,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-169rr is repealed, effective October 1, 2024."
+            "text": "Section 8-169rr is repealed, effective October 1, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10230,7 +10779,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-146 to 8-150. Finding and declaration of necessity. Contract for state assistance. Form of aid. Bond issue. Maximum amount of loan notes. Requirements of notes and bonds. Regulations. Sections 8-146 to 8-150 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10245,7 +10797,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-146 to 8-150. Finding and declaration of necessity. Contract for state assistance. Form of aid. Bond issue. Maximum amount of loan notes. Requirements of notes and bonds. Regulations. Sections 8-146 to 8-150 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10260,7 +10815,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-152 to 8-154. Grants-in-aid for redevelopment or urban renewal. Bond issue. Commissioner of Community Affairs to administer program. Sections 8-152 to 8-154 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10275,7 +10833,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-152 to 8-154. Grants-in-aid for redevelopment or urban renewal. Bond issue. Commissioner of Community Affairs to administer program. Sections 8-152 to 8-154 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10290,7 +10851,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-155 to 8-159. Commercial or industrial development. Sections 8-155 to 8-159 , inclusive, are repealed; provided, that in any case where any municipality, on or before July 6, 1967, had entered into a contract with the Connecticut Development Commission for financial assistance to a commercial or industrial redevelopment project under said sections 8-155 to 8-159 , inclusive, or had otherwise taken substantial action under said sections, then such municipality, the state and any other interested person shall continue to be subject to said sections and be eligible for state financial assistance thereunder but only insofar as said sections relate to those projects that have been planned or commenced thereunder and such municipality, the state or such other interested person may make application to the Commissioner of Economic and Community Development for, and the Commissioner of Economic and Community Development may make grants for the purposes of such commercial or industrial redevelopment project from the funds available for the purposes of chapter 133, but subject to the provisions of section 8-154f .",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10305,7 +10869,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-155 to 8-159. Commercial or industrial development. Sections 8-155 to 8-159 , inclusive, are repealed; provided, that in any case where any municipality, on or before July 6, 1967, had entered into a contract with the Connecticut Development Commission for financial assistance to a commercial or industrial redevelopment project under said sections 8-155 to 8-159 , inclusive, or had otherwise taken substantial action under said sections, then such municipality, the state and any other interested person shall continue to be subject to said sections and be eligible for state financial assistance thereunder but only insofar as said sections relate to those projects that have been planned or commenced thereunder and such municipality, the state or such other interested person may make application to the Commissioner of Economic and Community Development for, and the Commissioner of Economic and Community Development may make grants for the purposes of such commercial or industrial redevelopment project from the funds available for the purposes of chapter 133, but subject to the provisions of section 8-154f .",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -10320,12 +10887,41 @@
           "section_key": "",
           "label": "Secs. 8-170 to 8-185. Industrial and research development projects.",
           "url": "https://www.cga.ct.gov/current/pub/chap_131.htm#secs_8-170_to_8-185",
+          "grouped": true,
+          "section_keys": [
+            "8-170",
+            "8-171",
+            "8-172",
+            "8-173",
+            "8-174",
+            "8-175",
+            "8-176",
+            "8-177",
+            "8-178",
+            "8-179",
+            "8-180",
+            "8-181",
+            "8-182",
+            "8-183",
+            "8-184",
+            "8-185"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
-            "history": [],
+            "body_paragraphs": [
+              "Sections 8-170 to 8-185 , inclusive, are repealed; provided, that in any case where any municipality, on or before July 6, 1967, had prepared an industrial or research development project plan under said sections 8-170 to 8-185 , inclusive, or had otherwise taken substantial action under said sections, then such municipality, the state, any state or local development company, as defined in section 8-171 , and any other interested person shall continue to be subject to said sections and be eligible for state financial assistance thereunder but only insofar as said sections relate to those projects that have been planned or commenced thereunder and such municipality, the state, such state or local development company or such other interested person may make application to the Commissioner of Economic and Community Development for, and the Commissioner of Economic and Community Development may make, grants for the purposes of such industrial or research development project from the funds available for the purposes of chapter 132, but subject to the provisions of section 8-154f ."
+            ],
+            "source": [
+              "(February, 1965, P.A. 449, S. 1–17; 1967, P.A. 760, S. 14; 1971, P.A. 505, S. 1; P.A. 73-599, S. 25; P.A. 77-614, S. 284, 610; P.A. 78-303, S. 81, 136; P.A. 79-598, S. 4; P.A. 95-250, S. 1; P.A. 96-211, S. 1, 5, 6.)"
+            ],
+            "history": [
+              "History: 1967 act repealed sections; 1971 act substituted Connecticut development commission for commissioner of community affairs; P.A. 73-599 substituted department of commerce for Connecticut development commission; P.A. 77-614 substituted department of economic development for department of commerce, effective January 1, 1979; P.A. 78-303 substituted commissioner of economic development for department in sections involving commissioner of community affairs, implying that provisions of 1971 and 1973 acts were never enacted; P.A. 79-598 repeated change from community affairs to economic development; P.A. 95-250 and P.A. 96-211 replaced Commissioner and Department of Economic Development with Commissioner and Department of Economic and Community Development."
+            ],
             "annotations": [],
-            "text": ""
+            "text": "Sections 8-170 to 8-185 , inclusive, are repealed; provided, that in any case where any municipality, on or before July 6, 1967, had prepared an industrial or research development project plan under said sections 8-170 to 8-185 , inclusive, or had otherwise taken substantial action under said sections, then such municipality, the state, any state or local development company, as defined in section 8-171 , and any other interested person shall continue to be subject to said sections and be eligible for state financial assistance thereunder but only insofar as said sections relate to those projects that have been planned or commenced thereunder and such municipality, the state, such state or local development company or such other interested person may make application to the Commissioner of Economic and Community Development for, and the Commissioner of Economic and Community Development may make, grants for the purposes of such industrial or research development project from the funds available for the purposes of chapter 132, but subject to the provisions of section 8-154f .",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10340,7 +10936,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-170 to 8-185. Industrial and research development projects. Sections 8-170 to 8-185 , inclusive, are repealed; provided, that in any case where any municipality, on or before July 6, 1967, had prepared an industrial or research development project plan under said sections 8-170 to 8-185 , inclusive, or had otherwise taken substantial action under said sections, then such municipality, the state, any state or local development company, as defined in section 8-171 , and any other interested person shall continue to be subject to said sections and be eligible for state financial assistance thereunder but only insofar as said sections relate to those projects that have been planned or commenced thereunder and such municipality, the state, such state or local development company or such other interested person may make application to the Commissioner of Economic and Community Development for, and the Commissioner of Economic and Community Development may make, grants for the purposes of such industrial or research development project from the funds available for the purposes of chapter 132, but subject to the provisions of section 8-154f .",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10355,7 +10954,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-170 to 8-185. Industrial and research development projects. Sections 8-170 to 8-185 , inclusive, are repealed; provided, that in any case where any municipality, on or before July 6, 1967, had prepared an industrial or research development project plan under said sections 8-170 to 8-185 , inclusive, or had otherwise taken substantial action under said sections, then such municipality, the state, any state or local development company, as defined in section 8-171 , and any other interested person shall continue to be subject to said sections and be eligible for state financial assistance thereunder but only insofar as said sections relate to those projects that have been planned or commenced thereunder and such municipality, the state, such state or local development company or such other interested person may make application to the Commissioner of Economic and Community Development for, and the Commissioner of Economic and Community Development may make, grants for the purposes of such industrial or research development project from the funds available for the purposes of chapter 132, but subject to the provisions of section 8-154f .",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -10370,7 +10972,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-170 to 8-185. Industrial and research development projects. Sections 8-170 to 8-185 , inclusive, are repealed; provided, that in any case where any municipality, on or before July 6, 1967, had prepared an industrial or research development project plan under said sections 8-170 to 8-185 , inclusive, or had otherwise taken substantial action under said sections, then such municipality, the state, any state or local development company, as defined in section 8-171 , and any other interested person shall continue to be subject to said sections and be eligible for state financial assistance thereunder but only insofar as said sections relate to those projects that have been planned or commenced thereunder and such municipality, the state, such state or local development company or such other interested person may make application to the Commissioner of Economic and Community Development for, and the Commissioner of Economic and Community Development may make, grants for the purposes of such industrial or research development project from the funds available for the purposes of chapter 132, but subject to the provisions of section 8-154f .",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -10886,12 +11491,26 @@
           "section_key": "",
           "label": "Secs. 8-203 to 8-205. Department of Community Affairs; commissioner. Advisory Council on Community Affairs. Duties of council.",
           "url": "https://www.cga.ct.gov/current/pub/chap_133.htm#secs_8-203_to_8-205",
+          "grouped": true,
+          "section_keys": [
+            "8-203",
+            "8-204",
+            "8-205"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 8-203 to 8-205 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1967, P.A. 522, S. 3, 5, 6; 1969, P.A. 28; P.A. 73-8, S. 1; P.A. 77-614, S. 609, 610.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 8-203 to 8-205 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10962,7 +11581,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-206b is repealed, effective October 1, 2004."
+            "text": "Section 8-206b is repealed, effective October 1, 2004.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11126,12 +11749,25 @@
           "section_key": "",
           "label": "Secs. 8-207 and 8-207a. Community development action plan. State financial assistance for implementing, reviewing and revising community development action plan.",
           "url": "https://www.cga.ct.gov/current/pub/chap_133.htm#secs_8-207_and_8-207a",
+          "grouped": true,
+          "section_keys": [
+            "8-207",
+            "8-207a"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 8-207 and 8-207a are repealed."
+            ],
+            "source": [
+              "(1967, P.A. 522, S. 9; 1969, P.A. 478; 757, S. 1; 1971, P.A. 759, S. 2, 4; 1972, S.A. 53, S. 23; P.A. 73-96, S. 2; P.A. 77-614, S. 38, 39, 610; P.A. 78-303, S. 120, 136.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 8-207 and 8-207a are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11285,7 +11921,11 @@
               "History: 1969 acts amended Subsec. (b) to require that aid be given only to day care centers licensed by commissioner of health; and amended Subsec. (a) to include assistance for child day care facilities, deleted requirement that projects be approved by Department of Housing and Urban development and split grants-in-aid into two categories; 1972 act allowed grant-in-aid for 80%, rather than two-thirds, of cost of non-federally-assisted program; P.A. 73-420 amended Subsec. (b) to clarify that provision re aid given only to centers licensed by health commissioner applies to aid for operating costs and added Subsec. (d); P.A. 74-289 amended Subsec. (a) to include contracts with human resource development agencies; P.A. 77-614 substituted commissioner of health services for commissioner of health, secretary of the office of policy and management for commissioner of finance and control and commissioner of human resources for commissioner of social services, specified that references to “commissioner” refer to commissioner of human resources rather than to commissioner of community affairs as before and amended Subsec. (c) to delete provision for transfer of community affairs department funds at request of social services commissioner, effective January 1, 1979; P.A. 78-73 inserted new Subsec. (c) re renovations to allow access for physically disabled and relettered remaining Subsecs. accordingly; P.A. 84-454 amended Subsec. (b) by adding that financial assistance be provided “within available appropriations” and by changing Subsec. (b)(1) from a grant-in-aid equal to 80% of the “net cost of a day care center program of the municipality or a human resource development agency as approved by the commissioner” to “for a portion of the cost of such program as determined by the commissioner of human resources”; P.A. 86-417 inserted new Subsec. (d) setting forth policy applicable to municipalities or human resource development agencies which receive state financial assistance for day care facilities, relettering previously existing Subsecs. as necessary, and made technical changes; P.A. 87-344 deleted Subsec. (f) on the recoupment of funds and replaced the existing language in Subsec. (a) which provided for a contract with a municipality or a “human resource development agency” and limited the amount of the grant to two-thirds of the net cost of the project or where the project is assisted by the Federal Department of Housing and Urban Development, one-half the amount by which the net cost of the project exceeds the federal grant; P.A. 91-371 added provision in Subsec. (b) authorizing child day care centers to apply a surplus to the next program year and allowing such centers to establish fees for their operation; P.A. 93-262 authorized substitution of commissioner and department of social services for commissioner and department of human resources, effective July 1, 1993; P.A. 93-381 replaced commissioner of health services with commissioner of public health and addiction services, effective July 1, 1993; P.A. 95-257 replaced Commissioner and Department of Public Health and Addiction Services with Commissioner and Department of Public Health, effective July 1, 1995; P.A. 95-360 substituted reference to Sec. 19a-82 for Sec. 19a-81 in Subsec. (d), effective July 13, 1995; P.A. 97-259 added provisions for contracts with nonprofit corporations, added new Subsec. (c) re guidelines for state-contracted child care center programs and redesignated existing Subsecs. (c) to (e) as Subsecs. (d) to (f), effective July 1, 1997; P.A. 98-252 amended Subsecs. (b) and (e) to make technical changes, effective July 1, 1998; P.A. 12-120 amended Subsec. (a) by adding references to Commissioner of Education, amended Subsecs. (b) to (f) by replacing references to Commissioner and Department of Social Services with references to Commissioner and Department of Education, and made technical and conforming changes, effective June 15, 2012; P.A. 13-31 made a technical change in Subsec. (d), effective May 28, 2013; P.A. 14-39 replaced references to Commissioner and Department of Education with references to Commissioner and Office of Early Childhood throughout and replaced “Commissioner of Public Health” with “Commissioner of Early Childhood” in Subsec. (b), effective July 1, 2014; pursuant to P.A. 15-227, references to child day care centers were changed editorially by the Revisors to references to child care centers in Subsec. (b) and “child day care service” was changed editorially by the Revisors to “child care service” in Subsec. (e), effective July 1, 2015; P.A. 16-163 amended Subsec. (a) by replacing “child day care facilities” with “child care centers”, amended Subsec. (c) by replacing “state-contracted child care center programs” with “programs provided at state-contracted child care centers”, amended Subsec. (d) by replacing “child day care facility” with “child care center”, amended Subsec. (e) by replacing “day care facility” with “child care center”, by replacing “day care program” with “program provided at such child care center” and by replacing “day care service” with “child care services”, amended Subsec. (f) by replacing “day care program” with “child care services”, and made technical and conforming changes, effective June 9, 2016; May Sp. Sess. P.A. 16-3 amended Subsec. (b) by adding Subdiv. (3) re grant-in-aid in an amount up to the per child cost described in Sec. 10-16q(b)(1), effective July 1, 2016; P.A. 17-202 amended Subsec. (d) by replacing “the physically disabled” with “persons with physical disabilities”; P.A. 18-184 amended Subsec. (f) by deleting reference to commissioners discretion, designating existing provision re authorization of expenditure of funds for state's share of federally assisted child care services as Subdiv. (1) and adding Subdiv. (2) re commissioner may expend amount not to exceed 2 per cent of amount appropriated in manner consistent with Sec. 10-509, effective July 1, 2018; P.A. 19-117 amended Subsec. (b) by replacing “up to” with “not less than” in Subdiv. (3) and adding provision re amount of any increase of per child cost to be used exclusively to increase educator salaries, effective July 1, 2019; P.A. 21-171 added Subsec. (g) re family participation in a state-contracted child care center program, effective July 1, 2021; P.A. 21-172 added references to group child care homes and family child care homes throughout, effective July 1, 2021; P.A. 22-80 amended Subsec. (b) by designating existing provision in Subdiv. (3) as Subpara. (A) and adding Subpara. (B) re grant-in-aid in an amount not less than $13,500, replacing “June 30, 2020” with “June 30, 2024”, adding “under said subdivision (3), replacing “June 30, 2019” with “June 30, 2023” and adding provision re commissioner to enter into contracts for purpose of expanding number of spaces available to children 3 years of age or under in infant or toddler care, effective July 1, 2022; P.A. 22-116 amended Subsec. (b) by adding provision re contracts entered into on or after July 1, 2022, to include provision that at least 60 per cent of children enrolled are members of families that are at or below 75 per cent of the state median income, effective July 1, 2022; P.A. 23-160 made a technical change in Subsec. (c), effective June 28, 2023, and amended Subsec. (b) by deleting provision re amount of any increase of per child cost to be used exclusively to increase educator salaries and making a technical change, effective July 1, 2023; P.A. 24-78 amended Subsec. (b)(3) by designating existing provision as new Subpara. (A) and amending same by making provisions applicable to fiscal year ending June 30, 2024, and redesignating existing Subparas. (A) and (B) as clauses (i) and (ii) and adding new Subpara. (B) re grant-in-aid in accordance with section 35 of public act 24-78, effective July 1, 2024, and repealed section, effective July 1, 2025."
             ],
             "annotations": [],
-            "text": "(a) The state, acting by and in the discretion of the Commissioner of Social Services or the Commissioner of Early Childhood, as appropriate, may enter into a contract with a municipality or a qualified private, nonprofit corporation for state financial assistance for the planning, construction, renovation, site preparation and purchase of improved or unimproved property as part of a capital development project for neighborhood facilities. Such facilities may include, but need not be limited to, child care centers, elderly centers, multipurpose human resource centers, emergency shelters for the homeless and shelters for victims of domestic violence. The financial assistance shall be in the form of state grants-in-aid equal to (1) all or any portion of the cost of such capital development project if the grantee is a qualified private nonprofit corporation, or (2) up to two-thirds of the cost of such capital development project if the grantee is a municipality, as determined by the Commissioner of Social Services or the Commissioner of Early Childhood, as appropriate.\n\n(b) The state, acting by and in the discretion of the Commissioner of Early Childhood, may enter into a contract with a municipality, a group child care home or family child care home, as described in section 19a-77 , a human resource development agency or a nonprofit corporation for state financial assistance in developing and operating child care centers, group child care homes and family child care homes for children disadvantaged by reasons of economic, social or environmental conditions, provided no such financial assistance shall be available for the operating costs of any such child care center, group child care home or family child care home unless it has been licensed by the Commissioner of Early Childhood pursuant to section 19a-80 . Such financial assistance shall be available for a program of a municipality, of a group child care home or family child care home, of a human resource development agency or of a nonprofit corporation which may provide for personnel, equipment, supplies, activities, program materials and renovation and remodeling of the physical facilities of such child care centers, group child care homes or family child care homes. Such contract shall provide for state financial assistance, within available appropriations, in the form of a state grant-in-aid (1) for a portion of the cost of such program, as determined by the Commissioner of Early Childhood, if not federally assisted, (2) equal to one-half of the amount by which the net cost of such program, as approved by the Commissioner of Early Childhood, exceeds the federal grant-in-aid thereof, or (3) (A) for the fiscal year ending June 30, 2024, in an amount not less than (i) the per child cost as described in subdivision (1) of subsection (b) of section 10-16q , for each child in such program that is three or four years of age and each child that is five years of age who is not eligible to enroll in school, pursuant to section 10-15c , while maintaining services to children under three years of age under this section, and (ii) thirteen thousand five hundred dollars for each child three years of age or under who is in infant or toddler care and not in a preschool program, and (B) for the fiscal year ending June 30, 2025, in accordance with the provisions of section 35 of public act 24-78*. Any such contract entered into on or after July 1, 2022, shall include a provision that at least sixty per cent of the children enrolled in such child care center, group child care home or family child care home are members of families who are at or below seventy-five per cent of the state median income. The Commissioner of Early Childhood may authorize child care centers, group child care homes and family child care homes receiving financial assistance under this subsection to apply a program surplus to the next program year. The Commissioner of Early Childhood shall consult with directors of child care centers in establishing fees for the operation of such centers. For the fiscal year ending June 30, 2023, the Commissioner of Early Childhood shall, within available appropriations, enter into contracts under this section for the purpose of expanding the number of spaces available to children three years of age or under who are in infant or toddler care and not in a preschool program.\n\n(c) The Office of Early Childhood, in consultation with representatives from child care centers, group child care homes and family child care homes, within available appropriations, shall develop guidelines for programs provided at state-contracted child care centers, group child care homes and family child care homes. The guidelines shall include standards for program quality and design and identify short and long-term outcomes for families participating in such programs. The Office of Early Childhood, within available appropriations, shall provide a copy of such guidelines to each state-contracted child care center, group child care home and family child care home. Each state-contracted child care center, group child care home and family child care home shall use the guidelines to develop a program improvement plan for the next twelve-month period and shall submit the plan to the Office of Early Childhood. The plan shall include goals to be used for measuring such improvement. The Office of Early Childhood shall use the plan to monitor the progress of such child care center, group child care home or family child care home.\n\n(d) The state, acting by and in the discretion of the Commissioner of Early Childhood, may enter into a contract with a municipality, a group child care home or family child care home, a human resource development agency or a nonprofit corporation for state financial assistance for a project of renovation of any child care center, group child care home or family child care home receiving assistance under this section, to make such center accessible to persons with physical disabilities, in the form of a state grant-in-aid equal to (1) the total net cost of the project, as approved by the Commissioner of Early Childhood, or (2) the total amount by which the net cost of the project, as approved by the Commissioner of Early Childhood, exceeds the federal grant-in-aid thereof.\n\n(e) Any municipality, group child care home or family child care home, human resource development agency or nonprofit corporation that enters into a contract pursuant to this section for state financial assistance for a child care center, group child care home or family child care home shall have sole responsibility for the development of the budget of the program provided at such child care center, group child care home or family child care home, including, but not limited to, personnel costs, purchases of equipment, supplies, activities and program materials, within the resources provided by the state under such contract. Upon local determination of a change in the type of child care services required in the area, a municipality, group child care home or family child care home, human resource development agency or nonprofit corporation may, within the limits of its annual budget and subject to the provisions of this subsection and sections 19a-77 to 19a-80 , inclusive, and 19a-82 to 19a-87a , inclusive, change its child care service. An application to change the type of child care service provided shall be submitted to the Commissioner of Early Childhood. Not later than forty-five days after the Commissioner of Early Childhood receives the application, the Commissioner of Early Childhood shall advise the municipality, human resource development agency or nonprofit corporation of the Commissioner of Early Childhood's approval, denial or approval with modifications of the application. If the Commissioner of Early Childhood fails to act on the application not later than forty-five days after the application's submittal, the application shall be deemed approved.\n\n(f) The Commissioner of Early Childhood may (1) with the approval of the Secretary of the Office of Policy and Management, authorize the expenditure of such funds for the purposes of this section as shall enable the Commissioner of Early Childhood to apply for, qualify for and provide the state's share of federally assisted child care services, and (2) expend an amount not to exceed two per cent of the amount appropriated for purposes of this section in a manner consistent with the provisions of section 10-509 .\n\n(g) For the fiscal years ending June 30, 2022, and June 30, 2023, the Office of Early Childhood shall permit any family that meets the eligibility requirements described in subdivision (1) or (2) of subsection (a) of section 17b-749 or subdivision (2) of subsection (d) of section 17b-749 to participate in a program provided at a state-contracted child care center under this section.\n\nSee Sec. 8-222b re municipal powers with respect to child day care and neighborhood facilities under this section.\n\nSee Sec. 8-226 re use of prior bond proceeds for purposes of this section."
+            "text": "(a) The state, acting by and in the discretion of the Commissioner of Social Services or the Commissioner of Early Childhood, as appropriate, may enter into a contract with a municipality or a qualified private, nonprofit corporation for state financial assistance for the planning, construction, renovation, site preparation and purchase of improved or unimproved property as part of a capital development project for neighborhood facilities. Such facilities may include, but need not be limited to, child care centers, elderly centers, multipurpose human resource centers, emergency shelters for the homeless and shelters for victims of domestic violence. The financial assistance shall be in the form of state grants-in-aid equal to (1) all or any portion of the cost of such capital development project if the grantee is a qualified private nonprofit corporation, or (2) up to two-thirds of the cost of such capital development project if the grantee is a municipality, as determined by the Commissioner of Social Services or the Commissioner of Early Childhood, as appropriate.\n\n(b) The state, acting by and in the discretion of the Commissioner of Early Childhood, may enter into a contract with a municipality, a group child care home or family child care home, as described in section 19a-77 , a human resource development agency or a nonprofit corporation for state financial assistance in developing and operating child care centers, group child care homes and family child care homes for children disadvantaged by reasons of economic, social or environmental conditions, provided no such financial assistance shall be available for the operating costs of any such child care center, group child care home or family child care home unless it has been licensed by the Commissioner of Early Childhood pursuant to section 19a-80 . Such financial assistance shall be available for a program of a municipality, of a group child care home or family child care home, of a human resource development agency or of a nonprofit corporation which may provide for personnel, equipment, supplies, activities, program materials and renovation and remodeling of the physical facilities of such child care centers, group child care homes or family child care homes. Such contract shall provide for state financial assistance, within available appropriations, in the form of a state grant-in-aid (1) for a portion of the cost of such program, as determined by the Commissioner of Early Childhood, if not federally assisted, (2) equal to one-half of the amount by which the net cost of such program, as approved by the Commissioner of Early Childhood, exceeds the federal grant-in-aid thereof, or (3) (A) for the fiscal year ending June 30, 2024, in an amount not less than (i) the per child cost as described in subdivision (1) of subsection (b) of section 10-16q , for each child in such program that is three or four years of age and each child that is five years of age who is not eligible to enroll in school, pursuant to section 10-15c , while maintaining services to children under three years of age under this section, and (ii) thirteen thousand five hundred dollars for each child three years of age or under who is in infant or toddler care and not in a preschool program, and (B) for the fiscal year ending June 30, 2025, in accordance with the provisions of section 35 of public act 24-78*. Any such contract entered into on or after July 1, 2022, shall include a provision that at least sixty per cent of the children enrolled in such child care center, group child care home or family child care home are members of families who are at or below seventy-five per cent of the state median income. The Commissioner of Early Childhood may authorize child care centers, group child care homes and family child care homes receiving financial assistance under this subsection to apply a program surplus to the next program year. The Commissioner of Early Childhood shall consult with directors of child care centers in establishing fees for the operation of such centers. For the fiscal year ending June 30, 2023, the Commissioner of Early Childhood shall, within available appropriations, enter into contracts under this section for the purpose of expanding the number of spaces available to children three years of age or under who are in infant or toddler care and not in a preschool program.\n\n(c) The Office of Early Childhood, in consultation with representatives from child care centers, group child care homes and family child care homes, within available appropriations, shall develop guidelines for programs provided at state-contracted child care centers, group child care homes and family child care homes. The guidelines shall include standards for program quality and design and identify short and long-term outcomes for families participating in such programs. The Office of Early Childhood, within available appropriations, shall provide a copy of such guidelines to each state-contracted child care center, group child care home and family child care home. Each state-contracted child care center, group child care home and family child care home shall use the guidelines to develop a program improvement plan for the next twelve-month period and shall submit the plan to the Office of Early Childhood. The plan shall include goals to be used for measuring such improvement. The Office of Early Childhood shall use the plan to monitor the progress of such child care center, group child care home or family child care home.\n\n(d) The state, acting by and in the discretion of the Commissioner of Early Childhood, may enter into a contract with a municipality, a group child care home or family child care home, a human resource development agency or a nonprofit corporation for state financial assistance for a project of renovation of any child care center, group child care home or family child care home receiving assistance under this section, to make such center accessible to persons with physical disabilities, in the form of a state grant-in-aid equal to (1) the total net cost of the project, as approved by the Commissioner of Early Childhood, or (2) the total amount by which the net cost of the project, as approved by the Commissioner of Early Childhood, exceeds the federal grant-in-aid thereof.\n\n(e) Any municipality, group child care home or family child care home, human resource development agency or nonprofit corporation that enters into a contract pursuant to this section for state financial assistance for a child care center, group child care home or family child care home shall have sole responsibility for the development of the budget of the program provided at such child care center, group child care home or family child care home, including, but not limited to, personnel costs, purchases of equipment, supplies, activities and program materials, within the resources provided by the state under such contract. Upon local determination of a change in the type of child care services required in the area, a municipality, group child care home or family child care home, human resource development agency or nonprofit corporation may, within the limits of its annual budget and subject to the provisions of this subsection and sections 19a-77 to 19a-80 , inclusive, and 19a-82 to 19a-87a , inclusive, change its child care service. An application to change the type of child care service provided shall be submitted to the Commissioner of Early Childhood. Not later than forty-five days after the Commissioner of Early Childhood receives the application, the Commissioner of Early Childhood shall advise the municipality, human resource development agency or nonprofit corporation of the Commissioner of Early Childhood's approval, denial or approval with modifications of the application. If the Commissioner of Early Childhood fails to act on the application not later than forty-five days after the application's submittal, the application shall be deemed approved.\n\n(f) The Commissioner of Early Childhood may (1) with the approval of the Secretary of the Office of Policy and Management, authorize the expenditure of such funds for the purposes of this section as shall enable the Commissioner of Early Childhood to apply for, qualify for and provide the state's share of federally assisted child care services, and (2) expend an amount not to exceed two per cent of the amount appropriated for purposes of this section in a manner consistent with the provisions of section 10-509 .\n\n(g) For the fiscal years ending June 30, 2022, and June 30, 2023, the Office of Early Childhood shall permit any family that meets the eligibility requirements described in subdivision (1) or (2) of subsection (a) of section 17b-749 or subdivision (2) of subsection (d) of section 17b-749 to participate in a program provided at a state-contracted child care center under this section.\n\nSee Sec. 8-222b re municipal powers with respect to child day care and neighborhood facilities under this section.\n\nSee Sec. 8-226 re use of prior bond proceeds for purposes of this section.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11315,19 +11955,34 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 319rr, Sec. 17b-749 ."
+            "text": "Transferred to Chapter 319rr, Sec. 17b-749 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 8-211 and 8-212.",
           "url": "https://www.cga.ct.gov/current/pub/chap_133.htm#secs_8-211_and_8-212",
+          "grouped": true,
+          "section_keys": [
+            "8-211",
+            "8-212"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 242, Secs. 13b-56 and 13b-57 , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 242, Secs. 13b-56 and 13b-57 , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -11343,7 +11998,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-213 is repealed."
+            "text": "Section 8-213 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11375,7 +12034,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-214 is repealed."
+            "text": "Section 8-214 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11794,7 +12457,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-218d is repealed."
+            "text": "Section 8-218d is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11882,7 +12549,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-219 is repealed."
+            "text": "Section 8-219 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12044,7 +12715,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 319ww, Sec. 17b-852 ."
+            "text": "Transferred to Chapter 319ww, Sec. 17b-852 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -12060,19 +12735,34 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-221a is repealed, effective July 1, 1993."
+            "text": "Section 8-221a is repealed, effective July 1, 1993.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 8-222 and 8-222a.",
           "url": "https://www.cga.ct.gov/current/pub/chap_133.htm#secs_8-222_and_8-222a",
+          "grouped": true,
+          "section_keys": [
+            "8-222",
+            "8-222a"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 319ww, Secs. 17b-853 and 17b-854 ."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 319ww, Secs. 17b-853 and 17b-854 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -12109,21 +12799,36 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 319ww, Sec. 17b-855 ."
+            "text": "Transferred to Chapter 319ww, Sec. 17b-855 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
-          "section_key": "8-225",
+          "section_key": "",
           "label": "Secs. 8-224, 8-225 and 8-225a. Municipal powers; joint action. Limitation on aid to a municipality. Secretary of the Office of Policy and Management to approve certain aid for municipalities under Sec. 8-225.",
           "url": "https://www.cga.ct.gov/current/pub/chap_133.htm#secs_8-224_8-225_and_8-225a",
+          "grouped": true,
+          "section_keys": [
+            "8-224",
+            "8-225",
+            "8-225a"
+          ],
           "content": {
             "body_paragraphs": [
-              "Secs. 8-224, 8-225 and 8-225a. Municipal powers; joint action. Limitation on aid to a municipality. Secretary of the Office of Policy and Management to approve certain aid for municipalities under Sec. 8-225. Sections 8-224 , 8-225 and 8-225a are repealed."
+              "Sections 8-224 , 8-225 and 8-225a are repealed."
             ],
-            "source": [],
+            "source": [
+              "(1967, P.A. 522, S. 29, 30; 1969, P.A. 317, S. 2; 348, S. 1; 1972, P.A. 73, S. 1; P.A. 73-616, S. 7; P.A. 77-614, S. 587, 593, 596, 597, 610; P.A. 78-303, S. 85, 136; P.A. 79-631, S. 109, 111.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": "Secs. 8-224, 8-225 and 8-225a. Municipal powers; joint action. Limitation on aid to a municipality. Secretary of the Office of Policy and Management to approve certain aid for municipalities under Sec. 8-225. Sections 8-224 , 8-225 and 8-225a are repealed.",
+            "text": "Sections 8-224 , 8-225 and 8-225a are repealed.",
+            "statuses": [
+              "repealed"
+            ],
             "status": "repealed"
           }
         },
@@ -12158,19 +12863,42 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-227 is repealed."
+            "text": "Section 8-227 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 8-228 to 8-238. Relocation assistance.",
           "url": "https://www.cga.ct.gov/current/pub/chap_133.htm#secs_8-228_to_8-238",
+          "grouped": true,
+          "section_keys": [
+            "8-228",
+            "8-229",
+            "8-230",
+            "8-231",
+            "8-232",
+            "8-233",
+            "8-234",
+            "8-235",
+            "8-236",
+            "8-237",
+            "8-238"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "(a) Sections 8-228 to 8-238 , inclusive, are repealed except that for any payment or matter, due or pending, pursuant to said sections 8-228 to 8-238 , inclusive, shall be paid or handled in accordance with said sections, or regulations or procedures promulgated pursuant thereto.",
+              "(b) All rights or liabilities now existing under sections 8-228 to 8-238 , inclusive, and under regulations or procedures pursuant thereto shall not be affected by the repeal of such sections or portions thereof under subsection (a) of this section."
+            ],
+            "source": [
+              "(1969, P.A. 594, S. 1–11; 1971, P.A. 523; 838, S. 17.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "(a) Sections 8-228 to 8-238 , inclusive, are repealed except that for any payment or matter, due or pending, pursuant to said sections 8-228 to 8-238 , inclusive, shall be paid or handled in accordance with said sections, or regulations or procedures promulgated pursuant thereto.\n\n(b) All rights or liabilities now existing under sections 8-228 to 8-238 , inclusive, and under regulations or procedures pursuant thereto shall not be affected by the repeal of such sections or portions thereof under subsection (a) of this section."
           }
         },
         {
@@ -12220,7 +12948,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-240 is repealed."
+            "text": "Section 8-240 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -12275,12 +13007,29 @@
           "section_key": "",
           "label": "Secs. 8-240c to 8-240j.",
           "url": "https://www.cga.ct.gov/current/pub/chap_133.htm#secs_8-240c_to_8-240j",
+          "grouped": true,
+          "section_keys": [
+            "8-240c",
+            "8-240d",
+            "8-240e",
+            "8-240f",
+            "8-240g",
+            "8-240h",
+            "8-240i",
+            "8-240j"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12295,7 +13044,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-203 to 8-205. Department of Community Affairs; commissioner. Advisory Council on Community Affairs. Duties of council. Sections 8-203 to 8-205 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12310,7 +13062,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-203 to 8-205. Department of Community Affairs; commissioner. Advisory Council on Community Affairs. Duties of council. Sections 8-203 to 8-205 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12325,7 +13080,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-207 and 8-207a. Community development action plan. State financial assistance for implementing, reviewing and revising community development action plan. Sections 8-207 and 8-207a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12340,7 +13098,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-207 and 8-207a. Community development action plan. State financial assistance for implementing, reviewing and revising community development action plan. Sections 8-207 and 8-207a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12355,7 +13116,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-224, 8-225 and 8-225a. Municipal powers; joint action. Limitation on aid to a municipality. Secretary of the Office of Policy and Management to approve certain aid for municipalities under Sec. 8-225. Sections 8-224 , 8-225 and 8-225a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12370,7 +13134,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-224, 8-225 and 8-225a. Municipal powers; joint action. Limitation on aid to a municipality. Secretary of the Office of Policy and Management to approve certain aid for municipalities under Sec. 8-225. Sections 8-224 , 8-225 and 8-225a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12385,7 +13152,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-224, 8-225 and 8-225a. Municipal powers; joint action. Limitation on aid to a municipality. Secretary of the Office of Policy and Management to approve certain aid for municipalities under Sec. 8-225. Sections 8-224 , 8-225 and 8-225a are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12400,7 +13170,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-228 to 8-238. Relocation assistance. (a) Sections 8-228 to 8-238 , inclusive, are repealed except that for any payment or matter, due or pending, pursuant to said sections 8-228 to 8-238 , inclusive, shall be paid or handled in accordance with said sections, or regulations or procedures promulgated pursuant thereto.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12415,7 +13188,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-228 to 8-238. Relocation assistance. (a) Sections 8-228 to 8-238 , inclusive, are repealed except that for any payment or matter, due or pending, pursuant to said sections 8-228 to 8-238 , inclusive, shall be paid or handled in accordance with said sections, or regulations or procedures promulgated pursuant thereto.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -12767,7 +13543,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-244a is repealed."
+            "text": "Section 8-244a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13364,12 +14144,25 @@
           "section_key": "",
           "label": "Secs. 8-264 and 8-265. Purchase of or loans on mortgages insured by state agencies. Bond issue.",
           "url": "https://www.cga.ct.gov/current/pub/chap_134.htm#secs_8-264_and_8-265",
+          "grouped": true,
+          "section_keys": [
+            "8-264",
+            "8-265"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 8-264 and 8-265 are repealed."
+            ],
+            "source": [
+              "(1971, P.A. 840, S. 4, 5; June, 1971, P.A. 1, S. 2, 3; 1972, P.A. 208, S. 14.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 8-264 and 8-265 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13435,7 +14228,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-265d is repealed, effective October 1, 2002."
+            "text": "Section 8-265d is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13451,7 +14248,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-265e is repealed, effective July 1, 1995."
+            "text": "Section 8-265e is repealed, effective July 1, 1995.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13535,12 +14336,26 @@
           "section_key": "",
           "label": "Secs. 8-265j to 8-265n.",
           "url": "https://www.cga.ct.gov/current/pub/chap_134.htm#secs_8-265j_to_8-265n",
+          "grouped": true,
+          "section_keys": [
+            "8-265j",
+            "8-265k",
+            "8-265l",
+            "8-265m",
+            "8-265n"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -13718,12 +14533,25 @@
           "section_key": "",
           "label": "Secs. 8-265x to 8-265aa.",
           "url": "https://www.cga.ct.gov/current/pub/chap_134.htm#secs_8-265x_to_8-265aa",
+          "grouped": true,
+          "section_keys": [
+            "8-265x",
+            "8-265y",
+            "8-265z",
+            "8-265aa"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -13953,7 +14781,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-265jj is repealed, effective July 1, 2008."
+            "text": "Section 8-265jj is repealed, effective July 1, 2008.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -14315,7 +15147,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-264 and 8-265. Purchase of or loans on mortgages insured by state agencies. Bond issue. Sections 8-264 and 8-265 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -14330,7 +15165,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-264 and 8-265. Purchase of or loans on mortgages insured by state agencies. Bond issue. Sections 8-264 and 8-265 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -15216,12 +16054,24 @@
           "section_key": "",
           "label": "Secs. 8-297 to 8-299.",
           "url": "https://www.cga.ct.gov/current/pub/chap_137.htm#secs_8-297_to_8-299",
+          "grouped": true,
+          "section_keys": [
+            "8-297",
+            "8-298",
+            "8-299"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -15557,12 +16407,41 @@
           "section_key": "",
           "label": "Secs. 8-316 to 8-335.",
           "url": "https://www.cga.ct.gov/current/pub/chap_137a.htm#secs_8-316_to_8-335",
+          "grouped": true,
+          "section_keys": [
+            "8-316",
+            "8-317",
+            "8-318",
+            "8-319",
+            "8-320",
+            "8-321",
+            "8-322",
+            "8-323",
+            "8-324",
+            "8-325",
+            "8-326",
+            "8-327",
+            "8-328",
+            "8-329",
+            "8-330",
+            "8-331",
+            "8-332",
+            "8-333",
+            "8-334",
+            "8-335"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -15595,12 +16474,26 @@
           "section_key": "",
           "label": "Secs. 8-336a to 8-336e.",
           "url": "https://www.cga.ct.gov/current/pub/chap_137b.htm#secs_8-336a_to_8-336e",
+          "grouped": true,
+          "section_keys": [
+            "8-336a",
+            "8-336b",
+            "8-336c",
+            "8-336d",
+            "8-336e"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -15638,12 +16531,26 @@
           "section_key": "",
           "label": "Secs. 8-336g to 8-336k.",
           "url": "https://www.cga.ct.gov/current/pub/chap_137c.htm#secs_8-336g_to_8-336k",
+          "grouped": true,
+          "section_keys": [
+            "8-336g",
+            "8-336h",
+            "8-336i",
+            "8-336j",
+            "8-336k"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -15667,7 +16574,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-336 l is repealed."
+            "text": "Section 8-336 l is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -15809,12 +16720,25 @@
           "section_key": "",
           "label": "Secs. 8-337 and 8-338. Security deposit loans; regulations; report. Connecticut Security Deposit Revolving Loan Fund.",
           "url": "https://www.cga.ct.gov/current/pub/chap_138.htm#secs_8-337_and_8-338",
+          "grouped": true,
+          "section_keys": [
+            "8-337",
+            "8-338"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 8-337 and 8-338 are repealed."
+            ],
+            "source": [
+              "(P.A. 84-510, S. 2, 3, 5; P.A. 86-107, S. 3, 19; P.A. 90-238, S. 22, 32; P.A. 91-346, S. 8, 9.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 8-337 and 8-338 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -15856,12 +16780,26 @@
           "section_key": "",
           "label": "Secs. 8-340 to 8-344.",
           "url": "https://www.cga.ct.gov/current/pub/chap_138.htm#secs_8-340_to_8-344",
+          "grouped": true,
+          "section_keys": [
+            "8-340",
+            "8-341",
+            "8-342",
+            "8-343",
+            "8-344"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -15876,7 +16814,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-337 and 8-338. Security deposit loans; regulations; report. Connecticut Security Deposit Revolving Loan Fund. Sections 8-337 and 8-338 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -15891,7 +16832,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-337 and 8-338. Security deposit loans; regulations; report. Connecticut Security Deposit Revolving Loan Fund. Sections 8-337 and 8-338 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -16117,12 +17061,27 @@
           "section_key": "",
           "label": "Secs. 8-349 to 8-354.",
           "url": "https://www.cga.ct.gov/current/pub/chap_138a.htm#secs_8-349_to_8-354",
+          "grouped": true,
+          "section_keys": [
+            "8-349",
+            "8-350",
+            "8-351",
+            "8-352",
+            "8-353",
+            "8-354"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -16406,24 +17365,48 @@
           "section_key": "",
           "label": "Secs. 8-361 and 8-362. Pilot program for acquisition and rehabilitation of abandoned property into single room occupancy housing for homeless persons. Abatement of real property taxes.",
           "url": "https://www.cga.ct.gov/current/pub/chap_138b.htm#secs_8-361_and_8-362",
+          "grouped": true,
+          "section_keys": [
+            "8-361",
+            "8-362"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 8-361 and 8-362 are repealed, effective October 1, 2006."
+            ],
+            "source": [
+              "(P.A. 93-401, S. 1, 2; P.A. 95-250, S. 1; P.A. 96-211, S. 1, 5, 6; 96-256, S. 179, 209; P.A. 06-93, S. 22.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 8-361 and 8-362 are repealed, effective October 1, 2006.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 8-363 and 8-364.",
           "url": "https://www.cga.ct.gov/current/pub/chap_138b.htm#secs_8-363_and_8-364",
+          "grouped": true,
+          "section_keys": [
+            "8-363",
+            "8-364"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -16438,7 +17421,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-361 and 8-362. Pilot program for acquisition and rehabilitation of abandoned property into single room occupancy housing for homeless persons. Abatement of real property taxes. Sections 8-361 and 8-362 are repealed, effective October 1, 2006.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -16453,7 +17439,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-361 and 8-362. Pilot program for acquisition and rehabilitation of abandoned property into single room occupancy housing for homeless persons. Abatement of real property taxes. Sections 8-361 and 8-362 are repealed, effective October 1, 2006.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -16498,7 +17487,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-366 is repealed."
+            "text": "Section 8-366 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -16545,12 +17538,23 @@
           "section_key": "",
           "label": "Secs. 8-368 and 8-369.",
           "url": "https://www.cga.ct.gov/current/pub/chap_138c.htm#secs_8-368_and_8-369",
+          "grouped": true,
+          "section_keys": [
+            "8-368",
+            "8-369"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -16565,12 +17569,29 @@
           "section_key": "",
           "label": "Secs. 8-370 to 8-375. Rental Housing Assistance Trust Fund.",
           "url": "https://www.cga.ct.gov/current/pub/chap_138d.htm#secs_8-370_to_8-375",
+          "grouped": true,
+          "section_keys": [
+            "8-370",
+            "8-371",
+            "8-372",
+            "8-373",
+            "8-374",
+            "8-375"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 8-370 to 8-375 , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 86-395, S. 1, 2, 5–8, 10; P.A. 87-377, S. 4, 5.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 8-370 to 8-375 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -16585,7 +17606,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-370 to 8-375. Rental Housing Assistance Trust Fund. Sections 8-370 to 8-375 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -16600,7 +17624,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-370 to 8-375. Rental Housing Assistance Trust Fund. Sections 8-370 to 8-375 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -16743,12 +17770,23 @@
           "section_key": "",
           "label": "Secs. 8-382 and 8-383.",
           "url": "https://www.cga.ct.gov/current/pub/chap_138e.htm#secs_8-382_and_8-383",
+          "grouped": true,
+          "section_keys": [
+            "8-382",
+            "8-383"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -16791,7 +17829,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-385 is repealed, effective July 1, 2013."
+            "text": "Section 8-385 is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -16873,12 +17915,26 @@
           "section_key": "",
           "label": "Secs. 8-390 to 8-394.",
           "url": "https://www.cga.ct.gov/current/pub/chap_138f.htm#secs_8-390_to_8-394",
+          "grouped": true,
+          "section_keys": [
+            "8-390",
+            "8-391",
+            "8-392",
+            "8-393",
+            "8-394"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -16962,12 +18018,25 @@
           "section_key": "",
           "label": "Secs. 8-396 to 8-399.",
           "url": "https://www.cga.ct.gov/current/pub/chap_138g.htm#secs_8-396_to_8-399",
+          "grouped": true,
+          "section_keys": [
+            "8-396",
+            "8-397",
+            "8-398",
+            "8-399"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -17112,19 +18181,35 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 8-406 is repealed, effective July 1, 1995."
+            "text": "Section 8-406 is repealed, effective July 1, 1995.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 8-407 to 8-409.",
           "url": "https://www.cga.ct.gov/current/pub/chap_138h.htm#secs_8-407_to_8-409",
+          "grouped": true,
+          "section_keys": [
+            "8-407",
+            "8-408",
+            "8-409"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -17194,12 +18279,23 @@
           "section_key": "",
           "label": "Secs. 8-413 and 8-414.",
           "url": "https://www.cga.ct.gov/current/pub/chap_138i.htm#secs_8-413_and_8-414",
+          "grouped": true,
+          "section_keys": [
+            "8-413",
+            "8-414"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -17214,12 +18310,28 @@
           "section_key": "",
           "label": "Secs. 8-415 to 8-419. Residential subsurface sewage disposal system repair program established. Regulations. Termination of program. Report. Bond authorization.",
           "url": "https://www.cga.ct.gov/current/pub/chap_138j.htm#secs_8-415_to_8-419",
+          "grouped": true,
+          "section_keys": [
+            "8-415",
+            "8-416",
+            "8-417",
+            "8-418",
+            "8-419"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 8-415 to 8-419 , inclusive, are repealed, effective July 1, 2013."
+            ],
+            "source": [
+              "(P.A. 88-343, S. 27–32; P.A. 91-346, S. 7, 9; P.A. 95-250, S. 1; P.A. 96-211, S. 1, 5, 6; P.A. 13-234, S. 155.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 8-415 to 8-419 , inclusive, are repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -17269,7 +18381,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -17294,12 +18410,27 @@
           "section_key": "",
           "label": "Secs. 8-424 to 8-429.",
           "url": "https://www.cga.ct.gov/current/pub/chap_138j.htm#secs_8-424_to_8-429",
+          "grouped": true,
+          "section_keys": [
+            "8-424",
+            "8-425",
+            "8-426",
+            "8-427",
+            "8-428",
+            "8-429"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -17314,7 +18445,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-415 to 8-419. Residential subsurface sewage disposal system repair program established. Regulations. Termination of program. Report. Bond authorization. Sections 8-415 to 8-419 , inclusive, are repealed, effective July 1, 2013.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -17329,7 +18463,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 8-415 to 8-419. Residential subsurface sewage disposal system repair program established. Regulations. Termination of program. Report. Bond authorization. Sections 8-415 to 8-419 , inclusive, are repealed, effective July 1, 2013.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -17344,12 +18481,32 @@
           "section_key": "",
           "label": "Secs. 8-430 to 8-438. Definitions. Provision of financial assistance to eligible developers. Eligible costs. Contracts for financial assistance. Inclusion in housing developments of units for very low, low, and moderate income families and market-rate housing units. Review of site and budget of housing developments; notice to municipalities of proposed housing developments; administrative oversight charge; inspection of reports, books and records; false statements. Terms and conditions of financial assistance; transfer of housing development to eligible developer. Regulations. Report to select committee on housing.",
           "url": "https://www.cga.ct.gov/current/pub/chap_138k.htm#secs_8-430_to_8-438",
+          "grouped": true,
+          "section_keys": [
+            "8-430",
+            "8-431",
+            "8-432",
+            "8-433",
+            "8-434",
+            "8-435",
+            "8-436",
+            "8-437",
+            "8-438"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 8-430 to 8-438 , inclusive, are repealed, effective October 1, 2006."
+            ],
+            "source": [
+              "(P.A. 93-309, S. 1–9, 29; P.A. 94-156, S. 2, 3, 5; May 25 Sp. Sess. P.A. 94-1, S. 13, 14, 130; P.A. 95-250, S. 1, 25, 42; 95-309, S. 11, 12; P.A. 96-180, S. 13, 166; 96-189, S. 2, 3; 96-211, S. 1, 5, 6; 96-256, S. 181, 209; 96-271, S. 154, 155, 254; P.A. 06-93, S. 22; 06-196, S. 50.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 8-430 to 8-438 , inclusive, are repealed, effective October 1, 2006.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -17363,7 +18520,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -17577,12 +18738,25 @@
           "section_key": "",
           "label": "Secs. 8-447 to 8-450.",
           "url": "https://www.cga.ct.gov/current/pub/chap_138m.htm#secs_8-447_to_8-450",
+          "grouped": true,
+          "section_keys": [
+            "8-447",
+            "8-448",
+            "8-449",
+            "8-450"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]

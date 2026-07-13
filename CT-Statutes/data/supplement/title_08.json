@@ -203,6 +203,9 @@
             "history": [],
             "annotations": [],
             "text": "Section 8-2f is repealed, effective July 1, 2025.",
+            "statuses": [
+              "repealed"
+            ],
             "status": "repealed"
           }
         },
@@ -270,6 +273,9 @@
             "history": [],
             "annotations": [],
             "text": "Section 8-2p is repealed, effective January 1, 2026.",
+            "statuses": [
+              "repealed"
+            ],
             "status": "repealed"
           }
         },
@@ -926,6 +932,9 @@
             "history": [],
             "annotations": [],
             "text": "Section 8-30j is repealed, effective January 1, 2026.",
+            "statuses": [
+              "repealed"
+            ],
             "status": "repealed"
           }
         }
@@ -1963,6 +1972,9 @@
             "history": [],
             "annotations": [],
             "text": "Section 8-446a is repealed, effective January 1, 2026.",
+            "statuses": [
+              "repealed"
+            ],
             "status": "repealed"
           }
         }

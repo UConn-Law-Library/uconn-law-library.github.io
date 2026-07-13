@@ -85,12 +85,25 @@
           "section_key": "",
           "label": "Secs. 38a-3 to 38a-6.",
           "url": "https://www.cga.ct.gov/current/pub/chap_697.htm#secs_38a-3_to_38a-6",
+          "grouped": true,
+          "section_keys": [
+            "38a-3",
+            "38a-4",
+            "38a-5",
+            "38a-6"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -495,7 +508,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-18 is repealed, effective July 1, 2017."
+            "text": "Section 38a-18 is repealed, effective July 1, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -653,7 +670,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -769,24 +790,53 @@
           "section_key": "",
           "label": "Secs. 38a-28 to 38a-31.",
           "url": "https://www.cga.ct.gov/current/pub/chap_697.htm#secs_38a-28_to_38a-31",
+          "grouped": true,
+          "section_keys": [
+            "38a-28",
+            "38a-29",
+            "38a-30",
+            "38a-31"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 38a-32 to 38a-36. (Formerly Secs. 38-19b to 38-19f). Malpractice Screening Panel established. Selection of panel to screen malpractice claim. Hearing by panel; transcripts. Confidentiality of proceedings, records, findings and deliberations. Finding as to liability.",
           "url": "https://www.cga.ct.gov/current/pub/chap_697.htm#secs_38a-32_to_38a-36",
+          "grouped": true,
+          "section_keys": [
+            "38a-32",
+            "38a-33",
+            "38a-34",
+            "38a-35",
+            "38a-36"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 38a-32 to 38a-36 , inclusive, are repealed, effective July 13, 2005."
+            ],
+            "source": [
+              "(P.A. 77-249, S. 1–5; 77-614, S. 163, 587, 610; P.A. 78-303, S. 85, 136; P.A. 80-482, S. 3, 269–271, 345, 348; P.A. 82-472, S. 160, 183; P.A. 05-278, S. 28.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 38a-32 to 38a-36 , inclusive, are repealed, effective July 13, 2005.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1154,12 +1204,23 @@
           "section_key": "",
           "label": "Secs. 38a-39 and 38a-40.",
           "url": "https://www.cga.ct.gov/current/pub/chap_697.htm#secs_38a-39_and_38a-40",
+          "grouped": true,
+          "section_keys": [
+            "38a-39",
+            "38a-40"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1977,7 +2038,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-65 is repealed, effective October 1, 1998."
+            "text": "Section 38a-65 is repealed, effective October 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2091,7 +2156,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use.\n\n*Former chapter 681 cited. 219 C. 391."
+            "text": "Reserved for future use.\n\n*Former chapter 681 cited. 219 C. 391.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -2312,12 +2381,25 @@
           "section_key": "",
           "label": "Secs. 38a-74 and 38a-75. (Formerly Secs. 38-94 and 38-95). Estimation of trusteed surplus. Appointment of trustees; examinations by commissioner.",
           "url": "https://www.cga.ct.gov/current/pub/chap_698.htm#secs_38a-74_and_38a-75",
+          "grouped": true,
+          "section_keys": [
+            "38a-74",
+            "38a-75"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 38a-74 and 38a-75 are repealed, effective June 6, 2014."
+            ],
+            "source": [
+              "(1949 Rev., S. 6100, 6101; 1951, S. 2825d, 2826d; P.A. 90-243, S. 48; P.A. 14-123, S. 26.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 38a-74 and 38a-75 are repealed, effective June 6, 2014.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2606,7 +2688,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-79 is repealed."
+            "text": "Section 38a-79 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3337,12 +3423,27 @@
           "section_key": "",
           "label": "Secs. 38a-91e to 38a-91j.",
           "url": "https://www.cga.ct.gov/current/pub/chap_698.htm#secs_38a-91e_to_38a-91j",
+          "grouped": true,
+          "section_keys": [
+            "38a-91e",
+            "38a-91f",
+            "38a-91g",
+            "38a-91h",
+            "38a-91i",
+            "38a-91j"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -3367,12 +3468,48 @@
           "section_key": "",
           "label": "Secs. 38a-91 l to 38a-91z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_698.htm#secs_38a-91l_to_38a-91z",
+          "grouped": true,
+          "section_keys": [
+            "38a-91",
+            "38a-91a",
+            "38a-91b",
+            "38a-91c",
+            "38a-91d",
+            "38a-91e",
+            "38a-91f",
+            "38a-91g",
+            "38a-91h",
+            "38a-91i",
+            "38a-91j",
+            "38a-91k",
+            "38a-91l",
+            "38a-91m",
+            "38a-91n",
+            "38a-91o",
+            "38a-91p",
+            "38a-91q",
+            "38a-91r",
+            "38a-91s",
+            "38a-91t",
+            "38a-91u",
+            "38a-91v",
+            "38a-91w",
+            "38a-91x",
+            "38a-91y",
+            "38a-91z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4593,19 +4730,42 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 38a-94 to 38a-101. (Formerly Secs. 38-141a to 38-146a and 38-148). Domestic life insurers: Certain investments forbidden; unqualified loans and investments, limit permitted; investment in obligations guaranteed by federal or state government; approval of loans and investments; officers to receive no compensation for negotiating loan; security for loans; acquisition and organization of subsidiaries by domestic mutual life insurance companies; penalty for authorizing illegal investments.",
           "url": "https://www.cga.ct.gov/current/pub/chap_698.htm#secs_38a-94_to_38a-101",
+          "grouped": true,
+          "section_keys": [
+            "38a-94",
+            "38a-95",
+            "38a-96",
+            "38a-97",
+            "38a-98",
+            "38a-99",
+            "38a-100",
+            "38a-101"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 38a-94 to 38a-101 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 6167, 6168, 6170–6172, 6174; 1951, S. 2832d, 2833d; 1961, P.A. 92; 1963, P.A. 168, S. 1; 1971, P.A. 460; P.A. 81-111, S. 6; P.A. 90-243, S. 61; P.A. 92-60, S. 28.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 38a-94 to 38a-101 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4810,12 +4970,35 @@
           "section_key": "",
           "label": "Secs. 38a-103 to 38a-116.",
           "url": "https://www.cga.ct.gov/current/pub/chap_698.htm#secs_38a-103_to_38a-116",
+          "grouped": true,
+          "section_keys": [
+            "38a-103",
+            "38a-104",
+            "38a-105",
+            "38a-106",
+            "38a-107",
+            "38a-108",
+            "38a-109",
+            "38a-110",
+            "38a-111",
+            "38a-112",
+            "38a-113",
+            "38a-114",
+            "38a-115",
+            "38a-116"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5038,12 +5221,25 @@
           "section_key": "",
           "label": "Secs. 38a-125 to 38a-128.",
           "url": "https://www.cga.ct.gov/current/pub/chap_698.htm#secs_38a-125_to_38a-128",
+          "grouped": true,
+          "section_keys": [
+            "38a-125",
+            "38a-126",
+            "38a-127",
+            "38a-128"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -5633,7 +5829,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-141 is repealed."
+            "text": "Section 38a-141 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -5733,12 +5933,24 @@
           "section_key": "",
           "label": "Secs. 38a-143 to 38a-145.",
           "url": "https://www.cga.ct.gov/current/pub/chap_698.htm#secs_38a-143_to_38a-145",
+          "grouped": true,
+          "section_keys": [
+            "38a-143",
+            "38a-144",
+            "38a-145"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6367,12 +6579,25 @@
           "section_key": "",
           "label": "Secs. 38a-156n to 38a-156q.",
           "url": "https://www.cga.ct.gov/current/pub/chap_698.htm#secs_38a-156n_to_38a-156q",
+          "grouped": true,
+          "section_keys": [
+            "38a-156n",
+            "38a-156o",
+            "38a-156p",
+            "38a-156q"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6579,12 +6804,24 @@
           "section_key": "",
           "label": "Secs. 38a-157 to 38a-159.",
           "url": "https://www.cga.ct.gov/current/pub/chap_698.htm#secs_38a-157_to_38a-159",
+          "grouped": true,
+          "section_keys": [
+            "38a-157",
+            "38a-158",
+            "38a-159"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6820,12 +7057,25 @@
           "section_key": "",
           "label": "Secs. 38a-171 to 38a-174.",
           "url": "https://www.cga.ct.gov/current/pub/chap_698.htm#secs_38a-171_to_38a-174",
+          "grouped": true,
+          "section_keys": [
+            "38a-171",
+            "38a-172",
+            "38a-173",
+            "38a-174"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -6840,7 +7090,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 38a-74 and 38a-75. (Formerly Secs. 38-94 and 38-95). Estimation of trusteed surplus. Appointment of trustees; examinations by commissioner. Sections 38a-74 and 38a-75 are repealed, effective June 6, 2014.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -6855,7 +7108,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 38a-74 and 38a-75. (Formerly Secs. 38-94 and 38-95). Estimation of trusteed surplus. Appointment of trustees; examinations by commissioner. Sections 38a-74 and 38a-75 are repealed, effective June 6, 2014.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -7314,7 +7570,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-193a is repealed, effective July 1, 2019."
+            "text": "Section 38a-193a is repealed, effective July 1, 2019.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -7344,12 +7604,25 @@
           "section_key": "",
           "label": "Secs. 38a-195 to 38a-198.",
           "url": "https://www.cga.ct.gov/current/pub/chap_698a.htm#secs_38a-195_to_38a-198",
+          "grouped": true,
+          "section_keys": [
+            "38a-195",
+            "38a-196",
+            "38a-197",
+            "38a-198"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7632,12 +7905,25 @@
           "section_key": "",
           "label": "Secs. 38a-210 to 38a-213.",
           "url": "https://www.cga.ct.gov/current/pub/chap_698a.htm#secs_38a-210_to_38a-213",
+          "grouped": true,
+          "section_keys": [
+            "38a-210",
+            "38a-211",
+            "38a-212",
+            "38a-213"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -7982,24 +8268,52 @@
           "section_key": "",
           "label": "Secs. 38a-226 to 38a-226d. Definitions. Annual licensure; fees; complaints re utilization review companies; certification and release of information; compliance. Violations; notice and hearing; penalties; appeal. Utilization review company minimum standards: Determinations, notification, appeals and expedited review; reports to commissioner; penalties; regulations. Standards of utilization review companies.",
           "url": "https://www.cga.ct.gov/current/pub/chap_698a.htm#secs_38a-226_to_38a-226d",
+          "grouped": true,
+          "section_keys": [
+            "38a-226",
+            "38a-226a",
+            "38a-226b",
+            "38a-226c",
+            "38a-226d"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 38a-226 to 38a-226d , inclusive, are repealed, effective July 1, 2011."
+            ],
+            "source": [
+              "(P.A. 88-230, S. 1, 12; P.A. 90-98, S. 1, 2; P.A. 91-305, S. 1–5; P.A. 92-60, S. 24; P.A. 93-142, S. 4, 7, 8; May 25 Sp. Sess. P.A. 94-1, S. 93, 130; P.A. 95-220, S. 4–6; P.A. 97-99, S. 15–19, 32; P.A. 98-27, S. 12; P.A. 99-215, S. 24, 29; P.A. 01-124, S. 3; 01-139, S. 7; 01-174, S. 5; 01-195, S. 179, 181; P.A. 05-94, S. 1; P.A. 06-54, S. 3; 06-188, S. 33; P.A. 08-127, S. 20; 08-178, S. 8, 9; P.A. 09-49, S. 3; 09-74, S. 14; P.A. 11-58, S. 89.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 38a-226 to 38a-226d , inclusive, are repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 38a-227 to 38a-229.",
           "url": "https://www.cga.ct.gov/current/pub/chap_698a.htm#secs_38a-227_to_38a-229",
+          "grouped": true,
+          "section_keys": [
+            "38a-227",
+            "38a-228",
+            "38a-229"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -8337,12 +8651,25 @@
           "section_key": "",
           "label": "Secs. 38a-246 to 38a-249.",
           "url": "https://www.cga.ct.gov/current/pub/chap_698b.htm#secs_38a-246_to_38a-249",
+          "grouped": true,
+          "section_keys": [
+            "38a-246",
+            "38a-247",
+            "38a-248",
+            "38a-249"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -8720,12 +9047,25 @@
           "section_key": "",
           "label": "Secs. 38a-267 to 38a-270.",
           "url": "https://www.cga.ct.gov/current/pub/chap_698c.htm#secs_38a-267_to_38a-270",
+          "grouped": true,
+          "section_keys": [
+            "38a-267",
+            "38a-268",
+            "38a-269",
+            "38a-270"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -8959,12 +9299,25 @@
           "section_key": "",
           "label": "Secs. 38a-279 to 38a-282.",
           "url": "https://www.cga.ct.gov/current/pub/chap_698d.htm#secs_38a-279_to_38a-282",
+          "grouped": true,
+          "section_keys": [
+            "38a-279",
+            "38a-280",
+            "38a-281",
+            "38a-282"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -9051,7 +9404,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-286 is repealed, effective October 1, 2002."
+            "text": "Section 38a-286 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -9184,12 +9541,24 @@
           "section_key": "",
           "label": "Secs. 38a-292 to 38a-294.",
           "url": "https://www.cga.ct.gov/current/pub/chap_699.htm#secs_38a-292_to_38a-294",
+          "grouped": true,
+          "section_keys": [
+            "38a-292",
+            "38a-293",
+            "38a-294"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -9362,12 +9731,25 @@
           "section_key": "",
           "label": "Secs. 38a-301 to 38a-304.",
           "url": "https://www.cga.ct.gov/current/pub/chap_699a.htm#secs_38a-301_to_38a-304",
+          "grouped": true,
+          "section_keys": [
+            "38a-301",
+            "38a-302",
+            "38a-303",
+            "38a-304"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -9791,7 +10173,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-316 is repealed, effective October 1, 1998."
+            "text": "Section 38a-316 is repealed, effective October 1, 1998.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -10435,12 +10821,23 @@
           "section_key": "",
           "label": "Secs. 38a-332 and 38a-333.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700.htm#secs_38a-332_and_38a-333",
+          "grouped": true,
+          "section_keys": [
+            "38a-332",
+            "38a-333"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11535,12 +11932,25 @@
           "section_key": "",
           "label": "Secs. 38a-359 to 38a-362.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700.htm#secs_38a-359_to_38a-362",
+          "grouped": true,
+          "section_keys": [
+            "38a-359",
+            "38a-360",
+            "38a-361",
+            "38a-362"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -11631,12 +12041,28 @@
           "section_key": "",
           "label": "Secs. 38a-365 to 38a-369. (Formerly Secs. 38-320 to 38-323, 38-325). Liability of owner's insurer for basic reparations benefits. Payees of basic reparations benefits. Injury to employee. Cause of action allowable, when. Subrogation.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700.htm#secs_38a-365_to_38a-369",
+          "grouped": true,
+          "section_keys": [
+            "38a-365",
+            "38a-366",
+            "38a-367",
+            "38a-368",
+            "38a-369"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 38a-365 to 38a-369 , inclusive, are repealed, effective January 1, 1994."
+            ],
+            "source": [
+              "(1972, P.A. 273, S. 2–4, 7; P.A. 76-182, S. 2; P.A. 80-131; 80-483, S. 144, 186; P.A. 81-386, S. 2; 81-394, S. 9; P.A. 93-297, S. 28, 29.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 38a-365 to 38a-369 , inclusive, are repealed, effective January 1, 1994.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11770,12 +12196,29 @@
           "section_key": "",
           "label": "Secs. 38a-373 to 38a-378. (Formerly Secs. 38-329 to 38-334). Property damage coverage not included. Optional reparations coverage. Converter of private passenger vehicle disqualified. Person intentionally causing injury not covered. Payments as economic loss accrues. Award of attorney's fees.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700.htm#secs_38a-373_to_38a-378",
+          "grouped": true,
+          "section_keys": [
+            "38a-373",
+            "38a-374",
+            "38a-375",
+            "38a-376",
+            "38a-377",
+            "38a-378"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 38a-373 to 38a-378 , inclusive, are repealed, effective January 1, 1994."
+            ],
+            "source": [
+              "(1972, P.A. 273, S. 11–16; P.A. 77-614, S. 163, 610; P.A. 79-316, S. 1, 3; 79-376, S. 66; P.A. 80-482, S. 325, 348; P.A. 86-38, S. 1; P.A. 92-60, S. 10; P.A. 93-297, S. 28, 29.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 38a-373 to 38a-378 , inclusive, are repealed, effective January 1, 1994.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11813,12 +12256,28 @@
           "section_key": "",
           "label": "Secs. 38a-380 to 38a-384. (Formerly Secs. 38-336 to 38-340). Benefits exempt from garnishment, etc. Insurer's liability for rehabilitation treatment or training. Benefits available through assigned claims plan, when. Assigned claims bureau and plan. Filing of application for claim with bureau.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700.htm#secs_38a-380_to_38a-384",
+          "grouped": true,
+          "section_keys": [
+            "38a-380",
+            "38a-381",
+            "38a-382",
+            "38a-383",
+            "38a-384"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 38a-380 to 38a-384 , inclusive, are repealed, effective January 1, 1994."
+            ],
+            "source": [
+              "(1972, P.A. 273, S. 18–22; P.A. 77-614, S. 163, 610; P.A. 79-172, S. 1–4; P.A. 80-482, S. 326, 348; P.A. 89-302, S. 6, 7; P.A. 92-60, S. 12, 13; P.A. 93-297, S. 28, 29.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 38a-380 to 38a-384 , inclusive, are repealed, effective January 1, 1994.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11861,7 +12320,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-386 is repealed, effective January 1, 1994."
+            "text": "Section 38a-386 is repealed, effective January 1, 1994.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -11948,12 +12411,24 @@
           "section_key": "",
           "label": "Secs. 38a-390 to 38a-392.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700.htm#secs_38a-390_to_38a-392",
+          "grouped": true,
+          "section_keys": [
+            "38a-390",
+            "38a-391",
+            "38a-392"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12062,7 +12537,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12192,7 +12671,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -12207,7 +12690,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 38a-365 to 38a-369. (Formerly Secs. 38-320 to 38-323, 38-325). Liability of owner's insurer for basic reparations benefits. Payees of basic reparations benefits. Injury to employee. Cause of action allowable, when. Subrogation. Sections 38a-365 to 38a-369 , inclusive, are repealed, effective January 1, 1994.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12222,7 +12708,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 38a-365 to 38a-369. (Formerly Secs. 38-320 to 38-323, 38-325). Liability of owner's insurer for basic reparations benefits. Payees of basic reparations benefits. Injury to employee. Cause of action allowable, when. Subrogation. Sections 38a-365 to 38a-369 , inclusive, are repealed, effective January 1, 1994.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -12802,12 +13291,25 @@
           "section_key": "",
           "label": "Secs. 38a-426 to 38a-429.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700a.htm#secs_38a-426_to_38a-429",
+          "grouped": true,
+          "section_keys": [
+            "38a-426",
+            "38a-427",
+            "38a-428",
+            "38a-429"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -13282,12 +13784,25 @@
           "section_key": "",
           "label": "Secs. 38a-448 and 38a-449. (Formerly Secs. 38-151 and 38-152). Affidavit of examining physician.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700b.htm#secs_38a-448_and_38a-449",
+          "grouped": true,
+          "section_keys": [
+            "38a-448",
+            "38a-449"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 38a-448 and 38a-449 are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 6141, 6142; P.A. 92-60, S. 28.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 38a-448 and 38a-449 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13511,7 +14026,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-458a is repealed, effective October 1, 2013."
+            "text": "Section 38a-458a is repealed, effective October 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -13555,12 +14074,24 @@
           "section_key": "",
           "label": "Secs. 38a-461 to 38a-463.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700b.htm#secs_38a-461_to_38a-463",
+          "grouped": true,
+          "section_keys": [
+            "38a-461",
+            "38a-462",
+            "38a-463"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -14140,12 +14671,24 @@
           "section_key": "",
           "label": "Secs. 38a-466 to 38a-468.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700b.htm#secs_38a-466_to_38a-468",
+          "grouped": true,
+          "section_keys": [
+            "38a-466",
+            "38a-467",
+            "38a-468"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -14160,7 +14703,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 38a-448 and 38a-449. (Formerly Secs. 38-151 and 38-152). Affidavit of examining physician. Sections 38a-448 and 38a-449 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -14175,7 +14721,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 38a-448 and 38a-449. (Formerly Secs. 38-151 and 38-152). Affidavit of examining physician. Sections 38a-448 and 38a-449 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -15248,12 +15797,38 @@
           "section_key": "",
           "label": "Secs. 38a-477j to 38a-477z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700c.htm#secs_38a-477j_to_38a-477z",
+          "grouped": true,
+          "section_keys": [
+            "38a-477j",
+            "38a-477k",
+            "38a-477l",
+            "38a-477m",
+            "38a-477n",
+            "38a-477o",
+            "38a-477p",
+            "38a-477q",
+            "38a-477r",
+            "38a-477s",
+            "38a-477t",
+            "38a-477u",
+            "38a-477v",
+            "38a-477w",
+            "38a-477x",
+            "38a-477y",
+            "38a-477z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -15898,12 +16473,25 @@
           "section_key": "",
           "label": "Secs. 38a-478m and 38a-478n. Internal grievance procedure; notice re procedure and final resolution; penalties; fines allocated to Office of the Healthcare Advocate. Exhaustion of internal appeal mechanisms; external appeal to commissioner; applicability to health insurers, managed care organizations and utilization review companies; fees; preliminary review; full review; public outreach program; expedited external appeal; requirements for and approval of independent review entities; filing of report.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700c.htm#secs_38a-478m_and_38a-478n",
+          "grouped": true,
+          "section_keys": [
+            "38a-478m",
+            "38a-478n"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 38a-478m and 38a-478n are repealed, effective July 1, 2011."
+            ],
+            "source": [
+              "(P.A. 97-99, S. 14, 20; June 18 Sp. Sess. P.A. 97-8, S. 60, 88; P.A. 99-284, S. 14, 35, 60; P.A. 03-278, S. 94; P.A. 04-157, S. 1; P.A. 05-29, s. 1; 05-94, S. 2, 3; 05-97, S. 1; 05-102, S. 1, 5; P.A. 06-54, s. 4; P.A. 07-75, S. 3; P.A. 08-147, S. 7; P.A. 09-49, S. 2; P.A. 11-58, S. 89.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 38a-478m and 38a-478n are repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -15938,7 +16526,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-478p is repealed, effective July 1, 2011."
+            "text": "Section 38a-478p is repealed, effective July 1, 2011.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -16165,12 +16757,45 @@
           "section_key": "",
           "label": "Secs. 38a-479c to 38a-479z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700c.htm#secs_38a-479c_to_38a-479z",
+          "grouped": true,
+          "section_keys": [
+            "38a-479c",
+            "38a-479d",
+            "38a-479e",
+            "38a-479f",
+            "38a-479g",
+            "38a-479h",
+            "38a-479i",
+            "38a-479j",
+            "38a-479k",
+            "38a-479l",
+            "38a-479m",
+            "38a-479n",
+            "38a-479o",
+            "38a-479p",
+            "38a-479q",
+            "38a-479r",
+            "38a-479s",
+            "38a-479t",
+            "38a-479u",
+            "38a-479v",
+            "38a-479w",
+            "38a-479x",
+            "38a-479y",
+            "38a-479z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -16354,12 +16979,30 @@
           "section_key": "",
           "label": "Secs. 38a-479hh to 38a-479pp.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700c.htm#secs_38a-479hh_to_38a-479pp",
+          "grouped": true,
+          "section_keys": [
+            "38a-479hh",
+            "38a-479ii",
+            "38a-479jj",
+            "38a-479kk",
+            "38a-479ll",
+            "38a-479mm",
+            "38a-479nn",
+            "38a-479oo",
+            "38a-479pp"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -16449,12 +17092,29 @@
           "section_key": "",
           "label": "Secs. 38a-479ss to 38a-479zz.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700c.htm#secs_38a-479ss_to_38a-479zz",
+          "grouped": true,
+          "section_keys": [
+            "38a-479ss",
+            "38a-479tt",
+            "38a-479uu",
+            "38a-479vv",
+            "38a-479ww",
+            "38a-479xx",
+            "38a-479yy",
+            "38a-479zz"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -16693,12 +17353,25 @@
           "section_key": "",
           "label": "Secs. 38a-479kkk to 38a-479nnn.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700c.htm#secs_38a-479kkk_to_38a-479nnn",
+          "grouped": true,
+          "section_keys": [
+            "38a-479kkk",
+            "38a-479lll",
+            "38a-479mmm",
+            "38a-479nnn"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -17091,7 +17764,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-483b is repealed, effective October 1, 2015."
+            "text": "Section 38a-483b is repealed, effective October 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -18709,7 +19386,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-503 is repealed, effective January 1, 2020."
+            "text": "Section 38a-503 is repealed, effective January 1, 2020.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -19420,7 +20101,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-513a is repealed, effective October 1, 2015."
+            "text": "Section 38a-513a is repealed, effective October 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -19636,7 +20321,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-514a is repealed, effective January 1, 2000."
+            "text": "Section 38a-514a is repealed, effective January 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -20273,7 +20962,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -20947,7 +21640,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-530a is repealed, effective January 1, 2020."
+            "text": "Section 38a-530a is repealed, effective January 1, 2020.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -21242,7 +21939,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-535a is repealed, effective July 1, 1995."
+            "text": "Section 38a-535a is repealed, effective July 1, 1995.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -21308,7 +22009,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-538 is repealed, effective July 10, 2015."
+            "text": "Section 38a-538 is repealed, effective July 10, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -21324,7 +22029,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-539 is repealed, effective January 1, 2000."
+            "text": "Section 38a-539 is repealed, effective January 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -21800,12 +22509,26 @@
           "section_key": "",
           "label": "Secs. 38a-553 to 38a-555. (Formerly Secs. 38-373 to 38-375). Minimum standard benefits of comprehensive health care plans; optional and excludable benefits; preexisting conditions; use of managed care plans. Additional requirements and eligibility under group comprehensive health care plans; coverage for stepchildren; continuation of benefits under group plans; Insurance Commissioner's authority to coordinate benefits. Additional requirements for individual comprehensive health care plans; carrier obligations concerning termination of coverage.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700c.htm#secs_38a-553_to_38a-555",
+          "grouped": true,
+          "section_keys": [
+            "38a-553",
+            "38a-554",
+            "38a-555"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 38a-553 to 38a-555 , inclusive, are repealed, effective July 10, 2015."
+            ],
+            "source": [
+              "(P.A. 75-616, S. 3–5, 12; P.A. 76-399, S. 1, 3, 5; P.A. 77-614, S. 163, 610; P.A. 78-76, S. 4; P.A. 79-327, S. 1; 79-376, S. 67; P.A. 80-482, S. 332, 348; P.A. 81-55; P.A. 82-112; P.A. 84-499, S. 2; P.A. 86-106, S. 2, 3; P.A. 87-274, S. 2; P.A. 89-80; P.A. 91-100, S. 2; P.A. 93-338, S. 2; P.A. 95-257, S. 39, 58; P.A. 96-19, S. 8; P.A. 97-268, S. 2; June 18 Sp. Sess. P.A. 97-8, S. 68, 88; P.A. 02-55, S. 1; P.A. 03-77, S. 1; June 30 Sp. Sess. P.A. 03-6, S. 67; P.A. 04-10, S. 12; P.A. 05-271, S. 1; P.A. 07-185, S. 17; June Sp. Sess. P.A. 07-2, S. 65, 69; P.A. 08-147, S. 9; 08-181, S. 7; P.A. 09-124, S. 2; P.A. 10-13, S. 2; P.A. 10-179, S. 110; P.A. 15-247, S. 38.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 38a-553 to 38a-555 , inclusive, are repealed, effective July 10, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -21850,7 +22573,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-556a is repealed, effective June 6, 2024."
+            "text": "Section 38a-556a is repealed, effective June 6, 2024.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -21886,7 +22613,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-558 is repealed, effective May 14, 2018."
+            "text": "Section 38a-558 is repealed, effective May 14, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -21927,12 +22658,24 @@
           "section_key": "",
           "label": "Secs. 38a-561 to 38a-563.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700c.htm#secs_38a-561_to_38a-563",
+          "grouped": true,
+          "section_keys": [
+            "38a-561",
+            "38a-562",
+            "38a-563"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -21983,7 +22726,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-565 is repealed, effective July 10, 2015."
+            "text": "Section 38a-565 is repealed, effective July 10, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -22072,7 +22819,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-568 is repealed, effective July 10, 2015."
+            "text": "Section 38a-568 is repealed, effective July 10, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -22114,12 +22865,26 @@
           "section_key": "",
           "label": "Secs. 38a-570 to 38a-572. Issuance of special health care plans by the Health Reinsurance Association to small employers. Issuance of individual special health care plans by the Health Reinsurance Association. Requirement to provide service to certain low-income persons.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700c.htm#secs_38a-570_to_38a-572",
+          "grouped": true,
+          "section_keys": [
+            "38a-570",
+            "38a-571",
+            "38a-572"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 38a-570 to 38a-572 , inclusive, are repealed, effective July 10, 2015."
+            ],
+            "source": [
+              "(P.A. 90-134, S. 21–23, 28; P.A. 07-185, S. 21; P.A. 08-33, S. 5, 6; P.A. 15-247, S. 38.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 38a-570 to 38a-572 , inclusive, are repealed, effective July 10, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -22163,12 +22928,23 @@
           "section_key": "",
           "label": "Secs. 38a-575 and 38a-576.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700c.htm#secs_38a-575_and_38a-576",
+          "grouped": true,
+          "section_keys": [
+            "38a-575",
+            "38a-576"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -23121,12 +23897,24 @@
           "section_key": "",
           "label": "Secs. 38a-592 to 38a-594.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700c.htm#secs_38a-592_to_38a-594",
+          "grouped": true,
+          "section_keys": [
+            "38a-592",
+            "38a-593",
+            "38a-594"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -23941,12 +24729,25 @@
           "section_key": "",
           "label": "Secs. 38a-627 to 38a-630.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700d.htm#secs_38a-627_to_38a-630",
+          "grouped": true,
+          "section_keys": [
+            "38a-627",
+            "38a-628",
+            "38a-629",
+            "38a-630"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -24191,12 +24992,25 @@
           "section_key": "",
           "label": "Secs. 38a-641 to 38a-644.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700d.htm#secs_38a-641_to_38a-644",
+          "grouped": true,
+          "section_keys": [
+            "38a-641",
+            "38a-642",
+            "38a-643",
+            "38a-644"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -24497,7 +25311,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -24835,12 +25653,23 @@
           "section_key": "",
           "label": "Secs. 38a-661 and 38a-662.",
           "url": "https://www.cga.ct.gov/current/pub/chap_700f.htm#secs_38a-661_and_38a-662",
+          "grouped": true,
+          "section_keys": [
+            "38a-661",
+            "38a-662"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -25704,19 +26533,36 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-697 is repealed, effective October 1, 2001."
+            "text": "Section 38a-697 is repealed, effective October 1, 2001.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 38a-698 to 38a-701.",
           "url": "https://www.cga.ct.gov/current/pub/chap_701.htm#secs_38a-698_to_38a-701",
+          "grouped": true,
+          "section_keys": [
+            "38a-698",
+            "38a-699",
+            "38a-700",
+            "38a-701"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -25740,7 +26586,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-702 is repealed, effective September 1, 2002."
+            "text": "Section 38a-702 is repealed, effective September 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -26255,7 +27105,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-706 is repealed, effective September 1, 2002."
+            "text": "Section 38a-706 is repealed, effective September 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -26397,7 +27251,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-711 is repealed, effective September 1, 2002."
+            "text": "Section 38a-711 is repealed, effective September 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -26519,7 +27377,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-717 is repealed, effective September 1, 2002."
+            "text": "Section 38a-717 is repealed, effective September 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -26553,7 +27415,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -26880,12 +27746,23 @@
           "section_key": "",
           "label": "Secs. 38a-721 and 38a-722.",
           "url": "https://www.cga.ct.gov/current/pub/chap_701a.htm#secs_38a-721_and_38a-722",
+          "grouped": true,
+          "section_keys": [
+            "38a-721",
+            "38a-722"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -26984,12 +27861,25 @@
           "section_key": "",
           "label": "Secs. 38a-727 to 38a-730.",
           "url": "https://www.cga.ct.gov/current/pub/chap_701b.htm#secs_38a-727_to_38a-730",
+          "grouped": true,
+          "section_keys": [
+            "38a-727",
+            "38a-728",
+            "38a-729",
+            "38a-730"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -27094,12 +27984,25 @@
           "section_key": "",
           "label": "Secs. 38a-736 to 38a-739.",
           "url": "https://www.cga.ct.gov/current/pub/chap_701c.htm#secs_38a-736_to_38a-739",
+          "grouped": true,
+          "section_keys": [
+            "38a-736",
+            "38a-737",
+            "38a-738",
+            "38a-739"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -27256,12 +28159,25 @@
           "section_key": "",
           "label": "Secs. 38a-746 to 38a-749.",
           "url": "https://www.cga.ct.gov/current/pub/chap_701d.htm#secs_38a-746_to_38a-749",
+          "grouped": true,
+          "section_keys": [
+            "38a-746",
+            "38a-747",
+            "38a-748",
+            "38a-749"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -27276,12 +28192,33 @@
           "section_key": "",
           "label": "Secs. 38a-750 to 38a-759. (Formerly Secs. 38-92r and 38-92u to 38-92cc). Insurance administrators.",
           "url": "https://www.cga.ct.gov/current/pub/chap_701e.htm#secs_38a-750_to_38a-759",
+          "grouped": true,
+          "section_keys": [
+            "38a-750",
+            "38a-751",
+            "38a-752",
+            "38a-753",
+            "38a-754",
+            "38a-755",
+            "38a-756",
+            "38a-757",
+            "38a-758",
+            "38a-759"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 38a-750 to 38a-759 , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 88-298, S. 1, 2, 5–14; P.A. 90-243, S. 172; P.A. 91-29, S. 7, 8.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 38a-750 to 38a-759 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -27533,12 +28470,24 @@
           "section_key": "",
           "label": "Secs. 38a-761 to 38a-763.",
           "url": "https://www.cga.ct.gov/current/pub/chap_701e.htm#secs_38a-761_to_38a-763",
+          "grouped": true,
+          "section_keys": [
+            "38a-761",
+            "38a-762",
+            "38a-763"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -27553,7 +28502,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 38a-750 to 38a-759. (Formerly Secs. 38-92r and 38-92u to 38-92cc). Insurance administrators. Sections 38a-750 to 38a-759 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -27568,7 +28520,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 38a-750 to 38a-759. (Formerly Secs. 38-92r and 38-92u to 38-92cc). Insurance administrators. Sections 38a-750 to 38a-759 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -27603,12 +28558,25 @@
           "section_key": "",
           "label": "Secs. 38a-765 to 38a-768.",
           "url": "https://www.cga.ct.gov/current/pub/chap_701f.htm#secs_38a-765_to_38a-768",
+          "grouped": true,
+          "section_keys": [
+            "38a-765",
+            "38a-766",
+            "38a-767",
+            "38a-768"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -27842,12 +28810,25 @@
           "section_key": "",
           "label": "Secs. 38a-778 to 38a-781.",
           "url": "https://www.cga.ct.gov/current/pub/chap_702.htm#secs_38a-778_to_38a-781",
+          "grouped": true,
+          "section_keys": [
+            "38a-778",
+            "38a-779",
+            "38a-780",
+            "38a-781"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -27900,7 +28881,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-783 is repealed, effective September 1, 2002."
+            "text": "Section 38a-783 is repealed, effective September 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -27961,7 +28946,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -27995,7 +28984,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -28030,7 +29023,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -28068,7 +29065,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -28107,7 +29108,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -28160,7 +29165,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-795 is repealed, effective September 1, 2002."
+            "text": "Section 38a-795 is repealed, effective September 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -28174,19 +29183,36 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 38a-797 and 38a-798. (Formerly Secs. 38-92s and 38-92t). Insurance administrators.",
           "url": "https://www.cga.ct.gov/current/pub/chap_702.htm#secs_38a-797_and_38a-798",
+          "grouped": true,
+          "section_keys": [
+            "38a-797",
+            "38a-798"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 38a-797 and 38a-798 are repealed."
+            ],
+            "source": [
+              "(P.A. 88-298, S. 3, 4, 14; P.A. 90-243, S. 42; P.A. 91-29, S. 7, 8.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 38a-797 and 38a-798 are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -28263,7 +29289,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Reserved for future use."
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -28278,7 +29308,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 38a-797 and 38a-798. (Formerly Secs. 38-92s and 38-92t). Insurance administrators. Sections 38a-797 and 38a-798 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -28293,7 +29326,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 38a-797 and 38a-798. (Formerly Secs. 38-92s and 38-92t). Insurance administrators. Sections 38a-797 and 38a-798 are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -28475,12 +29511,25 @@
           "section_key": "",
           "label": "Secs. 38a-811 to 38a-814.",
           "url": "https://www.cga.ct.gov/current/pub/chap_703.htm#secs_38a-811_to_38a-814",
+          "grouped": true,
+          "section_keys": [
+            "38a-811",
+            "38a-812",
+            "38a-813",
+            "38a-814"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -28741,12 +29790,25 @@
           "section_key": "",
           "label": "Secs. 38a-820 to 38a-823.",
           "url": "https://www.cga.ct.gov/current/pub/chap_704.htm#secs_38a-820_to_38a-823",
+          "grouped": true,
+          "section_keys": [
+            "38a-820",
+            "38a-821",
+            "38a-822",
+            "38a-823"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -28969,7 +30031,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-831 is repealed, effective October 1, 1999."
+            "text": "Section 38a-831 is repealed, effective October 1, 1999.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -29460,7 +30526,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-849 is repealed, effective July 1, 2000."
+            "text": "Section 38a-849 is repealed, effective July 1, 2000.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -29545,12 +30615,25 @@
           "section_key": "",
           "label": "Secs. 38a-854 to 38a-857.",
           "url": "https://www.cga.ct.gov/current/pub/chap_704a.htm#secs_38a-854_to_38a-857",
+          "grouped": true,
+          "section_keys": [
+            "38a-854",
+            "38a-855",
+            "38a-856",
+            "38a-857"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -30046,12 +31129,25 @@
           "section_key": "",
           "label": "Secs. 38a-876 to 38a-879.",
           "url": "https://www.cga.ct.gov/current/pub/chap_704a.htm#secs_38a-876_to_38a-879",
+          "grouped": true,
+          "section_keys": [
+            "38a-876",
+            "38a-877",
+            "38a-878",
+            "38a-879"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -30239,12 +31335,25 @@
           "section_key": "",
           "label": "Secs. 38a-890 to 38a-893.",
           "url": "https://www.cga.ct.gov/current/pub/chap_704a.htm#secs_38a-890_to_38a-893",
+          "grouped": true,
+          "section_keys": [
+            "38a-890",
+            "38a-891",
+            "38a-892",
+            "38a-893"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -30350,12 +31459,25 @@
           "section_key": "",
           "label": "Secs. 38a-899 to 38a-902.",
           "url": "https://www.cga.ct.gov/current/pub/chap_704b.htm#secs_38a-899_to_38a-902",
+          "grouped": true,
+          "section_keys": [
+            "38a-899",
+            "38a-900",
+            "38a-901",
+            "38a-902"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -30571,7 +31693,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-910 is repealed, effective October 1, 2018."
+            "text": "Section 38a-910 is repealed, effective October 1, 2018.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -31942,36 +33068,77 @@
           "section_key": "",
           "label": "Secs. 38a-963 to 38a-965.",
           "url": "https://www.cga.ct.gov/current/pub/chap_704c.htm#secs_38a-963_to_38a-965",
+          "grouped": true,
+          "section_keys": [
+            "38a-963",
+            "38a-964",
+            "38a-965"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 38a-966 to 38a-970. (Formerly Secs. 38-136 to 38-140). Assets to vest in commissioner on repeal of charter. Powers and duties of commissioner. Limitation of time for presentation of claims. Valuation of policies in force. Application of assets.",
           "url": "https://www.cga.ct.gov/current/pub/chap_704c.htm#secs_38a-966_to_38a-970",
+          "grouped": true,
+          "section_keys": [
+            "38a-966",
+            "38a-967",
+            "38a-968",
+            "38a-969",
+            "38a-970"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 38a-966 to 38a-970 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 6157–6161; P.A. 78-280, S. 2, 127; P.A. 90-243, S. 57–60; P.A. 92-60, S. 28; 92-93, S. 45, 46.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 38a-966 to 38a-970 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 38a-971 to 38a-974.",
           "url": "https://www.cga.ct.gov/current/pub/chap_704c.htm#secs_38a-971_to_38a-974",
+          "grouped": true,
+          "section_keys": [
+            "38a-971",
+            "38a-972",
+            "38a-973",
+            "38a-974"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -31986,7 +33153,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 38a-966 to 38a-970. (Formerly Secs. 38-136 to 38-140). Assets to vest in commissioner on repeal of charter. Powers and duties of commissioner. Limitation of time for presentation of claims. Valuation of policies in force. Application of assets. Sections 38a-966 to 38a-970 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -32001,7 +33171,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 38a-966 to 38a-970. (Formerly Secs. 38-136 to 38-140). Assets to vest in commissioner on repeal of charter. Powers and duties of commissioner. Limitation of time for presentation of claims. Valuation of policies in force. Application of assets. Sections 38a-966 to 38a-970 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -32623,7 +33796,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-999b is repealed, effective October 1, 2021."
+            "text": "Section 38a-999b is repealed, effective October 1, 2021.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -33088,12 +34265,27 @@
           "section_key": "",
           "label": "Secs. 38a-1024 to 38a-1029.",
           "url": "https://www.cga.ct.gov/current/pub/chap_706.htm#secs_38a-1024_to_38a-1029",
+          "grouped": true,
+          "section_keys": [
+            "38a-1024",
+            "38a-1025",
+            "38a-1026",
+            "38a-1027",
+            "38a-1028",
+            "38a-1029"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -33194,12 +34386,26 @@
           "section_key": "",
           "label": "Secs. 38a-1035 to 38a-1039.",
           "url": "https://www.cga.ct.gov/current/pub/chap_706a.htm#secs_38a-1035_to_38a-1039",
+          "grouped": true,
+          "section_keys": [
+            "38a-1035",
+            "38a-1036",
+            "38a-1037",
+            "38a-1038",
+            "38a-1039"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -33455,7 +34661,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-1051 is repealed, effective July 1, 2016."
+            "text": "Section 38a-1051 is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -33494,12 +34704,28 @@
           "section_key": "",
           "label": "Secs. 38a-1053 to 38a-1059.",
           "url": "https://www.cga.ct.gov/current/pub/chap_706b.htm#secs_38a-1053_to_38a-1059",
+          "grouped": true,
+          "section_keys": [
+            "38a-1053",
+            "38a-1054",
+            "38a-1055",
+            "38a-1056",
+            "38a-1057",
+            "38a-1058",
+            "38a-1059"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -33579,12 +34805,38 @@
           "section_key": "",
           "label": "Secs. 38a-1063 to 38a-1079.",
           "url": "https://www.cga.ct.gov/current/pub/chap_706b.htm#secs_38a-1063_to_38a-1079",
+          "grouped": true,
+          "section_keys": [
+            "38a-1063",
+            "38a-1064",
+            "38a-1065",
+            "38a-1066",
+            "38a-1067",
+            "38a-1068",
+            "38a-1069",
+            "38a-1070",
+            "38a-1071",
+            "38a-1072",
+            "38a-1073",
+            "38a-1074",
+            "38a-1075",
+            "38a-1076",
+            "38a-1077",
+            "38a-1078",
+            "38a-1079"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -33841,7 +35093,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-1084a is repealed, effective October 31, 2017."
+            "text": "Section 38a-1084a is repealed, effective October 31, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -34026,7 +35282,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 38a-1091 is repealed, effective October 31, 2017."
+            "text": "Section 38a-1091 is repealed, effective October 31, 2017.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {

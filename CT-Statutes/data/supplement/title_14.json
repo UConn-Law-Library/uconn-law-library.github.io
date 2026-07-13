@@ -1647,6 +1647,9 @@
             "history": [],
             "annotations": [],
             "text": "Section 14-145b is repealed, effective October 1, 2025.",
+            "statuses": [
+              "repealed"
+            ],
             "status": "repealed"
           }
         },
@@ -2883,6 +2886,9 @@
             "history": [],
             "annotations": [],
             "text": "Section 14-300a is repealed, effective July 1, 2025.",
+            "statuses": [
+              "repealed"
+            ],
             "status": "repealed"
           }
         },

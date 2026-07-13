@@ -45,7 +45,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4a-1a is repealed, effective July 1, 2015."
+            "text": "Section 4a-1a is repealed, effective July 1, 2015.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -188,7 +192,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4a-3 is repealed, effective July 1, 1996."
+            "text": "Section 4a-3 is repealed, effective July 1, 1996.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -295,7 +303,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 61, Part I, Sec. 4d-9 ."
+            "text": "Transferred to Chapter 61, Part I, Sec. 4d-9 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -326,7 +338,11 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 61, Part I, Sec. 4d-10 ."
+            "text": "Transferred to Chapter 61, Part I, Sec. 4d-10 .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -734,12 +750,24 @@
           "section_key": "",
           "label": "Secs. 4a-22 to 4a-24.",
           "url": "https://www.cga.ct.gov/current/pub/chap_057a.htm#secs_4a-22_to_4a-24",
+          "grouped": true,
+          "section_keys": [
+            "4a-22",
+            "4a-23",
+            "4a-24"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -814,12 +842,23 @@
           "section_key": "",
           "label": "Secs. 4a-25c to 4a-49.",
           "url": "https://www.cga.ct.gov/current/pub/chap_057b.htm#secs_4a-25c_to_4a-49",
+          "grouped": true,
+          "section_keys": [
+            "4a-25c",
+            "4a-49"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -1027,7 +1066,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4a-55 is repealed, effective July 1, 2013."
+            "text": "Section 4a-55 is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1131,7 +1174,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4a-57c is repealed, effective July 1, 2001."
+            "text": "Section 4a-57c is repealed, effective July 1, 2001.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1330,12 +1377,25 @@
           "section_key": "",
           "label": "Secs. 4a-60c to 4a-60f.",
           "url": "https://www.cga.ct.gov/current/pub/chap_058.htm#secs_4a-60c_to_4a-60f",
+          "grouped": true,
+          "section_keys": [
+            "4a-60c",
+            "4a-60d",
+            "4a-60e",
+            "4a-60f"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -1483,7 +1543,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4a-62 is repealed, effective July 1, 2023."
+            "text": "Section 4a-62 is repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1753,12 +1817,26 @@
           "section_key": "",
           "label": "Secs. 4a-68 to 4a-70. (Formerly Secs. 4-34, 4-117, 4-124). Commissioner to contract for state printing; exception; reproduction of documents filed with certain agencies. Commissioner of Administrative Services to approve requests for microcopying services. Forms used by state agencies; duties of Administrative Services Commissioner re forms.",
           "url": "https://www.cga.ct.gov/current/pub/chap_058.htm#secs_4a-68_to_4a-70",
+          "grouped": true,
+          "section_keys": [
+            "4a-68",
+            "4a-69",
+            "4a-70"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 4a-68 to 4a-70 , inclusive, are repealed effective July 1, 1996."
+            ],
+            "source": [
+              "(1949 Rev., S. 277; March, 1950, S. 95d; 1953, S. 92d, 98d; 1955, S. 103d, 1010d; 1957, P.A. 176, S. 13, 14; 537, S. 1; 1959, P.A. 258, S. 9; 1963, P.A. 519, S. 1; 1967, P.A. 495, S. 1; 1971, P.A. 566; P.A. 73-679, S. 17, 43; P.A. 74-23; P.A. 75-537, S. 32, 55; P.A. 77-614, S. 83, 98, 105, 610; P.A. 79-343; P.A. 80-388, S. 2; P.A. 88-297, S. 11; P.A. 90-230, S. 7, 101; P.A. 91-144, S. 4; P.A. 93-381, S. 9, 39; P.A. 95-230, S. 32, 45; 95-257, S. 12, 21, 58; P.A. 96-88, S. 8, 9.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 4a-68 to 4a-70 , inclusive, are repealed effective July 1, 1996.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1963,7 +2041,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 4a-80 is repealed, effective July 1, 2016."
+            "text": "Section 4a-80 is repealed, effective July 1, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -2037,12 +2119,38 @@
           "section_key": "",
           "label": "Secs. 4a-83 to 4a-99.",
           "url": "https://www.cga.ct.gov/current/pub/chap_058.htm#secs_4a-83_to_4a-99",
+          "grouped": true,
+          "section_keys": [
+            "4a-83",
+            "4a-84",
+            "4a-85",
+            "4a-86",
+            "4a-87",
+            "4a-88",
+            "4a-89",
+            "4a-90",
+            "4a-91",
+            "4a-92",
+            "4a-93",
+            "4a-94",
+            "4a-95",
+            "4a-96",
+            "4a-97",
+            "4a-98",
+            "4a-99"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {

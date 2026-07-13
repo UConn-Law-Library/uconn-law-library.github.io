@@ -23,19 +23,34 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-1 is repealed."
+            "text": "Section 25-1 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 25-2 and 25-3.",
           "url": "https://www.cga.ct.gov/current/pub/chap_473.htm#secs_25-2_and_25-3",
+          "grouped": true,
+          "section_keys": [
+            "25-2",
+            "25-3"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 446i, Secs. 22a-336 and 22a-337 , respectively."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 446i, Secs. 22a-336 and 22a-337 , respectively.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -51,19 +66,52 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-3a is repealed."
+            "text": "Section 25-3a is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 25-3b to 25-3d, 25-4 to 25-4h, 25-5 to 25-5f and 25-6.",
           "url": "https://www.cga.ct.gov/current/pub/chap_473.htm#secs_25-3b_to_25-3d_25-4_to_25-4h_25-5_to_25-5f_and_25-6",
+          "grouped": true,
+          "section_keys": [
+            "25-3b",
+            "25-3c",
+            "25-3d",
+            "25-4",
+            "25-4a",
+            "25-4b",
+            "25-4c",
+            "25-4d",
+            "25-4e",
+            "25-4f",
+            "25-4g",
+            "25-4h",
+            "25-5",
+            "25-5a",
+            "25-5b",
+            "25-5c",
+            "25-5d",
+            "25-5e",
+            "25-5f",
+            "25-6"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 446i, Secs. 22a-338 to 22a-357 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 446i, Secs. 22a-338 to 22a-357 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -79,31 +127,67 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-7 is repealed."
+            "text": "Section 25-7 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 25-7a to 25-7f and 25-8.",
           "url": "https://www.cga.ct.gov/current/pub/chap_473.htm#secs_25-7a_to_25-7f_and_25-8",
+          "grouped": true,
+          "section_keys": [
+            "25-7a",
+            "25-7b",
+            "25-7c",
+            "25-7d",
+            "25-7e",
+            "25-7f",
+            "25-8"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 446i, Secs. 22a-358 to 22a-364 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 446i, Secs. 22a-358 to 22a-364 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 25-8a to 25-8e. Diversion of river waters for public or domestic use. Action on application for permit. Revocation or modification of permit. Appeal. Committee to determine and award damages.",
           "url": "https://www.cga.ct.gov/current/pub/chap_473.htm#secs_25-8a_to_25-8e",
+          "grouped": true,
+          "section_keys": [
+            "25-8a",
+            "25-8b",
+            "25-8c",
+            "25-8d",
+            "25-8e"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 25-8a to 25-8e , inclusive, are repealed."
+            ],
+            "source": [
+              "(1967, P.A. 792, S. 1–5; 1971, P.A. 870, S. 78; 872, S. 62–66; P.A. 75-486, S. 58, 69; P.A. 76-436, S. 467, 681; P.A. 77-603, S. 107, 125; 77-614, S. 162, 323, 610; P.A. 80-482, S. 182, 348; P.A. 82-402, S. 15, 16.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 25-8a to 25-8e , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -119,19 +203,35 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-9 is repealed."
+            "text": "Section 25-9 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 25-10 to 25-12.",
           "url": "https://www.cga.ct.gov/current/pub/chap_473.htm#secs_25-10_to_25-12",
+          "grouped": true,
+          "section_keys": [
+            "25-10",
+            "25-11",
+            "25-12"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 446i, Secs. 22a-383 to 22a-385 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 446i, Secs. 22a-383 to 22a-385 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -147,19 +247,37 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-13 is repealed."
+            "text": "Section 25-13 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 25-14 to 25-18.",
           "url": "https://www.cga.ct.gov/current/pub/chap_473.htm#secs_25-14_to_25-18",
+          "grouped": true,
+          "section_keys": [
+            "25-14",
+            "25-15",
+            "25-16",
+            "25-17",
+            "25-18"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 446i, Secs. 22a-386 to 22a-390 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 446i, Secs. 22a-386 to 22a-390 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -174,7 +292,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 25-8a to 25-8e. Diversion of river waters for public or domestic use. Action on application for permit. Revocation or modification of permit. Appeal. Committee to determine and award damages. Sections 25-8a to 25-8e , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -189,7 +310,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 25-8a to 25-8e. Diversion of river waters for public or domestic use. Action on application for permit. Revocation or modification of permit. Appeal. Committee to determine and award damages. Sections 25-8a to 25-8e , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -204,12 +328,29 @@
           "section_key": "",
           "label": "Secs. 25-19 to 25-24. Pollution of waters.",
           "url": "https://www.cga.ct.gov/current/pub/chap_474.htm#secs_25-19_to_25-24",
+          "grouped": true,
+          "section_keys": [
+            "25-19",
+            "25-20",
+            "25-21",
+            "25-22",
+            "25-23",
+            "25-24"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 25-19 to 25-24 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4040, 4042–4046; 1949, S. 2114d; 1953, S. 2115d; 1955, S. 2116d; 1957, P.A. 364, S. 11, 13, 36; 1961, P.A. 273, S. 4; 343; February, 1965, P.A. 489, S. 1–4; 1967, P.A. 57, S. 36.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 25-19 to 25-24 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -225,31 +366,62 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-25 is repealed."
+            "text": "Section 25-25 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 25-26, 25-26a and 25-27.",
           "url": "https://www.cga.ct.gov/current/pub/chap_474.htm#secs_25-26_25-26a_and_25-27",
+          "grouped": true,
+          "section_keys": [
+            "25-26",
+            "25-26a",
+            "25-27"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 446k, Secs. 22a-416 to 22a-418 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 446k, Secs. 22a-416 to 22a-418 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 25-28 to 25-31. Orders of state department; appeals. Failure to comply with orders. Rights not to vest. Penalty.",
           "url": "https://www.cga.ct.gov/current/pub/chap_474.htm#secs_25-28_to_25-31",
+          "grouped": true,
+          "section_keys": [
+            "25-28",
+            "25-29",
+            "25-30",
+            "25-31"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 25-28 to 25-31 , inclusive, are repealed."
+            ],
+            "source": [
+              "(1949 Rev., S. 4035, 4037–4039; 1971, P.A. 870, S. 79; 872, S. 76, 77; P.A. 73-555, S. 9, 10.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 25-28 to 25-31 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -464,7 +636,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-32h is repealed, effective October 1, 2002."
+            "text": "Section 25-32h is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -480,7 +656,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-32i is repealed, effective July 1, 2013."
+            "text": "Section 25-32i is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -496,7 +676,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-32j is repealed."
+            "text": "Section 25-32j is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -903,7 +1087,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-33p is repealed, effective June 5, 2013."
+            "text": "Section 25-33p is repealed, effective June 5, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1143,7 +1331,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-37f is repealed, effective October 1, 2002."
+            "text": "Section 25-37f is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1200,7 +1392,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-37i is repealed, effective May 26, 2016."
+            "text": "Section 25-37i is repealed, effective May 26, 2016.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1216,7 +1412,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-38 is repealed, effective October 1, 2012."
+            "text": "Section 25-38 is repealed, effective October 1, 2012.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1248,7 +1448,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-39a is repealed, effective October 1, 2008."
+            "text": "Section 25-39a is repealed, effective October 1, 2008.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1264,7 +1468,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-39b is repealed, effective October 1, 2002."
+            "text": "Section 25-39b is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1563,12 +1771,27 @@
           "section_key": "",
           "label": "Secs. 25-47 to 25-50. Ice: Pollution of source, notices, exception; control of sources of supply, notices. Ice from outside this state; examination. Penalties.",
           "url": "https://www.cga.ct.gov/current/pub/chap_474.htm#secs_25-47_to_25-50",
+          "grouped": true,
+          "section_keys": [
+            "25-47",
+            "25-48",
+            "25-49",
+            "25-50"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 25-47 to 25-50 , inclusive, are repealed, effective October 1, 2002."
+            ],
+            "source": [
+              "(1949 Rev., S. 4011–4014; P.A. 77-614, S. 323, 610; P.A. 93-381, S. 9, 39; P.A. 95-257, S. 12, 21, 58; P.A. 02-89, S. 90; S.A. 02-12, S. 1.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 25-47 to 25-50 , inclusive, are repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1607,7 +1830,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-52 is repealed, effective October 1, 2002."
+            "text": "Section 25-52 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1644,7 +1871,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-54 is repealed, effective October 1, 2002."
+            "text": "Section 25-54 is repealed, effective October 1, 2002.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -1659,7 +1890,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 25-19 to 25-24. Pollution of waters. Sections 25-19 to 25-24 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1674,7 +1908,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 25-19 to 25-24. Pollution of waters. Sections 25-19 to 25-24 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1689,7 +1926,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 25-28 to 25-31. Orders of state department; appeals. Failure to comply with orders. Rights not to vest. Penalty. Sections 25-28 to 25-31 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1704,7 +1944,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 25-28 to 25-31. Orders of state department; appeals. Failure to comply with orders. Rights not to vest. Penalty. Sections 25-28 to 25-31 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1719,7 +1962,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 25-47 to 25-50. Ice: Pollution of source, notices, exception; control of sources of supply, notices. Ice from outside this state; examination. Penalties. Sections 25-47 to 25-50 , inclusive, are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -1734,7 +1980,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 25-47 to 25-50. Ice: Pollution of source, notices, exception; control of sources of supply, notices. Ice from outside this state; examination. Penalties. Sections 25-47 to 25-50 , inclusive, are repealed, effective October 1, 2002.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -1749,12 +1998,43 @@
           "section_key": "",
           "label": "Secs. 25-54a to 25-54v.",
           "url": "https://www.cga.ct.gov/current/pub/chap_474a.htm#secs_25-54a_to_25-54v",
+          "grouped": true,
+          "section_keys": [
+            "25-54a",
+            "25-54b",
+            "25-54c",
+            "25-54d",
+            "25-54e",
+            "25-54f",
+            "25-54g",
+            "25-54h",
+            "25-54i",
+            "25-54j",
+            "25-54k",
+            "25-54l",
+            "25-54m",
+            "25-54n",
+            "25-54o",
+            "25-54p",
+            "25-54q",
+            "25-54r",
+            "25-54s",
+            "25-54t",
+            "25-54u",
+            "25-54v"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 446k, Secs. 22a-422 to 22a-443 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 446k, Secs. 22a-422 to 22a-443 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1770,19 +2050,51 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-54w is repealed."
+            "text": "Section 25-54w is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 25-54x to 25-54pp.",
           "url": "https://www.cga.ct.gov/current/pub/chap_474a.htm#secs_25-54x_to_25-54pp",
+          "grouped": true,
+          "section_keys": [
+            "25-54x",
+            "25-54y",
+            "25-54z",
+            "25-54aa",
+            "25-54bb",
+            "25-54cc",
+            "25-54dd",
+            "25-54ee",
+            "25-54ff",
+            "25-54gg",
+            "25-54hh",
+            "25-54ii",
+            "25-54jj",
+            "25-54kk",
+            "25-54ll",
+            "25-54mm",
+            "25-54nn",
+            "25-54oo",
+            "25-54pp"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 446k, Secs. 22a-444 to 22a-462 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 446k, Secs. 22a-444 to 22a-462 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
@@ -1798,19 +2110,40 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-54qq is repealed."
+            "text": "Section 25-54qq is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 25-54rr to 25-54yy.",
           "url": "https://www.cga.ct.gov/current/pub/chap_474a.htm#secs_25-54rr_to_25-54yy",
+          "grouped": true,
+          "section_keys": [
+            "25-54rr",
+            "25-54ss",
+            "25-54tt",
+            "25-54uu",
+            "25-54vv",
+            "25-54ww",
+            "25-54xx",
+            "25-54yy"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 446k, Secs. 22a-463 to 22a-470 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 446k, Secs. 22a-463 to 22a-470 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]
@@ -1825,12 +2158,23 @@
           "section_key": "",
           "label": "Secs. 25-55 to 25-66a.",
           "url": "https://www.cga.ct.gov/current/pub/chap_475.htm#secs_25-55_to_25-66a",
+          "grouped": true,
+          "section_keys": [
+            "25-55",
+            "25-66a"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 446f, Secs. 22a-293 to 22a-305 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 446f, Secs. 22a-293 to 22a-305 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]
@@ -1845,12 +2189,24 @@
           "section_key": "",
           "label": "Secs. 25-67, 25-68 and 25-68a.",
           "url": "https://www.cga.ct.gov/current/pub/chap_476.htm#secs_25-67_25-68_and_25-68a",
+          "grouped": true,
+          "section_keys": [
+            "25-67",
+            "25-68",
+            "25-68a"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 446g, Secs. 22a-308 to 22a-310 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 446g, Secs. 22a-308 to 22a-310 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]
@@ -2312,7 +2668,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-77 is repealed."
+            "text": "Section 25-77 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3085,7 +3445,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-102i is repealed."
+            "text": "Section 25-102i is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3163,12 +3527,27 @@
           "section_key": "",
           "label": "Secs. 25-102n to 25-102s.",
           "url": "https://www.cga.ct.gov/current/pub/chap_477a.htm#secs_25-102n_to_25-102s",
+          "grouped": true,
+          "section_keys": [
+            "25-102n",
+            "25-102o",
+            "25-102p",
+            "25-102q",
+            "25-102r",
+            "25-102s"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -3200,15 +3579,30 @@
           }
         },
         {
-          "section_key": "25-102u",
+          "section_key": "",
           "label": "Sec. 25-102u to 25-102z.",
           "url": "https://www.cga.ct.gov/current/pub/chap_477b.htm#sec_25-102u_to_25-102z",
+          "grouped": true,
+          "section_keys": [
+            "25-102u",
+            "25-102v",
+            "25-102w",
+            "25-102x",
+            "25-102y",
+            "25-102z"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -3402,12 +3796,26 @@
           "section_key": "",
           "label": "Secs. 25-102kk to 25-102oo.",
           "url": "https://www.cga.ct.gov/current/pub/chap_477c.htm#secs_25-102kk_to_25-102oo",
+          "grouped": true,
+          "section_keys": [
+            "25-102kk",
+            "25-102ll",
+            "25-102mm",
+            "25-102nn",
+            "25-102oo"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -3460,12 +3868,28 @@
           "section_key": "",
           "label": "Secs. 25-102rr to 25-102vv. River protection commissions. Powers and duties of commission. Designation of protected river corridor; factors to be considered by commissioner; periodic review. Recording of map and filing of plan; action on applications to agencies referred to river protection commissions; exemptions. Considerations in certain permit decisions.",
           "url": "https://www.cga.ct.gov/current/pub/chap_477d.htm#secs_25-102rr_to_25-102vv",
+          "grouped": true,
+          "section_keys": [
+            "25-102rr",
+            "25-102ss",
+            "25-102tt",
+            "25-102uu",
+            "25-102vv"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 25-102rr to 25-102vv , inclusive, are repealed."
+            ],
+            "source": [
+              "(P.A. 84-522, S. 3–8; P.A. 85-158; P.A. 86-403, S. 58, 132; P.A. 91-394, S. 2; P.A. 95-333, S. 14.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 25-102rr to 25-102vv , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3555,19 +3979,34 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-103 is repealed."
+            "text": "Section 25-103 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 25-104 to 25-109b.",
           "url": "https://www.cga.ct.gov/current/pub/chap_478.htm#secs_25-104_to_25-109b",
+          "grouped": true,
+          "section_keys": [
+            "25-104",
+            "25-109b"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 446h, Secs. 22a-314 to 22a-324 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 446h, Secs. 22a-314 to 22a-324 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]
@@ -3737,12 +4176,38 @@
           "section_key": "",
           "label": "Secs. 25-109 l to 25-109p.",
           "url": "https://www.cga.ct.gov/current/pub/chap_478a.htm#secs_25-109l_to_25-109p",
+          "grouped": true,
+          "section_keys": [
+            "25-109",
+            "25-109a",
+            "25-109b",
+            "25-109c",
+            "25-109d",
+            "25-109e",
+            "25-109f",
+            "25-109g",
+            "25-109h",
+            "25-109i",
+            "25-109j",
+            "25-109k",
+            "25-109l",
+            "25-109m",
+            "25-109n",
+            "25-109o",
+            "25-109p"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -3766,7 +4231,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-109q is repealed, effective July 1, 2013."
+            "text": "Section 25-109q is repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         }
       ]
@@ -3781,12 +4250,31 @@
           "section_key": "",
           "label": "Secs. 25-110 to 25-119.",
           "url": "https://www.cga.ct.gov/current/pub/chap_479.htm#secs_25-110_to_25-119",
+          "grouped": true,
+          "section_keys": [
+            "25-110",
+            "25-111",
+            "25-112",
+            "25-113",
+            "25-114",
+            "25-115",
+            "25-116",
+            "25-117",
+            "25-118",
+            "25-119"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Transferred to Chapter 446j, Secs. 22a-401 to 22a-410 , inclusive."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Transferred to Chapter 446j, Secs. 22a-401 to 22a-410 , inclusive.",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         }
       ]
@@ -3895,12 +4383,27 @@
           "section_key": "",
           "label": "Secs. 25-122 to 25-125. Authority to enter compact. Assistance to Governor. Connecticut Interstate Water Compact Commission. Appropriation.",
           "url": "https://www.cga.ct.gov/current/pub/chap_481.htm#secs_25-122_to_25-125",
+          "grouped": true,
+          "section_keys": [
+            "25-122",
+            "25-123",
+            "25-124",
+            "25-125"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 25-122 to 25-125 , inclusive, are repealed."
+            ],
+            "source": [
+              "(February, 1965, P.A. 626, S. 1–4; P.A. 80-187.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 25-122 to 25-125 , inclusive, are repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -3915,7 +4418,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 25-122 to 25-125. Authority to enter compact. Assistance to Governor. Connecticut Interstate Water Compact Commission. Appropriation. Sections 25-122 to 25-125 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -3930,7 +4436,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 25-122 to 25-125. Authority to enter compact. Assistance to Governor. Connecticut Interstate Water Compact Commission. Appropriation. Sections 25-122 to 25-125 , inclusive, are repealed.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -3981,7 +4490,11 @@
             ],
             "history": [],
             "annotations": [],
-            "text": "Section 25-127 is repealed."
+            "text": "Section 25-127 is repealed.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4186,36 +4699,85 @@
           "section_key": "",
           "label": "Secs. 25-138 to 25-142. Purpose of committee. Establishment of committee; membership. Duties of committee; exceptions; report. Recommendations of committee re uniform signs for coastal access. Cooperation by other public bodies. Effective date of part.",
           "url": "https://www.cga.ct.gov/current/pub/chap_483.htm#secs_25-138_to_25-142",
+          "grouped": true,
+          "section_keys": [
+            "25-138",
+            "25-139",
+            "25-140",
+            "25-141",
+            "25-142"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 25-138 to 25-142 , inclusive, are repealed, effective July 1, 2023."
+            ],
+            "source": [
+              "(P.A. 73-629, S. 1–5; P.A. 88-336, S. 1, 2, 5; P.A. 92-16; P.A. 05-137, S. 1–5; P.A. 09-151, S. 2, 3; P.A. 11-80, S. 1; P.A. 23-204, S. 444.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 25-138 to 25-142 , inclusive, are repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 25-143 to 25-153.",
           "url": "https://www.cga.ct.gov/current/pub/chap_483.htm#secs_25-143_to_25-153",
+          "grouped": true,
+          "section_keys": [
+            "25-143",
+            "25-144",
+            "25-145",
+            "25-146",
+            "25-147",
+            "25-148",
+            "25-149",
+            "25-150",
+            "25-151",
+            "25-152",
+            "25-153"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 25-154 and 25-155. Long Island Sound advisory councils. Long Island Sound Assembly.",
           "url": "https://www.cga.ct.gov/current/pub/chap_483.htm#secs_25-154_and_25-155",
+          "grouped": true,
+          "section_keys": [
+            "25-154",
+            "25-155"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 25-154 and 25-155 are repealed, effective July 1, 2023."
+            ],
+            "source": [
+              "(P.A. 89-344, S. 1, 2, 4; P.A. 96-251, S. 12; P.A. 11-80, S. 1; P.A. 13-299, S. 28, 29; P.A. 23-204, S. 444.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 25-154 and 25-155 are repealed, effective July 1, 2023.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4313,12 +4875,31 @@
           "section_key": "",
           "label": "Secs. 25-157d to 25-157m.",
           "url": "https://www.cga.ct.gov/current/pub/chap_483.htm#secs_25-157d_to_25-157m",
+          "grouped": true,
+          "section_keys": [
+            "25-157d",
+            "25-157e",
+            "25-157f",
+            "25-157g",
+            "25-157h",
+            "25-157i",
+            "25-157j",
+            "25-157k",
+            "25-157l",
+            "25-157m"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4349,12 +4930,26 @@
           "section_key": "",
           "label": "Secs. 25-157o to 25-157s.",
           "url": "https://www.cga.ct.gov/current/pub/chap_483.htm#secs_25-157o_to_25-157s",
+          "grouped": true,
+          "section_keys": [
+            "25-157o",
+            "25-157p",
+            "25-157q",
+            "25-157r",
+            "25-157s"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4423,12 +5018,23 @@
           "section_key": "",
           "label": "Secs. 25-158 and 25-159.",
           "url": "https://www.cga.ct.gov/current/pub/chap_483.htm#secs_25-158_and_25-159",
+          "grouped": true,
+          "section_keys": [
+            "25-158",
+            "25-159"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4443,7 +5049,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 25-138 to 25-142. Purpose of committee. Establishment of committee; membership. Duties of committee; exceptions; report. Recommendations of committee re uniform signs for coastal access. Cooperation by other public bodies. Effective date of part. Sections 25-138 to 25-142 , inclusive, are repealed, effective July 1, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4458,7 +5067,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 25-138 to 25-142. Purpose of committee. Establishment of committee; membership. Duties of committee; exceptions; report. Recommendations of committee re uniform signs for coastal access. Cooperation by other public bodies. Effective date of part. Sections 25-138 to 25-142 , inclusive, are repealed, effective July 1, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4473,7 +5085,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 25-154 and 25-155. Long Island Sound advisory councils. Long Island Sound Assembly. Sections 25-154 and 25-155 are repealed, effective July 1, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4488,7 +5103,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 25-154 and 25-155. Long Island Sound advisory councils. Long Island Sound Assembly. Sections 25-154 and 25-155 are repealed, effective July 1, 2023.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         }
       ]
@@ -4583,12 +5201,26 @@
           "section_key": "",
           "label": "Secs. 25-165 to 25-169.",
           "url": "https://www.cga.ct.gov/current/pub/chap_483a.htm#secs_25-165_to_25-169",
+          "grouped": true,
+          "section_keys": [
+            "25-165",
+            "25-166",
+            "25-167",
+            "25-168",
+            "25-169"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -4620,12 +5252,25 @@
           "section_key": "",
           "label": "Secs. 25-171 to 25-174.",
           "url": "https://www.cga.ct.gov/current/pub/chap_483b.htm#secs_25-171_to_25-174",
+          "grouped": true,
+          "section_keys": [
+            "25-171",
+            "25-172",
+            "25-173",
+            "25-174"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
@@ -4640,12 +5285,26 @@
           "section_key": "",
           "label": "Secs. 25-175 to 25-177. Establishment of commission; membership. Duties of commission; report. Effective date.",
           "url": "https://www.cga.ct.gov/current/pub/chap_483c.htm#secs_25-175_to_25-177",
+          "grouped": true,
+          "section_keys": [
+            "25-175",
+            "25-176",
+            "25-177"
+          ],
           "content": {
-            "body_paragraphs": [],
-            "source": [],
+            "body_paragraphs": [
+              "Sections 25-175 to 25-177 , inclusive, are repealed, effective July 1, 2013."
+            ],
+            "source": [
+              "(P.A. 90-341, S. 6, 7, 11, 14; P.A. 11-80, S. 1; P.A. 13-299, S. 95.)"
+            ],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Sections 25-175 to 25-177 , inclusive, are repealed, effective July 1, 2013.",
+            "statuses": [
+              "repealed"
+            ],
+            "status": "repealed"
           }
         },
         {
@@ -4659,19 +5318,53 @@
             "source": [],
             "history": [],
             "annotations": [],
-            "text": "Transferred to Chapter 483aa, Sec. 25-199b ."
+            "text": "Transferred to Chapter 483aa, Sec. 25-199b .",
+            "statuses": [
+              "transferred"
+            ],
+            "status": "transferred"
           }
         },
         {
           "section_key": "",
           "label": "Secs. 25-179 to 25-198.",
           "url": "https://www.cga.ct.gov/current/pub/chap_483c.htm#secs_25-179_to_25-198",
+          "grouped": true,
+          "section_keys": [
+            "25-179",
+            "25-180",
+            "25-181",
+            "25-182",
+            "25-183",
+            "25-184",
+            "25-185",
+            "25-186",
+            "25-187",
+            "25-188",
+            "25-189",
+            "25-190",
+            "25-191",
+            "25-192",
+            "25-193",
+            "25-194",
+            "25-195",
+            "25-196",
+            "25-197",
+            "25-198"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use.",
+              "Note: Chapters 483d to 483z are also reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.\n\nNote: Chapters 483d to 483z are also reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         },
         {
@@ -4686,7 +5379,10 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 25-175 to 25-177. Establishment of commission; membership. Duties of commission; report. Effective date. Sections 25-175 to 25-177 , inclusive, are repealed, effective July 1, 2013.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
           }
         },
         {
@@ -4701,7 +5397,96 @@
             "history": [],
             "annotations": [],
             "text": "Secs. 25-175 to 25-177. Establishment of commission; membership. Duties of commission; report. Effective date. Sections 25-175 to 25-177 , inclusive, are repealed, effective July 1, 2013.",
-            "status": "repealed"
+            "status": "repealed",
+            "statuses": [
+              "repealed"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "chapter_key": "483aa",
+      "label": "Chapter 483aa",
+      "name": "Wild and Scenic Rivers",
+      "url": "https://www.cga.ct.gov/current/pub/chap_483aa.htm",
+      "sections": [
+        {
+          "section_key": "25-199",
+          "label": "Sec. 25-199. Designation of the Eightmile River within the national wild and scenic rivers system.",
+          "url": "https://www.cga.ct.gov/current/pub/chap_483aa.htm#sec_25-199",
+          "content": {
+            "body_paragraphs": [
+              "(a) It is declared to be the policy of the state of Connecticut that the portion of the Eightmile River watershed which is the subject of the authorized study by the Eightmile River Wild and Scenic River Study Committee for purposes of designation as a national wild and scenic rivers system be preserved as provided for in the federal Wild and Scenic Rivers Act, Public Law 90-542, as amended.",
+              "(b) The Commissioner of Energy and Environmental Protection shall cooperate with all relevant federal, state and local agencies to provide for such designation and to implement any management plan developed in accordance with the federal Wild and Scenic Rivers Act. Upon the designation of the river watershed by Congress, the commissioner shall notify the joint standing committee of the General Assembly having cognizance of matters relating to the environment regarding any statutory changes necessary to implement the preservation and conservation of the river watershed in accordance with the federal Wild and Scenic Rivers Act. The commissioner shall cause a copy of this section to be delivered to all United States Representatives and Senators representing Connecticut in the Congress of the United States."
+            ],
+            "source": [
+              "(P.A. 05-18, S. 1; P.A. 11-80, S. 1.)"
+            ],
+            "history": [
+              "History: Pursuant to P.A. 11-80, “Commissioner of Environmental Protection” was changed editorially by the Revisors to “Commissioner of Energy and Environmental Protection” in Subsec. (b), effective July 1, 2011."
+            ],
+            "annotations": [],
+            "text": "(a) It is declared to be the policy of the state of Connecticut that the portion of the Eightmile River watershed which is the subject of the authorized study by the Eightmile River Wild and Scenic River Study Committee for purposes of designation as a national wild and scenic rivers system be preserved as provided for in the federal Wild and Scenic Rivers Act, Public Law 90-542, as amended.\n\n(b) The Commissioner of Energy and Environmental Protection shall cooperate with all relevant federal, state and local agencies to provide for such designation and to implement any management plan developed in accordance with the federal Wild and Scenic Rivers Act. Upon the designation of the river watershed by Congress, the commissioner shall notify the joint standing committee of the General Assembly having cognizance of matters relating to the environment regarding any statutory changes necessary to implement the preservation and conservation of the river watershed in accordance with the federal Wild and Scenic Rivers Act. The commissioner shall cause a copy of this section to be delivered to all United States Representatives and Senators representing Connecticut in the Congress of the United States."
+          }
+        },
+        {
+          "section_key": "25-199a",
+          "label": "Sec. 25-199a. Designation of portion of Lower Farmington River and Salmon Brook within the national wild and scenic rivers system.",
+          "url": "https://www.cga.ct.gov/current/pub/chap_483aa.htm#sec_25-199a",
+          "content": {
+            "body_paragraphs": [
+              "(a) It is declared to be the policy of the state of Connecticut that the portion of the Lower Farmington River and Salmon Brook which is the subject of the authorized study by the Lower Farmington River and Salmon Brook Wild and Scenic River Study Committee for purposes of designation as a national wild and scenic rivers system be preserved as provided for in the federal Wild and Scenic Rivers Act, Public Law 90-542, as amended.",
+              "(b) The Commissioner of Energy and Environmental Protection shall cooperate with all relevant federal, state and local agencies to provide for such designation and to implement any management plan developed in accordance with the federal Wild and Scenic Rivers Act. Upon the designation of the Lower Farmington River and Salmon Brook by Congress, the commissioner shall notify the joint standing committee of the General Assembly having cognizance of matters relating to the environment regarding any statutory changes necessary to implement the preservation and conservation of the Lower Farmington River and Salmon Brook in accordance with the federal Wild and Scenic Rivers Act. The commissioner shall cause a copy of this section to be delivered to all United States Representatives and Senators representing Connecticut in the Congress of the United States."
+            ],
+            "source": [
+              "(P.A. 08-37, S. 1; P.A. 11-80, S. 1.)"
+            ],
+            "history": [
+              "History: Pursuant to P.A. 11-80, “Commissioner of Environmental Protection” was changed editorially by the Revisors to “Commissioner of Energy and Environmental Protection” in Subsec. (b), effective July 1, 2011."
+            ],
+            "annotations": [],
+            "text": "(a) It is declared to be the policy of the state of Connecticut that the portion of the Lower Farmington River and Salmon Brook which is the subject of the authorized study by the Lower Farmington River and Salmon Brook Wild and Scenic River Study Committee for purposes of designation as a national wild and scenic rivers system be preserved as provided for in the federal Wild and Scenic Rivers Act, Public Law 90-542, as amended.\n\n(b) The Commissioner of Energy and Environmental Protection shall cooperate with all relevant federal, state and local agencies to provide for such designation and to implement any management plan developed in accordance with the federal Wild and Scenic Rivers Act. Upon the designation of the Lower Farmington River and Salmon Brook by Congress, the commissioner shall notify the joint standing committee of the General Assembly having cognizance of matters relating to the environment regarding any statutory changes necessary to implement the preservation and conservation of the Lower Farmington River and Salmon Brook in accordance with the federal Wild and Scenic Rivers Act. The commissioner shall cause a copy of this section to be delivered to all United States Representatives and Senators representing Connecticut in the Congress of the United States."
+          }
+        },
+        {
+          "section_key": "25-199b",
+          "label": "Sec. 25-199b. (Formerly Sec. 25-178). Designation of the Farmington River within the national wild and scenic rivers system.",
+          "url": "https://www.cga.ct.gov/current/pub/chap_483aa.htm#sec_25-199b",
+          "content": {
+            "body_paragraphs": [
+              "(a) It is declared to be the policy of the state of Connecticut that the portion of the Farmington River which is the subject of the authorized study by the Farmington Wild and Scenic River Study Committee for purposes of designation as a national wild and scenic rivers system be preserved as provided for in the federal Wild and Scenic Rivers Act, Public Law 90-542, as amended.",
+              "(b) The Commissioner of Energy and Environmental Protection shall cooperate with all relevant federal, state and local agencies to provide for such designation and to implement any management plan developed in accordance with the Wild and Scenic Rivers Act. Upon the designation of the river segment by Congress, the commissioner shall notify the joint standing committee of the General Assembly having cognizance of matters relating to the environment regarding any statutory changes necessary to implement the preservation and conservation of the river segment in accordance with the federal Wild and Scenic Rivers Act. The commissioner shall cause a copy of this section to be delivered to all United States Representatives and Senators representing Connecticut in the Congress of the United States."
+            ],
+            "source": [
+              "(P.A. 93-256, S. 4, 6; P.A. 11-80, S. 1.)"
+            ],
+            "history": [
+              "History: P.A. 93-256 effective July 1, 1993; pursuant to P.A. 11-80, “Commissioner of Environmental Protection” was changed editorially by the Revisors to “Commissioner of Energy and Environmental Protection” in Subsec. (b), effective July 1, 2011; Sec. 25-178 transferred to Sec. 25-199b in 2015."
+            ],
+            "annotations": [],
+            "text": "(a) It is declared to be the policy of the state of Connecticut that the portion of the Farmington River which is the subject of the authorized study by the Farmington Wild and Scenic River Study Committee for purposes of designation as a national wild and scenic rivers system be preserved as provided for in the federal Wild and Scenic Rivers Act, Public Law 90-542, as amended.\n\n(b) The Commissioner of Energy and Environmental Protection shall cooperate with all relevant federal, state and local agencies to provide for such designation and to implement any management plan developed in accordance with the Wild and Scenic Rivers Act. Upon the designation of the river segment by Congress, the commissioner shall notify the joint standing committee of the General Assembly having cognizance of matters relating to the environment regarding any statutory changes necessary to implement the preservation and conservation of the river segment in accordance with the federal Wild and Scenic Rivers Act. The commissioner shall cause a copy of this section to be delivered to all United States Representatives and Senators representing Connecticut in the Congress of the United States."
+          }
+        },
+        {
+          "section_key": "25-199c",
+          "label": "Sec. 25-199c. Designation of the Housatonic River within the national wild and scenic rivers system. Administering agency. Authorized agricultural activities.",
+          "url": "https://www.cga.ct.gov/current/pub/chap_483aa.htm#sec_25-199c",
+          "content": {
+            "body_paragraphs": [
+              "(a) The portion of the Housatonic River that is the subject of a memorandum of agreement among the Housatonic River Commission, the National Park Service, the Department of Energy and Environmental Protection, the Northwest Hills Council of Governments and the Housatonic Valley Association, Inc. is designated as a wild and scenic river for purposes of preservation of said river under the federal Wild and Scenic Rivers Act, Public Law 90-542, as amended.",
+              "(b) The Northwest Hills Council of Governments shall act as the administering agency for the Housatonic River on behalf of the Housatonic River Commission, in accordance with the terms of the memorandum of agreement described in subsection (a) of this section and as required by Section 2(a)(ii) of the Wild and Scenic Rivers Act. The Northwest Hills Council of Governments shall constitute a political subdivision of the state for purposes of executing its duties and responsibilities in accordance with this section.",
+              "(c) The Governor shall submit an application to the Secretary of the Interior for purposes of completion of the designation of the portion of the Housatonic River, described in subsection (a) of this section, under Section 2(a)(ii) of the Wild and Scenic Rivers Act.",
+              "(d) Such designation shall not affect any person's ability to conduct any authorized agricultural activity provided such activity does not require a permit to be issued by the Army Corps of Engineers."
+            ],
+            "source": [
+              "(P.A. 16-38, S. 1.)"
+            ],
+            "history": [
+              "History: P.A. 16-38 effective May 25, 2016."
+            ],
+            "annotations": [],
+            "text": "(a) The portion of the Housatonic River that is the subject of a memorandum of agreement among the Housatonic River Commission, the National Park Service, the Department of Energy and Environmental Protection, the Northwest Hills Council of Governments and the Housatonic Valley Association, Inc. is designated as a wild and scenic river for purposes of preservation of said river under the federal Wild and Scenic Rivers Act, Public Law 90-542, as amended.\n\n(b) The Northwest Hills Council of Governments shall act as the administering agency for the Housatonic River on behalf of the Housatonic River Commission, in accordance with the terms of the memorandum of agreement described in subsection (a) of this section and as required by Section 2(a)(ii) of the Wild and Scenic Rivers Act. The Northwest Hills Council of Governments shall constitute a political subdivision of the state for purposes of executing its duties and responsibilities in accordance with this section.\n\n(c) The Governor shall submit an application to the Secretary of the Interior for purposes of completion of the designation of the portion of the Housatonic River, described in subsection (a) of this section, under Section 2(a)(ii) of the Wild and Scenic Rivers Act.\n\n(d) Such designation shall not affect any person's ability to conduct any authorized agricultural activity provided such activity does not require a permit to be issued by the Army Corps of Engineers."
           }
         }
       ]
@@ -4948,12 +5733,40 @@
           "section_key": "",
           "label": "Secs. 25-211 to 25-229.",
           "url": "https://www.cga.ct.gov/current/pub/chap_484.htm#secs_25-211_to_25-229",
+          "grouped": true,
+          "section_keys": [
+            "25-211",
+            "25-212",
+            "25-213",
+            "25-214",
+            "25-215",
+            "25-216",
+            "25-217",
+            "25-218",
+            "25-219",
+            "25-220",
+            "25-221",
+            "25-222",
+            "25-223",
+            "25-224",
+            "25-225",
+            "25-226",
+            "25-227",
+            "25-228",
+            "25-229"
+          ],
           "content": {
-            "body_paragraphs": [],
+            "body_paragraphs": [
+              "Reserved for future use."
+            ],
             "source": [],
             "history": [],
             "annotations": [],
-            "text": ""
+            "text": "Reserved for future use.",
+            "statuses": [
+              "reserved"
+            ],
+            "status": "reserved"
           }
         }
       ]
