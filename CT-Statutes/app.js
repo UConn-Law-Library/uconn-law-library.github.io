@@ -1597,9 +1597,10 @@ function renderStatuteParagraphs(paragraphs, titleKey, chapterKey, sectionKey, i
       ${markers} ${linkifyCitations(esc(row.text), sectionKey)}</p>`;
     const citation = subsectionCitation(sectionKey, path);
     return `<p class="statute-paragraph" style="--subsection-depth:${Math.min(row.depth, 6)}"
-      data-subsection-path="${esc(path)}" tabindex="-1">${markers} ${linkifyCitations(esc(row.text), sectionKey)}
+      data-subsection-path="${esc(path)}" tabindex="-1">${markers}
       <button class="copy-citation" type="button" data-copy-citation="${esc(citation)}"
-        aria-label="Copy ${esc(citation)}">Copy citation</button></p>`;
+        aria-label="Copy ${esc(citation)}">Copy citation</button>
+      ${linkifyCitations(esc(row.text), sectionKey)}</p>`;
   }).join("");
 }
 function renderList(items) {
@@ -2912,6 +2913,14 @@ async function applyRoute() {
       subsection.scrollIntoView({ block: "start" });
       subsection.focus({ preventScroll: true });
       subsection.classList.add("subsection-target");
+      // A paragraph can begin with several nested markers, such as (a)(1).
+      // Make the revealed control copy the marker that was actually selected.
+      const copyButton = subsection.querySelector("[data-copy-citation]");
+      if (copyButton) {
+        const citation = subsectionCitation(state.route.sectionKey, state.route.subsectionPath);
+        copyButton.dataset.copyCitation = citation;
+        copyButton.setAttribute("aria-label", `Copy ${citation}`);
+      }
     } else {
       viewEl.focus({ preventScroll: true });
     }
