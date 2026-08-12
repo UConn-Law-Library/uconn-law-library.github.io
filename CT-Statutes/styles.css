@@ -2,7 +2,7 @@
    apps read as one product: warm paper light theme, soft slate dark theme. */
 :root {
   --border: #e4e1d8;
-  --muted: #6b7078;
+  --muted: #4f565d;
   --bg: #faf9f6;
   --panel: #ffffff;
   --panel-2: #f2f0ea;
@@ -12,7 +12,7 @@
   --accent-contrast: #ffffff;
   --mark: #ffe9a8;
   --star: #8a6d1d;
-  --danger: #a3341e;
+  --danger: #a22416;
   --shadow: 0 1px 2px rgb(30 35 50 / 0.08);
 }
 
@@ -39,7 +39,7 @@
 
 :root[data-theme="dark"] {
   --border: #2b303b;
-  --muted: #9aa0ab;
+  --muted: #a5abbb;
   --bg: #14161b;
   --panel: #1b1e25;
   --panel-2: #22262f;
