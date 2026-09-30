@@ -37,7 +37,7 @@
         <a href="#/i" id="tabInfractions" data-tab="infractions">Infractions</a>
         <a href="#/b" id="tabBookmarks" data-tab="bookmarks">Bookmarks<span id="bmCount" class="count-badge"
             hidden></span></a>
-        <button id="settingsBtn" class="settings-btn" aria-label="Settings" aria-haspopup="true"
+        <button id="settingsBtn" class="settings-btn" aria-label="Settings" aria-haspopup="dialog"
           aria-expanded="false">⚙<span class="settings-label"> Settings</span></button>
       </nav>
       <span class="pill" id="statusPill" role="status" aria-live="polite">Loading…</span>
@@ -56,7 +56,8 @@
     </div>
   </header>
 
-  <div id="settingsPanel" class="settings-panel" role="dialog" aria-label="Settings" hidden>
+  <div id="settingsPanel" class="settings-panel" role="dialog" aria-modal="true" aria-labelledby="settingsTitle" hidden>
+    <h2 id="settingsTitle" class="sr-only">Application settings</h2>
     <div class="setting-row">
       <span class="setting-label" id="themeLabel">Theme</span>
       <div class="segmented" role="group" aria-labelledby="themeLabel">

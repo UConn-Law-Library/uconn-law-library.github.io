@@ -49,11 +49,12 @@
     </nav>
 
     <button id="installBtn" class="install-btn" hidden>Install app</button>
-    <button id="settingsBtn" class="icon-btn" aria-label="Settings" title="Settings" aria-haspopup="true"
+    <button id="settingsBtn" class="icon-btn" aria-label="Settings" title="Settings" aria-haspopup="dialog"
       aria-expanded="false">⚙</button>
   </header>
 
-  <div id="settingsPanel" class="settings-panel" role="dialog" aria-label="Settings" hidden>
+  <div id="settingsPanel" class="settings-panel" role="dialog" aria-modal="true" aria-labelledby="settingsTitle" hidden>
+    <h2 id="settingsTitle" class="sr-only">Application settings</h2>
     <div class="setting-row">
       <span class="setting-label" id="themeLabel">Theme</span>
       <div class="segmented" role="group" aria-labelledby="themeLabel">

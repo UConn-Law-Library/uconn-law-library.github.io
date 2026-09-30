@@ -1543,12 +1543,31 @@ function stepTextSize(delta) {
   applySettings();
 }
 
+let settingsRestoreFocus = null;
+
+function getFocusableElements(container) {
+  return [...container.querySelectorAll(
+    "a[href], button:not([disabled]), [tabindex]:not([tabindex='-1']), input:not([disabled]), select:not([disabled]), textarea:not([disabled])"
+  )].filter((el) => !el.hasAttribute("hidden") && el.offsetParent !== null);
+}
+
 function toggleSettingsPanel(open) {
   const panel = $("settingsPanel");
   const show = open ?? panel.hidden;
   panel.hidden = !show;
   $("settingsBtn").setAttribute("aria-expanded", String(show));
-  if (show) applySettings();
+  if (show) {
+    settingsRestoreFocus = document.activeElement;
+    applySettings();
+    const first = getFocusableElements(panel)[0];
+    requestAnimationFrame(() => (first || $("settingsBtn")).focus());
+  } else {
+    const restore = settingsRestoreFocus && typeof settingsRestoreFocus.focus === "function"
+      ? settingsRestoreFocus
+      : $("settingsBtn");
+    requestAnimationFrame(() => restore.focus());
+    settingsRestoreFocus = null;
+  }
 }
 
 function bindSettings() {
@@ -1563,7 +1582,27 @@ function bindSettings() {
     }
   });
   document.addEventListener("keydown", (ev) => {
-    if (ev.key === "Escape" && !settingsPanel.hidden) toggleSettingsPanel(false);
+    if (ev.key === "Escape" && !settingsPanel.hidden) {
+      ev.preventDefault();
+      toggleSettingsPanel(false);
+      return;
+    }
+    if (settingsPanel.hidden || ev.key !== "Tab") return;
+    const focusable = getFocusableElements(settingsPanel);
+    if (!focusable.length) {
+      ev.preventDefault();
+      settingsBtn.focus();
+      return;
+    }
+    const first = focusable[0];
+    const last = focusable[focusable.length - 1];
+    if (ev.shiftKey && document.activeElement === first) {
+      ev.preventDefault();
+      last.focus();
+    } else if (!ev.shiftKey && document.activeElement === last) {
+      ev.preventDefault();
+      first.focus();
+    }
   });
 
   settingsPanel.querySelectorAll("[data-theme-choice]").forEach((btn) => {
