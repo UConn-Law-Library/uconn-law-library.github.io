@@ -1,129 +1,23 @@
 <!doctype html>
 <html lang="en">
-
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
-  <title>Connecticut General Statutes Explorer</title>
-  <meta name="description"
-    content="Browse and search the Connecticut General Statutes and the infraction schedule — works offline." />
-  <meta name="theme-color" content="#1e4fa3" />
-  <link rel="manifest" href="./manifest.webmanifest" />
-  <link rel="icon" href="./icon.svg" type="image/svg+xml" />
-  <link rel="apple-touch-icon" href="./icon.svg" />
-  <link rel="stylesheet" href="./styles.css" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Connecticut General Statutes has moved</title>
+  <link rel="canonical" href="https://uconn-law-library.github.io/CGS/">
   <script>
-    // apply saved display settings before first paint to avoid a flash;
-    // app.js owns the settings menu that changes them
-    try {
-      var t = localStorage.getItem("cgs:theme");
-      if (t === "light" || t === "dark" || t === "oled") document.documentElement.dataset.theme = t;
-      var s = parseFloat(localStorage.getItem("cgs:textsize"));
-      if (s >= 0.8 && s <= 1.4) document.documentElement.style.setProperty("--font-scale", s);
-      if (localStorage.getItem("cgs:density") === "compact") document.documentElement.dataset.density = "compact";
-    } catch (e) { }
+    // Legacy routes use a different format; start at the current app's home page.
+    window.location.replace("https://uconn-law-library.github.io/CGS/");
   </script>
+  <noscript>
+    <meta http-equiv="refresh" content="0; url=https://uconn-law-library.github.io/CGS/">
+  </noscript>
 </head>
-
 <body>
-  <a class="skip-link" href="#view">Skip to content</a>
-
-  <header>
-    <div class="header-row">
-      <a class="brand" href="#/"><span class="brand-mark" aria-hidden="true">§</span> Connecticut General Statutes</a>
-      <nav class="tabs" aria-label="Main sections">
-        <a href="#/" id="tabBrowse" data-tab="browse">Browse</a>
-        <a href="#/x" id="tabIndex" data-tab="index">Index</a>
-        <a href="#/i" id="tabInfractions" data-tab="infractions">Infractions</a>
-        <a href="#/b" id="tabBookmarks" data-tab="bookmarks">Bookmarks<span id="bmCount" class="count-badge"
-            hidden></span></a>
-        <button id="settingsBtn" class="settings-btn" aria-label="Settings" aria-haspopup="dialog"
-          aria-expanded="false">⚙<span class="settings-label"> Settings</span></button>
-      </nav>
-      <span class="pill" id="statusPill" role="status" aria-live="polite">Loading…</span>
-    </div>
-    <div class="header-row">
-      <div class="input search-omni">
-        <div class="search-field">
-          <input id="q" type="search"
-            placeholder='Search statutes, index topics and infractions'
-            autocomplete="off" spellcheck="false" aria-label="Search statutes, index topics and infractions"
-            role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="omniPanel" />
-          <kbd class="search-kbd" aria-hidden="true">/</kbd>
-          <div id="omniPanel" class="omni-panel" role="listbox" hidden></div>
-        </div>
-      </div>
-    </div>
-  </header>
-
-  <div id="settingsPanel" class="settings-panel" role="dialog" aria-modal="true" aria-labelledby="settingsTitle" hidden>
-    <h2 id="settingsTitle" class="sr-only">Application settings</h2>
-    <div class="setting-row">
-      <span class="setting-label" id="themeLabel">Theme</span>
-      <div class="segmented" role="group" aria-labelledby="themeLabel">
-        <button class="btn" data-theme-choice="auto">Auto</button>
-        <button class="btn" data-theme-choice="light">Light</button>
-        <button class="btn" data-theme-choice="dark">Dark</button>
-        <button class="btn" data-theme-choice="oled">OLED</button>
-      </div>
-    </div>
-    <div class="setting-row">
-      <span class="setting-label">Text size</span>
-      <div class="segmented">
-        <button class="btn" id="textSmaller" aria-label="Decrease text size">A−</button>
-        <span class="setting-value" id="textSizeValue" aria-live="polite">100%</span>
-        <button class="btn" id="textLarger" aria-label="Increase text size">A+</button>
-      </div>
-    </div>
-    <div class="setting-row">
-      <label class="setting-label" for="densityToggle">Compact lists</label>
-      <input type="checkbox" id="densityToggle" />
-    </div>
-    <hr class="setting-divider" />
-    <div class="setting-row" id="installRow" hidden>
-      <button class="btn" id="installBtn">Install app</button>
-      <span class="setting-hint" id="installHint">Add to home screen</span>
-    </div>
-    <div class="setting-row">
-      <button class="btn" id="offlineDownloadBtn">Download</button>
-      <span class="setting-hint" id="offlineHint">For offline use</span>
-    </div>
-    <div class="setting-row">
-      <button class="btn" id="refreshDataBtn">Re-download data</button>
-      <span class="setting-hint">Refresh offline statutes</span>
-    </div>
-    <div class="setting-row">
-      <button class="btn" id="clearBookmarksBtn">Clear bookmarks</button>
-      <span class="setting-hint" id="bookmarkHint"></span>
-    </div>
-    <hr class="setting-divider" />
-    <div class="setting-row">
-      <a class="btn" id="aboutLink" href="#/a">About</a>
-      <span class="setting-hint">Sources, dates &amp; version</span>
-    </div>
-  </div>
-
   <main>
-    <aside aria-label="Navigation list">
-      <div class="row-between aside-head">
-        <div class="small muted" id="navHeading">Browse</div>
-        <div class="breadcrumbs crumbs-aside" id="crumbsAside"></div>
-        <button id="backBtn" class="btn small" hidden>← Back</button>
-      </div>
-      <div id="nav" class="list"></div>
-    </aside>
-
-    <section id="viewWrap">
-      <div class="view-top">
-        <button id="backBtnTop" class="btn small back-top" hidden>← Back</button>
-        <div class="breadcrumbs" id="crumbs"></div>
-      </div>
-      <div id="view" tabindex="-1"></div>
-    </section>
+    <h1>Connecticut General Statutes has moved</h1>
+    <p>Continue to the <a href="https://uconn-law-library.github.io/CGS/">current Connecticut General Statutes app</a>.</p>
+    <p>Please update your bookmarks.</p>
   </main>
-
-  <script src="./search-query.js"></script>
-  <script src="./app.js"></script>
 </body>
-
 </html>
